@@ -41,23 +41,27 @@ class Application(Frame):
 
             drug2 = self.comparedrug2_var.get()
 
-            if (mot == str("syndrome extrapyramidale")) or (mot == str("extrapyramidal syndrom")):
-                importationExtrapy()
-                print("+ File open : extrapyramidale...")
+            if (drug1 == str("seroquel")) or (drug1 == str("sequase")) or (drug1 == str("quetiapine")) \
+                and (drug2 == str("carbamazépine")) or (drug2 == str("tégrétol")):
+                print("+ Interactions ultraviolente !!!")
+                importationViolente()
             elif (mot == str("syndrome neuroleptique")) or (mot == str("neuroleptic syndrom")):
                 importationNeuro()
-                print("+ File open : neurologique...")
-            elif (mot == str("syndrome anticholinergique")) or (mot == str("anticholinergic syndrom")):
-                importationAnticho()
-                print("+ File open : anticholinergique...")
-            elif (mot == str("syndrome serotoninergique")) or (mot == str("serotoninergic syndrom")):
-                importationSeroton()
-                print("+ File open : serotoninergique...") 
-            elif (mot == str("syndrome hyperkinetique")) or (mot == str("hyperkinetic syndrom")):
-                importationHyperkin()
-                print("+ File open : hyperkinetique...")                
+                print("+ File open : neurologique...")             
             else:
-                print("+ File was not found !!!")
+                print("+ Il n'y a pas d'interaction(s) !!!")
+
+        # Display text in textbox from medifile files
+        def importationViolente():
+            try:
+                if os.path.getsize('./medifiles/seroquel/Alcool.txt'):
+                    print("+ File 'Alcool.txt' exist (read)!")
+                    with open('./medifiles/seroquel/Alcool.txt', 'r') as textfile2:
+                        lines = textfile2.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote2:
+                print("+ Sorry, file 'Alcool.txt' does not exist !", outnote2)
 
         # Display text in textbox from medifile files
         def importationNeuro():
@@ -71,53 +75,6 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'neuro_syndrom.txt' does not exist !", outnote)
 
-        # Display text in textbox from medifile files
-        def importationExtrapy():
-            try:
-                if os.path.getsize('./medifile/extrapy_syndrom.txt'):
-                    print("+ File 'extrapy_syndrom.txt' exist (read)!")
-                    with open('./medifile/extrapy_syndrom.txt', 'r') as textfile2:
-                        lines = textfile2.readlines()
-                        for li in lines:
-                            self.textBox.insert(END, li)
-            except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'extrapy_syndrom.txt' does not exist !", outnote2)
-
-        # Display text in textbox from medifile files
-        def importationAnticho():
-            try:
-                if os.path.getsize('./medifile/anticho_syndrom.txt'):
-                    print("+ File 'anticho_syndrom.txt' exist (read)!")
-                    with open('./medifile/anticho_syndrom.txt', 'r') as textfile3:
-                        lines = textfile3.readlines()
-                        for li in lines:
-                            self.textBox.insert(END, li)
-            except FileNotFoundError as outnote3:
-                print("+ Sorry, file 'anticho_syndrom.txt' does not exist !", outnote3)
-
-        # Display text in textbox from medifile files
-        def importationSeroton():
-            try:
-                if os.path.getsize('./medifile/seroton_syndrom.txt'):
-                    print("+ File 'seroton_syndrom.txt' exist (read)!")
-                    with open('./medifile/seroton_syndrom.txt', 'r') as textfile4:
-                        lines = textfile4.readlines()
-                        for li in lines:
-                            self.textBox.insert(END, li)
-            except FileNotFoundError as outnote4:
-                print("+ Sorry, file 'seroton_syndrom.txt' does not exist !", outnote4)
-
-        # Display text in textbox from medifile files
-        def importationHyperkin():
-            try:
-                if os.path.getsize('./medifile/hyperkin_syndrom.txt'):
-                    print("+ File 'hyperkin_syndrom.txt' exist (read)!")
-                    with open('./medifile/hyperkin_syndrom.txt', 'r') as textfile5:
-                        lines = textfile5.readlines()
-                        for li in lines:
-                            self.textBox.insert(END, li)
-            except FileNotFoundError as outnote5:
-                print("+ Sorry, file 'hyperkin_syndrom.txt' does not exist !", outnote5)
 
         # Text entry 1
         self.compDrug1_var = StringVar()
