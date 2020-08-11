@@ -9,7 +9,7 @@ import subprocess
 
 class Application(Frame):
     def __init__(self, boss=None):
-        Frame.__init__(self, borderwidth=5, bg='deep sky blue', padx=20, pady=20, relief=GROOVE)
+        Frame.__init__(self, borderwidth=5, bg='DodgerBlue4', padx=20, pady=20, relief=GROOVE)
         self.master.title('Interact - Developed by ko@l@tr33 - 2020')
 
         # ScrollCanvas limite de la zone à parcourir avec la barre
@@ -22,8 +22,8 @@ class Application(Frame):
         self.photo = PhotoImage(file='./picgif/bg.png')
         self.item = self.can.create_image(625, 400, image=self.photo)
         # Insertion of text
-        self.can.create_text(300, 100, anchor=CENTER, 
-            text="Text below to read search", font=('Times New Roman', 18, 'bold'), fill='navy')
+        self.can.create_text(280, 100, anchor=CENTER, 
+            text="Text below to read interactions", font=('Times New Roman', 18, 'bold'), fill='navy')
         self.can.create_text(980, 540, anchor=NE, text="ko@l@tr33",
             font=('Times', 12), fill='navy')
         self.can.pack(side=LEFT, fill=BOTH, expand=YES)
@@ -54,14 +54,14 @@ class Application(Frame):
         # Display text in textbox from medifile files
         def importationViolente():
             try:
-                if os.path.getsize('./medifiles/seroquel/Alcool.txt'):
-                    print("+ File 'Alcool.txt' exist (read)!")
-                    with open('./medifiles/seroquel/Alcool.txt', 'r') as textfile2:
+                if os.path.getsize('./medifiles/seroquel/Carbamazepine.txt'):
+                    print("+ File 'Carbamazepine.txt' exist (read)!")
+                    with open('./medifiles/seroquel/Carbamazepine.txt', 'r') as textfile2:
                         lines = textfile2.readlines()
                         for li in lines:
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'Alcool.txt' does not exist !", outnote2)
+                print("+ Sorry, file 'Carbamazepine.txt' does not exist !", outnote2)
 
         # Display text in textbox from medifile files
         def importationNeuro():
@@ -79,13 +79,13 @@ class Application(Frame):
         # Text entry 1
         self.compDrug1_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.compDrug1_var, width=40)
-        self.compDrug1_var.set("Enter a syndrom here")
+        self.compDrug1_var.set("Enter a drug here")
         self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         # Text entry 2
         self.comparedrug2_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.comparedrug2_var, width=40)
-        self.comparedrug2_var.set("Enter a syndrom here")
+        self.comparedrug2_var.set("Enter a second drug here")
         self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         # Button to search text entry
