@@ -38,20 +38,33 @@ class Application(Frame):
             Algorithm to compare
             """
             drug1 = self.compDrug1_var.get()
-
             drug2 = self.comparedrug2_var.get()
 
-            if (drug1 == str("seroquel")) or (drug1 == str("sequase")) or (drug1 == str("quetiapine")) \
-                and (drug2 == str("carbamazépine")) or (drug2 == str("tégrétol")):
+            maelist = ["bromides", "carbamazépine", "dépakine", "ethosuximide", 
+            "mysoline", "phénobarbital", "phénytoïne", "briviact", "fycompa", "gabitril",
+            "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", "taloxa",
+            "tiapridal", "topamax", "trileptal", "trobalt", "vimpat", "zonegran"]
+            for i in maelist:
+            	if i == drug2 or i ==drug1:
+            		print("Le médic y est !!!")
+"""
+
+            if (drug1 == str("seroquel")) or (drug1 == str("sequase")) \
+                or (drug1 == str("quetiapine")) and (drug2 == str("carbamazépine")) \
+                or (drug2 == str("tégrétol")):
                 print("+ Interactions ultraviolente !!!")
                 importationViolente()
-            elif (mot == str("syndrome neuroleptique")) or (mot == str("neuroleptic syndrom")):
-                importationNeuro()
-                print("+ File open : neurologique...")             
+            elif (drug2 == str("seroquel")) or (drug2 == str("sequase")) \
+                or (drug2 == str("quetiapine")) and (drug1 == str("carbamazépine")) \
+                or (drug1 == str("tégrétol")):
+                print("+ Interactions ultraviolente !!!")
+                importationViolente()
+            elif 
+
             else:
                 print("+ Il n'y a pas d'interaction(s) !!!")
-
-        # Display text in textbox from medifile files
+"""
+        # Display text in textbox from medifiles files
         def importationViolente():
             try:
                 if os.path.getsize('./medifiles/seroquel/Carbamazepine.txt'):
@@ -63,7 +76,7 @@ class Application(Frame):
             except FileNotFoundError as outnote2:
                 print("+ Sorry, file 'Carbamazepine.txt' does not exist !", outnote2)
 
-        # Display text in textbox from medifile files
+        # Display text in textbox from medifiles files
         def importationNeuro():
             try:
                 if os.path.getsize('./medifile/neuro_syndrom.txt'):
