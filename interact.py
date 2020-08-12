@@ -40,31 +40,21 @@ class Application(Frame):
             drug1 = self.compDrug1_var.get()
             drug2 = self.comparedrug2_var.get()
 
-            maelist = ["bromides", "carbamazépine", "dépakine", "ethosuximide", 
-            "mysoline", "phénobarbital", "phénytoïne", "briviact", "fycompa", "gabitril",
-            "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", "taloxa",
-            "tiapridal", "topamax", "trileptal", "trobalt", "vimpat", "zonegran"]
-            for i in maelist:
-            	if i == drug2 or i ==drug1:
-            		print("Le médic y est !!!")
-"""
-
-            if (drug1 == str("seroquel")) or (drug1 == str("sequase")) \
-                or (drug1 == str("quetiapine")) and (drug2 == str("carbamazépine")) \
-                or (drug2 == str("tégrétol")):
+            if drug1 == "seroquel" or drug1 == "sequase" \
+                or drug1 == "quetiapine" and drug2 == "carbamazépine" \
+                or drug2 == "tégrétol":
                 print("+ Interactions ultraviolente !!!")
                 importationViolente()
-            elif (drug2 == str("seroquel")) or (drug2 == str("sequase")) \
-                or (drug2 == str("quetiapine")) and (drug1 == str("carbamazépine")) \
-                or (drug1 == str("tégrétol")):
+            elif drug2 == "seroquel" or drug2 == "sequase" \
+                or drug2 == "quetiapine" and drug1 == "carbamazépine" \
+                or drug1 == "tégrétol":
                 print("+ Interactions ultraviolente !!!")
                 importationViolente()
-            elif 
-
             else:
                 print("+ Il n'y a pas d'interaction(s) !!!")
-"""
-        # Display text in textbox from medifiles files
+
+
+        # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
             try:
                 if os.path.getsize('./medifiles/seroquel/Carbamazepine.txt'):
