@@ -40,6 +40,18 @@ class Application(Frame):
             drug1 = self.compDrug1_var.get()
             drug2 = self.comparedrug2_var.get()
 
+            neurolist=["chlorpromazine", "clopin", "leponex", "clopixol", 
+            "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
+            "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
+            "orap", "risperdal", "risperdone", "semap", "seroquel", 
+            "sequase", "quétiapine", "solian"]
+            for i in neurolist:
+                if (drug1 == i or drug2 == i) and (drug1 == "carbamazépine" or \
+                    drug2 == "carbamazépine"):
+                    print("+ Interactions ultraviolente !!!")
+                    importationViolente()
+
+            """
             if drug1 == "seroquel" or drug1 == "sequase" \
                 or drug1 == "quetiapine" and drug2 == "carbamazépine" \
                 or drug2 == "tégrétol":
@@ -52,7 +64,7 @@ class Application(Frame):
                 importationViolente()
             else:
                 print("+ Il n'y a pas d'interaction(s) !!!")
-
+            """
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
