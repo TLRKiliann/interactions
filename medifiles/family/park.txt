@@ -1,0 +1,12 @@
+Interactions médicamenteuses
+
+    Neuroleptiques/antipsychotiques : ils antagonisent l’action de tous les médicaments 
+    dopaminergiques. Il faut se méfier des nombreux neuroleptiques cachés : benzamides,
+    anti-H1, antiémétiques ou antivertigineux.
+    Médicaments hypotenseurs : antihypertenseurs centraux, alpha bloquants, diurétiques
+    ainsi que les médicaments possédant des propriétés alpha bloquantes latérales 
+    (antidépresseurs tricycliques, neuroleptiques) voient leurs effets hypotenseurs majorés
+    par l’association avec les médicaments dopaminergiques.
+    Psychotropes : tous les psychotropes (benzodiazépines, antidépresseurs notamment)
+    peuvent entraîner des syndromes confusionnels et doivent être utilisés prudemment en
+    association avec les médicaments dopaminergiques et anticholinergiques.

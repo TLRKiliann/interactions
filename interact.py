@@ -22,49 +22,327 @@ class Application(Frame):
         self.photo = PhotoImage(file='./picgif/bg.png')
         self.item = self.can.create_image(625, 400, image=self.photo)
         # Insertion of text
-        self.can.create_text(280, 100, anchor=CENTER, 
+        self.can.create_text(500, 240, anchor=CENTER, 
             text="Text below to read interactions", font=('Times New Roman', 18, 'bold'), fill='navy')
-        self.can.create_text(980, 540, anchor=NE, text="ko@l@tr33",
+        self.can.create_text(980, 670, anchor=NE, text="ko@l@tr33",
             font=('Times', 12), fill='navy')
         self.can.pack(side=LEFT, fill=BOTH, expand=YES)
 
         self.top = Frame(self.can, bg='aquamarine')
+        self.top2 = Frame(self.can, bg='aquamarine')
+        self.top3 = Frame(self.can, bg='turquoise2')
         self.bottom = Frame(self.can)
         self.top.pack(side=TOP, pady=2)
+        self.top2.pack(side=TOP, pady=2)
+        self.top3.pack(side=TOP, pady=2)
         self.bottom.pack(side=BOTTOM, fill=BOTH, expand=YES)
 
         def searchExpress():
             """
             Algorithm to compare
             """
-            drug1 = self.compDrug1_var.get()
-            drug2 = self.comparedrug2_var.get()
+            drug1 = self.familyDrug1_var.get()
+            drug2 = self.oneperdrug2_var.get()
+
+            drug3 = self.compDrug1_var.get()
+            drug4 = self.comparedrug2_var.get()
+
+            familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs", 
+            "anxiolytiques", "thymorégulateurs", "somnifères", "benzodiazépines", 
+            "inhibiteurs de la cholinestérase", "antiparkinsoniens"]
+
+            for i in familiyttt:
+                if i == "antipsychotiques":
+                    if drug1 == i:
+                        familyPsycho()
+                elif i == "antiépileptiques":
+                    if drug1 == i:
+                        familyMae()
+                elif i == "antidépresseurs":
+                    if drug1 == i:
+                        familyAtd()
+                elif i == "anxiolytiques":
+                    if drug1 == i:
+                        familyAnxio()
+                elif i == "thymorégulateurs":
+                    if drug1 == i:
+                        familyThymo()
+                elif i == "somnifères":
+                    if drug1 == i:
+                        familySomni()
+                elif i == "benzodiazépines":
+                    if drug1 == i:
+                        familyBzd()
+                elif i == "inhibiteurs de la cholinestérase":
+                    if drug1 == i:
+                        familyIcho()
+                elif i == "antiparkinsoniens":
+                    if drug1 == i:
+                        familyPark()
+                else:
+                    print("+ Choose a ttt")
+
+            oneDrug=["chlorpromazine", "clopin", "leponex", "clopixol", 
+            "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
+            "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
+            "orap", "risperdal", "risperdone", "semap", "seroquel", 
+            "sequase", "quétiapine", "solian", "bromides", "carbamazépines", 
+            "dépakine", "ethosuximide", "mysoline", "phénobarbital", 
+            "phénytoïne", "briviact", "fycompa", "gabitril", "inovelon", 
+            "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
+            "taloxa", "tiapridal", "topamax", "trileptal", "trobalt", 
+            "vimpat", "zonegran"]
+
+            for i in oneDrug:
+                if i == "chlorpromazine":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "clopin" or i == "leponex":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "clopixol":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "enthumine":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "fluanxol":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "haldol":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "nozinan":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "tiapridal":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "abilify":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "dogmatil":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "invega":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "olanzapine" or i == "zyprexa":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "orap":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "risperdal" or i == "risperdone":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "semap":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "sequase" or i == "seroquel" or i == "quétiapine":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "solian":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "bromides":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "carbamazépine" or i == "tégrétol":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "dépakine" or i == "valproate":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "ethosuximide":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "mysoline":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "phénobarbital":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "phénytoïne":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "briviact":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "fycompa":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "gabitril":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "inovelon":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "keppra":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "lamictal":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "lyrica":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "neurontin":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "sabril":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "taloxa":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "topamax":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "trileptal":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "trobalt":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "vimpat":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "zonegran":
+                    if drug2 == i:
+                        oneDrug()
+                elif i == "anafranil":
+                    if drug2 == i:
+                        oneDrug()
+                else:
+                    print("+ Choose a ttt")
 
             neurolist=["chlorpromazine", "clopin", "leponex", "clopixol", 
             "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
             "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
             "orap", "risperdal", "risperdone", "semap", "seroquel", 
             "sequase", "quétiapine", "solian"]
-            for i in neurolist:
-                if (drug1 == i or drug2 == i) and (drug1 == "carbamazépine" or \
-                    drug2 == "carbamazépine"):
-                    print("+ Interactions ultraviolente !!!")
-                    importationViolente()
 
-            """
-            if drug1 == "seroquel" or drug1 == "sequase" \
-                or drug1 == "quetiapine" and drug2 == "carbamazépine" \
-                or drug2 == "tégrétol":
-                print("+ Interactions ultraviolente !!!")
-                importationViolente()
-            elif drug2 == "seroquel" or drug2 == "sequase" \
-                or drug2 == "quetiapine" and drug1 == "carbamazépine" \
-                or drug1 == "tégrétol":
-                print("+ Interactions ultraviolente !!!")
-                importationViolente()
-            else:
-                print("+ Il n'y a pas d'interaction(s) !!!")
-            """
+            for i in neurolist:
+                if i == "seroquel":
+                    if (drug1 == i or drug2 == i) and (drug1 == "carbamazépine" or \
+                        drug2 == "carbamazépine"):
+                        print("+ Interactions ultraviolente !!!")
+                        importationViolente()
+                    """
+                    elif () and ():
+                    elif () and ():
+                    elif () and ():
+                    elif () and ():
+                    elif () and ():
+
+                    else:
+                        print("+ Nothing !")
+                    """
+
+        def familyPsycho():
+            try:
+                if os.path.getsize('./medifiles/family/antipsycho.txt'):
+                    print("+ File 'antipsycho.txt' exist (read)!")
+                    with open('./medifiles/family/antipsycho.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'antipsycho.txt' does not exist !", outnote)
+
+
+        def familyMae():
+            try:
+                if os.path.getsize('./medifiles/family/mae.txt'):
+                    print("+ File 'mae.txt' exist (read)!")
+                    with open('./medifiles/family/mae.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'mae.txt' does not exist !", outnote)
+
+        def familyAtd():
+            try:
+                if os.path.getsize('./medifiles/family/atd.txt'):
+                    print("+ File 'atd.txt' exist (read)!")
+                    with open('./medifiles/family/atd.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'atd.txt' does not exist !", outnote)
+
+        def familyAnxio():
+            try:
+                if os.path.getsize('./medifiles/family/anxio.txt'):
+                    print("+ File 'anxio.txt' exist (read)!")
+                    with open('./medifiles/family/anxio.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'anxio.txt' does not exist !", outnote)
+
+        def familyThymo():
+            try:
+                if os.path.getsize('./medifiles/family/thymo.txt'):
+                    print("+ File 'thymo.txt' exist (read)!")
+                    with open('./medifiles/family/thymo.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'thymo.txt' does not exist !", outnote)
+
+        def familySomni():
+            try:
+                if os.path.getsize('./medifiles/family/somni.txt'):
+                    print("+ File 'somni.txt' exist (read)!")
+                    with open('./medifiles/family/somni.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'somni.txt' does not exist !", outnote)
+
+        def familyBzd():
+            try:
+                if os.path.getsize('./medifiles/family/bzd.txt'):
+                    print("+ File 'bzd.txt' exist (read)!")
+                    with open('./medifiles/family/bzd.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'bzd.txt' does not exist !", outnote)
+
+
+        def familyIcho():
+            try:
+                if os.path.getsize('./medifiles/family/icho.txt'):
+                    print("+ File 'icho.txt' exist (read)!")
+                    with open('./medifiles/family/icho.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'icho.txt' does not exist !", outnote)
+
+
+        def familyPark():
+            try:
+                if os.path.getsize('./medifiles/family/park.txt'):
+                    print("+ File 'park.txt' exist (read)!")
+                    with open('./medifiles/family/park.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'park.txt' does not exist !", outnote)
+
+
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
@@ -78,8 +356,9 @@ class Application(Frame):
             except FileNotFoundError as outnote2:
                 print("+ Sorry, file 'Carbamazepine.txt' does not exist !", outnote2)
 
+        """
         # Display text in textbox from medifiles files
-        def importationNeuro():
+        def importationpsycho():
             try:
                 if os.path.getsize('./medifile/neuro_syndrom.txt'):
                     print("+ File 'neuro_syndrom.txt' exist (read)!")
@@ -89,25 +368,37 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'neuro_syndrom.txt' does not exist !", outnote)
-
+        """
 
         # Text entry 1
-        self.compDrug1_var = StringVar()
-        self.reachDate = Entry(self.can, textvariable=self.compDrug1_var, width=40)
-        self.compDrug1_var.set("Enter a drug here")
-        self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.familyDrug1_var = StringVar()
+        self.reachFamily = Entry(self.can, textvariable=self.familyDrug1_var, width=30)
+        self.familyDrug1_var.set("Enter a class of drug")
+        self.reachFamily.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         # Text entry 2
-        self.comparedrug2_var = StringVar()
-        self.reachDate = Entry(self.can, textvariable=self.comparedrug2_var, width=40)
-        self.comparedrug2_var.set("Enter a second drug here")
+        self.oneperdrug2_var = StringVar()
+        self.reachDate = Entry(self.can, textvariable=self.oneperdrug2_var, width=30)
+        self.oneperdrug2_var.set("Enter a name of drug")
         self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+
+        # Text entry 3
+        self.compDrug1_var = StringVar()
+        self.reachDate = Entry(self.can, textvariable=self.compDrug1_var, width=30)
+        self.compDrug1_var.set("Enter a drug 1")
+        self.reachDate.pack(in_=self.top2, side=LEFT, padx=80, pady=20)
+
+        # Text entry 4
+        self.comparedrug2_var = StringVar()
+        self.reachDate = Entry(self.can, textvariable=self.comparedrug2_var, width=30)
+        self.comparedrug2_var.set("Enter drug 2")
+        self.reachDate.pack(in_=self.top2, side=LEFT, padx=80, pady=20)
 
         # Button to search text entry
         self.buttonSearch = Button(self.can, text='Search', width=8, bd=3,
             fg='navy', bg='cyan', highlightbackground='darkblue',
             activebackground='light blue', command=searchExpress)
-        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
 
         def upDateAll():
             self.master.destroy()
@@ -118,14 +409,14 @@ class Application(Frame):
             fg='navy', bg='cyan', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=upDateAll)
-        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
 
         # Button to quit
         self.buttonSearch = Button(self.can, text='Quit', width=8, bd=3,
             fg='white', bg='DodgerBlue2', highlightbackground='darkblue',
             activeforeground='red',
             activebackground='light blue', command=quit)
-        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
