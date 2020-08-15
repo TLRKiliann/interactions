@@ -77,14 +77,14 @@ class Application(Frame):
                     if drug1 == i or drug1 == "ap":
                         familyPark()
                 else:
-                    print("+ Choose a ttt")
+                    print("+ This drug is not in familylist")
 
             oneDrug=["chlorpromazine", "clopin", "leponex", "clopixol", 
             "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
             "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
             "orap", "risperdal", "risperdone", "semap", "seroquel", 
-            "sequase", "quétiapine", "solian", "bromides", "carbamazépines", 
-            "dépakine", "ethosuximide", "mysoline", "phénobarbital", 
+            "sequase", "quétiapine", "solian", "bromides", "carbamazépine", 
+            "tégrétol", "dépakine", "ethosuximide", "mysoline", "phénobarbital", 
             "phénytoïne", "briviact", "fycompa", "gabitril", "inovelon", 
             "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
             "taloxa", "tiapridal", "topamax", "trileptal", "trobalt", 
@@ -212,24 +212,40 @@ class Application(Frame):
                     if drug2 == i:
                         oneDrug40()
                 else:
-                    print("+ Choose a ttt")
+                    print("+ This drug is not in oneDrug list")
 
+            # drug1 VS drug2 (interact)        
             for i in oneDrug:
-                if i == "seroquel":
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
                     if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
                         drug4 == "carbamazépine"):
                         print("+ Interactions ultraviolente !!!")
                         importationViolente()
-                    """
-                    elif () and ():
-                    elif () and ():
-                    elif () and ():
-                    elif () and ():
-                    elif () and ():
+                if i == "carabamazépine" or i == "tégrétol":
+                    if (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
+                        drug4 == "zyprexa"):
+                        print("+ Interactions ultraviolente !!!")
+                        importationOlanZyp()
+                """
+                elif i == "clopin" or i == "leponex":
+                
+                elif i == "dépakine" or i == "valproate":
 
-                    else:
-                        print("+ Nothing !")
-                    """
+                elif i == "olanzapine" or i == "zyprexa":
+
+                elif i == "clopixol":
+
+                elif i == "haldol":
+
+                elif i == "risperdal" or i == "risperdone":
+
+                elif i == "fluanxol":
+
+                elif i == "nozinan":
+
+                elif i == "solian":
+
+                """
 
         def familyPsycho():
             try:
@@ -241,7 +257,6 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'antipsycho.txt' does not exist !", outnote)
-
 
         def familyMae():
             try:
@@ -309,7 +324,6 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'bzd.txt' does not exist !", outnote)
 
-
         def familyIcho():
             try:
                 if os.path.getsize('./medifiles/family/icho.txt'):
@@ -320,7 +334,6 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'icho.txt' does not exist !", outnote)
-
 
         def familyPark():
             try:
@@ -333,17 +346,44 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
 
-        # Display text in textbox from medifiles files (seroquel + carabamazepine)
-        def importationViolente():
+
+
+        def oneDrug19():
+            """
+            Per drug
+            """
             try:
-                if os.path.getsize('./medifiles/seroquel/Carbamazepine.txt'):
-                    print("+ File 'Carbamazepine.txt' exist (read)!")
-                    with open('./medifiles/seroquel/Carbamazepine.txt', 'r') as textfile2:
+                if os.path.getsize('./medifiles/perdrug/carbamazepine.txt'):
+                    print("+ File 'carbamazepine.txt' exist (read)!")
+                    with open('./medifiles/perdrug/carbamazepine.txt', 'r') as textfile2:
                         lines = textfile2.readlines()
                         for li in lines:
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'Carbamazepine.txt' does not exist !", outnote2)
+                print("+ Sorry, file 'carbamazepine.txt' does not exist !", outnote2)
+
+        # Display text in textbox from medifiles files (seroquel + carabamazepine)
+        def importationViolente():
+            try:
+                if os.path.getsize('./medifiles/interdrug/carba_sero.txt'):
+                    print("+ File 'carba_sero.txt' exist (read)!")
+                    with open('./medifiles/interdrug/carba_sero.txt', 'r') as textfile2:
+                        lines = textfile2.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote2:
+                print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote2)
+
+        def importationOlanZyp():
+            try:
+                if os.path.getsize('./medifiles/interdrug/carba_zyp.txt'):
+                    print("+ File 'carba_zyp.txt' exist (read)!")
+                    with open('./medifiles/interdrug/carba_zyp.txt', 'r') as textfile2:
+                        lines = textfile2.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote2:
+                print("+ Sorry, file 'carba_zyp.txt' does not exist !", outnote2)
 
         """
         # Display text in textbox from medifiles files
