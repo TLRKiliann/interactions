@@ -93,124 +93,124 @@ class Application(Frame):
             for i in oneDrug:
                 if i == "chlorpromazine":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug1()
                 elif i == "clopin" or i == "leponex":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug2()
                 elif i == "clopixol":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug3()
                 elif i == "enthumine":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug4()
                 elif i == "fluanxol":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug5()
                 elif i == "haldol":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug6()
                 elif i == "nozinan":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug7()
                 elif i == "tiapridal":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug8()
                 elif i == "abilify":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug9()
                 elif i == "dogmatil":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug10()
                 elif i == "invega":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug11()
                 elif i == "olanzapine" or i == "zyprexa":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug12()
                 elif i == "orap":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug13()
                 elif i == "risperdal" or i == "risperdone":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug14()
                 elif i == "semap":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug15()
                 elif i == "sequase" or i == "seroquel" or i == "quétiapine":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug16()
                 elif i == "solian":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug17()
                 elif i == "bromides":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug18()
                 elif i == "carbamazépine" or i == "tégrétol":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug19()
                 elif i == "dépakine" or i == "valproate":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug20()
                 elif i == "ethosuximide":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug21()
                 elif i == "mysoline":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug22()
                 elif i == "phénobarbital":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug23()
                 elif i == "phénytoïne":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug24()
                 elif i == "briviact":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug25()
                 elif i == "fycompa":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug26()
                 elif i == "gabitril":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug27()
                 elif i == "inovelon":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug28()
                 elif i == "keppra":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug29()
                 elif i == "lamictal":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug30()
                 elif i == "lyrica":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug31()
                 elif i == "neurontin":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug32()
                 elif i == "sabril":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug33()
                 elif i == "taloxa":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug34()
                 elif i == "topamax":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug35()
                 elif i == "trileptal":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug36()
                 elif i == "trobalt":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug37()
                 elif i == "vimpat":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug38()
                 elif i == "zonegran":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug39()
                 elif i == "anafranil":
                     if drug2 == i:
-                        oneDrug()
+                        oneDrug40()
                 else:
                     print("+ Choose a ttt")
 
@@ -222,8 +222,8 @@ class Application(Frame):
 
             for i in neurolist:
                 if i == "seroquel":
-                    if (drug1 == i or drug2 == i) and (drug1 == "carbamazépine" or \
-                        drug2 == "carbamazépine"):
+                    if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
+                        drug4 == "carbamazépine"):
                         print("+ Interactions ultraviolente !!!")
                         importationViolente()
                     """
@@ -405,8 +405,10 @@ class Application(Frame):
         self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         def upDateAll():
-            self.master.destroy()
-            subprocess.call('./neuro_psy.py')
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
+            #self.master.destroy()
+            #subprocess.call('./neuro_psy.py')
 
         # Button to update
         self.buttonSearch = Button(self.can, text='Refresh', width=8, bd=3,
