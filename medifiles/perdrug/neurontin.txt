@@ -1,0 +1,79 @@
+Neurontin :
+=======
+
+Contre-indications :
+--------------------------
+Hypersensibilité au principe actif ou à l'un des excipients (voir «Composition»).
+
+Interactions :
+-------------------
+
+Des études in vitro portant sur une inhibition éventuelle des enzymes du cytochrome 
+P450 les plus importants (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1 et CYP3A4) 
+par la gabapentine ont été menées. Une légère inhibition (14-30%) de l'isoenzyme 
+CYP2A6 n'a pu être observée qu'à la concentration testée la plus élevée (171 μg/ml; 
+1 mM; env. 15x la Cmax à 3600 mg/jour). En ce qui concerne les autres isoenzymes 
+testées, aucune inhibition n'a été observée à des concentrations de gabapentine 
+jusqu'à 171 μg/ml.
+
+Autres anticonvulsivants: des recherches pharmacocinétiques ciblées sur des 
+interactions possibles de la gabapentine avec d'autres médicaments pour le 
+traitement de l'épilepsie (phénytoïne, acide valproïque, carbamazépine, phénobarbital) 
+n'ont pas mis en évidence d'influence sur le taux plasmatique de gabapentine et des 
+autres antiépileptiques administrés simultanément.
+
+Le profil pharmacocinétique de la gabapentine lors d'une administration répétée 
+(pharmacocinétique à l'état d'équilibre) est similaire chez les patients et les 
+sujets sains.
+
+Contraceptifs oraux: l'administration simultanée de Neurontin et de contraceptifs 
+oraux (y compris la noréthistérone et/ou l'éthinylestradiol) n'a entraîné aucune 
+interaction cliniquement significative sur la pharmacocinétique à l'état d'équilibre 
+de chacune de ces substances.
+
+Naproxène: l'administration concomitante de capsules de naproxène sodique (250 mg) 
+et de Neurontin (125 mg) semble augmenter la quantité de gabapentine résorbée de 
+12 à 15%. La gabapentine n'a pas eu d'effet sur les paramètres pharmacocinétiques 
+du naproxène. Pour les deux substances, ces doses sont plus faibles que les doses 
+thérapeutiques. L'ampleur de l'interaction au sein des fourchettes posologiques 
+recommandées des deux substances est inconnue.
+
+Hydrocodone: l'administration concomitante de Neurontin (125-500 mg) abaisse les 
+valeurs de la Cmax de l'AUC de l'hydrocodone (10 mg) de façon dose-dépendante par 
+comparaison avec la seule administration d'hydrocodone. Les valeurs de la Cmax et 
+de l'AUC sont de 3 à 4% plus faibles après administration de 125 mg de Neurontin 
+et de 21 à 22% plus faibles après administration de 500 mg de Neurontin. Le mécanisme 
+de cette interaction est inconnu. L'hydrocodone augmente la valeur de l'AUC de la 
+gabapentine de 14%. L'ampleur de l'interaction à d'autres posologies est inconnue.
+
+Opiacés: il existe des rapports spontanés et des cas dans la littérature de 
+dépression respiratoire accompagnés ou non de sédation dans un contexte 
+d'utilisation simultanée de gabapentine et d'opiacés. Certains auteurs 
+considèrent que ces effets, en particulier chez les patients âgés, sont 
+particulièrement prononcés en cas d'utilisation associée.
+
+Morphine: dans la littérature, il a été décrit que l'administration d'une capsule 
+de 60 mg de morphine à libération contrôlée 2 heures avant l'administration d'une 
+capsule de 600 mg de Neurontin augmentait l'AUC moyenne de la gabapentine de 44% 
+par comparaison avec l'administration sans morphine. Les paramètres pharmacocinétiques 
+de la morphine n'ont pas été influencés lorsque Neurontin était utilisé 2 heures après 
+la morphine. L'ampleur de l'interaction à d'autres posologies est inconnue.
+
+Cimétidine: après la prise de 300 mg de cimétidine 4x par jour, la clairance orale 
+vraisemblable de la gabapentine avait diminué de 14% et la clairance de la créatinine 
+de 10%. Par conséquent, la cimétidine modifie l'élimination rénale tant de la 
+gabapentine que de la créatinine, un marqueur endogène de la fonction rénale. Il ne 
+faut pas s'attendre à ce que la discrète diminution de l'élimination de la gabapentine 
+causée par la cimétidine soit cliniquement significative. L'effet de la gabapentine 
+sur la cimétidine n'a pas été étudié.
+
+Antacides: La prise simultanée de Neurontin et d'antacides à base de magnésium ou 
+d'aluminium peut diminuer la biodisponibilité de la gabapentine jusqu'à 24%. En 
+conséquence, Neurontin ne sera pas administré dans les 2 heures qui suivent la prise 
+d'un tel antacide.
+
+Probénécide: l'élimination de la gabapentine par les reins (élimination rénale) 
+n'est pas modifiée par le probénécide.
+
+L'absorption simultanée de nourriture n'influence pas la pharmacocinétique de la 
+gabapentine.

@@ -503,6 +503,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'depakine.txt' does not exist !", outnote)
 
+        def oneDrug32():
+            """
+            Per drug neurontin
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/neurontin.txt'):
+                    print("+ File 'neurontin.txt' exist (read)!")
+                    with open('./medifiles/perdrug/neurontin.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'neurontin.txt' does not exist !", outnote)
+
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
