@@ -1,0 +1,158 @@
+Haldol :
+=====
+
+Contre-indications :
+--------------------------
+
+    hypersensibilité connue à l'halopéridol ou à l'un des composants conformément à 
+    la composition
+    états comateux
+    dépression du système nerveux central due à l'alcool ou à des dépresseurs centraux
+    syndrome parkinsonien
+    démence à corps de Lewy
+    paralysie supranucléaire progressive
+    allongement connu de l'intervalle QTc ou syndrome du QT long congénital
+    infarctus du myocarde aigu récent
+    insuffisance cardiaque décompensée
+    antécédents connus d'arythmies ventriculaires ou de torsades de pointes
+    hypokaliémie non corrigée
+    traitement concomitant par des médicaments allongeant l'intervalle QT 
+    (voir Interactions)
+
+
+Interactions :
+------------------
+
+Effets cardiovasculaires
+
+L'utilisation d'Haldol est contre-indiquée en association avec les médicaments 
+connus pour allonger l'intervalle QTc (voir Contre-indications), par exemple:
+
+    les antiarythmiques de classe IA (p.ex. disopyramide*, quinidine*).
+    les antiarythmiques de classe III (p.ex. amiodarone, dofétilide*, dronédarone, 
+    ibutilide, sotalol).
+    certains antidépresseurs (p.ex. citalopram, escitalopram).
+    certains antibiotiques (p.ex. azithromycine, clarithromycine, érythromycine, 
+    lévofloxacine, moxifloxacine, télithromycine*).
+    d'autres antipsychotiques (p.ex. dérivés de la phénothiazine, sertindole, 
+    pimozide*, ziprasidone*).
+    certains antifongiques (p.ex. pentamidine).
+    certains antipaludéens (p.ex. halofantrine*).
+    certains médicaments gastro-intestinaux (p.ex. dolasétron*).
+    certains médicaments utilisés pour le traitement du cancer (p.ex. torémifène*, 
+    vandétanib).
+    certains autres médicaments (p.ex. bépridil*, méthadone).
+
+* non autorisé en Suisse.
+
+Cette liste n'est pas exhaustive.
+
+Il est recommandé d'éviter l'utilisation concomitante d'autres antipsychotiques.
+
+La prudence est conseillée lorsque Haldol est utilisé en association avec des
+ médicaments connus pour provoquer un déséquilibre électrolytique (voir Mises en 
+ garde et précautions – Effets cardiovasculaires).
+Médicaments pouvant augmenter les concentrations plasmatiques de l'halopéridol
+
+La prudence s'impose lors de la prescription d'halopéridol et de médicaments dont 
+on sait qu'ils provoquent un allongement de l'intervalle QTc.
+
+L'halopéridol est métabolisé par plusieurs voies (voir Pharmacocinétique – 
+Métabolisme). Les principales voies sont la glucuronoconjugaison et la réduction 
+cétonique. Le système enzymatique du cytochrome P450 est également impliqué, en 
+particulier le CYP3A4 et, dans une moindre mesure le CYP2D6. L'inhibition de ces 
+voies de métabolisation par d'autres médicaments ou une activité réduite de 
+l'isoenzyme CYP2D6 (chez les «métaboliseurs lents») peut provoquer l'augmentation 
+de la concentration d'halopéridol. Les effets de l'inhibition du CYP3A4 et de la 
+réduction de l'activité enzymatique du CYP2D6 peuvent être cumulatifs (voir 
+Pharmacocinétique – Métabolisme).
+
+D'après les données limitées et parfois contradictoires qui sont disponibles, 
+l'augmentation moyenne des concentrations plasmatiques de l'halopéridol, lors de 
+l'administration concomitante d'un inhibiteur du CYP3A4 et/ou du CYP2D6, peut être 
+comprise entre 20 et 40% bien que, dans certains cas, des augmentations allant 
+jusqu'à 100% aient été rapportées.
+
+Les médicaments susceptibles de provoquer une augmentation des concentrations 
+plasmatiques de l'halopéridol (d'après l'expérience clinique ou en raison des 
+différents mécanismes d'interaction entre les principes actifs) comprennent par 
+exemple:
+
+    les inhibiteurs du CYP3A4 – alprazolam, itraconazole, kétoconazole et certains 
+    autres azolés, néfazodone*, certains virostatiques.
+    les inhibiteurs du CYP2D6 – chlorpromazine*, prométhazine*, quinidine*, paroxétine, 
+    sertraline, venlafaxine* et certains autres antidépresseurs.
+    les inhibiteurs combinés du CYP3A4 et du CYP2D6 – fluoxétine, fluvoxamine ritonavir.
+    des médicaments dont le mécanisme est incertain – buspirone*.
+
+* non autorisé en Suisse.
+
+Cette liste n'est pas exhaustive.
+
+L'augmentation des concentrations plasmatiques de l'halopéridol peut entraîner une 
+majoration du risque d'effets indésirables, notamment d'allongement de l'intervalle QTc 
+(voir Mises en garde et précautions – Effets cardiovasculaires).
+
+Des élévations du QTc ont été observées lorsque l'halopéridol était administré avec les 
+substances inhibitrices du métabolisme comme le kétoconazole (400 mg par jour) ou et la 
+paroxétine (20 mg par jour).
+
+Chez les patients prenant de l'halopéridol en concomitance avec des médicaments de ce type, 
+il est recommandé de surveiller les signes ou symptômes d'une majoration ou d'une 
+prolongation des effets pharmacologiques de l'halopéridol et de réduire la dose d'Haldol 
+si nécessaire.
+
+Le valproate sodique, un inhibiteur connu de la glucuronoconjugaison, n'a aucune influence 
+sur la concentration plasmatique d'halopéridol.
+Médicaments pouvant réduire les concentrations plasmatiques de l'halopéridol
+
+L'administration concomitante d'halopéridol et d'inducteurs puissants du CYP3A4 peut 
+entraîner une diminution progressive des concentrations plasmatiques de l'halopéridol au 
+point d'en réduire potentiellement l'efficacité (d'après l'expérience clinique ou en 
+raison des différents mécanismes d'interaction entre les principes actifs), par exemple:
+
+    Carbamazépine, phénobarbital, phénytoïne, rifampicine, millepertuis (Hypericum, perforatum).
+
+Cette liste n'est pas exhaustive.
+
+Une induction enzymatique est éventuellement observée au bout de quelques jours de traitement. 
+L'induction enzymatique atteint généralement son niveau maximal en l'espace de 2 semaines 
+environ et persiste ensuite pendant une durée similaire après l'arrêt du traitement par le 
+médicament. En cas de traitement concomitant par des inducteurs des CYP3A4, il est recommandé 
+de maintenir les patients sous surveillance et d'augmenter la dose d'Haldol ou d'ajuster les 
+intervalles entre les administrations si nécessaire. Après l'arrêt de l'inducteur du CYP3A4, 
+la concentration de l'halopéridol peut augmenter progressivement et il peut donc être nécessaire 
+de réduire la dose d'Haldol ou d'ajuster les intervalles entre les administrations.
+
+Effet de l'halopéridol sur d'autres médicaments
+
+L'halopéridol peut renforcer l'action d'autres substances à effet central, tels que l'alcool, 
+les hypnotiques, les sédatifs ou les analgésiques puissants (les opioïdes en particulier). 
+L'association d'un antipsychotique à d'autres dépresseurs centraux peut augmenter la sédation 
+et entraîner, parfois, un risque accru de dépression respiratoire. En outre, l'association à 
+la méthyldopa a donné lieu à des effets secondaires centraux et psychiques.
+
+L'halopéridol peut atténuer l'action antiparkinsonienne de la lévodopa et d'autres agonistes 
+de la dopamine.
+
+L'halopéridol peut antagoniser l'effet de l'adrénaline et d'autres sympathomimétiques et inverser 
+les effets antihypertenseurs de substances anti-adrénergiques comme la guanéthidine.
+
+L'halopéridol est un inhibiteur de l'isoenzyme CYP2D6 et peut inhiber la métabolisation des 
+antidépresseurs tricycliques, et augmenter ainsi leur taux plasmatique. Leur toxicité peut s'en 
+trouver augmentée (effets anticholinergiques, toxicité cardiovasculaire, baisse du seuil 
+épileptogène).
+
+Autres interactions
+
+Dans de rares cas, les symptômes suivants ont été décrits au cours de traitement associé 
+au lithium:
+
+encéphalopathie, symptômes extrapyramidaux, dyskinésie tardive, syndrome malin des 
+neuroleptiques, 
+symptômes au niveau du tronc cérébral, syndrome aigu du tronc cérébral et coma. Ces 
+symptômes se sont le plus souvent avérés réversibles. En tout cas, il faut interrompre 
+immédiatement le traitement associant Haldol et lithium chez les patients présentant de 
+tels symptômes.
+
+Un antagonisme des effets de la phénindione, un anticoagulant, a été rapporté.
