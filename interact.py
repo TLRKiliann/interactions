@@ -21,20 +21,17 @@ class Application(Frame):
         # Insertion of picture
         self.photo = PhotoImage(file='./picgif/bg.png')
         self.item = self.can.create_image(625, 400, image=self.photo)
-        # Insertion of text
-        self.can.create_text(500, 240, anchor=CENTER, 
-            text="Text below to read interactions", font=('Times New Roman', 18, 'bold'), fill='navy')
-        self.can.create_text(980, 670, anchor=NE, text="ko@l@tr33",
-            font=('Times', 12), fill='navy')
         self.can.pack(side=LEFT, fill=BOTH, expand=YES)
 
-        self.top = Frame(self.can, bg='aquamarine')
-        self.top2 = Frame(self.can, bg='aquamarine')
-        self.top3 = Frame(self.can, bg='turquoise2')
+        self.top = Frame(self.can, bg='turquoise3')
+        self.top2 = Frame(self.can, bg='turquoise3')
+        self.top3 = Frame(self.can, bg='aquamarine')
+        self.top4 = Frame(self.can, bg='turquoise3')
         self.bottom = Frame(self.can)
         self.top.pack(side=TOP, pady=2)
         self.top2.pack(side=TOP, pady=2)
         self.top3.pack(side=TOP, pady=2)
+        self.top4.pack(side=TOP, pady=2)
         self.bottom.pack(side=BOTTOM, fill=BOTH, expand=YES)
 
         def searchExpress():
@@ -370,35 +367,44 @@ class Application(Frame):
                 print("+ Sorry, file 'neuro_syndrom.txt' does not exist !", outnote)
         """
 
+        # Label
+        self.label=Label(self.can, text="Interact", font='Arial 18 bold', 
+            fg='navy', bg='turquoise3')
+        self.label.pack(in_=self.top, side=LEFT, padx=5, pady=10)
+
         # Text entry 1
         self.familyDrug1_var = StringVar()
         self.reachFamily = Entry(self.can, textvariable=self.familyDrug1_var, width=30)
         self.familyDrug1_var.set("Enter a class of drug")
-        self.reachFamily.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.reachFamily.pack(in_=self.top2, side=LEFT, padx=10, pady=20)
 
         # Text entry 2
         self.oneperdrug2_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.oneperdrug2_var, width=30)
         self.oneperdrug2_var.set("Enter a name of drug")
-        self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+        self.reachDate.pack(in_=self.top2, side=LEFT, padx=10, pady=20)
 
         # Text entry 3
         self.compDrug1_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.compDrug1_var, width=30)
         self.compDrug1_var.set("Enter a drug 1")
-        self.reachDate.pack(in_=self.top2, side=LEFT, padx=80, pady=20)
+        self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
+
+        self.labelbot=Label(self.can, text="VS", font='Arial 18 bold', 
+            fg='white', bg='aquamarine')
+        self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=0)
 
         # Text entry 4
         self.comparedrug2_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.comparedrug2_var, width=30)
         self.comparedrug2_var.set("Enter drug 2")
-        self.reachDate.pack(in_=self.top2, side=LEFT, padx=80, pady=20)
+        self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
 
         # Button to search text entry
         self.buttonSearch = Button(self.can, text='Search', width=8, bd=3,
             fg='navy', bg='cyan', highlightbackground='darkblue',
             activebackground='light blue', command=searchExpress)
-        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         def upDateAll():
             self.master.destroy()
@@ -409,18 +415,18 @@ class Application(Frame):
             fg='navy', bg='cyan', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=upDateAll)
-        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         # Button to quit
         self.buttonSearch = Button(self.can, text='Quit', width=8, bd=3,
             fg='white', bg='DodgerBlue2', highlightbackground='darkblue',
             activeforeground='red',
             activebackground='light blue', command=quit)
-        self.buttonSearch.pack(in_=self.top3, side=LEFT, padx=10, pady=20)
+        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
-        self.textBox.pack(padx=100, pady=50)
+        self.textBox.pack(padx=20, pady=20)
 
         self.pack()
 
