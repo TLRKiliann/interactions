@@ -405,6 +405,34 @@ class Application(Frame):
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
 
         # Per drug ...
+        def oneDrug3():
+            """
+            Per drug clopixol
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/clopixol.txt'):
+                    print("+ File 'clopixol.txt' exist (read)!")
+                    with open('./medifiles/perdrug/clopixol.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'clopixol.txt' does not exist !", outnote)
+
+        def oneDrug9():
+            """
+            Per drug abilify
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/abilify.txt'):
+                    print("+ File 'abilify.txt' exist (read)!")
+                    with open('./medifiles/perdrug/abilify.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'abilify.txt' does not exist !", outnote)
+
         def oneDrug16():
             """
             Per drug seroquel

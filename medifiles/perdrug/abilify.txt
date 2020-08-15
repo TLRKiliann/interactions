@@ -1,0 +1,100 @@
+Abilify :
+=====
+
+Contre-indications :
+--------------------
+
+Hypersensibilité au principe actif ou à l'un des excipients mentionnés dans la composition.
+
+Interactions :
+--------------
+
+Comme l'aripiprazole agit principalement sur le système nerveux central, la prudence est 
+recommandée en cas d'association avec d'autres médicaments à action centrale ayant des effets 
+indésirables qui se surajoutent à ceux de l'aripiprazole, tel que la sédation, et de prise 
+d'alcool.
+
+Du fait de son activité antagoniste des récepteurs α1-adrénergiques, l'aripiprazole peut 
+potentialiser l'effet de certains antihypertenseurs.
+
+Interactions médicamenteuses potentielles ayant un effet sur l'aripiprazole.
+
+La famotidine, un antagoniste des récepteurs H2 et un puissant inhibiteur de la sécrétion 
+d'acide gastrique, n'a pas d'effet cliniquement notable sur la pharmacocinétique de 
+l'aripiprazole.
+
+L'aripiprazole est métabolisé par de multiples voies impliquant les enzymes CYP2D6 et CYP3A4, 
+mais pas les enzymes CYP1A. Par conséquent, aucun ajustement posologique n'est nécessaire 
+pour les fumeurs. 
+
+Quinidine et autres inhibiteurs du CYP2D6.
+
+Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CYP2D6 
+(la quinidine) a augmenté l'ASC de l'aripiprazole de 107%, alors que la Cmax restait inchangée. 
+L'ASC et la Cmax du métabolite actif, le déhydro-aripiprazole, ont diminué respectivement de 32% 
+et 47%. La dose prescrite d'aripiprazole doit être réduite de moitié environ en cas 
+d'administration concomitante d'aripiprazole et de quinidine. D'autres inhibiteurs 
+puissants du CYP2D6, tels que la fluoxétine et la paroxétine, sont susceptibles d'avoir 
+des effets similaires, et par conséquent, les mêmes réductions de dose s'appliquent. 
+
+Kétoconazole et autres inhibiteurs du CYP3A4.
+
+Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CYP3A4 
+(le kétoconazole) a augmenté l'ASC et la Cmax de l'aripiprazole respectivement de 63% et 37%. 
+L'ASC et la Cmax du déhydro-aripiprazole ont 
+augmenté respectivement de 77% et 43%. Chez les métaboliseurs lents du CYP2D6, l'utilisation 
+concomitante d'inhibiteurs puissants du CYP3A4 peut conduire à une élévation des concentrations 
+plasmatiques d'aripiprazole, comparativement aux métaboliseurs rapides du CYP2D6. 
+L'administration concomitante de kétoconazole ou d'autres inhibiteurs puissants du CYP3A4 
+avec l'aripiprazole n'est envisagée que si les bénéfices escomptés sont supérieurs aux risques 
+encourus. La dose prescrite d'aripiprazole doit être réduite de moitié environ lors de 
+l'administration concomitante d'aripiprazole et de kétoconazole. D'autres inhibiteurs puissants 
+du CYP3A4, tels que l'itraconazole et les antiprotéases du VIH, sont susceptibles d'avoir des 
+effets similaires, et par conséquent, les mêmes réductions de dose s'appliquent.
+
+A l'arrêt du traitement par inhibiteur du CYP2D6 ou du CYP3A4, la dose d'aripiprazole doit être 
+ramenée à la posologie utilisée avant l'initiation du traitement concomitant.
+
+Carbamazépine et autres inducteurs du CYP3A4
+
+Lors de l'administration concomitante de carbamazépine, un inducteur puissant du CYP3A4, 
+les moyennes géométriques de la Cmax et de l'ASC de l'aripiprazole ont diminué 
+respectivement de 68% et 73%, comparativement à l'aripiprazole (30 mg) en monothérapie. 
+De la même façon, les moyennes géométriques de la Cmax et de l'ASC du déhydro-aripiprazole 
+ont diminué respectivement de 69% et 71% lors de l'administration concomitante de 
+carbamazépine, comparativement à l'aripiprazole en monothérapie.
+
+La dose d'aripiprazole doit être multipliée par deux en cas d'administration d'aripiprazole 
+et de carbamazépine. D'autres inducteurs puissants du CYP3A4 (rifampicine, rifabutine, 
+phénytoïne, phénobarbital, primidone, éfavirenz, névirapine et millepertuis) sont susceptibles 
+d'avoir des effets similaires, et par conséquent, les mêmes augmentations de dose sont 
+recommandées. A l'arrêt du traitement par l'inducteur puissant du CYP3A4, la dose 
+d'aripiprazole doit être ramenée à la posologie recommandée.
+
+Valproate et lithium
+
+Il n'a pas été observé de variation cliniquement significative des concentrations 
+d'aripiprazole à la suite d'une administration concomitante de valproate ou de lithium 
+et d'aripiprazole.
+
+Syndrome sérotoninergique
+
+Des cas de syndrome sérotoninergique ont été rapportés chez des patients traités par 
+l'aripiprazole. Des signes et symptômes évocateurs de ce syndrome peuvent survenir 
+notamment en cas d'administration oncomitante avec des médicaments sérotoninergiques 
+tels que les inhibiteurs sélectifs de la recapture de la sérotonine/inhibiteurs mixtes 
+de la recapture de la sérotonine et de la noradrénaline (ISRS/IRSN) 
+ou des médicaments connus pour augmenter les concentrations de l'aripiprazole.
+
+Effets potentiels de l'aripiprazole sur d'autres médicaments
+
+Dans les études cliniques, l'aripiprazole à des doses allant de 10 mg à 30 mg/jour n'a pas eu 
+d'effet significatif sur le métabolisme des substrats du CYP2D6 (dextrométhorphane), du CYP2C9 
+(warfarine), du CYP2C19 (oméprazole) et du CYP3A4 (dextrométhorphane). De plus, l'aripiprazole 
+et le déhydro-aripiprazole n'ont pas démontré in vitro de potentiel d'altération du métabolisme 
+dépendant du CYP1A2. Par conséquent, il est peu probable que l'aripiprazole soit à l'origine 
+d'interactions cliniquement significatives impliquant ces enzymes.
+
+Il n'a pas été observé de variation cliniquement significative des concentrations de valproate, 
+de lithium ou de lamotrigine à la suite d'une administration concomitante d'aripiprazole et de 
+valproate, de lithium ou de lamotrigine.
