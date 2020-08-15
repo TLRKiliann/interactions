@@ -50,31 +50,31 @@ class Application(Frame):
 
             for i in familiyttt:
                 if i == "antipsychotiques":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "antipsy":
                         familyPsycho()
                 elif i == "antiépileptiques":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "mae":
                         familyMae()
                 elif i == "antidépresseurs":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "atd":
                         familyAtd()
                 elif i == "anxiolytiques":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "anxio":
                         familyAnxio()
                 elif i == "thymorégulateurs":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "stabilisateurs":
                         familyThymo()
                 elif i == "somnifères":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "somni" or drug1 == "inducteurs de sommeil":
                         familySomni()
                 elif i == "benzodiazépines":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "bzd":
                         familyBzd()
                 elif i == "inhibiteurs de la cholinestérase":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "idlc":
                         familyIcho()
                 elif i == "antiparkinsoniens":
-                    if drug1 == i:
+                    if drug1 == i or drug1 == "ap":
                         familyPark()
                 else:
                     print("+ Choose a ttt")
@@ -338,8 +338,6 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
-
-
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
