@@ -270,6 +270,16 @@ class Application(Frame):
                         print("+ Interactions !!!")
                         importationSeroRisp()
 
+                if i == "carbamazépine" or i == "tégrétol":
+                    if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
+                        drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
+                        drug3 == "héparine" or drug3 == "pradaxa" or \
+                        drug4 == "sintrom" or drug4 == "xarelto" or \
+                        drug4 == "Rivaroxaban" or drug4 == "héparine" or \
+                        drug4 == "pradaxa"):
+                        print("+ Interactions !!!")
+                        importationCarbaAnticoa()
+
                 """
                 elif i == "clopin" or i == "leponex":
                 
@@ -393,7 +403,7 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
 
-
+        # Per drug ...
         def oneDrug16():
             """
             Per drug seroquel
@@ -421,7 +431,6 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'carbamazepine.txt' does not exist !", outnote)
-
 
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
@@ -508,7 +517,17 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
             
-
+        # Display text in textbox from medifiles files (seroquel + kétoconazol)
+        def importationCarbaAnticoa():
+            try:
+                if os.path.getsize('./medifiles/interdrug/carba_anticoa.txt'):
+                    print("+ File 'carba_anticoa.txt' exist (read)!")
+                    with open('./medifiles/interdrug/carba_anticoa.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'carba_anticoa.txt' does not exist !", outnote)
 
         """
         # Display text in textbox from medifiles files

@@ -130,7 +130,9 @@ amitriptyline, nortryptiline, clomipramine), bupropion (la carbamazépine
 peut abaisser le taux plasmatique du bupropion et élever celui de son 
 métabolite l'hydroxybupropion et réduire ainsi l'efficacité clinique et 
 la sécurité du bupropion), citalopram, miansérine, néfazodone, 
-sertraline, trazodone. Tégrétol ne doit pas être utilisé en combinaison 
+sertraline, trazodone. 
+
+Tégrétol ne doit pas être utilisé en combinaison 
 avec des inhibiteurs de la MAO; avant d'administrer Tégrétol, il faut 
 arrêter les inhibiteurs de la MAO pendant 2 semaines au moins, plus 
 longtemps si la situation clinique le permet (voir «Contre-indications»).

@@ -1,0 +1,5 @@
+
+--- Perphénazine ---
+
+La carbamazépine pourrait donner des résultats faux positifs lors du dosage 
+de la perphénazine dans les analyses par CLHP, suite à une interférence.
