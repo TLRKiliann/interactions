@@ -274,9 +274,10 @@ class Application(Frame):
                     if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
                         drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
                         drug3 == "héparine" or drug3 == "pradaxa" or \
+                        drug4 == "eliquis" or \
                         drug4 == "sintrom" or drug4 == "xarelto" or \
                         drug4 == "Rivaroxaban" or drug4 == "héparine" or \
-                        drug4 == "pradaxa"):
+                        drug4 == "pradaxa" or drug4 == "eliquis"):
                         print("+ Interactions !!!")
                         importationCarbaAnticoa()
 
