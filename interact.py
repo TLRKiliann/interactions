@@ -214,13 +214,7 @@ class Application(Frame):
                 else:
                     print("+ Choose a ttt")
 
-            neurolist=["chlorpromazine", "clopin", "leponex", "clopixol", 
-            "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
-            "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
-            "orap", "risperdal", "risperdone", "semap", "seroquel", 
-            "sequase", "quétiapine", "solian"]
-
-            for i in neurolist:
+            for i in oneDrug:
                 if i == "seroquel":
                     if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
                         drug4 == "carbamazépine"):
@@ -365,7 +359,7 @@ class Application(Frame):
                 print("+ Sorry, file 'neuro_syndrom.txt' does not exist !", outnote)
         """
 
-        # Label
+        # Label title
         self.label=Label(self.can, text="Interact", font='Arial 18 bold', 
             fg='navy', bg='turquoise3')
         self.label.pack(in_=self.top, side=LEFT, padx=5, pady=10)
@@ -388,6 +382,7 @@ class Application(Frame):
         self.compDrug1_var.set("Enter a drug 1")
         self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
 
+        # Label VS
         self.labelbot=Label(self.can, text="VS", font='Arial 18 bold', 
             fg='white', bg='aquamarine')
         self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=0)
@@ -404,25 +399,40 @@ class Application(Frame):
             activebackground='light blue', command=searchExpress)
         self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
-        def upDateAll():
+        def refresh():
+            """
+            To refresh textBox !
+            """
             self.textBox.delete('0.0', END)
             self.textBox.update()
-            #self.master.destroy()
-            #subprocess.call('./neuro_psy.py')
+
+        def upDateAll():
+            """
+            To update all !
+            """
+            self.master.destroy()
+            subprocess.call('./neuro_psy.py')
+
+        # Button to earase textBox
+        self.buttonRefresh = Button(self.can, text='Erase', width=8, bd=3,
+            fg='navy', bg='cyan', highlightbackground='darkblue',
+            activeforeground='yellow',
+            activebackground='light blue', command=refresh)
+        self.buttonRefresh.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         # Button to update
-        self.buttonSearch = Button(self.can, text='Refresh', width=8, bd=3,
+        self.buttonUpdate = Button(self.can, text='Refresh', width=8, bd=3,
             fg='navy', bg='cyan', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=upDateAll)
-        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+        self.buttonUpdate.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         # Button to quit
-        self.buttonSearch = Button(self.can, text='Quit', width=8, bd=3,
+        self.buttonQuit = Button(self.can, text='Quit', width=8, bd=3,
             fg='white', bg='DodgerBlue2', highlightbackground='darkblue',
             activeforeground='red',
             activebackground='light blue', command=quit)
-        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+        self.buttonQuit.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
