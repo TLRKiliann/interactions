@@ -84,9 +84,9 @@ class Application(Frame):
             "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
             "orap", "risperdal", "risperdone", "semap", "seroquel", 
             "sequase", "quétiapine", "solian", "bromides", "carbamazépine", 
-            "tégrétol", "dépakine", "ethosuximide", "mysoline", "phénobarbital", 
-            "phénytoïne", "briviact", "fycompa", "gabitril", "inovelon", 
-            "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
+            "tégrétol", "dépakine", "valproate", "ethosuximide", "mysoline", 
+            "phénobarbital", "phénytoïne", "briviact", "fycompa", "gabitril", 
+            "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
             "taloxa", "tiapridal", "topamax", "trileptal", "trobalt", 
             "vimpat", "zonegran"]
 
@@ -433,6 +433,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'abilify.txt' does not exist !", outnote)
 
+        def oneDrug12():
+            """
+            Per drug olanzapine, zyprexa
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/olanzapine.txt'):
+                    print("+ File 'olanzapine.txt' exist (read)!")
+                    with open('./medifiles/perdrug/olanzapine.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'olanzapine.txt' does not exist !", outnote)
+
         def oneDrug16():
             """
             Per drug seroquel
@@ -460,6 +474,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'carbamazepine.txt' does not exist !", outnote)
+
+        def oneDrug20():
+            """
+            Per drug depakine et valproate
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/depakine.txt'):
+                    print("+ File 'depakine.txt' exist (read)!")
+                    with open('./medifiles/perdrug/depakine.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'depakine.txt' does not exist !", outnote)
 
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)

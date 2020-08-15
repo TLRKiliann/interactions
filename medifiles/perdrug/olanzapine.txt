@@ -1,0 +1,71 @@
+Olanzapine (Zyprexa) :
+==============
+
+Contre-indications :
+-----------------------
+Zyprexa ne doit pas être utilisé:
+
+    chez des patients présentant une hypersensibilité connue à l'un des composants.
+    chez des patients présentant un risque connu de glaucome à angle fermé.
+    chez les enfants et adolescents de moins de 18 ans.
+
+
+Interactions :
+-----------------
+
+Effet de l'olanzapine sur d'autres médicaments
+
+L'olanzapine peut atténuer les effets des agonistes directs et indirects dopaminergiques.
+
+L'olanzapine n'inhibe pas les principales isoenzymes du CYP450 in vitro (par ex. 1A2, 
+2D6, 2C9, 2C19, 3A4). Par conséquent, aucune interaction particulière n'est attendue 
+comme cela a été vérifié lors d'études in vivo au cours desquelles aucune inhibition 
+du métabolisme des principes actifs suivants n'a été mise en évidence: antidépresseurs 
+tricycliques (représentant principalement la voie du CYP2D6), warfarine (CYP2C9), 
+théophylline (CYP1A2) ou diazépam (CYP3A4 et 2C19).
+
+Aucune interaction pharmacocinétique n'a été mise en évidence lors de la prise 
+concomitante de l'olanzapine avec le lithium ou le bipéridène.
+
+L'influence de la phénytoïne et du phénobarbital sur le métabolisme de l'olanzapine 
+n'a pas été étudiée.
+
+Le suivi des taux plasmatiques du Divalproex (valproate) n'a pas montré la nécessité 
+d'adapter la posologie du Divalproex (valproate) après l'instauration d'un traitement 
+par l'olanzapine orale.
+
+Il faut être prudent avec les patients traités par des médicaments susceptibles d'induire 
+une hypotension, une bradycardie, une dépression respiratoire ou du système nerveux central, 
+ou chez les patients ayant consommé de l'alcool.
+
+Effet d'autres médicaments sur l'olanzapine
+
+L'olanzapine étant métabolisée par le cytochrome CYP1A2, les substances qui induisent ou 
+inhibent spécifiquement cette isoenzyme peuvent modifier la pharmacocinétique de 
+l'olanzapine.
+
+Induction du CYP1A2: le métabolisme de l'olanzapine peut être induit par le tabagisme (la 
+clairance de l'olanzapine diminue de 33% et la demi-vie d'élimination terminale augmente 
+de 21% chez les non-fumeurs par rapport aux fumeurs) et la carbamazépine (la clairance 
+augmente de 44% et la demi-vie d'élimination terminale diminue de 20% lors d'une 
+administration concomitante avec la carbamazépine). L'association thérapeutique à la 
+carbamazépine entraîne une induction significative du métabolisme de l'olanzapine. En cas 
+d'administration concomitante de carbamazépine, on a observé une réduction de l'exposition 
+d'environ 50%. Une surveillance clinique est recommandée. Une augmentation de la posologie 
+de l'olanzapine peut être éventuellement envisagée, si nécessaire.
+
+Inhibition du CYP1A2: il a été montré que la fluvoxamine, inhibiteur spécifique du CYP1A2, 
+inhibe significativement le métabolisme de l'olanzapine. La fluvoxamine entraîne une 
+augmentation moyenne de la Cmax de l'olanzapine de 54% chez les femmes non-fumeuses et 
+de 77% chez les hommes fumeurs. L'augmentation moyenne de l'AUC de l'olanzapine était 
+respectivement de 52% et de 108%. Une posologie initiale plus faible d'olanzapine doit 
+être envisagée chez les patients traités par la fluvoxamine ou tout autre inhibiteur 
+du CYP1A2 comme la ciprofloxacine. Une diminution de la dose d'olanzapine doit être 
+envisagée si un traitement par un inhibiteur du CYP1A2 est instauré.
+
+Diminution de la biodisponibilité: Le charbon activé diminue la biodisponibilité de 
+l'olanzapine par voie orale de 50 à 60% et doit être pris au moins 2 heures avant ou 
+après l'administration de l'olanzapine.
+
+La fluoxétine (inhibiteur du CYP2D6), des doses uniques d'antiacides (aluminium, magnésium) 
+ou la cimétidine n'ont pas d'effet significatif sur la pharmacocinétique de l'olanzapine.
