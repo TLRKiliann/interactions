@@ -221,11 +221,55 @@ class Application(Frame):
                         drug4 == "carbamazépine"):
                         print("+ Interactions ultraviolente !!!")
                         importationViolente()
-                if i == "carabamazépine" or i == "tégrétol":
-                    if (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
-                        drug4 == "zyprexa"):
-                        print("+ Interactions ultraviolente !!!")
-                        importationOlanZyp()
+                
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
+                        drug4 == "dépakine"):
+                        print("+ Interactions !!!")
+                        importationSeroDepak()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "érythromycine" or \
+                        drug4 == "érythromycine"):
+                        print("+ Interactions !!!")
+                        importationSeroEry()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "kétoconazol" or \
+                        drug4 == "kétoconazol"):
+                        print("+ Interactions !!!")
+                        importationSeroKeto()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                        drug4 == "lithium"):
+                        print("+ Interactions !!!")
+                        importationSeroLith()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
+                        drug4 == "méthadone"):
+                        print("+ Interactions !!!")
+                        importationSeroMeoh()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+                        drug4 == "alcool"):
+                        print("+ Interactions !!!")
+                        importationSeroOh()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
+                        drug4 == "phénytoïne"):
+                        print("+ Interactions !!!")
+                        importationSeroPheny()
+
+                if i == "seroquel" or i == "sequase" or i == "quétiapine":
+                    if (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
+                        drug4 == "risperdal"):
+                        print("+ Interactions !!!")
+                        importationSeroRisp()
+
                 """
                 elif i == "clopin" or i == "leponex":
                 
@@ -248,6 +292,9 @@ class Application(Frame):
                 """
 
         def familyPsycho():
+            """
+            Per family !
+            """
             try:
                 if os.path.getsize('./medifiles/family/antipsycho.txt'):
                     print("+ File 'antipsycho.txt' exist (read)!")
@@ -347,43 +394,121 @@ class Application(Frame):
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
 
 
+        def oneDrug16():
+            """
+            Per drug seroquel
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/seroquel.txt'):
+                    print("+ File 'seroquel.txt' exist (read)!")
+                    with open('./medifiles/perdrug/seroquel.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'seroquel.txt' does not exist !", outnote)
 
         def oneDrug19():
             """
-            Per drug
+            Per drug carbamazépine
             """
             try:
                 if os.path.getsize('./medifiles/perdrug/carbamazepine.txt'):
                     print("+ File 'carbamazepine.txt' exist (read)!")
-                    with open('./medifiles/perdrug/carbamazepine.txt', 'r') as textfile2:
-                        lines = textfile2.readlines()
+                    with open('./medifiles/perdrug/carbamazepine.txt', 'r') as textfile:
+                        lines = textfile.readlines()
                         for li in lines:
                             self.textBox.insert(END, li)
-            except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'carbamazepine.txt' does not exist !", outnote2)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'carbamazepine.txt' does not exist !", outnote)
+
+
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
         def importationViolente():
             try:
                 if os.path.getsize('./medifiles/interdrug/carba_sero.txt'):
                     print("+ File 'carba_sero.txt' exist (read)!")
-                    with open('./medifiles/interdrug/carba_sero.txt', 'r') as textfile2:
-                        lines = textfile2.readlines()
+                    with open('./medifiles/interdrug/carba_sero.txt', 'r') as textfile:
+                        lines = textfile.readlines()
                         for li in lines:
                             self.textBox.insert(END, li)
-            except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote2)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote)
 
-        def importationOlanZyp():
+        # Display text in textbox from medifiles files (seroquel + depakine)
+        def importationSeroDepak():
             try:
-                if os.path.getsize('./medifiles/interdrug/carba_zyp.txt'):
-                    print("+ File 'carba_zyp.txt' exist (read)!")
-                    with open('./medifiles/interdrug/carba_zyp.txt', 'r') as textfile2:
-                        lines = textfile2.readlines()
+                if os.path.getsize('./medifiles/interdrug/sero_depak.txt'):
+                    print("+ File 'sero_depak.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_depak.txt', 'r') as textfile:
+                        lines = textfile.readlines()
                         for li in lines:
                             self.textBox.insert(END, li)
-            except FileNotFoundError as outnote2:
-                print("+ Sorry, file 'carba_zyp.txt' does not exist !", outnote2)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_depak.txt' does not exist !", outnote)
+
+        # Display text in textbox from medifiles files (seroquel + érythromicine)
+        def importationSeroEry():
+            try:
+                if os.path.getsize('./medifiles/interdrug/sero_erythro.txt'):
+                    print("+ File 'sero_erythro.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_erythro.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_erythro.txt' does not exist !", outnote)
+
+        # Display text in textbox from medifiles files (seroquel + kétoconazol)
+        def importationSeroKeto():
+            try:
+                if os.path.getsize('./medifiles/interdrug/sero_keto.txt'):
+                    print("+ File 'sero_keto.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_keto.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_keto.txt' does not exist !", outnote)
+
+        # Display text in textbox from medifiles files (seroquel + lithium)
+        def importationSeroLith():
+            try:
+                if os.path.getsize('./medifiles/interdrug/sero_lith.txt'):
+                    print("+ File 'sero_lith.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_lith.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_lith.txt' does not exist !", outnote)
+
+        # Display text in textbox from medifiles files (seroquel + MeOH)
+        def importationSeroMeoh():
+            try:
+                if os.path.getsize('./medifiles/interdrug/sero_metha.txt'):
+                    print("+ File 'sero_metha.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_metha.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_metha.txt' does not exist !", outnote)
+
+        # Display text in textbox from medifiles files (seroquel + kétoconazol)
+        def importationSeroPheny():
+            try:
+                if os.path.getsize('./medifiles/interdrug/sero_pheny.txt'):
+                    print("+ File 'sero_pheny.txt' exist (read)!")
+                    with open('./medifiles/interdrug/sero_pheny.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
+            
+
 
         """
         # Display text in textbox from medifiles files

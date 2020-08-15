@@ -1,0 +1,75 @@
+Seroquel :
+=======
+
+Contre-indications :
+--------------------
+
+Seroquel est contre-indiqué chez les patients présentant une hypersensibilité connue 
+à l'un des composants, ainsi qu'en période d'allaitement.
+
+L'utilisation concomitante d'inhibiteurs du CYP3A4 tels que les inhibiteurs de la protéase
+du VIH, les antifongiques azolés, l'érythromycine, la clarithromycine ou la néfazodone est
+contre-indiquée (voir «Interactions»).
+
+
+Interactions :
+--------------
+
+Étant donné que la quétiapine agit sur le système nerveux central, il faut être prudent 
+quand on l'associe à d'autres médicaments d'effet central et éviter la consommation 
+concomitante d'alcool.
+
+Le cytochrome P450 (CYP) 3A4 est la principale enzyme responsable du métabolisme de la
+quétiapine dépendant du cytochrome P450. Dans une étude d'interaction menée auprès de
+volontaires sains, l'administration concomitante de quétiapine (25 mg) et de kétoconazole 
+a provoqué une augmentation de 5 à 8 fois de l'AUC de la quétiapine. C'est pourquoi
+l'administration concomitante de Seroquel et d'inhibiteurs puissants du CYP3A4 est
+contre-indiquée. De même, le patient ne doit pas consommer de jus de pamplemousse pendant 
+le traitement par Seroquel.
+
+Les paramètres pharmacocinétiques de la quétiapine sont restés inchangés lors d'une 
+administration concomitante de cimétidine, un inhibiteur modérément puissant du CYP2D6 
+et du CYP3A4. L'administration de quétiapine en association avec des antidépresseurs 
+tels que l'imipramine (un inhibiteur du CYP2D6) ou la fluoxétine (un inhibiteur du 
+CYP3A4 et du CYP2D6) n'a pas entraîné de modifications significatives des paramètres
+pharmacocinétiques de la quétiapine.
+
+La prudence est de mise lors de l'administration à des patients qui sont traités par 
+d'autres médicaments exerçant des effets anticholinergiques (muscariniques) (voir 
+«Mises en garde et précautions»).
+
+Lors de co-médication au lithium, les taux de lithium devront être régulièrement 
+déterminés, car une augmentation des taux de lithium ne peut pas être complètement 
+exclue.
+
+Les paramètres pharmacocinétiques du valproate de sodium et de Seroquel ne sont pas 
+modifiés de manière cliniquement significative lorsque les deux substances sont 
+administrées simultanément.
+
+L'administration concomitante de rispéridone ou d'halopéridol (des antipsychotiques) 
+ne modifie pas notablement les paramètres pharmacocinétiques de la quétiapine.
+
+Une étude avec des doses multiples a examiné la pharmacocinétique de 300 mg de 
+quétiapine avant et pendant un traitement simultané avec 200 mg de carbamazépine 
+(un inducteur enzymatique microsomal connu). L'administration simultanée de 200 mg 
+de carbamazépine a entraîné, par rapport à la prise de quétiapine seule, une hausse 
+significative de la clairance de la quétiapine, qui a provoqué une diminution de la
+biodisponibilité de la quétiapine (mesure de l'AUC) jusqu'à 13% en moyenne. Cet effet 
+a même été observé de manière renforcée chez quelques patients. En raison de cette 
+interaction marquée, le traitement simultané par la carbamazépine, qui ne s'est 
+d'ailleurs pas montré supérieur au traitement par la carbamazépine seule, n'est pas 
+recommandé.
+
+L'administration concomitante de quétiapine et de phénytoïne a entraîné une augmentation 
+de la clairance de la quétiapine d'environ 450%. Chez les patients traités par des 
+médicaments inducteurs des enzymes hépatiques, le traitement par la quétiapine ne doit 
+être initié que si les bénéfices possibles d'un traitement par la quétiapine sont plus 
+importants que le risque associé à un arrêt du médicament inducteur des enzymes 
+hépatiques. Toute modification concernant l'inducteur des enzymes hépatiques doit 
+être faite progressivement. Au besoin, l'inducteur doit être remplacé par un agent non 
+inducteur des enzymes hépatiques (p.ex. valproate de sodium).
+
+Chez des patients qui prenaient de la quétiapine, des résultats faux positifs des tests
+immuno-enzymatiques de détection de la méthadone et des antidépresseurs tricycliques ont 
+été rapportés. En cas de résultats douteux de tests immunologiques, il est recommandé de 
+procéder à une vérification à l'aide de méthodes chromatographiques appropriées.
