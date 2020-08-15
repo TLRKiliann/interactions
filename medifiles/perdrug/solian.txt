@@ -1,58 +1,86 @@
 Solian :
 =====
 
+Contre-indications :
+--------------------------
 
-Contre-indications
-
-    Hypersensibilité au principe actif ou à l'un des excipients entrant dans la composition du médicament.
-    Tumeurs prolactine-dépendantes, telles que prolactinome hypophysaire et cancer du sein.
+    Hypersensibilité au principe actif ou à l'un des excipients entrant dans 
+    la composition du médicament.
+    Tumeurs prolactine-dépendantes, telles que prolactinome hypophysaire et 
+    cancer du sein.
     Phéochromocytome.
 
-Association avec les médicaments suivants qui peuvent induire des torsades de pointes (voir «Interactions»):
+Association avec les médicaments suivants qui peuvent induire des torsades de 
+pointes (voir «Interactions»):
 
-    Antiarrythmiques de classe IA tels que quinidine, hydroquinidine disopyramide, de classe IB tel que mexilétine, de classe IC tels que flécaïnide, propafénone.
+    Antiarrythmiques de classe IA tels que quinidine, hydroquinidine disopyramide, 
+    de classe IB tel que mexilétine, de classe IC tels que flécaïnide, propafénone.
     Antiarrythmiques de classe III tels que amiodarone, sotalol, dofétilide, ibutilide.
-    Certains neuroleptiques: phénothiaziniques (chlorpromazine, cyamémazine, lévomépromazine, thioridazine, trifluopérazine), benzamides (sulpiride, tiapride), butyrophénones (dropéridol, halopéridol), autres (pimozide).
-    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine, méthadone, érythromycine IV, mizolastine, vincamine IV, halofantrine, pentamidine, moxifloxacine, sparfloxacine, antimycotiques imidazolés.
-    Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocriptine, cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, ropinirole) en dehors du cas du patient parkinsonien.
+    Certains neuroleptiques: phénothiaziniques (chlorpromazine, cyamémazine, 
+    lévomépromazine, thioridazine, trifluopérazine), benzamides (sulpiride, tiapride), 
+    butyrophénones (dropéridol, halopéridol), autres (pimozide).
+    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine, 
+    méthadone, érythromycine IV, mizolastine, vincamine IV, halofantrine, pentamidine, 
+    moxifloxacine, sparfloxacine, antimycotiques imidazolés.
+    Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocriptine, 
+    cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, 
+    ropinirole) en dehors du cas du patient parkinsonien.
     Association avec la lévodopa (voir «Interactions»).
     Enfants de moins de 15 ans (pré-pubères).
     Allaitement (voir «Grossesse/Allaitement»).
-    Femmes en âge de procréer, sauf si elles utilisent des moyens de contraception efficaces.
+    Femmes en âge de procréer, sauf si elles utilisent des moyens de contraception 
+    efficaces.
 
 
+Interactions :
+-------------------
 
-Interactions
 Associations contre-indiquées
 Médicaments qui peuvent induire des torsades de pointes:
 
     Antiarrythmiques de classe IA tels que quinidine, hydroquinidine, disopyramide,
     de classe IB tel que mexilétine, de classe IC tels que flécaïnide, propafénone.
     Antiarrythmiques de classe III tels qu'amiodarone, sotalol, dofétilide, ibutilide.
-    Certains neuroleptiques: phénothiaziniques (chlorpromazine, cyamémazine, lévomépromazine, thioridazine, trifluopérazine), benzamides (sulpiride, tiapride), butyrophénones (dropéridol, halopéridol), autres (pimozide).
-    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine, méthadone, érythromycine IV, vincamine IV, mizolastine, halofantrine, pentamidine, moxifloxacine, sparfloxacine, antimycotiques imidazolés.
+    Certains neuroleptiques: phénothiaziniques (chlorpromazine, cyamémazine, lévomépromazine, 
+    thioridazine, trifluopérazine), benzamides (sulpiride, tiapride), butyrophénones 
+    (dropéridol, halopéridol), autres (pimozide).
+    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine, 
+    méthadone, érythromycine IV, vincamine IV, mizolastine, halofantrine, pentamidine, 
+    moxifloxacine, sparfloxacine, antimycotiques imidazolés.
 
-Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocriptine, cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, ropinirole) en dehors du cas du patient parkinsonien.
+Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocriptine, 
+cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, 
+ropinirole) en dehors du cas du patient parkinsonien.
 
 Lévodopa: antagonisme réciproque des effets de la lévodopa et des neuroleptiques.
 Associations non recommandées
 
-L'amisulpride peut augmenter les effets de l'alcool sur le système nerveux central. Une augmentation de 10 à 20% de l'AUC de l'amisulpride a été constatée après consommation d'alcool.
+L'amisulpride peut augmenter les effets de l'alcool sur le système nerveux central. Une 
+augmentation de 10 à 20% de l'AUC de l'amisulpride a été constatée après consommation d'alcool.
 
-Médicaments qui augmentent le risque de torsades de pointes ou qui pourraient prolonger l'intervalle QT:
+Médicaments qui augmentent le risque de torsades de pointes ou qui pourraient prolonger 
+l'intervalle QT:
 
-Médicaments qui induisent une bradycardie tels que béta-bloquants, anticalciques bradycardisants comme p.ex. diltiazem et vérapamil, clonidine, guanfacine, digitaliques.
+Médicaments qui induisent une bradycardie tels que béta-bloquants, anticalciques 
+bradycardisants comme p.ex. diltiazem et vérapamil, clonidine, guanfacine, digitaliques.
 
-Médicaments qui induisent une hypokaliémie: diurétiques hypokaliémiants, laxatifs stimulants, amphotéricine B IV, glucocorticoïdes, tétracosactides. L'hypokaliémie doit être corrigée.
+Médicaments qui induisent une hypokaliémie: diurétiques hypokaliémiants, laxatifs stimulants, 
+amphotéricine B IV, glucocorticoïdes, tétracosactides. L'hypokaliémie doit être corrigée.
 
 Antidépresseurs imipraminiques; lithium.
 Associations à prendre en compte
 
-On ne dispose pas d'études pharmacodynamiques avec des médicaments actifs sur le système nerveux central. Par conséquent, la prudence est recommandée en cas de traitement concomitant avec les produits suivants:
+On ne dispose pas d'études pharmacodynamiques avec des médicaments actifs sur le système 
+nerveux central. Par conséquent, la prudence est recommandée en cas de traitement concomitant 
+avec les produits suivants:
 
-Dépresseurs du système nerveux central, y compris les narcotiques, anesthésiques, analgésiques, antihistaminiques sédatifs H1, barbituriques, benzodiazépines et autres substances anxiolytiques, clonidine et apparentés, hypnotiques, antidépresseurs sédatifs, carbamates, captodiame, étifoxine, baclofène, thalidomide.
+Dépresseurs du système nerveux central, y compris les narcotiques, anesthésiques, analgésiques, 
+antihistaminiques sédatifs H1, barbituriques, benzodiazépines et autres substances 
+anxiolytiques, clonidine et apparentés, hypnotiques, antidépresseurs sédatifs, carbamates, 
+captodiame, étifoxine, baclofène, thalidomide.
 
 Antihypertenseurs et autres produits hypotenseurs.
 
-La co-administration d'amisulpride et de clozapine peut entraîner une augmentation du taux sérique d'amisulpride.
+La co-administration d'amisulpride et de clozapine peut entraîner une augmentation du 
+taux sérique d'amisulpride.
 
