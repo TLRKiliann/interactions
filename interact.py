@@ -475,6 +475,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'seroquel.txt' does not exist !", outnote)
 
+        def oneDrug17():
+            """
+            Per drug solian
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/solian.txt'):
+                    print("+ File 'solian.txt' exist (read)!")
+                    with open('./medifiles/perdrug/solian.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'solian.txt' does not exist !", outnote)
+
         def oneDrug19():
             """
             Per drug carbamazépine
