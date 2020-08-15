@@ -385,7 +385,7 @@ class Application(Frame):
         # Label VS
         self.labelbot=Label(self.can, text="VS", font='Arial 18 bold', 
             fg='white', bg='aquamarine')
-        self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=0)
+        self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=10)
 
         # Text entry 4
         self.comparedrug2_var = StringVar()
@@ -395,9 +395,10 @@ class Application(Frame):
 
         # Button to search text entry
         self.buttonSearch = Button(self.can, text='Search', width=8, bd=3,
-            fg='navy', bg='cyan', highlightbackground='darkblue',
-            activebackground='light blue', command=searchExpress)
-        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+            fg='navy', bg='aquamarine', highlightbackground='darkblue',
+            activeforeground='white', activebackground='light blue',
+            command=searchExpress)
+        self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         def refresh():
             """
@@ -411,28 +412,28 @@ class Application(Frame):
             To update all !
             """
             self.master.destroy()
-            subprocess.call('./neuro_psy.py')
+            subprocess.call('./interact.py')
 
         # Button to earase textBox
         self.buttonRefresh = Button(self.can, text='Erase', width=8, bd=3,
-            fg='navy', bg='cyan', highlightbackground='darkblue',
+            fg='navy', bg='turquoise2', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=refresh)
-        self.buttonRefresh.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+        self.buttonRefresh.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         # Button to update
         self.buttonUpdate = Button(self.can, text='Refresh', width=8, bd=3,
-            fg='navy', bg='cyan', highlightbackground='darkblue',
+            fg='navy', bg='turquoise2', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=upDateAll)
-        self.buttonUpdate.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+        self.buttonUpdate.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         # Button to quit
         self.buttonQuit = Button(self.can, text='Quit', width=8, bd=3,
             fg='white', bg='DodgerBlue2', highlightbackground='darkblue',
             activeforeground='red',
             activebackground='light blue', command=quit)
-        self.buttonQuit.pack(in_=self.top4, side=LEFT, padx=10, pady=5)
+        self.buttonQuit.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
