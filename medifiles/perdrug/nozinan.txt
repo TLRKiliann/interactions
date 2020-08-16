@@ -1,0 +1,119 @@
+Nozinan :
+=====
+
+
+Contre-indications :
+--------------------------
+
+Nozinan est contre-indiqué en cas d'hypersensibilité à la lévomépromazine, à un 
+excipient de Nozinan ou aux autres phénothiazines et aux thioxanthènes, en cas 
+de traitement à base de dopaminergiques (sauf pour les patients traités pour la 
+maladie de Parkinson), en cas de glaucome avec fermeture de l'angle, de troubles 
+de la miction avec rétention urinaire, d'antécédents d'agranulocytose, de 
+porphyrie, de leucopénie, de sclérose en plaques, de myasthénie, d'hémiplégie et 
+d'intoxications par des médicaments à effet dépresseur central ou par l'alcool, 
+choc d'origine vasculaire, coma.
+
+
+Interactions :
+------------------
+
+Interactions pharmacocinétiques
+
+Nozinan peut modifier le métabolisme hépatique des antidépresseurs tricycliques, 
+ce qui entraine une hausse des concentrations plasmatiques. Les effets cliniques 
+pouvant en résulter ne sont pas prévisibles. La prudence est aussi recommandée 
+en cas d'association avec des inhibiteurs de la MAO.
+
+L'utilisation concomitante de médicaments pouvant inhiber la métabolisation 
+hépatique de la lévomépromazine (par ex. des contraceptifs oraux), peut entrainer 
+une hausse de l'effet de la lévomépromazine.
+
+L'utilisation simultanée de lévomépromazine et de phénytoïne peut provoquer une 
+modification du métabolisme de la phénytoïne. Des concentrations plasmatiques 
+toxiques de phénytoïne peuvent ainsi être atteintes.
+
+La résorption d'autres substances peut être influencée par une inhibition du 
+péristaltisme gastro-intestinal.
+
+Les taux plasmatiques de Nozinan et de propranolol peuvent augmenter lors de 
+prise simultanée.
+Interactions pharmacodynamiques
+
+La prise simultanée d'alcool peut provoquer un renforcement mutuel de leurs effets: 
+en conséquence, il faudrait renoncer à consommer de l'alcool durant le traitement.
+
+La prise simultanée de Nozinan peut accroître l'effet des antihypertenseurs. L'effet 
+antihypertenseur de la guanéthidine, de la clonidine et de l'alpha-méthyldopa peut en 
+revanche être réduit.
+
+Les faibles effets anticholinergiques de Nozinan peuvent être renforcés par des 
+anticholinergiques ou d'autres médicaments à effet anticholinergique. L'association 
+de Nozinan à l'atropine ou aux substances apparentées à l'atropine peut conduire aux 
+effets indésirables des anticholinergiques tels que la sécheresse buccale, la 
+constipation, la dysurie, la mydriase et les troubles de l'accommodation.
+
+L'effet de Nozinan peut être réduit par des produits anticholinergiques 
+antiparkinsoniens comme le bipéridène.
+
+Inducteurs enzymatiques
+
+La prise simultanée de carbamazépine et de barbituriques peut réduire la concentration 
+sanguine de Nozinan en raison d'une augmentation du métabolisme par induction enzymatique.
+
+Inhibiteurs enzymatiques
+
+La lévomépromazine est un inhibiteur de l'iso enzyme 2D6 du cytochrome P 450 (CYP2D6). 
+C'est pourquoi, lors d'un traitement par la lévomépromazine, des taux plasmatiques plus 
+élevés et des renforcements de l'effet de substances métabolisées par le CYP2D6 peuvent 
+être observés. Des interactions pharmacocinétiques sont possibles entre inhibiteurs du 
+CYP2D6 tels que les phénothiazines, et les substrats du CYP2D6, avec des résultats 
+cliniques inconnus.
+
+Autres interactions
+
+Lorsque des patients sous traitement par des neuroleptiques doivent être opérés, il faut 
+prêter une grande attention à une éventuelle hypotension. Dans certaines circonstances, 
+la dose d'anesthésique ou de médicament dépresseur du système nerveux central, devra être 
+réduite.
+
+L'administration conjointe de Nozinan avec des agonistes de la dopamine (par ex. lévodopa) 
+peut affaiblir l'effet de l'agoniste de la dopamine. Les effets alpha-adrénergiques de 
+l'adrénaline sont également diminués.
+
+Effet de Nozinan sur d'autres médicaments
+
+Lors d'utilisation simultanée de Nozinan et d'analgésiques, hypnotiques, sédatifs ou autres 
+médicaments ayant un effet dépresseur sur le système nerveux central, la sédation et la 
+dépression respiratoire peuvent être renforcées.
+
+Surveiller les patients présentant des effets indésirables dose-dépendant lorsque la 
+lévomépromazine est associée à un autre substrat du CYP2D6, tels que amitriptyline/
+amitriptylinoxide, rispéridone, halopéridol, captopril, odansétrone, codéine, célécoxib, 
+flécaïnide ou également dérivés de l'amphétamine.
+
+Les phénothiazines, comme la lévomépromazine, peuvent, en relation avec un antibiotique 
+polypeptidique (par ex. capréomycine, colistine, polymyxine B), renforcer une dépression 
+respiratoire centrale.
+
+La réaction lors de l'utilisation de gonadoréline peut être affaiblie par les phénothiazines 
+en raison de la hausse de la prolactine.
+
+Lors de traitement par la lévomépromazine, le résultat d'un test de phénylcétonurie peut être 
+faussé (résultat faux positif).
+
+On évitera l'administration simultanée de médicaments qui prolongent également l'intervalle 
+QT (par ex. des antiarythmiques de classe IA ou III, le cisapride, certains antibiotiques, 
+des produits anti-malariques, des antihistaminiques, des antidépresseurs) ou qui entrainent 
+une hypokaliémie (par ex. certains diurétiques).
+
+Effet d'autres médicaments sur Nozinan
+
+L'utilisation conjointe de médicaments proconvulsivants, ou abaissant le seuil épileptogène, 
+doit être soigneusement pesée, en raison de la sévérité du risque encouru.
+
+Le traitement simultané avec un anthelminthique contenant de la pipérazine et avec le 
+métoclopramide entraine une augmentation du risque d'effets secondaires moteurs extrapyramidaux.
+
+L'utilisation concomitante de lithium peut conduire au développement de symptômes 
+neuropsychiatriques tels qu'un syndrome neuroleptique malin ou une intoxication au lithium.

@@ -434,6 +434,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'haldol.txt' does not exist !", outnote)
 
+        def oneDrug7():
+            """
+            Per drug nozinan
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/nozinan.txt'):
+                    print("+ File 'nozinan.txt' exist (read)!")
+                    with open('./medifiles/perdrug/nozinan.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'nozinan.txt' does not exist !", outnote)
+
         def oneDrug9():
             """
             Per drug abilify
