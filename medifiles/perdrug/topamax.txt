@@ -1,0 +1,310 @@
+Topamax (topiramate) :
+===============
+
+Contre-indications :
+---------------------------
+
+Hypersensibilité à l'un des composants.
+
+Grossesse (voir «Grossesse/Allaitement»).
+
+Femmes en âge de procréer n'appliquant pas une méthode contraceptive 
+efficace (voir «Mises en garde et précautions» et «Grossesse/Allaitement»).
+
+
+
+Interactions :
+------------------
+
+Effets de Topamax sur d'autres antiépileptiques
+
+L'administration de Topamax en association à d'autres antiépileptiques comme 
+carbamazépine, acide valproïque, phénobarbital, primidone, n'a pas d'effet 
+sur les concentrations plasmatiques à l'état d'équilibre: toutefois, chez 
+certains patients traités par la phénytoïne, l'administration additionnelle 
+de Topamax peut augmenter la concentration plasmatique de phénytoïne (25%); 
+chez d'autres toutefois, les taux plasmatiques de phénytoïne sont demeurés 
+inchangés. Ceci est probablement dû à l'inhibition du cytochrome polymorphe 
+P 450 CYP2C meph. Par conséquent, le taux de phénytoïne doit être surveillé 
+chez les patients sous phénytoïne présentant des signes ou des symptômes 
+cliniques de toxicité.
+
+Une étude d'interactions pharmacocinétique a été menée avec le topiramate et 
+la lamotrigine auprès de patients épileptiques. Il en est ressorti que 
+l'administration additionnelle de topiramate dosé entre 100–400 mg/jour à un 
+traitement par lamotrigine (dose moyenne de 327 mg/jour) provoquait une 
+légère baisse de l'exposition à la lamotrigine.
+
+La réduction de l'exposition systémique la plus prononcée avec 10% environ 
+correspondait à une dose de 400 mg/jour. En outre, durant le traitement par 
+lamotrigine, les concentrations plasmatiques de topiramate à l'état d'équilibre 
+étaient réduites de 15% environ. La pertinence clinique de ces modifications 
+est inconnue.
+Effets d'autres antiépileptiques sur Topamax
+
+La phénytoïne et la carbamazépine diminuent les concentrations plasmatiques du 
+topiramate. Lorsque la phénytoïne et la carbamazépine sont introduites ou 
+arrêtées lors d'un traitement par Topamax, la dose de topiramate doit dans 
+certains cas être adaptée en conséquence. Le titrage sera dicté par les 
+effets cliniques.
+
+Lorsque l'acide valproïque est introduit ou interrompu lors d'un traitement par 
+Topamax, aucun effet clinique significatif sur les concentrations plasmatiques 
+du topiramate n'est à craindre; une adaptation posologique du topiramate est 
+par conséquent inutile.
+
+Les résultats de ces interactions sont résumés dans le tableau 1 suivant:
+Tableau 1: Interactions avec les antiépileptiques
+
+Antiépileptiques administrés 	Concentration de         Concentration
+de façon concomitante           l'antiépileptique        de topiramate
+
+Phénytoïne                      <-> ou élévation         Baisse de 48%
+                                          de 25%¹
+
+Carbamazépine (CBZ)                                       Baisse de 40%
+
+Carbamazépine-époxide2           
+
+Acide valproïque                <-> Baisse de 11%        Baisse de 14%
+
+Phénobarbital
+
+Primidone
+
+Lamotrigine                     <-> à des doses de          Baisse de 15%
+                                topiramate allant 
+                                jusqu'à 400 mg/jour
+
+¹ = Chez certains patients, la concentration plasmatique a augmenté de 25% 
+(généralement chez les patients sous phénytoïne dosée à 2×/jour).
+
+² = Métabolite actif de la CBZ, qui toutefois n'est pas administré.
+
+<-> = Variation de la concentration plasmatique inférieure à 10%.
+
+NE = Non étudié.
+Autres interactions médicamenteuses
+
+Digoxine: Lors d'une étude avec doses uniques, l'aire sous la courbe de 
+concentration plasmatique (AUC) de la digoxine sérique a diminué de 13% 
+lors d'un traitement simultané par Topamax. L'importance clinique de ce 
+résultat n'a pas encore été établie. Si Topamax est introduit ou interrompu 
+lors d'un traitement par digoxine, le taux sérique de digoxine doit être 
+surveillé attentivement.
+
+Contraceptifs oraux: Dans le cadre d'une étude d'interactions pharmacocinétiques 
+réalisée avec un contraceptif oral combiné contenant 1 mg de noréthindrone (NET) 
+et 35 µg d'éthinylestradiol (EE) et menée chez des volontaires saines, 
+l'administration de Topamax en monothérapie à des doses comprises entre 50 et 
+200 mg/jour a conduit à des modifications minimes, statiquement non significatives 
+de l'exposition moyenne (AUC) pour les deux composantes. Dans une autre étude 
+réalisée chez des patientes ayant reçu Topamax à des doses de 200, 400 et 
+800 mg/jour en complément à l'acide valproïque, une réduction statistiquement 
+significative de l'exposition à l'EE de 18%, 21% et 30% a été constatée. Dans les 
+deux études, aucune modification significative de l'exposition à la NET n'a été 
+constatée sous Topamax (50–800 mg par jour). Une réduction dose-dépendante de 
+l'exposition à l'EE est certes survenue chez les patientes épileptiques traitées 
+par des doses comprises entre 200 mg et 800 mg par jour, mais aucune modification 
+dose-dépendante significative de l'exposition à l'EE n'a été constatée à des 
+doses comprises entre 50 et 200 mg par jour (chez des volontaires sains). La 
+pertinence clinique de ces observations est inconnue à ce jour. Les patientes 
+prenant un contraceptif oral combiné en même temps qu'un traitement par Topamax 
+doivent s'attendre à une baisse possible de l'efficacité contraceptive ainsi 
+qu'à l'apparition accrue de saignements intermenstruels. Les patientes prenant 
+un contraceptif à base d'estrogène doivent communiquer toute modification de 
+leur rythme de saignements. Même en l'absence de saignement intermenstruel, 
+l'efficacité contraceptive peut être diminuée.
+
+Lithium: Chez les volontaires sains on a constaté, lors de l'administration 
+concomitante de lithium et de 200 mg de topiramate par jour, une diminution 
+de la disponibilité systémique du lithium (18% de l'AUC). Chez les patients 
+atteints de troubles bipolaires, la pharmacocinétique du lithium est restée 
+inchangée pendant le traitement par le topiramate à des doses de 200 mg/jour. 
+A des doses de topiramate allant jusqu'à 600 mg/jour on a cependant observé 
+une augmentation de la disponibilité systémique (26% de l'AUC). Les taux de 
+lithium devraient donc être surveillés en cas d'administration concomitante 
+de topiramate.
+
+Rispéridone: Des études d'interaction sur des volontaires sains et sur des 
+patients atteints de troubles bipolaires ont donné des résultats comparables 
+à dosages uniques et multiples. Lors de l'administration concomitante de 
+rispéridone et de topiramate (à un dosage croissant de 100, 250 et 400 mg/
+jour), la disponibilité systémique de la rispéridone (à des doses de 1 à 6 
+mg/jour) a diminué (diminution de l'AUC à l'état d'équilibre (steady state) 
+de 16% et de 33% à des doses de 250 et 400 mg/jour respectivement). En ce 
+qui concerne la pharmacocinétique de la fraction antipsychotique active 
+(rispéridone et 9-hydroxy-rispéridone), des modifications minimales ont été 
+observées, aucune modification n'a été observée pour la pharmacocinétique 
+de 9-hydroxy-rispéridone. On peut donc en déduire qu'en cas d'administration 
+concomitante de rispéridone et de topiramate aucune modification 
+significative de la disponibilité systémique de toute la fraction 
+antipsychotique active de la rispéridone ou du topiramate ne se produit. 
+Cette interaction ne semble donc pas être d'importance clinique.
+
+Hydrochlorothiazide (HCTZ): Dans une étude d'interactions menée auprès de 
+volontaires sains, les paramètres pharmacocinétiques à l'état d'équilibre 
+de l'HCTZ (25 mg/24 h) et du topiramate (96 mg/12 h) ont été déterminés 
+après administration seule ou associée. Les résultats de cette étude montrent 
+que la Cmax du topiramate augmente de 27% et son AUC de 29% lorsque 
+l'HCTZ est administrée en plus du topiramate. La pertinence clinique de 
+cette modification est inconnue. Une adaptation posologique du topiramate 
+peut s'avérer nécessaire lors de l'administration additionnelle d'HCTZ 
+durant un traitement par Topamax. L'administration simultanée de topiramate 
+n'a pas influencé de manière significative la pharmacocinétique de l'HCTZ à 
+l'état d'équilibre. Les examens cliniques de laboratoire ont mis en évidence 
+une baisse du potassium sérique après l'administration de topiramate ou 
+d'HCTZ. Cette baisse était plus marquée lorsque l'HCTZ et le topiramate 
+étaient administrés en association.
+
+Metformine: La pharmacocinétique de la metformine et du topiramate à l'état 
+d'équilibre a été étudiée dans le plasma chez des volontaires sains lors 
+d'une étude d'interactions; la metformine a été administrée seule ainsi 
+qu'en association au topiramate. Les résultats de l'étude ont montré que 
+l'administration simultanée de metformine et de topiramate conduit à une 
+augmentation de la Cmax moyenne de la metformine de 18% et à une augmentation 
+de son AUC0–12 h moyenne de 25%. Simultanément, la CL/F moyenne a diminué de 20%.
+
+Le topiramate n'a pas influencé la tmax de la metformine. La pertinence 
+clinique de l'effet du topiramate sur la pharmacocinétique de la metformine 
+n'est pas claire. La clairance plasmatique orale du topiramate semble 
+diminuer lorsqu'il est administré en même temps que la metformine. L'ampleur 
+de la modification de la clairance est inconnue. La pertinence clinique de 
+l'effet de la metformine sur la pharmacocinétique du topiramate n'est pas 
+claire. Un traitement par Topamax nouvellement instauré ou interrompu chez 
+les patients sous metformine implique une surveillance minutieuse et régulière 
+pour assurer un contrôle adéquat du diabète.
+
+Pioglitazone: Dans une étude d'interactions menée auprès de volontaires 
+sains, les paramètres pharmacocinétiques à l'état d'équilibre du topiramate 
+et de la pioglitazone ont été déterminés après administration seule ou associée.
+
+L'administration additionnelle de 192 mg de topiramate par jour durant un 
+traitement par pioglitazone a provoqué une baisse de l'exposition à la 
+pioglitazone et à ses métabolites. Cette baisse était peu décelable pour 
+la pioglitazone (baisse de 15%) et pour le métabolite hydroxy inactif, et 
+nettement observable pour le métabolite céto actif (baisse de 60%). La 
+pioglitazone a faiblement abaissé le taux de topiramate.
+
+Afin d'assurer le contrôle adéquat du diabète, une surveillance régulière et 
+extrêmement soigneuse est indispensable lorsque Topamax est ajouté durant un 
+traitement par pioglitazone ou que la pioglitazone est nouvellement administrée 
+durant un traitement par Topamax. La pertinence clinique de cette observation 
+est inconnue.
+Autres formes d'interactions
+
+Médicaments qui prédisposent à une néphrolithiase: Topamax peut augmenter le 
+risque de néphrolithiase lorsqu'il est administré en même temps que d'autres 
+médicaments prédisposant à une néphrolithiase. En conséquence, un tel 
+médicament ne doit pas être prescrit durant un traitement par Topamax, car il 
+pourrait prédisposer à un environnement propice à la formation de calculs rénaux.
+
+L'administration simultanée de Topamax et d'alcool ou autres substances 
+d'action sédative n'a pas été étudiée dans les études cliniques; il est 
+toutefois recommandé aux patients traités par Topamax de renoncer à consommer 
+de l'alcool, étant donné que les antiépileptiques en général renforcent 
+l'effet alcoolique.
+
+Acide valproïque: L'administration concomitante de topiramate et d'acide 
+valproïque a été mise en relation avec une hyperammoniémie, avec et sans 
+encéphalopathie. Elle a été observée chez des patients qui supportaient 
+bien auparavant l'administration de topiramate seul ou d'acide valproïque 
+seul. Dans la plupart des cas, les symptômes ont disparu après l'arrêt 
+d'une des médications (voir «Mises en garde et précautions» et «Effets 
+indésirables»). Cet effet indésirable ne repose pas sur une interaction 
+pharmacocinétique.
+
+Une hypothermie (définie comme une baisse involontaire de la température 
+corporelle au-dessous de 35 °C) a été rapportée en relation avec 
+l'utilisation concomitante de topiramate et d'acide valproïque, en présence 
+ou non d'une hyperammoniémie. Cet effet indésirable peut survenir après 
+le début du traitement ou après une augmentation de la dose quotidienne de 
+topiramate.
+
+Le traitement par le topiramate ou l'acide valproïque doit éventuellement 
+être arrêté chez les patients développant une hypothermie, laquelle peut 
+se manifester par une multitude d'anomalies cliniques dont léthargie, 
+confusion, coma, et modifications majeures d'autres systèmes d'organes 
+importants tels que le système cardio-vasculaire ou respiratoire. Dans 
+ce contexte, l'évaluation clinique et le traitement doivent comporter la 
+mesure du taux sanguin d'ammonium.
+Antagonistes de la vitamine K
+
+Après administration concomitante de topiramate et d'antagonistes de 
+la vitamine K, une diminution des taux de prothrombine/de l'International 
+Normalized Ratio (TP/INR) a été rapportée. L'IRN doit être étroitement 
+surveillé lors d'un traitement concomitant par le topiramate et des 
+antagonistes de la vitamine K.
+
+Amitriptyline: Dans une étude d'interactions menée auprès de volontaires 
+sains, les paramètres pharmacocinétiques à l'état d'équilibre de l'amitriptyline 
+ont été déterminés après administration seule ou associée au topiramate. 
+L'administration simultanée de topiramate et d'amitriptyline a provoqué une 
+augmentation de 20% de l'exposition au métabolite nortriptyline. L'administration 
+simultanée de topiramate n'a pas influencé la pharmacocinétique de l'amitriptyline 
+à l'état d'équilibre. La pertinence clinique de ces résultats est inconnue.
+
+Dihydroergotamine (en sous-cutanée): Dans une étude d'interactions menée auprès 
+de volontaires sains, les paramètres pharmacocinétiques du topiramate et de la 
+dihydroergotamine (1 mg en sous-cutanée) ont été déterminés après administration 
+seule ou associée. Aucune influence réciproque pertinente sur les 
+pharmacocinétiques du topiramate et de la dihydroergotamine en sous-cutanée n'a 
+été observée.
+
+Halopéridol: Dans une étude d'interactions menée auprès de volontaires sains, 
+les paramètres pharmacocinétiques de l'halopéridol ont été déterminés après 
+administration seule ou associée au topiramate. L'administration additionnelle 
+du topiramate durant un traitement par halopéridol a provoqué une augmentation 
+de l'exposition au métabolite réduit (élévation de l'AUC de 31% en moyenne), 
+sans influencer l'exposition à l'halopéridol. La pertinence clinique de cette 
+modification est inconnue.
+
+Propranolol: Dans une étude d'interactions menée auprès de volontaires sains, 
+les paramètres pharmacocinétiques du propranolol et du topiramate ont été 
+déterminés après administration seule ou associée. Le traitement par topiramate 
+n'a pas influencé la pharmacocinétique du propranolol à l'état d'équilibre. Une 
+légère augmentation de l'exposition systémique au 4-hydroxypropranolol 
+(augmentation de la Cmax de 17%) a été observée sous traitement par topiramate 
+dosé à 50 mg/12 h. Toutefois, l'exposition systémique au 4-hydroxypropranolol 
+était la même durant un traitement par topiramate dosé à 100 mg/12 h que lors 
+de l'administration de propranolol seul. L'exposition systémique au topiramate 
+à l'état d'équilibre a été influencée par un traitement au propranolol dosé à 
+40 mg/12 h et au propanolol dosé à 80 mg/12 h comme suit: Augmentation de la 
+Cmax de 9% resp. de 16% et de l'AUC de 9% resp. de 17%). La pertinence clinique 
+de ces modifications est inconnue.
+
+Sumatriptan (en sous-cutanée et oralement): Dans une étude d'interactions menée 
+auprès de volontaires sains, les paramètres pharmacocinétiques du sumatriptan 
+(en sous-cutanée et oralement) ont été déterminés après administration seule ou 
+associée au topiramate. Le topiramate n'a pas influencé de manière cliniquement 
+pertinente la pharmacocinétique du sumatriptan administré sous forme de comprimé 
+pelliculé en prise orale unique ou d'injection sous-cutanée unique.
+
+Pizotifène: Dans une étude d'interactions menée auprès de volontaires sains, 
+les paramètres pharmacocinétiques du pizotifène et du topiramate ont été 
+déterminés après administration seule ou associée. Durant un traitement par 
+topiramate, l'exposition systémique (AUC) au pizotifène était légèrement 
+augmentée (de 15%). Durant un traitement par pizotifène, l'exposition 
+systémique (AUC) au topiramate était légèrement réduite de 15%. Ces 
+changements sont considérés comme sans pertinence clinique.
+
+Diltiazem: Dans une étude d'interaction sur des volontaires sains, la 
+pharmacocinétique du diltiazem et du topiramate a été étudiée en cas de prise 
+simple et de prise combinée. L'AUC du diltiazem a été diminuée de 25% par le 
+traitement par le topiramate, celle du désacétyldiltiazem de 18%. La Cmax et 
+l'AUC du N-déméthyldiltiazem n'ont pas été influencées.
+
+Venlafaxine: Dans une étude d'interaction sur des volontaires sains, la 
+pharmacocinétique de venlafaxine et du topiramate a été étudiée en cas de prise 
+simple et de prise combinée. La Cmax et l'AUC de la venlafaxine et du topiramate 
+n'ont pas été influencées.
+
+Flunarizine: Dans une étude d'interaction sur des volontaires sains et des 
+patients migraineux, la pharmacocinétique de la flunarizine et du topiramate 
+a été étudiée en cas de prise simple et de prise combinée. On a observé une 
+augmentation de l'AUC de la flunarizine de 16% à des doses de topiramate de 
+100 mg/jour. L'AUC de la flunarizine a également augmenté de 14% lorsqu'elle 
+a été prise seule. L'augmentation de disponibilité repose vraisemblablement 
+sur une accumulation pendant l'atteinte du steady state. La disponibilité 
+systémique (AUC) du topiramate n'a pas été influencée par la prise 
+concomitante de flunarizine.

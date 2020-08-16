@@ -88,7 +88,7 @@ class Application(Frame):
             "dépakine", "valproate", "ethosuximide", "mysoline", "phénobarbital", 
             "aphénylbarbite", "phénytoïne", "briviact", "fycompa", "gabitril", 
             "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
-            "taloxa", "tiapridal", "topamax", "trileptal", "trobalt", 
+            "taloxa", "tiapridal", "topamax", "topiramate", "trileptal", "trobalt", 
             "vimpat", "zonegran"]
 
             for i in oneDrug:
@@ -194,7 +194,7 @@ class Application(Frame):
                 elif i == "taloxa":
                     if drug2 == i:
                         oneDrug34()
-                elif i == "topamax":
+                elif i == "topamax" or i == "topiramate":
                     if drug2 == i:
                         oneDrug35()
                 elif i == "trileptal":
@@ -213,7 +213,7 @@ class Application(Frame):
                     if drug2 == i:
                         oneDrug40()
                 else:
-                    print("+ This drug is not in oneDrug list")
+                    print("+ This drug is not in the list")
 
             # drug1 VS drug2 (interact)        
             for i in oneDrug:
@@ -545,6 +545,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'neurontin.txt' does not exist !", outnote)
+
+        def oneDrug35():
+            """
+            Per drug topamax and topiramate
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/topamax.txt'):
+                    print("+ File 'topamax.txt' exist (read)!")
+                    with open('./medifiles/perdrug/topamax.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'topamax.txt' does not exist !", outnote)
 
 
         # Display text in textbox from medifiles files (seroquel + carabamazepine)
