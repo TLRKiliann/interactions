@@ -79,13 +79,14 @@ class Application(Frame):
                 else:
                     print("+ This drug is not in familylist")
 
+            # Don't forget kemadrin akineton
             oneDrug=["chlorpromazine", "clopin", "leponex", "clopixol", 
             "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
             "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
-            "orap", "risperdal", "risperdone", "semap", "seroquel", 
-            "sequase", "quétiapine", "solian", "bromides", "carbamazépine", 
-            "tégrétol", "dépakine", "valproate", "ethosuximide", "mysoline", 
-            "phénobarbital", "phénytoïne", "briviact", "fycompa", "gabitril", 
+            "orap", "risperdal", "risperdone", "semap", "seroquel", "sequase", 
+            "quétiapine", "solian", "bromides", "carbamazépine", "tégrétol", 
+            "dépakine", "valproate", "ethosuximide", "mysoline", "phénobarbital", 
+            "aphénylbarbite", "phénytoïne", "briviact", "fycompa", "gabitril", 
             "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
             "taloxa", "tiapridal", "topamax", "trileptal", "trobalt", 
             "vimpat", "zonegran"]
@@ -157,7 +158,7 @@ class Application(Frame):
                 elif i == "mysoline":
                     if drug2 == i:
                         oneDrug22()
-                elif i == "phénobarbital":
+                elif i == "phénobarbital" or i == "aphénylbarbite":
                     if drug2 == i:
                         oneDrug23()
                 elif i == "phénytoïne":
@@ -516,6 +517,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'depakine.txt' does not exist !", outnote)
+
+        def oneDrug23():
+            """
+            Per drug phénobarbital and aphénylbarbite
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/phenobarbit.txt'):
+                    print("+ File 'phenobarbit.txt' exist (read)!")
+                    with open('./medifiles/perdrug/phenobarbit.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'phenobarbit.txt' does not exist !", outnote)
 
         def oneDrug32():
             """

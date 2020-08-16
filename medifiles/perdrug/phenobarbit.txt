@@ -1,0 +1,39 @@
+
+Phénobarbital (aphénylbarbite) :
+====================
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au phénobarbital.
+Intoxication aiguë par des médicaments agissant sur le système nerveux central: 
+hypnotiques, tranquillisants, stimulants et analgésiques ainsi que l'alcool, la 
+dépendance médicamenteuse et la consommation simultanée d'alcool. 
+Porphyrie hépatique, troubles graves de la fonction rénale et hépatique et 
+lésions myocardiques.
+
+
+Interactions :
+------------------
+
+L'utilisation prolongée de phénobarbital peut provoquer une induction des enzymes 
+hépatiques microsomales; en d'autres termes, la biotransformation des produits 
+pharmaceutiques qui forment le substrat de ces enzymes hépatiques peut être accrue 
+d'un facteur de 2 à 3.
+
+Les effets des anticoagulants oraux, des antiépileptiques, des dérivés de la 
+coumarine, de la digitoxine, de la doxycycline, de la griséofulvine et des 
+hormones stéroïdiennes tels que les androgènes, les progestatifs, les œstrogènes 
+(cave: contraceptifs oraux!) et les glucocorticoïdes sont diminués par le 
+phénobarbital. L'éventuelle perte d'activité lors d'une prescription concomitante 
+de médicaments contenant les classes de principes actifs susmentionnées devrait 
+être considérée et la dose devrait être adaptée en conséquence.
+
+Les médicaments dépresseurs du système nerveux central et/ou l'alcool, administrés 
+de façon simultanée avec le phénobarbital, peuvent potentialiser mutuellement 
+leurs effets.
+
+La toxicité du méthotrexate est majorée par le phénobarbital.
+
+Les concentrations sériques du phénobarbital peuvent être potentialisées par 
+l'utilisation concomitante d'acide valproïque.
