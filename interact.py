@@ -305,7 +305,7 @@ class Application(Frame):
 
         def familyPsycho():
             """
-            Per family !
+            Choose per family of medication !
             """
             try:
                 if os.path.getsize('./medifiles/family/antipsycho.txt'):
@@ -447,6 +447,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'abilify.txt' does not exist !", outnote)
+
+        def oneDrug10():
+            """
+            Per drug dogmatil
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/dogmatil.txt'):
+                    print("+ File 'dogmatil.txt' exist (read)!")
+                    with open('./medifiles/perdrug/dogmatil.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'dogmatil.txt' does not exist !", outnote)
 
         def oneDrug12():
             """

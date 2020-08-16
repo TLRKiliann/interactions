@@ -1,0 +1,90 @@
+Dogmatil :
+======
+
+
+Contre-indications :
+-------------------------
+
+Hypersensibilité connue ou supposée à l'un des composants de Dogmatil.
+Tumeurs prolactino-dépendantes comme par exemple adénome hypophysaire à 
+prolactine et cancer du sein.
+Phéochromocytome.
+Allaitement.
+En association avec la lévodopa ou des médicaments antiparkinsoniens 
+(y compris le ropinirole) (voir «Interactions»).
+Porphyrie aiguë.
+
+
+Interactions :
+------------------
+
+Associations contre-indiquées
+
+Lévodopa, médicaments anitiparkinsoniens (y compris le ropinirole): 
+antagonisme réciproque de ces médicaments et des neuroleptiques.
+
+En cas de syndrome extrapyramidal induit par le neuroleptique, ne pas traiter 
+par la lévodopa (agoniste dopaminergique, inhibition et perte d'activité des 
+neuroleptiques), mais utiliser un anticholinergique.
+
+Chez les parkinsoniens traités par la lévodopa, en cas de nécessité, 
+utiliser de préférence des neuroleptiques induisant peu d'effets 
+extrapyramidaux, tels que la chlorpromazine ou la lévomépromazine.
+
+Associations déconseillées (liste non exhaustive)
+
+Alcool: risque de majoration par l'alcool de l'effet sédatif des 
+neuroleptiques. Eviter la prise de boissons alcoolisées et de médicaments 
+contenant de l'alcool.
+
+Association aux médicaments qui peuvent prolonger l'intervalle QT ou induire 
+des torsades de pointes (voir «Mises en garde et précautions»), tels que:
+
+Médicaments associés avec une hypokaliémie: diurétiques hypokaliémiants, 
+laxatifs stimulants, amphotéricine B, glucocorticoïdes, tétracosactide 
+(voir «Mises en garde et précautions»).
+
+Médicaments bradycardisants: bêtabloquants, diltiazem, vérapamil, clonidine, 
+digitaliques.
+
+Antiarythmiques: Classe IA: quinidine, procaïnamide, disopyramide; Classe IC: 
+flécaïnide; Classe III: sotalol, ibutilide, amiodarone.
+
+Psychotropes: neuroleptiques (par ex.: halopéridol, quétiapine, rispéridone).
+
+Antidépresseurs: antidépresseurs imipraminiques, venlafaxine.
+
+Antihistaminiques: cimétidine.
+
+Antibiotiques: azithromycine, clarithromycine, érythromycine, spiramycine, 
+pentamidine, lévofloxacine, moxifloxacine.
+
+Amines vasopressives: dobutamine, épinéphrine, norépinéphrine.
+
+Antinauséeux: dompéridone, ondansétron, dropéridol.
+
+Anticongestionants: éphédrine, pseudoéphédrine, phényléphrine, 
+phénylpropanolamine.
+
+Sympathicomimétiques/bronchodilatateurs: salméterol, terbutaline.
+
+Divers: amantadine, chloral hydrate, felbamate, foscarnet, indapamide, isradipine, 
+lithium, méthadone, midodrine, octréotide, vincamine, sibutramine, tacrolimus, 
+tamoxifène, tizanidine.
+
+Associations nécessitant des précautions d'emploi (liste non exhaustive)
+
+Antihypertenseurs: effet antihypertenseur et risque d'hypotension orthostatique 
+majorés (effet additif).
+
+Dépresseurs du système nerveux central: dérivés morphiniques, analgésiques, 
+antihistaminiques H1 sédatifs, barbituriques, benzodiazépines, tranquillisants 
+autres que benzodiazépines, clonidine et apparentés, induisant une majoration de 
+la dépression centrale pouvant avoir des conséquences notamment en cas de conduite 
+de véhicules ou d'utilisation de machines.
+
+Antiacides et sucralfate: l'absorption de sulpiride est diminuée lors de l'association. 
+Il faut donc administrer le sulpiride au moins 2 heures avant ces médicaments.
+
+Lithium: le lithium augmente le risque d'effets indésirables extrapyramidaux. 
+L'arrêt de ces deux médicaments est recommandé dès les premiers signes de neurotoxicité.
