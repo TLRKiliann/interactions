@@ -80,22 +80,18 @@ class Application(Frame):
                     print("+ This drug is not in familylist")
 
             # Don't forget kemadrin akineton
-            oneDrug=["chlorpromazine", "clopin", "leponex", "clopixol", 
-            "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
-            "abilify", "dogmatil", "invega", "palipéridone", "olanzapine", "zyprexa", 
-            "orap", "risperdal", "risperdone", "semap", "seroquel", "sequase", 
-            "quétiapine", "solian", "bromides", "carbamazépine", "tégrétol", 
-            "dépakine", "valproate", "ethosuximide", "mysoline", "phénobarbital", 
-            "aphénylbarbite", "phénytoïne", "briviact", "fycompa", "gabitril", 
-            "inovelon", "keppra", "lamictal", "lyrica", "neurontin", "sabril", 
-            "taloxa", "tiapridal", "topamax", "topiramate", "trileptal", "trobalt", 
-            "vimpat", "zonegran"]
+            oneDrug=["clopin", "leponex", "clopixol", "enthumine", "fluanxol", 
+            "haldol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
+            "palipéridone", "olanzapine", "zyprexa", "orap", "risperdal", 
+            "risperdone", "semap", "seroquel", "sequase", "quétiapine", "solian", 
+            "carbamazépine", "tégrétol", "dépakine", "valproate", "ethosuximide", 
+            "pétinimid", "mysoline", "phénobarbital", "aphénylbarbite", "phénytoïne", 
+            "briviact", "fycompa", "gabitril", "inovelon", "keppra", "lamictal", "lyrica", 
+            "neurontin", "sabril", "taloxa", "tiapridal", "topamax", "topiramate", 
+            "trileptal", "trobalt", "vimpat", "zonegran"]
 
             for i in oneDrug:
-                if i == "chlorpromazine":
-                    if drug2 == i:
-                        oneDrug1()
-                elif i == "clopin" or i == "leponex":
+                if i == "clopin" or i == "leponex":
                     if drug2 == i:
                         oneDrug2()
                 elif i == "clopixol":
@@ -143,9 +139,6 @@ class Application(Frame):
                 elif i == "solian":
                     if drug2 == i:
                         oneDrug17()
-                elif i == "bromides":
-                    if drug2 == i:
-                        oneDrug18()
                 elif i == "carbamazépine" or i == "tégrétol":
                     if drug2 == i:
                         oneDrug19()
@@ -810,9 +803,9 @@ class Application(Frame):
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
             "Available drugs : \n"
-            "chlorpromazine, clopin, leponex, clopixol, enthumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
+            "clopin, leponex, clopixol, enthumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
             "dogmatil, invega, olanzapine, zyprexa, orap, risperdal, risperdone, semap, seroquel, sequase, \n"
-            "quétiapine, solian, bromides, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, \n"
+            "quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, pétinimid,\n"
             "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
             "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
             "trobalt, vimpat, zonegran, palipéridone")
