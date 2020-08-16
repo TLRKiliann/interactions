@@ -420,6 +420,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'clopixol.txt' does not exist !", outnote)
 
+        def oneDrug5():
+            """
+            Per drug fluanxol
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/fluanxol.txt'):
+                    print("+ File 'fluanxol.txt' exist (read)!")
+                    with open('./medifiles/perdrug/fluanxol.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'fluanxol.txt' does not exist !", outnote)
+
         def oneDrug6():
             """
             Per drug haldol

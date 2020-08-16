@@ -1,0 +1,65 @@
+Fluanxol :
+======
+
+Contre-indications :
+-------------------------
+Hypersensibilité au flupentixol, à des excipients présents dans Fluanxol/Depot 
+ou aux autres thioxanthènes, dépression du SNC (par ex. intoxications aiguës à 
+l'alcool, aux barbituriques ou aux opiacés), états comateux.
+
+
+Interactions :
+------------------
+
+Fluanxol peut renforcer l'effet sédatif de l'alcool ainsi que l'effet des 
+barbituriques et d'autres préparations à action dépressive centrale comme 
+les hypnotiques, les anxiolytiques, les antihistaminiques, les opiacés ou 
+les anesthésiques.
+
+L'administration simultanée de neuroleptiques et des préparations ci-dessous 
+peut provoquer les effets suivants:
+
+
+Médicament ---> Effet de l'association
+
+Médicament à action sédative centrale et barbituriques ---> Renforcement 
+de l'effet
+
+Antihypertenseurs (guanéthidine, etc.) ---> Modification de la pression 
+sanguine, blocage de l'effet antihypertenseur
+
+Lithium	---> Risque accru de neurotoxicité
+
+Antidépresseurs tricycliques ---> Inhibition réciproque du métabolisme. 
+Renforcement des effets secondaires des neuroleptiques et des antidépresseurs
+
+L-Dopa ---> Réduction de l'effet de la L-Dopa
+
+Adrénergiques ---> Réduction de l'effet des adrénergiques
+
+Métoclopramide, pipérazine ---> Risque accru de symptômes extrapyramidaux
+
+
+Un allongement de l'intervalle QT induit par les neuroleptiques peut s'aggraver 
+en cas d'administration d'autres médicaments entraînant un allongement 
+significatif de l'intervalle QT. Il convient d'éviter l'administration 
+concomitante de tels médicaments.
+
+Les classes de médicaments concernées sont:
+
+    antiarythmiques des classes Ia et III (par ex. quinidine, amiodarone, 
+    sotalol, dofétilide)
+    certains neuroleptiques (par ex. halopéridol, quétiapine)
+    certains macrolides (par ex. érythromycine)
+    certains antihistaminiques (par ex. terfénadine, astémizole)
+    certaines quinolones (par ex. gatifloxacine, moxifloxacine)
+
+Cette liste n'est pas exhaustive; certains autres médicaments connus pour 
+allonger l'intervalle QT (par ex. cisapride, lithium) doivent également 
+être évités.
+
+La prudence est de mise en cas d'utilisation concomitante de médicaments 
+responsables de déséquilibres électrolytiques, comme par ex. les diurétiques 
+du groupe des thiazides (hypokaliémie), et de médicaments augmentant la 
+concentration plasmatique du flupentixol. Le risque d'allongement de 
+l'intervalle QT et d'arythmie peut être accru (voir «Mises en garde et précautions»).
