@@ -1,0 +1,128 @@
+Invega (palipéridone):
+==============
+
+Contre-indications :
+--------------------------
+
+Il convient de ne pas utiliser Invega chez les patients présentant une hypersensibilité 
+connue à la palipéridone, au rispéridone ou à un autre élément présent dans la formule.
+
+Patients déments présentant des symptômes de la maladie de Parkinson comme la raideur, 
+la bradykinésie et les troubles de la posture liées à la maladie de Parkinson.
+
+Les patients déments avec un diagnostic vraisemblable d'une démence de type corps de 
+Lewy (outre les symptômes de démence, au moins deux des trois symptômes suivants: 
+parkinsonisme/hallucinations visuelles/fluctuations de la marche).
+
+
+Interactions :
+------------------
+
+Il convient d'être prudent lors de la prescription simultanée d'Invega avec d'autres 
+médicaments dont on sait qu'ils allongent l'intervalle QT, comme par exemple les 
+antiarythmiques de la classe IA (quinidine, disopyramide) et III (amiodarone, sotalol), 
+quelques antihistaminiques, quelques autres antipsychotiques et quelques substances 
+utilisées contre le paludisme (méfloquine).
+Autres interactions
+
+Utilisation simultanée d'Invega et de rispéridone
+
+L'administration simultanée d'Invega et de rispéridone n'a pas été étudiée. 
+Cette combinaison n'est pas recommandée car la palipéridone est un métabolite actif 
+de la rispéridone et l'administration combinée pourrait donc entraîner une exposition 
+additive à la palipéridone.
+
+Utilisation simultanée d'Invega et de psychostimulants
+
+L'utilisation de psychostimulants (p.ex. méthylphénidate) en combinaison avec la 
+palipéridone peut, en cas de modification de l'un des traitements ou des deux traitements, 
+entraîner l'apparition de symptômes extrapyramidaux (voir «Mises en garde et précautions»).
+
+Effet d'Invega sur d'autres médicaments
+
+La palipéridone ne devrait pas provoquer d'interactions pharmacocinétiques significatives 
+avec les médicaments métabolisés par l'isoenzyme du cytochrome P450. Les études effectuées 
+in vitro avec le microsome hépatique humain ont montré que la palipéridone n'inhibait pas 
+réellement le métabolisme des médicaments métabolisés par l'isoenzyme du cytochrome P450 
+jusqu'à des concentrations de 250 ng/ml (y compris CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, 
+CYP2E1, CYP3A4 et CYP3A5). On ne s'attend donc pas à ce que la palipéridone inhibe 
+significativement d'un point de vue clinique la clairance des médicaments métabolisés par 
+ces voies métaboliques. Des études in vitro ont montré que la palipéridone n'est pas un 
+inducteur enzymatique des CYP1A2, 2C19 ou 3A4.
+
+Les études effectuées in vitro ont montré que la palipéridone est un substrat de la P-GP 
+et un inhibiteur faible de la P-GP à des concentrations élevées. Il n'existe pas de données 
+in vivo et la pertinence clinique de cette information n'est pas connue.
+
+En raison des effets primaires de la palipéridone sur le système nerveux central (voir 
+«Effets indésirables»), une utilisation combinée d'Invega avec d'autres médicaments à action 
+centrale comme p.ex. les anxiolytiques, la plupart des antipsychotiques, les hypnotiques, 
+les opiacés, et avec l'alcool doit se faire avec prudence. La palipéridone peut réduire les 
+effets de la lévodopa et d'autres agonistes de la dopamine. Lorsqu'il paraît nécessaire d'avoir 
+recours à une telle combinaison, en particulier au stade terminal de la maladie de Parkinson, 
+la posologie efficace la plus faible des deux traitements doit être prescrite.
+
+En raison de son potentiel pour déclencher une hypotension orthostatique (voir «Mises en garde 
+et précautions»), des effets additifs pourraient apparaître si Invega est utilisé en même temps 
+que d'autres médicaments ayant un potentiel similaire, comme p.ex. d'autres antipsychotiques et 
+les antidépresseurs tricycliques.
+
+La prudence est recommandée lorsque la palipéridone est associée à d'autres médicaments pour 
+lesquels il est connu qu'ils abaissent le seuil de crise (à savoir la phénothiazine ou la 
+butyrophénone, la clozapine, les tricycliques ou les ISRS, le tramadol, la méfloquine, etc.).
+
+Aucune étude portant sur les interactions entre Invega et le lithium n'a été entreprise. Des 
+interactions pharmacocinétiques entre Invega et le lithium sont improbables.
+
+L'administration simultanée d'Invega (12 mg une fois par jour) à l'état d'équilibre et de 
+comprimés à libération prolongée (de 500 mg à 2000 mg 1 fois par jour) de divalproex (valproate 
+de sodium/acide valproïque) n'a pas eu d'influence sur la pharmacocinétique du valproate à l'état 
+d'équilibre. L'administration simultanée d'Invega et de valproate de sodium/acide valproïque en 
+comprimés à libération prolongée a augmenté l'exposition à la palipéridone (voir «Effet d'autres 
+médicaments sur Invega»).
+
+Effet d'autres médicaments sur Invega
+
+La palipéridone ne représente pas un substrat des CYP1A2, CYP2A6, CYP2C9, CYP2C19 et CYP3A5. 
+Pour cette raison, les interactions avec les inhibiteurs ou les inducteurs de ces isoenzymes 
+devraient être improbables. Des études in vitro suggèrent que le CYP2D6 et le CYP3A4 pourraient 
+être impliqués dans une faible mesure dans le métabolisme de la palipéridone. En revanche, les 
+études in vitro et in vivo ne livrent aucun indice suggérant que ces isoenzymes jouent un rôle 
+significatif dans le métabolisme de la palipéridone.
+
+Les études in vitro ont montré que la palipéridone est un substrat de la glycoprotéine P (P-gp). 
+La palipéridone est métabolisée dans une mesure limitée par le CYP2D6 (voir «Pharmacocinétique: 
+biotransformation et élimination»). Dans une étude d'interactions, au cours de laquelle des 
+sujets en bonne santé ont reçu simultanément Invega et de la paroxétine, un puissant inhibiteur 
+du CYP2D6, on n'a pas constaté d'effets cliniquement significatifs sur la pharmacocinétique de 
+la palipéridone. L'administration concomitante d'Invega une fois par jour avec de la carbamazépine 
+200 mg deux fois par jour a entraîné une diminution d'environ 37% de la Cmax moyenne et de 
+l'AUC de la palipéridone à l'état stationnaire. Cette diminution est en grande partie la 
+conséquence d'une augmentation de 35% de la clairance rénale de la palipéridone, probablement 
+à la suite d'un effet combiné de l'induction de la P-gp rénale par la carbamazépine et d'un 
+métabolisme légèrement augmenté en raison d'une induction du CYP3A4. La légère diminution de 
+la quantité de principe actif inchangé éliminé dans l'urine était faible, ce qui suggère que 
+l'administration concomitante de carbamazépine n'a que très peu d'effets sur le métabolisme 
+par le CYP ou sur la biodisponibilité de la palipéridone. Des diminutions plus importantes 
+des concentrations plasmatiques de palipéridone pourraient survenir avec des doses de 
+carbamazépine plus élevées. Au début d'un traitement par la carbamazépine, il convient de 
+contrôler soigneusement et d'augmenter, le cas échéant, la posologie d'Invega. À l'inverse, 
+il convient également de contrôler et de diminuer, le cas échéant, la posologie d'Invega 
+en cas d'arrêt de la carbamazépine. D'autres médicaments qui agissent en tant qu'inducteurs 
+comme par exemple la rifampicine et certains phytomédicaments comme le millepertuis 
+(Hypericum perforatum) pourraient avoir des effets comparables sur la palipéridone.
+
+La palipéridone, qui au pH physiologique est présente sous la forme d'un cation, est éliminée 
+principalement sous forme non modifiée par voie rénale, environ la moitié par filtration et 
+l'autre moitié par sécrétion active. L'utilisation simultanée de triméthoprime, une substance 
+connue pour inhiber le transport actif rénal des cations des médicaments, n'a pas eu d'effet 
+sur la pharmacocinétique de la palipéridone.
+
+Les médicaments ayant une action sur le temps de passage dans le tractus gastro-intestinal, 
+comme par exemple le métoclopramide, peuvent influencer la résorption de la palipéridone.
+
+L'administration simultanée d'une dose unique de 12 mg d'Invega et de comprimés à libération 
+prolongée (deux comprimés de 500 mg une fois par jour) de divalproex (valproate de sodium/acide 
+valproïque) a augmenté d'env. 50% la Cmax et l'AUC de la palipéridone. Une réduction de la 
+posologie d'Invega doit être envisagée en fonction de la clinique en cas d'administration 
+simultanée d'Invega et de valproate.

@@ -82,7 +82,7 @@ class Application(Frame):
             # Don't forget kemadrin akineton
             oneDrug=["chlorpromazine", "clopin", "leponex", "clopixol", 
             "enthumine", "fluanxol", "haldol", "nozinan", "tiapridal", 
-            "abilify", "dogmatil", "invega", "olanzapine", "zyprexa", 
+            "abilify", "dogmatil", "invega", "palipéridone", "olanzapine", "zyprexa", 
             "orap", "risperdal", "risperdone", "semap", "seroquel", "sequase", 
             "quétiapine", "solian", "bromides", "carbamazépine", "tégrétol", 
             "dépakine", "valproate", "ethosuximide", "mysoline", "phénobarbital", 
@@ -122,7 +122,7 @@ class Application(Frame):
                 elif i == "dogmatil":
                     if drug2 == i:
                         oneDrug10()
-                elif i == "invega":
+                elif i == "invega" or i == "palipéridone":
                     if drug2 == i:
                         oneDrug11()
                 elif i == "olanzapine" or i == "zyprexa":
@@ -462,6 +462,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'dogmatil.txt' does not exist !", outnote)
 
+        def oneDrug11():
+            """
+            Per drug invega
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/invega.txt'):
+                    print("+ File 'invega.txt' exist (read)!")
+                    with open('./medifiles/perdrug/invega.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'invega.txt' does not exist !", outnote)
+
         def oneDrug12():
             """
             Per drug olanzapine, zyprexa
@@ -773,7 +787,7 @@ class Application(Frame):
             "quétiapine, solian, bromides, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, \n"
             "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
             "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
-            "trobalt, vimpat, zonegran")
+            "trobalt, vimpat, zonegran, palipéridone")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()
