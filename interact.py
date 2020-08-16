@@ -672,7 +672,7 @@ class Application(Frame):
         """
 
         # Label title
-        self.label=Label(self.can, text="Interact", font='Arial 18 bold', 
+        self.label=Label(self.can, text="Interact", font='Arial 22 bold', 
             fg='navy', bg='turquoise3')
         self.label.pack(in_=self.top, side=LEFT, padx=5, pady=10)
 
@@ -749,6 +749,17 @@ class Application(Frame):
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
+        self.textBox.insert(INSERT, "You can choose from the following families or medications :\n\n"
+            "Available class of drugs : \n"
+            "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
+            "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
+            "Available drugs : \n"
+            "chlorpromazine, clopin, leponex, clopixol, enthumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
+            "dogmatil, invega, olanzapine, zyprexa, orap, risperdal, risperdone, semap, seroquel, sequase, \n"
+            "quétiapine, solian, bromides, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, \n"
+            "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
+            "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
+            "trobalt, vimpat, zonegran")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()
