@@ -1,0 +1,97 @@
+Taloxa (felbamate):
+============
+
+Contre-indications :
+--------------------------
+
+Taloxa est contre-indiqué chez des patients présentant:
+
+    des dyscrasies sanguines ou des troubles de la fonction hépatique dans leurs 
+    antécédents;
+    une hypersensibilité connue au felbamate ou à l'un des excipients.
+
+
+Interactions :
+------------------
+
+Le felbamate est métabolisé par les iso-enzymes CYP 2E1 et CYP 3A4 en 2-hydroxy-
+felbamate et en parahydroxy-felbamate. Le felbamate est un inducteur de l'iso-enzyme 
+CYP 3A4 et un inhibiteur de l'iso-enzyme CYP 2C19.
+
+Par conséquent, la possibilité d'interactions entre des produits métabolisés par ce 
+système enzymatique hépatique et Taloxa ne peut être exclue.
+
+Le felbamate modifie les concentrations plasmatiques de la carbamazépine, de la 
+phénytoïne, du phénobarbital, du valproate et de leurs métabolites. Afin de réduire 
+la probabilité d'effets indésirables par interaction avec la carbamazépine, la phénytoïne, 
+le phénobarbital et l'acide valproïque, la posologie de ces substances doit être ajustée 
+en fonction des observations cliniques et de leur taux plasmatique à l'état d'équilibre 
+(cf. «Posologie/Mode d'emploi»).
+Effets de Taloxa sur d'autres antiépileptiques
+
+Carbamazépine: le felbamate entraîne une baisse d'environ 25% de la concentration de 
+carbamazépine à l'état d'équilibre, tandis que le taux d'époxy-carbamazépine augmente 
+d'environ 50%.
+
+Phénytoïne: le felbamate modifie la clairance de la phénytoïne de façon dépendante de 
+la dose. Le taux plasmatique de phénytoïne peut s'élever de 20 à 60% sous Taloxa.
+
+Phénobarbital: le felbamate administré à une dose de 1200 mg, 2 fois par jour, augmente 
+l'ASC du phénobarbital d'environ 25%.
+
+Valproate: la concentration plasmatique à l'état d'équilibre du valproate s'élève sous 
+Taloxa (600 à 1200 mg, 2 fois par jour) de façon dépendante de la dose et linéaire. Pour 
+de plus faibles doses de Taloxa, l'ASC moyenne et la concentration plasmatique minimale 
+du valproate ont augmentées respectivement de 28% et 18%; ces valeurs se sont élevées 
+proportionnellement aux plus forts dosages de felbamate.
+
+Clonazépam, oxcarbazépine, vigabatrine et lamotrigine: bien que des modifications 
+statistiquement significatives dans la pharmacocinétique du clonazépam, de l'oxcarbazépine 
+et de la vigabatrine soient apparues sous Taloxa (1200 mg, 2 fois par jour), ces 
+modifications ont été minimes et ne devraient pas avoir d'importance clinique. Les 
+interactions pharmacodynamiques de Taloxa avec l'une de ces substances ne pouvant être 
+exclues, les ajustements posologiques doivent toujours être effectués en fonction de 
+l'efficacité et de la tolérance.
+Effets d'autres antiépileptiques sur Taloxa
+
+Carbamazépine/phénytoïne/phénobarbital: lorsque la carbamazépine ou la phénytoïne est 
+administrée en même temps que Taloxa, la concentration plasmatique à l'état d'équilibre 
+de Taloxa peut baisser jusqu'à 20%. L'administration simultanée de Taloxa et de phénobarbital 
+abaissent le taux minimal de felbamate à l'état d'équilibre d'environ 35%.
+
+Valproate: le valproate semble avoir des effets minimes sur la clairance du felbamate; 
+cependant, les taux minimaux peuvent être environ de 50% supérieurs à ceux observés lors 
+d'une monothérapie par Taloxa.
+Effet de la prise de nourriture
+
+La résorption du felbamate n'est pas influencée par une prise alimentaire simultanée.
+Interactions entre Taloxa et des médicaments non antiépileptiques
+
+Contraceptifs oraux: chez les femmes prenant en association avec Taloxa des contraceptifs 
+oraux faiblement dosés, l'ASC des progestatifs a été réduite de 42% et l'ASC de 
+l'éthinyloestradiol réduite de 13%. Cet effet pharmacocinétique du felbamate peut diminuer 
+l'efficacité des contraceptifs combinés oraux faiblement dosés.
+
+Les patientes en âge de procréer doivent être informées sur les autres méthodes contraceptives 
+possibles.
+
+Bien qu'il n'existe pas d'étude à ce sujet, on peut s'attendre à ce que, compte tenu de 
+l'induction avérée, Taloxa réduise également l'effet de nombreuses autres substances 
+métabolisées par le CYP 3A4. La prudence s'impose particulièrement lors de l'administration 
+concomitante des principes actifs suivants: les immunosuppresseurs, comme la ciclosporine 
+et le tacrolimus.
+
+Les substances antirétrovirales (notamment l'inhibiteur de protéase indinavir et, le cas 
+échéant, également le saquinavir, le ritonavir, le nelfinavir, ainsi que l'éfavirenz et 
+la névirapine).
+
+L'action des anticoagulants oraux de type coumarine peut éventuellement être influencée.
+
+C'est pourquoi, lors de l'administration concomitante de Taloxa et de ciclosporine ou de 
+tacrolimus il convient de contrôler, surtout au début et à la fin de la thérapie avec 
+Taloxa, fréquemment leurs concentrations et, lors de l'administration concomitante de 
+Taloxa et d'anticoagulants oraux, le temps de Quick.
+
+Antiacides: la résorption du felbamate n'est pas influencée par la prise concomitante d'un 
+antiacide contenant 200 mg d'hydroxyde de magnésium, 200 mg d'hydroxyde d'aluminium et 25 
+mg de siméthicone.
