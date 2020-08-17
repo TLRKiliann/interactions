@@ -1,0 +1,158 @@
+Leponex (clopin, clozapine) :
+==================
+
+Contre-indications :
+--------------------------
+
+    Hypersensibilité connue ou soupçonnée à la clozapine ou à d'autres composants 
+    de Léponex;
+
+    Patients ne pouvant être soumis à des analyses de sang régulières;
+
+    Granulocytopénie ou agranulocytose connue dans l'anamnèse (à l'exception de 
+    granulocytopénie ou agranulocytose due à des chimiothérapies précédentes);
+
+    Troubles de la fonction de la moelle osseuse;
+
+    Épilepsie non contrôlée;
+
+    Psychoses alcooliques, psychoses toxiques, intoxications médicamenteuses, 
+    état comateux;
+
+    Collapsus vasculaire et/ou dépression du SNC de toute étiologie;
+
+    Grave affection rénale ou cardiaque, myocardite;
+
+    Affections hépatiques aiguës accompagnées de nausées, anorexie ou ictère;
+
+    maladies hépatiques progressives, atteinte hépatique;
+
+    Iléus paralytique;
+
+    Un traitement par Léponex ne doit pas être entrepris lorsque d'autres médicaments 
+    susceptibles de causer une agranulocytose sont administrés en même temps; 
+
+    l'administration concomitante de neuroleptiques à action prolongée (Dépôt) n'est 
+    pas recommandée.
+
+
+Interactions :
+------------------
+Interactions pharmacodynamiques
+
+Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être 
+associés à Léponex. Les neuroleptiques (potentiellement myélosuppresseurs) à durée 
+d'action prolongée (Dépôt), ne devraient pas être administrés en même temps que Léponex 
+car ces substances ne peuvent pas être éliminées rapidement de l'organisme en cas de 
+nécessité, par ex. en cas de neutropénie (cf. «Mises en garde et précautions, 
+Précautions particulières»).
+
+Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC ainsi que 
+l'effet dépresseur des narcotiques, des antihistaminiques et des benzodiazépines. Des 
+cas de décès lors de combinaison de clozapine avec ces substances y compris la méthadone 
+ont été observés.
+
+Une prudence particulière s'impose lors de l'administration simultanée d'une 
+benzodiazépine ou d'autres psychotropes, ainsi que chez les patients qui ont reçu 
+récemment des médicaments de cette catégorie, cela en raison d'un risque accru de 
+collapsus cardiovasculaire, lequel peut s'avérer profond dans de rares cas et entraîner 
+un arrêt cardiaque ou respiratoire. Il n'est pas certain qu'un ajustement posologique 
+puisse prévenir l'apparition d'un collapsus cardiovasculaire ou respiratoire.
+
+L'utilisation concomitante de lithium ou d'autres médicaments agissant au niveau central 
+peut augmenter le risque de syndrome neuroleptique malin.
+
+En raison d'effets cumulatifs possibles, une grande prudence s'impose lors de 
+l'administration concomitante de médicaments ayant des propriétés anticholinergiques, 
+hypotensives ou de dépression respiratoire.
+
+En raison de ses propriétés anti-alpha-adrénergiques Léponex peut diminuer l'effet 
+hémopresseur de la noradrénaline ou d'autres produits à effet alpha-adrénergique 
+prépondérant et peut également inverser l'effet presseur de l'adrénaline.
+
+Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication 
+anti-épileptique est nécessaire. De rares cas de crises épileptiques graves, y compris 
+l'apparition de novo de convulsions, ainsi que des cas isolés de delirium ont été 
+décrits lorsque Léponex est administré en même temps que l'acide valproïque. Cet effet 
+repose probablement sur une interaction pharmacodynamique dont le mécanisme n'est pas 
+connu.
+
+Léponex peut augmenter la concentration plasmatique de substances se liant fortement 
+aux protéines (par ex. la warfarine et la digoxine) en raison de leur déplacement à 
+partir des protéines plasmatiques. Si nécessaire, la posologie de la substance liée 
+aux protéines devra être corrigée.
+
+Comme avec d'autres neuroleptiques, Léponex doit être prescrit avec prudence en 
+association avec des médicaments connus pour allonger l'intervalle QTc ou pour 
+entraîner un déséquilibre électrolytique.
+
+Interactions pharmacocinétiques
+
+La clozapine est un substrat pour beaucoup d'isoenzymes du CYP450; les plus importantes 
+étant 3A4, 1A2 et 2D6. Ceci devrait réduire le risque d'interactions métaboliques dues 
+à l'influence d'une seule isoforme. Chez les patients recevant un traitement concomitant 
+avec des médicaments ayant une affinité pour une ou plusieurs de ces enzymes, le taux 
+plasmatique de clozapine devrait cependant être contrôlé étroitement. L'administration 
+concomitante de substances influençant ces isoenzymes peut conduire à une baisse ou 
+augmentation des taux plasmatiques de clozapine et/ou de ceux de la substance 
+administrée conjointement.
+
+Théoriquement il est possible que le taux plasmatique des antidépresseurs tricycliques, 
+de la phénothiazine et des anti-arythmiques de type lC, qui sont connus pour se lier au 
+cytochrome P450 2D6, soit augmenté par la clozapine ce qui pourrait nécessiter une 
+réduction posologique. Toutefois, aucune interaction à signification clinique n'a été 
+rapportée à ce jour.
+
+La combinaison de Léponex avec des substances connues pour influencer l'activité des 
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux plasmatiques 
+de clozapine:
+
+Inhibiteurs
+
+    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine 
+    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
+    clarithromycine, d'azithromycine, de fluvoxamine (1A2), de pérazine (1A2), de 
+    ciprofloxacine (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
+    par Léponex à fortes doses a été corrélée avec une élévation du taux sanguin de 
+    clozapine et l'apparition d'effets indésirables.
+    Une élévation des taux plasmatiques de clozapine a été signalée chez des patients 
+    qui avaient reçu ce médicament en association avec de la fluvoxamine (inhibiteur 
+    du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs 
+    sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du 
+    CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine 
+    (inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram 
+    (probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel 
+    le plus faible parmi les SSRIs d'une interaction cliniquement significative). 
+    Pourtant des cas d'interaction cliniquement significative lors de comédication de 
+    citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de 
+    clozapine a également été observée lors de combinaison avec la venlafaxine.
+    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des 
+    inhibiteurs/inducteurs puissants du CYP3A4. Il est à prévoir que ces médicaments 
+    puissent également conduire à des interactions à signification clinique. Toutefois, 
+    jusqu'à ce jour aucune interaction n'a été rapportée.
+
+Substrats
+
+    La caféine (substrat du CYP1A2) peut augmenter les taux plasmatiques de la clozapine. 
+    Après 5 jours sans absorption de caféine, les taux plasmatiques de clozapine diminue 
+    d'env. 50%. Ceci devrait être pris en considération lors de modifications de la 
+    consommation de café/thé. Lors d'administration concomitante de 2× 250 mg de 
+    ciprofloxacine, une augmentation significative de clozapine et de N-déméthyl-
+    clozapine a été observée. De même, des cas d'interaction avec la norfloxacine et 
+    l'enoxacine ont été rapportés.
+
+Inducteurs
+
+    Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine), 
+    peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement par 
+    la carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine.
+    Lors d'administration concomitante de phénytoïne une diminution des taux plasmatiques 
+    de clozapine ayant conduit à une diminution de l'efficacité la dose de Léponex 
+    auparavant efficace a été constatée.
+    La fumée de tabac induit le CYP1A2, c'est pourquoi une abstinence subite chez les gros 
+    fumeurs peut provoquer une augmentation des taux plasmatiques de clozapine et par là 
+    des effets indésirables.
+    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
+    Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
+    (faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous 
+    combinaison de lanzoprazole avec la paroxétine).

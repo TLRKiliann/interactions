@@ -199,7 +199,7 @@ class Application(Frame):
                 else:
                     print("+ This drug is not in the list")
 
-            # drug1 VS drug2 (interact)        
+            # drug1 VS drug2 (interactions with seroquel)        
             for i in oneDrug:
                 if i == "seroquel" or i == "sequase" or i == "quétiapine":
                     if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
@@ -239,8 +239,9 @@ class Application(Frame):
                         print("+ Interactions !!!")
                         importationSeroRisp()
                     else:
-                        print("One of your choice doesn't exist")
+                        print("One of your choice doesn't exist in the list")
 
+                # drug1 VS drug2 (interactions with carbamazépine)    
                 if i == "carbamazépine" or i == "tégrétol":
                     if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
                         drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
@@ -304,7 +305,7 @@ class Application(Frame):
                         print("+ Interactions !!!")
                         importationCarbaAntipsy()
                     else:
-                        print("One of your choice doesn't exist")
+                        print("One of your choice doesn't exist in the list")
 
 
                 """
@@ -431,6 +432,20 @@ class Application(Frame):
                 print("+ Sorry, file 'park.txt' does not exist !", outnote)
 
         # Per drug ...
+        def oneDrug2():
+            """
+            Per drug leponex
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/leponex.txt'):
+                    print("+ File 'leponex.txt' exist (read)!")
+                    with open('./medifiles/perdrug/leponex.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'leponex.txt' does not exist !", outnote)
+
         def oneDrug3():
             """
             Per drug clopixol
