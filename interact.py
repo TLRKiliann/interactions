@@ -124,15 +124,9 @@ class Application(Frame):
                 elif i == "olanzapine" or i == "zyprexa":
                     if drug2 == i:
                         oneDrug12()
-                elif i == "orap":
-                    if drug2 == i:
-                        oneDrug13()
                 elif i == "risperdal" or i == "risperdone":
                     if drug2 == i:
                         oneDrug14()
-                elif i == "semap":
-                    if drug2 == i:
-                        oneDrug15()
                 elif i == "sequase" or i == "seroquel" or i == "quétiapine":
                     if drug2 == i:
                         oneDrug16()
@@ -580,6 +574,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'depakine.txt' does not exist !", outnote)
+
+        def oneDrug22():
+            """
+            Per drug mysoline
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/mysoline.txt'):
+                    print("+ File 'mysoline.txt' exist (read)!")
+                    with open('./medifiles/perdrug/mysoline.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'mysoline.txt' does not exist !", outnote)
 
         def oneDrug23():
             """

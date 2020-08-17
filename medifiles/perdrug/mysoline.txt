@@ -1,0 +1,48 @@
+Mysoline (primidone) :
+==============
+
+Contre-indications :
+--------------------------
+
+Mysoline est contre-indiqué lors d'intoxication aiguë aux dépresseurs centraux 
+et à l'alcool, lors de porphyrie hépatique latente ou aiguë, lors de troubles 
+graves des fonctions hépatique et rénale, lors de lésions du muscle cardiaque 
+ainsi que lors d'hypersensibilité ou de réactions allergiques à la primidone, 
+à une autre composant de la préparation ou au phénobarbital.
+
+
+Interactions :
+-------------------
+
+La primidone, comme également le métabolite principal, le phénobarbital, augmente 
+l'activité des enzymes hépatiques, notamment du système enzymatique du CYP 450 3A4. 
+Ceci peut modifier la pharmacocinétique d'autres médicaments.
+
+L'administration simultanée de primidone et des médicaments suivants accélère le 
+métabolisme ce qui entraîne une diminution de la concentration plasmatique ou de 
+la demi-vie: androgènes, antidépresseurs tricycliques, benzodiazépines, 
+bêtabloquants, carbamazépine, célécoxibe, ciclosporine, quinidine, 
+chloramphénicol*, cyclophosphamide, dicoumarine, digitoxine, doxycycline, 
+éthosuximide, étoposide, felbamate*, granisétron, contraceptifs oraux, 
+corticostéroïdes/glucocorticoïdes, lamotrigine, losartan, méthadone, 
+métronidazole*, miansérine, montélukast, valproate de sodium*, nelfinavir*, 
+antirhumatismaux non stéroïdiens, nimodipine, oméprazole, oxcarbazépine, 
+phénytoïne, bromure de rocuronium, ISRS, sulfonylurées, tiagabine, théophyllines*, 
+topiramate, bromure de vécuronium et zonisamide.
+
+Les médicaments suivants inhibent le système enzymatique du CYP 450 3A4 et des 
+augmentations de la concentration plasmatique de la primidone et de son métabolite 
+principal, le phénobarbital, sont possibles: chloramphénicol*, felbamate*, 
+nelfinavir*, métronidazole* et valproate de sodium*.
+
+Le millepertuis (Hypericum perforatum) influence également le système enzymatique 
+du CYP 450 3A4 et peut diminuer la concentration plasmatique de la primidone et 
+de son métabolite principal, le phénobarbital.
+
+La primidone inhibe la glucuronidation du paracétamol et peut ainsi potentialiser 
+l'hépatotoxicité de celui-ci.
+
+L'effet dépresseur central de la primidone s'additionne à l'effet dépresseur sur 
+le SNC de l'alcool, des opiacés et des barbituriques.
+
+* La primidone et le médicament administré simultanément sont influencés.
