@@ -530,6 +530,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'olanzapine.txt' does not exist !", outnote)
 
+        def oneDrug14():
+            """
+            Per drug risperdal
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/risperdal.txt'):
+                    print("+ File 'risperdal.txt' exist (read)!")
+                    with open('./medifiles/perdrug/risperdal.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'risperdal.txt' does not exist !", outnote)
+
         def oneDrug16():
             """
             Per drug seroquel

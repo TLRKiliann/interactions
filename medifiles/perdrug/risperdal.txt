@@ -1,0 +1,209 @@
+Risperdal (risperdone) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au principe actif ou à l'un des excipients.
+
+Patients atteints de démence avec des symptômes parkinsoniens tels que rigidité 
+musculaire, bradykinésie et troubles posturaux de type parkinsonien.
+
+Patients atteints de démence avec le diagnostic vraisemblable d'une démence à 
+corps de Lewy (en plus des symptômes typiques de la démence, au moins deux des 
+trois symptômes suivants: parkinsonisme, hallucinations visuelles, évolution 
+fluctuante).
+
+
+Interactions :
+------------------
+
+Interactions pharmacodynamiques
+Médicaments à action centrale et alcool
+
+Compte tenu des effets primaires sur le SNC de Risperdal, la co-administration 
+avec d'autres médicaments à action centrale ou avec de l'alcool requiert la 
+prudence.
+
+Lévodopa et agonistes dopaminergiques
+
+Risperdal peut diminuer l'action de la lévodopa et d'autres agonistes dopaminergiques. 
+Si cette association est considérée comme nécessaire, notamment au stade terminal de 
+la maladie de Parkinson, la dose efficace la plus faible doit être prescrite lors de 
+chaque traitement.
+
+Psychostimulants
+
+L'utilisation de psychostimulants (p.ex. méthylphénidate) en combinaison avec la 
+rispéridone peut, en cas de modification de l'un des traitements ou des deux 
+traitements, entraîner l'apparition de symptômes extrapyramidaux (voir «Mises en 
+garde et précautions»).
+
+Médicaments hypotenseurs
+
+Une hypotension cliniquement significative a été observée pendant la phase 
+post-marketing lors de l'utilisation concomitante de la rispéridone et 
+d'antihypertenseurs.
+
+Médicaments connus pour allonger l'intervalle QT
+
+La prudence est de rigueur lors de la prescription de Risperdal avec des médicaments 
+connus pour allonger l'intervalle QT.
+
+Interactions pharmacocinétiques
+
+L'alimentation n'a pas d'influence sur l'absorption de Risperdal.
+
+La rispéridone est essentiellement métabolisée par le CYP2D6 et dans une moindre 
+mesure par le CYP3A4. La rispéridone et son métabolite actif, la 9-hydroxyrispéridone, 
+sont des substrats de la glycoprotéine (P-gp). Les substances qui modifient l'activité 
+du CYP2D6 ou les inhibiteurs ou inducteurs puissants de l'activité du CYP3A4 et/ou de 
+la P-gp peuvent influer sur la pharmacocinétique de la fraction antipsychotique active 
+de la rispéridone.
+
+Inhibiteurs puissants du CYP2D6
+
+L'utilisation concomitante de Risperdal et d'un inhibiteur puissant du CYP2D6 peut 
+augmenter la concentration plasmatique de la rispéridone, mais la fraction 
+antipsychotique active est moins fortement touchée. À fortes doses, les inhibiteurs 
+puissants du CYP2D6 peuvent augmenter la concentration de la fraction antipsychotique 
+active de la rispéridone (p.ex. paroxétine, voir ci-dessous). Lors de l'instauration 
+ou de l'arrêt de la co-administration de paroxétine, de bupropion, ou d'un autre 
+inhibiteur puissant du CYP2D6, surtout s'ils sont administrés à fortes doses, le 
+médecin doit réévaluer la posologie de Risperdal.
+
+Inhibiteurs du CYP3A4 et/ou de la P-gp
+
+L'utilisation concomitante de Risperdal et d'un inhibiteur puissant du CYP3A4 et/ou de 
+la P‑gp peut entraîner une augmentation importante de la concentration plasmatique de 
+la fraction antipsychotique active de la rispéridone. Lors de l'instauration ou de 
+l'arrêt de la co-administration d'itraconazole ou d'un autre inhibiteur puissant du 
+CYP3A4 et/ou de la P‑gp, le médecin doit réévaluer la posologie de Risperdal.
+
+Inducteurs du CYP3A4 et/ou de la P-gp
+
+L'utilisation concomitante de Risperdal et d'un inducteur puissant du CYP3A4 et/ou de 
+la P‑gp peut diminuer la concentration plasmatique de la fraction antipsychotique active 
+de la rispéridone. Lors de l'instauration ou de l'arrêt de la co-administration de la 
+carbamazépine ou d'un autre inducteur puissant du CYP3A4 et/ou de la P‑gp, le médecin 
+doit réévaluer la posologie de Risperdal.
+
+Substances fortement liées aux protéines
+
+Lors de l'utilisation concomitante de Risperdal et de médicaments fortement liés aux 
+protéines, aucun des principes actifs ne fait l'objet d'un déplacement cliniquement 
+significatif de sa liaison aux protéines plasmatiques.
+
+Lors de l'utilisation de médicaments associés, il convient de respecter les indications 
+sur les voies métaboliques et l'éventuelle nécessité d'un ajustement posologique figurant 
+dans l'information professionnelle correspondante.
+
+Patients pédiatriques
+
+Des études d'interactions n'ont été réalisées que chez l'adulte. La pertinence des 
+résultats de ces études pour les patients pédiatriques n'est pas connue.
+Exemples
+
+Des exemples de médicaments interagissant potentiellement avec la rispéridone ou dont 
+l'absence d'interaction avec la rispéridone a été démontrée sont répertoriés ci-dessous:
+Substances antibactériennes:
+
+    L'érythromycine, un inhibiteur modéré du CYP3A4, ne modifie pas la pharmacocinétique 
+    de la rispéridone et de la fraction antipsychotique active.
+    La rifampicine, un inducteur puissant du CYP3A4 et un inducteur de la P-gp, diminue 
+    la concentration plasmatique de la fraction antipsychotique active.
+
+Anticholinestérases:
+
+    La galantamine et le donépézil, des inhibiteurs de la cholinestérase tous deux 
+    substrats du CYP2D6 et du CYP3A4, n'ont pas d'influence cliniquement significative 
+    sur la pharmacocinétique de la rispéridone et de la fraction antipsychotique active.
+
+Anticonvulsivants:
+
+    La carbamazépine, un inducteur puissant du CYP3A4 et un inducteur de la P-gp, diminue 
+    la concentration plasmatique de la fraction antipsychotique active de la rispéridone.
+    Le topiramate diminue modérément la biodisponibilité de la rispéridone, mais n'a pas 
+    d'influence sur la biodisponibilité de la fraction antipsychotique active. Cette 
+    interaction n'est donc vraisemblablement pas cliniquement significative.
+    La rispéridone n'a pas d'influence cliniquement significative sur la pharmacocinétique 
+    du valproate ou du topiramate.
+
+Antimycosiques:
+
+    L'itraconazole, un inhibiteur puissant du CYP3A4 et un inhibiteur de la P-gp, administré 
+    à une dose de 200 mg/jour a entraîné une augmentation d'environ 70% des concentrations 
+    plasmatiques de la fraction antipsychotique active, à des doses de rispéridone de 2 à 
+    8 mg/jour.
+    Le kétoconazole, un inhibiteur puissant du CYP3A4 et un inhibiteur de la P-gp, administré 
+    à une dose de 200 mg/jour, a augmenté la concentration plasmatique de la rispéridone et a 
+    diminué la concentration plasmatique de la 9-hydroxyrispéridone.
+
+Antipsychotiques:
+
+    Les phénothiazines peuvent augmenter la concentration plasmatique de la rispéridone, mais 
+    n'ont pas d'influence sur la concentration plasmatique de la fraction antipsychotique active.
+    Pour l'aripiprazole, un substrat du CYP2D6 et du CYP3A, il n'existe pas de preuves 
+    cliniques suffisantes permettant d'évaluer un éventuel effet de Risperdal sur la 
+    pharmacocinétique de l'aripiprazole et de son métabolite actif, le déhydro-aripiprazole.
+
+Virostatiques:
+
+    Inhibiteurs de protéases: aucune donnée tirée d'études formelles n'est disponible. Cependant, 
+    le ritonavir étant un inhibiteur puissant du CYP3A4 et un inhibiteur faible du CYP2D6, le 
+    ritonavir et les inhibiteurs de protéases potentialisés par le ritonavir sont susceptibles 
+    d'augmenter la concentration de la fraction antipsychotique active de la rispéridone.
+
+Bêtabloquants:
+
+    Certains bêtabloquants peuvent augmenter la concentration plasmatique de la rispéridone, 
+    mais n'ont pas d'influence sur la concentration plasmatique de la fraction antipsychotique 
+    active.
+
+Inhibiteurs des canaux calciques:
+
+    Le vérapamil, un inhibiteur modéré du CYP3A4 et un inhibiteur de la P-gp, augmente la 
+    concentration plasmatique de la rispéridone et de la fraction antipsychotique active.
+
+Glycosides digitaliques:
+
+    La rispéridone n'a pas d'influence cliniquement significative sur la pharmacocinétique 
+    de la digoxine.
+
+Diurétiques:
+
+    Furosémide: tenir compte des indications figurant à la rubrique Mises en garde et 
+    précautions en ce qui concerne la mortalité accrue chez les patients âgés atteints de 
+    démence, recevant simultanément un traitement par le furosémide.
+
+Médicaments gastro-intestinaux:
+
+    Antagonistes des récepteurs H2: la cimétidine et la ranitidine, deux inhibiteurs faibles 
+    du CYP2D6 et du CYP3A4, ont augmenté la biodisponibilité de la rispéridone, mais seulement 
+    de manière marginale celle de la fraction antipsychotique active.
+
+Lithium:
+
+    La rispéridone n'a pas d'influence cliniquement significative sur la pharmacocinétique 
+    du lithium.
+
+ISRS et antidépresseurs tricycliques:
+
+    La fluoxétine, un inhibiteur puissant du CYP2D6, augmente la concentration plasmatique de 
+    la rispéridone, mais la fraction antipsychotique active est cependant moins fortement 
+    touchée.
+    La paroxétine, un inhibiteur puissant du CYP2D6, augmente la concentration plasmatique 
+    de la rispéridone, mais la fraction antipsychotique active est cependant moins fortement 
+    touchée à des doses allant jusqu'à 20 mg/jour. A des doses plus élevées de paroxétine, 
+    la concentration de la fraction antipsychotique active de la rispéridone peut cependant 
+    augmenter de manière dose-dépendante.
+    Les antidépresseurs tricycliques peuvent augmenter la concentration plasmatique de la 
+    rispéridone, mais n'ont pas d'influence sur la concentration plasmatique de la fraction 
+    antipsychotique active. L'amitriptyline n'a pas d'influence sur la pharmacocinétique de 
+    la rispéridone ou de la fraction antipsychotique active.
+    La sertraline, un inhibiteur faible du CYP2D6, et la fluvoxamine, un inhibiteur faible 
+    du CYP3A4, n'entraînent, à des doses allant jusqu'à 100 mg/jour, pas de variations 
+    cliniquement significatives de la concentration de la fraction antipsychotique active 
+    de la rispéridone. Cependant, à des doses de sertraline ou de fluvoxamine supérieures 
+    à 100 mg/jour, la concentration de la fraction antipsychotique active de la rispéridone 
+    peut augmenter.
