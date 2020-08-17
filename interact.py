@@ -80,8 +80,8 @@ class Application(Frame):
                     print("+ This drug is not in familylist")
 
             # Don't forget kemadrin akineton
-            oneDrug=["clopin", "leponex", "clopixol", "entumine", "fluanxol", 
-            "haldol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
+            oneDrug=["aripiprazol", "clopin", "leponex", "clozapine", "clopixol", "entumine", "fluanxol", 
+            "haldol", "halopéridol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
             "palipéridone", "olanzapine", "zyprexa", "risperdal", "risperdone", 
             "seroquel", "sequase", "quétiapine", "solian", "carbamazépine", 
             "tégrétol", "dépakine", "valproate", "ethosuximide", "pétinimid", 
@@ -91,7 +91,7 @@ class Application(Frame):
             "trileptal", "vimpat", "zonegran"]
 
             for i in oneDrug:
-                if i == "clopin" or i == "leponex":
+                if i == "clopin" or i == "leponex" or i == "clozapine":
                     if drug2 == i:
                         oneDrug2()
                 elif i == "clopixol":
@@ -206,54 +206,40 @@ class Application(Frame):
                         drug4 == "carbamazépine"):
                         print("+ Interactions ultraviolente !!!")
                         importationViolente()
-                
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
                         drug4 == "dépakine"):
                         print("+ Interactions !!!")
                         importationSeroDepak()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "érythromycine" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "érythromycine" or \
                         drug4 == "érythromycine"):
                         print("+ Interactions !!!")
                         importationSeroEry()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "kétoconazol" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazol" or \
                         drug4 == "kétoconazol"):
                         print("+ Interactions !!!")
                         importationSeroKeto()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
                         drug4 == "lithium"):
                         print("+ Interactions !!!")
                         importationSeroLith()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
                         drug4 == "méthadone"):
                         print("+ Interactions !!!")
                         importationSeroMeoh()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
                         drug4 == "alcool"):
                         print("+ Interactions !!!")
                         importationSeroOh()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
                         drug4 == "phénytoïne"):
                         print("+ Interactions !!!")
                         importationSeroPheny()
-
-                if i == "seroquel" or i == "sequase" or i == "quétiapine":
-                    if (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
                         drug4 == "risperdal"):
                         print("+ Interactions !!!")
                         importationSeroRisp()
+                    else:
+                        print("One of your choice doesn't exist")
 
                 if i == "carbamazépine" or i == "tégrétol":
                     if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
@@ -265,28 +251,60 @@ class Application(Frame):
                         drug4 == "pradaxa" or drug4 == "eliquis"):
                         print("+ Interactions !!!")
                         importationCarbaAnticoa()
-
-                if i == "carbamazépine" or i == "tégrétol":
-                    if (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
                         drug3 == "sequase" or drug3 == "quétiapine" or \
                         drug4 == "seroquel" or drug4 == "sequase" or \
                         drug4 == "quétiapine"):
                         print("+ Interactions !!!")
                         importationCarbaAntipsy()
-
-                if i == "carbamazépine" or i == "tégrétol":
-                    if (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "clopin" or \
+                        drug3 == "leponex" or drug3 == "clozapine" or \
+                        drug4 == "clopin" or drug4 == "leponex" or \
+                        drug4 == "clozapine"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
+                        drug3 == "valproate" or drug4 == "dépakine" or \
+                        drug4 == "valproate"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
                         drug3 == "zyprexa" or drug4 == "olanzapine" or \
                         drug4 == "zyprexa"):
                         print("+ Interactions !!!")
                         importationCarbaAntipsy()
-
-                if i == "carbamazépine" or i == "tégrétol":
-                    if (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
+                    elif (drug3 == i or drug4 == i) and (drug3 == "haldol" or \
+                        drug3 == "halopéridol" or drug4 == "haldol" or \
+                        drug4 == "halopéridol"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
                         drug3 == "aphénylbarbite" or drug4 == "phénobarbital" or \
                         drug4 == "aphénylbarbite"):
                         print("+ Interactions !!!")
                         importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "primidone" or \
+                        drug3 == "mysoline" or drug4 == "primidone" or \
+                        drug4 == "mysoline"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
+                        drug3 == "risperdone" or drug4 == "risperdal" or \
+                        drug4 == "risperdone"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "abilify" or \
+                        drug3 == "aripiprazol" or drug4 == "abilify" or \
+                        drug4 == "aripiprazol"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    elif (drug3 == i or drug4 == i) and (drug3 == "invega" or \
+                        drug3 == "palipéridone" or drug4 == "invega" or \
+                        drug4 == "palipéridone"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+                    else:
+                        print("One of your choice doesn't exist")
 
 
                 """
@@ -940,12 +958,12 @@ class Application(Frame):
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
             "Available drugs : \n"
-            "clopin, leponex, clopixol, entumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
-            "dogmatil, invega, olanzapine, zyprexa, risperdal, risperdone, seroquel, sequase, \n"
-            "quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, pétinimid,\n"
-            "mysoline, inovelon, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
-            "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
-            "vimpat, zonegran, palipéridone")
+            "aripiprazol, clopin, clozapine, leponex, clopixol, entumine, fluanxol, haldol, halopéridol, nozinan,\n"
+            "tiapridal, abilify, dogmatil, invega, olanzapine, zyprexa, risperdal, risperdone,\n"
+            "seroquel, sequase, quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate,\n" 
+            "ethosuximide, pétinimid, mysoline, inovelon, aphénylbarbite, phénytoïne, briviact,\n"
+            "fycompa, gabitril, inovelon, keppra, lamictal, lyrica, neurontin, sabril, taloxa,\n" 
+            "tiapridal, topamax, topiramate, trileptal, vimpat, zonegran, palipéridone")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()
