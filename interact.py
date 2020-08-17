@@ -82,11 +82,11 @@ class Application(Frame):
             # Don't forget kemadrin akineton
             oneDrug=["clopin", "leponex", "clopixol", "entumine", "fluanxol", 
             "haldol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
-            "palipéridone", "olanzapine", "zyprexa", "risperdal", 
-            "risperdone", "seroquel", "sequase", "quétiapine", "solian", 
-            "carbamazépine", "tégrétol", "dépakine", "valproate", "ethosuximide", 
-            "pétinimid", "mysoline", "phénobarbital", "aphénylbarbite", "phénytoïne", 
-            "briviact", "fycompa", "gabitril", "inovelon", "keppra", "lamictal", "lyrica", 
+            "palipéridone", "olanzapine", "zyprexa", "risperdal", "risperdone", 
+            "seroquel", "sequase", "quétiapine", "solian", "carbamazépine", 
+            "tégrétol", "dépakine", "valproate", "ethosuximide", "pétinimid", 
+            "mysoline", "phénobarbital", "aphénylbarbite", "phénytoïne", "briviact", 
+            "fycompa", "gabitril", "inovelon", "keppra", "lamictal", "lyrica", 
             "neurontin", "sabril", "taloxa", "tiapridal", "topamax", "topiramate", 
             "trileptal", "vimpat", "zonegran"]
 
@@ -614,6 +614,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'phenobarbit.txt' does not exist !", outnote)
 
+        def oneDrug28():
+            """
+            Per drug inovelon
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/inovelon.txt'):
+                    print("+ File 'inovelon.txt' exist (read)!")
+                    with open('./medifiles/perdrug/inovelon.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'inovelon.txt' does not exist !", outnote)
+
         def oneDrug32():
             """
             Per drug neurontin
@@ -867,7 +881,7 @@ class Application(Frame):
             "clopin, leponex, clopixol, entumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
             "dogmatil, invega, olanzapine, zyprexa, risperdal, risperdone, seroquel, sequase, \n"
             "quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, pétinimid,\n"
-            "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
+            "mysoline, inovelon, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
             "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
             "vimpat, zonegran, palipéridone")
         self.textBox.pack(padx=20, pady=20)

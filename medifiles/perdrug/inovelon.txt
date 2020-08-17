@@ -1,0 +1,87 @@
+Inovelon :
+======
+
+Contre-indications :
+--------------------------
+
+Syndrome du QT court familial (voir «Mises en garde et précautions»)
+
+Hypersensibilité à la substance active, aux dérivés triazolés ou à l'un des excipients.
+
+Suspension buvable: La suspension orale contenant du sorbitol, elle n'est pas 
+adaptée aux personnes présentant une intolérance au fructose (intolérance au 
+fructose héréditaire). Elle ne doit pas non plus être utilisée chez les personnes 
+présentant une hypersensibilité aux parabènes (Parahydroxybenzoate de méthyle et 
+parahydroxybenzoate de propyle E216, E218) et au propylène glycol (E1520).
+
+
+Interactions :
+------------------
+
+Effets possibles d'autres médicaments sur Inovelon
+
+Autres médicaments antiépileptiques
+
+Aucune modification cliniquement pertinente des concentrations de rufinamide 
+n'a été observée lors de l'administration concomitante de médicaments 
+antiépileptiques connus pour être des inducteurs enzymatiques. Chez les patients 
+traités par Inovelon, l'instauration du valproate peut entraîner une augmentation 
+significative des concentrations plasmatiques de rufinamide (voir les 
+recommandations à la rubrique «Posologie/Mode d'administration»).
+
+L'introduction ou l'arrêt de ces médicaments ou l'adaptation de leur posologie 
+pendant le traitement par Inovelon peut nécessiter une adaptation de la posologie 
+d'Inovelon.
+
+Aucune modification significative de la concentration de rufinamide n'est observée 
+après l'administration concomitante de lamotrigine, de topiramate ou de benzodiazépines.
+Effet possible d'Inovelon sur d'autres médicaments
+Autres médicaments antiépileptiques
+
+Les interactions pharmacocinétiques entre le rufinamide et les autres agents 
+antiépileptiques ont été évaluées chez les patients épileptiques en utilisant 
+une modélisation pharmacocinétique dans la population. Le rufinamide ne semble 
+pas avoir d'effet clinique pertinent sur les concentrations à l'équilibre de 
+la carbamazépine, de la lamotrigine, du phénobarbital, de la phénytoïne, du 
+topiramate ou du valproate.
+Contraceptifs oraux
+
+La co-administration pendant 14 jours de 800 mg de rufinamide deux fois par 
+jour et d'un contraceptif oral combiné comprenant 35 µg d'éthinylestradiol et 
+1 mg de noréthindrone a entraîné une diminution de l'ASC0-24 moyenne de 22% 
+pour l'éthinylestradiol et de 14% pour la noréthindrone. Aucune étude n'a été 
+menée avec les autres contraceptifs oraux et avec les implants contraceptifs. 
+Il convient de conseiller aux femmes en âge de procréer et sous contraceptif 
+hormonal d'utiliser un moyen de contraception supplémentaire sûr et efficace 
+(voir «Mises en garde et précautions» et «Grossesse/Allaitement»).
+Enzymes du cytochrome P450
+
+Le rufinamide est métabolisé par hydrolyse; il n'est pas métabolisé à un taux 
+appréciable par les enzymes du cytochrome P450. En outre, le rufinamide n'inhibe 
+pas l'activité des enzymes du cytochrome P450 (voir «Pharmacocinétique»). Ainsi, 
+il est improbable que des interactions cliniquement significatives dues à 
+l'inhibition du système du cytochrome P450 par le rufinamide se produisent. Il a 
+été montré que le rufinamide induisait l'enzyme CYP3A4 du cytochrome P450 et 
+pouvait ainsi réduire les concentrations plasmatiques des médicaments métabolisés 
+par cette enzyme. L'effet était léger à modéré. L'activité moyenne du CYP3A4, 
+évaluée par la clairance du triazolam, a été augmentée de 55% après 11 jours de 
+traitement par le rufinamide à raison de 400 mg deux fois par jour. L'exposition 
+au triazolam a été réduite de 36%. Des doses plus fortes de rufinamide peuvent 
+entraîner une induction plus marquée. Il n'est pas exclu que le rufinamide puisse 
+également diminuer l'exposition à des médicaments métabolisés par d'autres enzymes 
+ou transportés par des protéines de transport telles que la glycoprotéine P.
+
+Il est recommandé de surveiller attentivement les patients traités par des 
+médicaments métabolisés par le système enzymatique CYP3A, pendant deux semaines, 
+au début ou après l'arrêt du traitement par Inovelon ou après une variation 
+importante de la posologie. Il peut s'avérer nécessaire d'envisager une adaptation 
+de la posologie du médicament administré de façon concomitante. Ces 
+recommandations doivent également être prises en considération lorsque le 
+rufinamide est utilisé en même temps que des médicaments à indice thérapeutique 
+étroit comme la warfarine ou la digoxine.
+
+Une étude spécifique d'interaction chez des sujets sains n'a mis en évidence 
+aucune influence du rufinamide à une dose de 400 mg deux fois par jour sur les 
+paramètres pharmacocinétiques de l'olanzapine, un substrat du CYP1A2.
+
+Il n'existe aucune donnée relative à l'interaction entre le rufinamide et l'alcool.
