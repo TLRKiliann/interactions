@@ -266,6 +266,29 @@ class Application(Frame):
                         print("+ Interactions !!!")
                         importationCarbaAnticoa()
 
+                if i == "carbamazépine" or i == "tégrétol":
+                    if (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
+                        drug3 == "sequase" or drug3 == "quétiapine" or \
+                        drug4 == "seroquel" or drug4 == "sequase" or \
+                        drug4 == "quétiapine"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+
+                if i == "carbamazépine" or i == "tégrétol":
+                    if (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
+                        drug3 == "zyprexa" or drug4 == "olanzapine" or \
+                        drug4 == "zyprexa"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+
+                if i == "carbamazépine" or i == "tégrétol":
+                    if (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
+                        drug3 == "aphénylbarbite" or drug4 == "phénobarbital" or \
+                        drug4 == "aphénylbarbite"):
+                        print("+ Interactions !!!")
+                        importationCarbaAntipsy()
+
+
                 """
                 elif i == "clopin" or i == "leponex":
                 
@@ -808,6 +831,17 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'carba_anticoa.txt' does not exist !", outnote)
+
+        def importationCarbaAntipsy():
+            try:
+                if os.path.getsize('./medifiles/interdrug/carba_neuro.txt'):
+                    print("+ File 'carba_neuro.txt' exist (read)!")
+                    with open('./medifiles/interdrug/carba_neuro.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'carba_neuro.txt' does not exist !", outnote)
 
         """
         # Display text in textbox from medifiles files

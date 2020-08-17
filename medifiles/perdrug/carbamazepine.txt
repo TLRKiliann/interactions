@@ -4,20 +4,23 @@ Carbamazepine :
 Contre-indications
 ------------------
 
-Antécédents d'hypersensibilité à la carbamazépine et l'oxcarbazépine ou à 
-des médicaments de structure apparentée (antidépresseurs tricycliques p.ex.) 
+Antécédents d'hypersensibilité à la carbamazépine et l'oxcarbazépine (trileptal (mae)) 
+ou à des médicaments de structure apparentée (antidépresseurs tricycliques p.ex.) 
 ou à un autre composant du médicament.
 Patients avec bloc auriculo-ventriculaire, dépression médullaire ou 
 antécédents de porphyrie hépatique (p.ex. porphyrie aiguë intermittente, 
 porphyrie variegata, porphyrie cutanée tardive).
+
 L'utilisation de Tégrétol en combinaison avec les inhibiteurs de la 
 monoamine-oxydase (IMAO) n'est pas recommandée (voir «Interactions»). 
 Avant de commencer un traitement par Tégrétol, il faut interrompre le 
 traitement par IMAO au moins 2 semaines avant voire plus, si la situation 
 clinique le permet.
+
 En raison de sa teneur en sorbitol, Tégrétol 2% suspension orale n'est pas 
 approprié pour les personnes ayant une intolérance au fructose (intolérance 
 héréditaire au fructose).
+
 La suspension ne doit pas non plus être utilisée chez les personnes ayant 
 une hypersensibilité aux parabènes (E 200, E216, E 218).
 
@@ -77,8 +80,8 @@ des effets indésirables (p. ex. vertiges, somnolence, ataxie, diplopie), la
 posologie de Tégrétol doit être surveillée attentivement et éventuellement 
 ajustée, en cas d'administration simultanée avec les substances suivantes: 
 
-loxapine, quétiapine, primidone, progabide, acide valproïque, valnoctamide et 
-valpromide.
+loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque, 
+valnoctamide et valpromide.
 
 
 Substances susceptibles de faire baisser les concentrations plasmatiques de 
@@ -104,7 +107,6 @@ Substances dermatologiques: isotrétinoïne.
 
 Autres: préparations phytothérapeutiques contenant du millepertuis 
 (Hypericum perforatum).
-
 
 
 Effet de Tégrétol sur les taux plasmatiques de substances administrées 
@@ -202,7 +204,7 @@ Médicaments destinés au traitement de la dysfonction érectile: tadalafil.
 A évaluer en cas de traitement associé :
 ========================================
 
---- Lévétiracétam ---
+--- Lévétiracétam (keppra) ---
 Il a été indiqué que l'utilisation simultanée de la carbamazépine et du 
 lévétiracétam augmente la toxicité de la carbamazépine.
 

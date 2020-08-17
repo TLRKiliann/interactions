@@ -1,7 +1,38 @@
 
---- Neuroleptiques ---
+--- Carbamazépine (tégrétol) et Neuroleptiques ---
 
 Dans la littérature, il est mentionné que la prise additionnelle de 
 carbamazépine lors de traitement préexistant par des neuroleptiques peut 
 élever le risque de survenue d'un syndrome malin des neuroleptiques ou 
 d'un syndrome de Steven-Johnson.
+
+Antipsychotiques: loxapine, olanzapine, quétiapine.
+
+Substances susceptibles d'augmenter les concentrations plasmatiques 
+d'époxy-10,11-carbamazépine:
+
+L'augmentation du taux plasmatique d'époxy-10,11-carbamazépine pouvant causer 
+des effets indésirables (p. ex. vertiges, somnolence, ataxie, diplopie), la 
+posologie de Tégrétol doit être surveillée attentivement et éventuellement 
+ajustée, en cas d'administration simultanée avec les substances suivantes: 
+
+loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque (dépakine), 
+valnoctamide et valpromide.
+
+Effet de Tégrétol sur les taux plasmatiques de substances administrées 
+simultanément:
+
+Antipsychotiques: clozapine, halopéridol (haldol), brompéridol, olanzapine (zyprexa), 
+quétiapine (sequase ou seroquel), rispéridone (risperdal), ziprasidone, 
+aripiprazole (abilify), palipéridone (invega).
+
+--- Phénobarbital et Lévothyroxine (euthyrox, eltroxine) ---
+Hormones thyroïdiennes: lévothyroxine: la carbamazépine semble accroître 
+l'élimination des hormones thyroïdiennes et en augmenter les besoins 
+chez les patients souffrant d'hypothyroïdie. C'est pourquoi chez les 
+patients qui reçoivent une thérapie de substitution, il faut contrôler 
+les paramètres thyroïdiens au début et à la fin d'un traitement par 
+Tégrétol. Le cas échéant, il faut procéder à un ajustement posologique 
+des préparations à base d'hormones thyroïdiennes. En particulier, le 
+traitement simultané par carbamazépine et autres anticonvulsifs (p. ex. 
+phénobarbital) peut modifier la fonction thyroïdienne.
