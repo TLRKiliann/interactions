@@ -139,7 +139,7 @@ class Application(Frame):
                 elif i == "dépakine" or i == "valproate":
                     if drug2 == i:
                         oneDrug20()
-                elif i == "ethosuximide":
+                elif i == "ethosuximide" or i == "pétinimid":
                     if drug2 == i:
                         oneDrug21()
                 elif i == "mysoline":
@@ -599,6 +599,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'depakine.txt' does not exist !", outnote)
+
+        def oneDrug21():
+            """
+            Per drug ethosuximide
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/ethosuximide.txt'):
+                    print("+ File 'ethosuximide.txt' exist (read)!")
+                    with open('./medifiles/perdrug/ethosuximide.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'ethosuximide.txt' does not exist !", outnote)
 
         def oneDrug22():
             """
