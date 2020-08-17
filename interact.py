@@ -80,7 +80,7 @@ class Application(Frame):
                     print("+ This drug is not in familylist")
 
             # Don't forget kemadrin akineton
-            oneDrug=["clopin", "leponex", "clopixol", "enthumine", "fluanxol", 
+            oneDrug=["clopin", "leponex", "clopixol", "entumine", "fluanxol", 
             "haldol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
             "palipéridone", "olanzapine", "zyprexa", "orap", "risperdal", 
             "risperdone", "semap", "seroquel", "sequase", "quétiapine", "solian", 
@@ -97,7 +97,7 @@ class Application(Frame):
                 elif i == "clopixol":
                     if drug2 == i:
                         oneDrug3()
-                elif i == "enthumine":
+                elif i == "entumine":
                     if drug2 == i:
                         oneDrug4()
                 elif i == "fluanxol":
@@ -412,6 +412,20 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'clopixol.txt' does not exist !", outnote)
+
+        def oneDrug4():
+            """
+            Per drug entumine
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/entumine.txt'):
+                    print("+ File 'entumine.txt' exist (read)!")
+                    with open('./medifiles/perdrug/entumine.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'entumine.txt' does not exist !", outnote)
 
         def oneDrug5():
             """
@@ -817,7 +831,7 @@ class Application(Frame):
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
             "Available drugs : \n"
-            "clopin, leponex, clopixol, enthumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
+            "clopin, leponex, clopixol, entumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
             "dogmatil, invega, olanzapine, zyprexa, orap, risperdal, risperdone, semap, seroquel, sequase, \n"
             "quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, pétinimid,\n"
             "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
