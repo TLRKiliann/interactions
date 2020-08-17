@@ -1,0 +1,59 @@
+Tiapridal :
+======
+
+Contre-indications :
+--------------------------
+
+    Hypersensibilité au tiapride ou aux autres composants.
+    Tumeurs prolactine-dépendantes concomitantes, p.ex. prolactinome de la glande pituitaire, 
+    cancer du sein.
+    En association avec la lévodopa.
+    Ce produit est contre-indiqué chez les parkinsoniens.
+    Phéochromocytome (en raison de poussées hypertensives possibles).
+    En cas d'allaitement (voir «Allaitement»).
+
+
+Interactions :
+------------------
+
+Association contre-indiquée
+
+Lévodopa: antagonisme réciproque de la lévodopa et des neuroleptiques.
+
+En cas de traitement par les neuroleptiques, ne pas traiter le syndrome extrapyramidal 
+par la lévodopa (inhibition et perte d'activité des neuroleptiques). Chez les 
+parkinsoniens traités par la lévodopa, en cas de nécessité de neuroleptiques, utiliser 
+de préférence ceux donnant peu d'effets extrapyramidaux, comme la chlorpromazine ou la 
+lévomépromazine.
+
+Associations déconseillées
+
+Alcool: majoration par l'alcool de l'effet sédatif des neuroleptiques. L'altération de 
+la vigilance peut rendre dangereuses la conduite de véhicules et l'utilisation de machines. 
+Eviter la prise de boissons alcoolisées et de médicaments contenant de l'alcool.
+
+Association avec les médicaments suivants, qui peuvent causer des torsades de pointes ou 
+prolonger l'intervalle QT:
+
+    Médicaments provoquant une bradycardie comme les β-bloquants, bloqueurs des canaux 
+    calciques pouvant provoquer une bradycardie comme diltiazem et vérapamil, clonidine, 
+    guanfacine; digitaliques.
+    Médicaments provoquant un déséquilibre électrolytique, notamment une hypokaliémie: 
+    diurétiques hypokaliémiants, laxatifs stimulants, amphotéricine B IV; glucocorticoïdes, 
+    tétracosactides. L'hypokaliémie devrait être corrigée.
+    Anti-arythmiques de la classe Ia comme quinidine et disopyramide.
+    Anti-arythmiques de la classe III comme amiodarone, sotalol.
+    Autres médicaments comme pimozide, sultopride, halopéridol, thioridazine, méthadone, 
+    antidépresseurs du type imipramine, lithium, bépridil, cisapride, érythromycine IV, 
+    vincamine IV, halofantrine, pentamidine, sparfloxacine.
+
+Associations à prendre en compte
+
+Antihypertenseurs: effet antihypertenseur et risque d'hypotension orthostatique majorés 
+(effet additif).
+
+Autres dépresseurs du système nerveux central: dérivés morphiniques (analgésiques et 
+antitussifs), la plupart des antihistaminiques H1, barbituriques, benzodiazépines, 
+tranquillisants autres que benzodiazépines, clonidine et apparentés: majoration de la 
+dépression centrale, pouvant avoir des conséquences importantes, notamment en cas de 
+conduite automobile ou d'utilisation de machines.
