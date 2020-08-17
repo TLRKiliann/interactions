@@ -199,7 +199,7 @@ class Application(Frame):
                 else:
                     print("+ This drug is not in the list")
 
-            # drug1 VS drug2 (interactions with seroquel)        
+            # drug1 VS drug2 (interactions with seroquel)
             for i in oneDrug:
                 if i == "seroquel" or i == "sequase" or i == "quétiapine":
                     if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
@@ -241,7 +241,7 @@ class Application(Frame):
                     else:
                         print("One of your choice doesn't exist in the list")
 
-                # drug1 VS drug2 (interactions with carbamazépine)    
+                # drug1 VS drug2 (interactions with carbamazépine)
                 if i == "carbamazépine" or i == "tégrétol":
                     if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
                         drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
@@ -307,6 +307,76 @@ class Application(Frame):
                     else:
                         print("One of your choice doesn't exist in the list")
 
+                # drug1 VS drug2 (interactions with carbamazépine)
+                if i == "léponex" or i == "clozapine" or i == "clopin":
+                    if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
+                        drug3 == "tégrétol" or drug4 == "carbamazépine" or \
+                        drug4 == "tégrétol"):
+                        print("+ Interactions !!!")
+                        importationLepoCarba()
+
+                    elif (drug3 == i or drug4 == i) and \
+                        (drug3 == "inhibiteurs de la pompe à protons" or \
+                        drug3 == "IPP" or \
+                        drug4 == "inhibiteurs de la pompe à protons" or \
+                        drug4 == "IPP"):
+                        print("+ Interactions !!!")
+                        importationLepoIpp()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
+                        drug3 == "ATD" or drug4 == "antidépresseurs" or \
+                        drug4 == "ATD"):
+                        print("+ Interactions !!!")
+                        importationLepoAtd()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "ATB" or \
+                        drug3 == "antibiotiques" or drug4 == "ATB" or \
+                        drug4 == "antibiotiques"):
+                        print("+ Interactions !!!")
+                        importationLepoAtb()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "antihistaminiques" or \
+                        drug4 == "antihistaminiques"):
+                        print("+ Interactions !!!")
+                        importationLepoAntiHist()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
+                        drug4 == "antiépileptiques" or drug3 == "MAE" or drug4 == "MAE"):
+                        print("+ Interactions !!!")
+                        importationLepoMae()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
+                        drug4 == "neuroleptiques" or drug3 == "neuro" or drug4 == "neuro"):
+                        print("+ Interactions !!!")
+                        importationLepoNeuro()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
+                        drug4 == "benzodiazépines" or drug3 == "BZD" or drug4 == "BZD"):
+                        print("+ Interactions !!!")
+                        importationLepoBzd()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+                        drug4 == "alcool" or drug3 == "OH" or drug4 == "OH"):
+                        print("+ Interactions !!!")
+                        importationLepoOh()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
+                        drug4 == "méthadone" or drug3 == "MeOH" or drug4 == "MeOH"):
+                        print("+ Interactions !!!")
+                        importationLepoMeOH()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                        drug4 == "lithium"):
+                        print("+ Interactions !!!")
+                        importationLepoLith()
+
+                    elif (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
+                        drug4 == "anticoagulants"):
+                        print("+ Interactions !!!")
+                        importationLepoCoag()
+
+                    else:
+                        print("One of your choice doesn't exist in the list")
 
                 """
                 elif i == "clopin" or i == "leponex":
@@ -875,6 +945,139 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'carba_neuro.txt' does not exist !", outnote)
+
+
+        def importationLepoCarba():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_carba.txt'):
+                    print("+ File 'lepo_carba.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_carba.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_carba.txt' does not exist !", outnote)
+
+        def importationLepoIpp():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_ipp.txt'):
+                    print("+ File 'lepo_ipp.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_ipp.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_ipp.txt' does not exist !", outnote)
+
+        def importationLepoAtd():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_atd.txt'):
+                    print("+ File 'lepo_atd.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_atd.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_atd.txt' does not exist !", outnote)
+
+        def importationLepoAtb():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_atb.txt'):
+                    print("+ File 'lepo_atb.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_atb.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_atb.txt' does not exist !", outnote)
+
+        def importationLepoAntiHist():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_antihist.txt'):
+                    print("+ File 'lepo_antihist.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_antihist.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_antihist.txt' does not exist !", outnote)
+
+        def importationLepoMae():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_mae.txt'):
+                    print("+ File 'lepo_mae.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_mae.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_mae.txt' does not exist !", outnote)
+
+        def importationLepoNeuro():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_neuro.txt'):
+                    print("+ File 'lepo_neuro.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_neuro.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_neuro.txt' does not exist !", outnote)
+
+        def importationLepoBzd():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_bzd.txt'):
+                    print("+ File 'lepo_bzd.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_bzd.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_bzd.txt' does not exist !", outnote)
+
+        def importationLepoOh():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_oh.txt'):
+                    print("+ File 'lepo_oh.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_oh.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_oh.txt' does not exist !", outnote)
+
+        def importationLepoMeOH():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_meoh.txt'):
+                    print("+ File 'lepo_meoh.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_meoh.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_meoh.txt' does not exist !", outnote)
+
+        def importationLepoLith():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_lith.txt'):
+                    print("+ File 'lepo_lith.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_lith.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_lith.txt' does not exist !", outnote)
+
+        def importationLepoCoag():
+            try:
+                if os.path.getsize('./medifiles/interdrug/lepo_coagul.txt'):
+                    print("+ File 'lepo_coagul.txt' exist (read)!")
+                    with open('./medifiles/interdrug/lepo_coagul.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'lepo_coagul.txt' does not exist !", outnote)
 
         """
         # Display text in textbox from medifiles files

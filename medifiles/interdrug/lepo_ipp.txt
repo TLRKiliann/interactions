@@ -1,0 +1,5 @@
+
+L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
+Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
+(faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous 
+combinaison de lanzoprazole avec la paroxétine).
