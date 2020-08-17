@@ -1,0 +1,29 @@
+Sabril (vigabatrin) :
+============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue au principe actif ou à l'un des excipients. 
+Epilepsie généralisée primaire, idiopathique.
+
+
+Interactions :
+------------------
+
+Des interactions avec d'autres médicaments sont peu vraisemblables, étant 
+donné que Sabril n'est pas métabolisé, n'est pas lié aux protéines plasmatiques 
+et n'est pas inducteur des cytochromes P 450 hépatiques.
+
+Lors d'administration simultanée avec le vigabatrin, une diminution de 
+concentration plasmatique de phénytoïne a été rapportée lors de certaines 
+études. Cette diminution variait en moyenne de 16 à 33%. Le mécanisme de cette 
+interaction n'est pas encore élucidé, mais ne semble pas jouer dans la plupart 
+des cas un rôle clinique.
+
+Les concentrations plasmatiques de carbamazépine, de phénobarbital, de primidone 
+et d'acide valproïque ont été également déterminées; il n'existait aucune 
+interaction significative.
+
+L’utilisation concomitante du vigabatrin avec clonazépam peut exacerber les effets 
+sédatifs ou conduire au coma (voir «Mises en garde et précautions»).

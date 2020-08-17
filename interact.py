@@ -595,6 +595,20 @@ class Application(Frame):
             except FileNotFoundError as outnote:
                 print("+ Sorry, file 'neurontin.txt' does not exist !", outnote)
 
+        def oneDrug33():
+            """
+            Per drug sabril
+            """
+            try:
+                if os.path.getsize('./medifiles/perdrug/sabril.txt'):
+                    print("+ File 'sabril.txt' exist (read)!")
+                    with open('./medifiles/perdrug/sabril.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'sabril.txt' does not exist !", outnote)
+
         def oneDrug35():
             """
             Per drug topamax and topiramate
