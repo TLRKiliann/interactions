@@ -82,13 +82,13 @@ class Application(Frame):
             # Don't forget kemadrin akineton
             oneDrug=["clopin", "leponex", "clopixol", "entumine", "fluanxol", 
             "haldol", "nozinan", "tiapridal", "abilify", "dogmatil", "invega", 
-            "palipéridone", "olanzapine", "zyprexa", "orap", "risperdal", 
-            "risperdone", "semap", "seroquel", "sequase", "quétiapine", "solian", 
+            "palipéridone", "olanzapine", "zyprexa", "risperdal", 
+            "risperdone", "seroquel", "sequase", "quétiapine", "solian", 
             "carbamazépine", "tégrétol", "dépakine", "valproate", "ethosuximide", 
             "pétinimid", "mysoline", "phénobarbital", "aphénylbarbite", "phénytoïne", 
             "briviact", "fycompa", "gabitril", "inovelon", "keppra", "lamictal", "lyrica", 
             "neurontin", "sabril", "taloxa", "tiapridal", "topamax", "topiramate", 
-            "trileptal", "trobalt", "vimpat", "zonegran"]
+            "trileptal", "vimpat", "zonegran"]
 
             for i in oneDrug:
                 if i == "clopin" or i == "leponex":
@@ -187,9 +187,6 @@ class Application(Frame):
                 elif i == "trileptal":
                     if drug2 == i:
                         oneDrug36()
-                elif i == "trobalt":
-                    if drug2 == i:
-                        oneDrug37()
                 elif i == "vimpat":
                     if drug2 == i:
                         oneDrug38()
@@ -854,11 +851,11 @@ class Application(Frame):
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
             "Available drugs : \n"
             "clopin, leponex, clopixol, entumine, fluanxol, haldol, nozinan, tiapridal, abilify,\n" 
-            "dogmatil, invega, olanzapine, zyprexa, orap, risperdal, risperdone, semap, seroquel, sequase, \n"
+            "dogmatil, invega, olanzapine, zyprexa, risperdal, risperdone, seroquel, sequase, \n"
             "quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate, ethosuximide, pétinimid,\n"
             "mysoline, phénobarbital, aphénylbarbite, phénytoïne, briviact, fycompa, gabitril, inovelon,\n"
             "keppra, lamictal, lyrica, neurontin, sabril, taloxa, tiapridal, topamax, topiramate, trileptal,\n" 
-            "trobalt, vimpat, zonegran, palipéridone")
+            "vimpat, zonegran, palipéridone")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()
