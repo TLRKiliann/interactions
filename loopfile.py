@@ -218,6 +218,11 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "josamycine"):
                 print("+ Interactions !!!")
                 importationCarbaAtb(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "mae" or \
+                drug4 == "mae"):
+                importationCarbaMae(self)
+
             elif (drug3 == i or drug4 == i) and (drug3 == "atd" or \
                 drug3 == "antidépresseurs" or drug4 == "atd" or \
                 drug4 == "antidépresseurs"):

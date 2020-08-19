@@ -172,6 +172,17 @@ def importationCarbaAntitub(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_isonia.txt' does not exist !", outnote)
 
+def importationCarbaMae(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_mae.txt'):
+            print("+ File 'carba_mae.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_mae.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_mae.txt' does not exist !", outnote)
+
 def importationCarbaKeppra(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_levetira.txt'):

@@ -291,4 +291,3 @@ de la perphénazine dans les analyses par CLHP, suite à une interférence.
 La carbamazépine et son métabolite 10,11-époxyde pourraient donner des 
 résultats faux positifs lors du dosage des antidépresseurs tricycliques 
 dans les essais immunologiques par polarisation de fluorescence.
-
