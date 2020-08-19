@@ -10,3 +10,73 @@ correspondant. Les interactions suivantes sont particulièrement importantes:
 Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que neuroleptiques, 
 IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
 éventuelle du traitement.
+
+    Phénobarbital (aphénylbarbite)
+
+Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
+catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
+une surveillance clinique est recommandée durant les 15 premiers jours du traitement combiné, 
+avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
+des taux plasmatiques de phénobarbital si nécessaire.
+
+    Primidone (mysoline)
+
+Depakine Chrono augmente les taux plasmatiques de primidone avec majoration de ses effets 
+indésirables (sédation). Après usage prolongé, cette interaction cesse. Une surveillance 
+clinique et une adaptation éventuelle de la posologie de la primidone sont recommandées plus 
+particulièrement au début de l'association thérapeutique.
+
+    Phénytoïne
+
+Depakine Chrono diminue les concentrations plasmatiques totales de phénytoïne. Il augmente 
+surtout la fraction libre de phénytoïne, pouvant entraîner des signes de surdosage (l'acide 
+valproïque déplace la phénytoïne de ses sites de fixation protéique plasmatiques et ralentit 
+son catabolisme hépatique). Une surveillance clinique est donc recommandée. En cas de dosage 
+plasmatique de phénytoïne, c'est surtout la forme libre qui doit être prise en compte.
+
+    Carbamazépine (tégrétol)
+
+Une toxicité clinique a été rapportée en cas d'association de valproate de sodium/acide 
+valproïque et de carbamazépine, puisque le valproate de sodium/acide valproïque peuvent 
+potentialiser la toxicité de la carbamazépine. Une surveillance clinique est donc recommandée 
+tout particulièrement en début de traitement par l'association et la posologie sera 
+éventuellement ajustée.
+
+    Lamotrigine (lamictal)
+
+Depakine entrave le métabolisme de la lamotrigine et prolonge sa demi-vie moyenne d'élimination 
+de presque deux fois. Cette interaction peut entraîner une augmentation des effets toxiques de 
+la lamotrigine, en particulier des éruptions cutanées sévères. Certaines réactions cutanées 
+graves qui sont apparues dans les six premières semaines des polythérapies ont été rapportées, 
+mais ces dernières ont régressé partiellement lors de l'arrêt du traitement ou, dans certains 
+cas, uniquement après un traitement approprié. Par conséquent, une surveillance clinique est 
+recommandée et les doses de lamotrigine doivent être diminuées le cas échéant
+
+    Zidovudine
+
+Le valproate de sodium/acide valproïque peuvent augmenter la concentration plasmatique de 
+zidovudine avec majoration des risques de toxicité de celle-ci.
+
+    Felbamate (taloxa)
+
+Depakine peut diminuer la clairance moyenne du felbamate jusqu'à 16%.
+
+    Antiépileptiques: Les antiépileptiques avec effet inducteur enzymatique (notamment phénytoïne, 
+    phénobarbital, primidone, carbamazépine) diminuent les concentrations sériques de l'acide 
+    valproïque. En cas d'association, il faut adapter le traitement en fonction de la réponse 
+    clinique et des dosages sanguins.
+
+    L'association du felbamate et de l'acide valproïque, peut entraîner une diminution de la 
+    clairance de l'acide valproïque de 22% à 50%, et par conséquent une augmentation dose-
+    dépendante de la concentration sérique en acide valproïque. Une surveillance des taux 
+    plasmatiques est nécessaire.
+
+    Les taux d'acide valproïque dans le sérum peuvent être augmentés en cas de co-administration 
+    avec la phénytoïne ou le phénobarbital. Par conséquent, les patients qui reçoivent ces deux 
+    traitements doivent être attentivement surveillés à la recherche de signes et de symptômes 
+    d'hyperammoniémie.
+
+L'administration concomitante de valproate et de topiramate (topamax) ou d'acétazolamide a été 
+associée à l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller soigneusement 
+l'apparition de symptômes d'encéphalopathie hyperammoniémique chez les patients traités par 
+ces 2 médicaments.

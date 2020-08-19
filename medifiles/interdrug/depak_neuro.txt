@@ -10,3 +10,11 @@ correspondant. Les interactions suivantes sont particulièrement importantes:
 Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que neuroleptiques, 
 IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
 éventuelle du traitement.
+
+    Phénobarbital (aphénylbarbite)
+
+Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
+catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
+une surveillance clinique est recommandée durant les 15 premiers jours du traitement combiné, 
+avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
+des taux plasmatiques de phénobarbital si nécessaire.
