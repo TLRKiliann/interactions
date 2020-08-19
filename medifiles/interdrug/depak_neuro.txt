@@ -1,0 +1,12 @@
+
+Effets du valproate sur les autres médicaments
+
+L'acide valproïque est un inhibiteur des isoenzymes CYP2C9 et CYP3A du cytochrome P450. 
+Les effets métaboliques auxquels il convient de s'attendre peuvent être déduits du schéma 
+correspondant. Les interactions suivantes sont particulièrement importantes:
+
+    Neuroleptiques, IMAO, antidépresseurs et benzodiazépines
+
+Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que neuroleptiques, 
+IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
+éventuelle du traitement.
