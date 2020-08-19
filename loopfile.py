@@ -5,8 +5,7 @@
 from tkinter import *
 from listfile import *
 from family import *
-import os
-import subprocess
+from onedrug import *
 
 
 def luckyLoop(self, drug1):
@@ -41,118 +40,118 @@ def luckyLoop(self, drug1):
         else:
             print("+ This drug is not in familylist")
 
-
-def luckyLoop2(drug2, drug3, drug4):
+def luckyLoop2(self, drug2):
     # Don't forget kemadrin akineton
     for i in oneDrug:
         if i == "clopin" or i == "leponex" or i == "clozapine":
             if drug2 == i:
-                oneDrug2()
+                oneDrug2(self)
         elif i == "clopixol":
             if drug2 == i:
-                oneDrug3()
+                oneDrug3(self)
         elif i == "entumine":
             if drug2 == i:
-                oneDrug4()
+                oneDrug4(self)
         elif i == "fluanxol":
             if drug2 == i:
-                oneDrug5()
+                oneDrug5(self)
         elif i == "haldol":
             if drug2 == i:
-                oneDrug6()
+                oneDrug6(self)
         elif i == "nozinan":
             if drug2 == i:
-                oneDrug7()
+                oneDrug7(self)
         elif i == "tiapridal":
             if drug2 == i:
-                oneDrug8()
+                oneDrug8(self)
         elif i == "abilify":
             if drug2 == i:
-                oneDrug9()
+                oneDrug9(self)
         elif i == "dogmatil":
             if drug2 == i:
-                oneDrug10()
+                oneDrug10(self)
         elif i == "invega" or i == "palipéridone":
             if drug2 == i:
-                oneDrug11()
+                oneDrug11(self)
         elif i == "olanzapine" or i == "zyprexa":
             if drug2 == i:
-                oneDrug12()
+                oneDrug12(self)
         elif i == "risperdal" or i == "risperdone":
             if drug2 == i:
-                oneDrug14()
+                oneDrug14(self)
         elif i == "sequase" or i == "seroquel" or i == "quétiapine":
             if drug2 == i:
-                sendToFunct16()
+                oneDrug16(self)
         elif i == "solian":
             if drug2 == i:
-                oneDrug17()
+                oneDrug17(self)
         elif i == "carbamazépine" or i == "tégrétol":
             if drug2 == i:
-                oneDrug19()
+                oneDrug19(self)
         elif i == "dépakine" or i == "valproate":
             if drug2 == i:
-                oneDrug20()
+                oneDrug20(self)
         elif i == "ethosuximide" or i == "pétinimid":
             if drug2 == i:
-                oneDrug21()
+                oneDrug21(self)
         elif i == "mysoline":
             if drug2 == i:
-                oneDrug22()
+                oneDrug22(self)
         elif i == "phénobarbital" or i == "aphénylbarbite":
             if drug2 == i:
-                oneDrug23()
+                oneDrug23(self)
         elif i == "phénytoïne":
             if drug2 == i:
-                oneDrug24()
+                oneDrug24(self)
         elif i == "briviact":
             if drug2 == i:
-                oneDrug25()
+                oneDrug25(self)
         elif i == "fycompa":
             if drug2 == i:
-                oneDrug26()
+                oneDrug26(self)
         elif i == "gabitril":
             if drug2 == i:
-                oneDrug27()
+                oneDrug27(self)
         elif i == "inovelon":
             if drug2 == i:
-                oneDrug28()
+                oneDrug28(self)
         elif i == "keppra":
             if drug2 == i:
-                oneDrug29()
+                oneDrug29(self)
         elif i == "lamictal":
             if drug2 == i:
-                oneDrug30()
+                oneDrug30(self)
         elif i == "lyrica":
             if drug2 == i:
-                oneDrug31()
+                oneDrug31(self)
         elif i == "neurontin":
             if drug2 == i:
-                oneDrug32()
+                oneDrug32(self)
         elif i == "sabril":
             if drug2 == i:
-                oneDrug33()
+                oneDrug33(self)
         elif i == "taloxa":
             if drug2 == i:
-                oneDrug34()
+                oneDrug34(self)
         elif i == "topamax" or i == "topiramate":
             if drug2 == i:
-                oneDrug35()
+                oneDrug35(self)
         elif i == "trileptal":
             if drug2 == i:
-                oneDrug36()
+                oneDrug36(self)
         elif i == "vimpat":
             if drug2 == i:
-                oneDrug38()
+                oneDrug38(self)
         elif i == "zonegran":
             if drug2 == i:
-                oneDrug39()
+                oneDrug39(self)
         elif i == "anafranil":
             if drug2 == i:
-                oneDrug40()
+                oneDrug40(self)
         else:
             print("+ This drug is not in the list")
 
+def luckyLoop3(self, drug3, drug4):
     # drug1 VS drug2 (interactions with seroquel)
     for i in oneDrug:
         if i == "seroquel" or i == "sequase" or i == "quétiapine":
@@ -195,6 +194,7 @@ def luckyLoop2(drug2, drug3, drug4):
             else:
                 print("One of your choice doesn't exist in the list")
 
+    # New function to init !!!
     # drug1 VS drug2 (interactions with carbamazépine)
     if i == "carbamazépine" or i == "tégrétol":
         if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
@@ -261,6 +261,7 @@ def luckyLoop2(drug2, drug3, drug4):
         else:
             print("One of your choice doesn't exist in the list (VS)")
 
+    # New function to init !!!
     # drug1 VS drug2 (interactions with carbamazépine)
     if i == "léponex" or i == "clozapine" or i == "clopin":
         if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
@@ -328,6 +329,5 @@ def luckyLoop2(drug2, drug3, drug4):
             drug4 == "anticoagulants"):
             print("+ Interactions !!!")
             importationLepoCoag()
-
         else:
             print("One of your choice doesn't exist in the list (vs carba)")
