@@ -150,7 +150,7 @@ def luckyLoop2(self, drug2):
             if drug2 == i:
                 oneDrug40(self)
         else:
-            print("+ This drug is not in the list")
+            print("+ drug2 is not in the list")
 
 def luckyLoop3(self, drug3, drug4):
     # drug1 VS drug2 (interactions with seroquel)
@@ -194,7 +194,7 @@ def luckyLoop3(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importationSeroRisp(self)
             else:
-                print("One of your choice doesn't exist in the list")
+                print("One of your choice (drug3 or drug4) doesn't exist in the list")
 
     # New function to init !!!
     # drug1 VS drug2 (interactions with carbamazépine)
@@ -261,7 +261,7 @@ def luckyLoop3(self, drug3, drug4):
             print("+ Interactions !!!")
             importationCarbaAntipsy(self)
         else:
-            print("One of your choice doesn't exist in the list (VS)")
+            print("One of your choice (3 or 4) doesn't exist in the list (VS)")
 
     # New function to init !!!
     # drug1 VS drug2 (interactions with carbamazépine)
@@ -332,4 +332,4 @@ def luckyLoop3(self, drug3, drug4):
             print("+ Interactions !!!")
             importationLepoCoag(self)
         else:
-            print("One of your choice doesn't exist in the list (vs carba)")
+            print("One of your choice (3 or 4) doesn't exist in the list (vs carba)")
