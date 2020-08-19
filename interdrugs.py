@@ -415,6 +415,17 @@ def importationDepakAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_atd.txt' does not exist !", outnote)
 
+def importationDepakBzd(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_bzd.txt'):
+            print("+ File 'depak_bzd.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_bzd.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_bzd.txt' does not exist !", outnote)
+
 def importationDepakOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_oh.txt'):
