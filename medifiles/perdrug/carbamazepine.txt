@@ -1,8 +1,8 @@
 Carbamazepine :
-===============
+===========
 
-Contre-indications
-------------------
+Contre-indications :
+--------------------------
 
 Antécédents d'hypersensibilité à la carbamazépine et l'oxcarbazépine (trileptal (mae)) 
 ou à des médicaments de structure apparentée (antidépresseurs tricycliques p.ex.) 
@@ -25,6 +25,29 @@ La suspension ne doit pas non plus être utilisée chez les personnes ayant
 une hypersensibilité aux parabènes (E 200, E216, E 218).
 
 
+Interactions :
+------------------
+
+Le cytochrome P450 3A4 (CYP 3A4) est la principale enzyme catalysant la formation 
+du métabolite actif: l'époxy-10,11-carbamazépine. L'administration concomitante d'inhibiteurs 
+du CYP 3A4 peut provoquer une augmentation des concentrations plasmatiques de carbamazépine 
+susceptible d'induire des effets indésirables. L'administration concomitante d'inducteurs 
+du CYP 3A4 peut au contraire stimuler le métabolisme de Tégrétol, faire baisser le taux 
+sérique de carbamazépine et éventuellement conduire à une diminution de l'effet thérapeutique. 
+De même, l'interruption de l'administration d'un inducteur du CYP 3A4 peut diminuer le 
+métabolisme de la carbamazépine et conduire ainsi à une élévation des taux sériques de 
+carbamazépine.
+
+La carbamazépine est un inducteur puissant du CYP3A4 et d'autres enzymes hépatiques de 
+phase I et phase II. Elle peut donc éventuellement réduire les concentrations plasmatiques 
+de substances administrées simultanément et principalement métabolisées par le CYP3A4.
+
+L'époxyde hydrolase microsomale humaine est considérée comme un enzyme responsable de la 
+formation de dérivés 10,11-transdiol à partir de l'époxy-10,11 -carbamazépine. L'utilisation 
+concomitante de substances inhibant l'époxyde hydrolase microsomiale (p.ex. l'acide 
+valproïque) peut provoquer une augmentation du taux sanguin d'époxy-10,11-carbamazépine.
+
+
 Substances susceptibles d'augmenter les concentrations plasmatiques de 
 carbamazépine:
 
@@ -32,6 +55,7 @@ L'élévation des concentrations plasmatiques de carbamazépine pouvant entraîn
 des réactions indésirables (p.ex. vertiges, somnolence, ataxie, diplopie), la 
 posologie de Tégrétol doit être ajustée en conséquence et/ou les concentrations 
 plasmatiques être surveillées, en cas d'administration simultanée avec les 
+
 substances suivantes:
 
 Substances antituberculeuses: isoniazide.
@@ -200,9 +224,8 @@ faudrait recommander d'autres méthodes contraceptives, non hormonales.).
 Médicaments destinés au traitement de la dysfonction érectile: tadalafil.
 
 
-
 A évaluer en cas de traitement associé :
-========================================
+=========================
 
 --- Lévétiracétam (keppra) ---
 Il a été indiqué que l'utilisation simultanée de la carbamazépine et du 

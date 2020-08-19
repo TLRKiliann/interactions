@@ -210,7 +210,7 @@ def luckyLoop3(self, drug3, drug4):
                 importationCarbaAnticoa(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "atd" or \
                 drug3 == "antidépresseurs" or drug4 == "atd" or \
-                or drug4 == "antidépresseurs"):
+                drug4 == "antidépresseurs"):
                 print("+ Interactions !!!")
                 importationCarbaAntidep(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "antidiurétique" or \
@@ -259,7 +259,7 @@ def luckyLoop3(self, drug3, drug4):
                 drug3 == "valproate" or drug4 == "dépakine" or \
                 drug4 == "valproate"):
                 print("+ Interactions !!!")
-                importationCarbaAntipsy(self)
+                importationCarbaDepak(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
                 drug3 == "zyprexa" or drug4 == "olanzapine" or \
                 drug4 == "zyprexa"):
