@@ -331,4 +331,3 @@ def luckyLoop2(drug2, drug3, drug4):
 
         else:
             print("One of your choice doesn't exist in the list (vs carba)")
-
