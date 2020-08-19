@@ -1,5 +1,5 @@
 
-Effets du valproate sur les autres médicaments
+Effets du valproate sur les autres médicaments :
 
 L'acide valproïque est un inhibiteur des isoenzymes CYP2C9 et CYP3A du cytochrome P450. 
 Les effets métaboliques auxquels il convient de s'attendre peuvent être déduits du schéma 
@@ -7,17 +7,17 @@ correspondant. Les interactions suivantes sont particulièrement importantes:
 
     Neuroleptiques, IMAO, antidépresseurs et benzodiazépines
 
-Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que neuroleptiques, 
-IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
-éventuelle du traitement.
+Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que 
+neuroleptiques, IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance 
+clinique et une adaptation éventuelle du traitement.
 
     Phénobarbital (aphénylbarbite)
 
 Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
-catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
-une surveillance clinique est recommandée durant les 15 premiers jours du traitement combiné, 
-avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
-des taux plasmatiques de phénobarbital si nécessaire.
+catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est 
+pourquoi une surveillance clinique est recommandée durant les 15 premiers jours du traitement 
+combiné, avec réduction immédiate des doses de phénobarbital si une sédation survient et 
+détermination des taux plasmatiques de phénobarbital si nécessaire.
 
     Primidone (mysoline)
 
@@ -51,11 +51,6 @@ graves qui sont apparues dans les six premières semaines des polythérapies ont
 mais ces dernières ont régressé partiellement lors de l'arrêt du traitement ou, dans certains 
 cas, uniquement après un traitement approprié. Par conséquent, une surveillance clinique est 
 recommandée et les doses de lamotrigine doivent être diminuées le cas échéant
-
-    Zidovudine
-
-Le valproate de sodium/acide valproïque peuvent augmenter la concentration plasmatique de 
-zidovudine avec majoration des risques de toxicité de celle-ci.
 
     Felbamate (taloxa)
 

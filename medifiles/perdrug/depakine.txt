@@ -109,7 +109,7 @@ mais ces dernières ont régressé partiellement lors de l'arrêt du traitement 
 cas, uniquement après un traitement approprié. Par conséquent, une surveillance clinique est 
 recommandée et les doses de lamotrigine doivent être diminuées le cas échéant
 
-    Zidovudine
+    Zidovudine (retrovir AZT - ttt VIH)
 
 Le valproate de sodium/acide valproïque peuvent augmenter la concentration plasmatique de 
 zidovudine avec majoration des risques de toxicité de celle-ci.
@@ -122,7 +122,7 @@ Depakine peut diminuer la clairance moyenne du felbamate jusqu'à 16%.
 
 L'acide valproïque peut diminuer les concentrations plasmatiques de l'olanzapine.
 
-    Rufinamide
+    Rufinamide (inovelon)
 
 L'acide valproïque peut conduire à une augmentation du taux plasmatique du rufinamide. Cette 
 augmentation dépend de la concentration en acide valproïque. La précaution sera de mise, 
@@ -133,13 +133,16 @@ notamment chez l'enfant, comme cet effet est plus important dans cette populatio
 L'association de valproate de sodium/acide valproïque et de quétiapine peut augmenter le 
 risque de neutropénie/leucopénie.
 
-    Propofol
+    Propofol (anesthésie générale)
 
 L'acide valproïque peut conduire à une augmentation du taux plasmatique du propofol. En cas 
 de co-administration avec le valproate, une diminution de la dose du propofol devra être 
 envisagée.
 
-    Nimodipine
+    Nimodipine (Application orale consécutive à une perfusion de soluté pour perfusion de 
+    Nimotop pour la prévention et le traitement des déficits neurologiques ischémiques dus 
+    à des spasmes vasculaires cérébraux secondaires à une hémorragie sous-arachnoïdienne à 
+    partir d’un anévrisme.)
 
 L'association de la nimodipine avec l'acide valproïque peut augmenter la concentration 
 plasmatique de la nimodipine de 50%.
@@ -160,7 +163,7 @@ Effets des autres médicaments sur l'acide valproïque
     traitements doivent être attentivement surveillés à la recherche de signes et de symptômes 
     d'hyperammoniémie.
 
-    Méfloquine: La méfloquine augmente le métabolisme de l'acide valproïque et possède par 
+    Méfloquine (antipaludisme): La méfloquine augmente le métabolisme de l'acide valproïque et possède par 
     ailleurs un effet convulsivant, d'où un risque de survenue de crises épileptiques en cas 
     d'association.
 
@@ -171,7 +174,7 @@ Effets des autres médicaments sur l'acide valproïque
     susceptible d'augmenter les taux sériques de l'acide valproïque (diminution de son 
     métabolisme hépatique).
     
-    Carbapénèmes: En cas de co-administration, les carbapénèmes (panipénème, méropénème, 
+    Carbapénèmes (ATB): En cas de co-administration, les carbapénèmes (panipénème, méropénème, 
     imipénème par exemple) entraînent une diminution des concentrations sanguines d'acide 
     valproïque de 60-100% en deux jours, avec parfois des convulsions. En raison du déclenchement 
     rapide et de la chute brutale de la concentration en acide valproïque, l'on considère que les 

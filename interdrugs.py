@@ -395,14 +395,14 @@ def importationDepakMae(self):
 
 def importationDepakNeuro(self):
     try:
-        if os.path.getsize('./medifiles/interdrug/depak_antipsy.txt'):
-            print("+ File 'depak_antipsy.txt' exist (read)!")
-            with open('./medifiles/interdrug/depak_antipsy.txt', 'r') as textfile:
+        if os.path.getsize('./medifiles/interdrug/depak_neuro.txt'):
+            print("+ File 'depak_neuro.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_neuro.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
-        print("+ Sorry, file 'depak_antipsy.txt' does not exist !", outnote)
+        print("+ Sorry, file 'depak_neuro.txt' does not exist !", outnote)
 
 def importationDepakAtd(self):
     try:

@@ -11,10 +11,17 @@ Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que 
 IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
 éventuelle du traitement.
 
-    Phénobarbital (aphénylbarbite)
+    Olanzapine (zyprexa)
 
-Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
-catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
-une surveillance clinique est recommandée durant les 15 premiers jours du traitement combiné, 
-avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
-des taux plasmatiques de phénobarbital si nécessaire.
+L'acide valproïque peut diminuer les concentrations plasmatiques de l'olanzapine.
+
+    Rufinamide (inovelon)
+
+L'acide valproïque peut conduire à une augmentation du taux plasmatique du rufinamide. Cette 
+augmentation dépend de la concentration en acide valproïque. La précaution sera de mise, 
+notamment chez l'enfant, comme cet effet est plus important dans cette population.
+
+    Quétiapine (sequase, seroquel)
+
+L'association de valproate de sodium/acide valproïque et de quétiapine peut augmenter le 
+risque de neutropénie/leucopénie.

@@ -162,7 +162,8 @@ def luckyLoop3(self, drug3, drug4):
                 print("+ Interactions ultraviolente !!!")
                 importationViolente(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
-                drug4 == "dépakine"):
+                drug3 == "valproate" or drug4 == "dépakine" or \
+                drug4 == "valproate"):
                 print("+ Interactions !!!")
                 importationSeroDepak(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "érythromycine" or \
@@ -177,20 +178,24 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "lithium"):
                 print("+ Interactions !!!")
                 importationSeroLith(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
-                drug4 == "méthadone"):
+            elif (drug3 == i or drug4 == i) and (drug3 == "methadone" or \
+                drug3 == "meoh" or drug4 == "methadone" or \
+                drug4 == "meoh"):
                 print("+ Interactions !!!")
                 importationSeroMeoh(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+            elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
+                drug3 == "alcool" or drug4 == "oh" or \
                 drug4 == "alcool"):
                 print("+ Interactions !!!")
                 importationSeroOh(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
-                drug4 == "phénytoïne"):
+            elif (drug3 == i or drug4 == i) and (drug3 == "phénitoïne" or \
+                drug3 == "aphénylbarbite" or drug4 == "phénitoïne" or \
+                drug4 == "aphénylbarbite"):
                 print("+ Interactions !!!")
                 importationSeroPheny(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
-                drug4 == "risperdal"):
+                drug3 == "risperdone" or drug4 == "risperdal" or \
+                drug4 == "risperdone"):
                 print("+ Interactions !!!")
                 importationSeroRisp(self)
             else:
@@ -207,6 +212,7 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "pradaxa" or drug4 == "eliquis"):
                 print("+ Interactions !!!")
                 importationCarbaAnticoa(self)
+
             elif (drug3 == i or drug4 == i) and (drug3 == "atb" or \
                 drug3 == "ciprofloxacine" or drug3 == "érythromycine" or \
                 drug3 == "clarithromycine" or drug3 == "rifabutine" or \
@@ -315,8 +321,8 @@ def luckyLoop3(self, drug3, drug4):
             else:
                 print("Loop to search drug3 and drug4...")
 
-        # drug1 VS drug2 (interactions with carbamazépine)
-        if i == "léponex" or i == "clozapine" or i == "clopin":
+        # drug1 VS drug2 (interactions with clopin)
+        if i == "leponex" or i == "clozapine" or i == "clopin":
             if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
                 drug3 == "tégrétol" or drug4 == "carbamazépine" or \
                 drug4 == "tégrétol"):
@@ -364,12 +370,12 @@ def luckyLoop3(self, drug3, drug4):
                 importationLepoBzd(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
-                drug4 == "alcool" or drug3 == "OH" or drug4 == "OH"):
+                drug4 == "alcool" or drug3 == "oh" or drug4 == "oh"):
                 print("+ Interactions !!!")
                 importationLepoOh(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
-                drug4 == "méthadone" or drug3 == "MeOH" or drug4 == "MeOH"):
+                drug4 == "méthadone" or drug3 == "meoh" or drug4 == "meoh"):
                 print("+ Interactions !!!")
                 importationLepoMeOH(self)
 
@@ -382,5 +388,34 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "anticoagulants"):
                 print("+ Interactions !!!")
                 importationLepoCoag(self)
+            else:
+                print("Loop to search drug3 and drug4...")
+
+        # drug1 VS drug2 (interactions with carbamazépine)
+        if i == "dépakine" or i == "valproate":
+            if (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
+                drug4 == "antidépresseurs" or drug3 == "atd" or drug4 == "atd"):
+                print("+ Interactions !!!")
+                importationDepakAtd(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
+                drug4 == "antiépileptiques" or drug3 == "mae" or drug4 == "mae"):
+                print("+ Interactions !!!")
+                importationDepakMae(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
+                drug4 == "neuroleptiques" or drug3 == "neuro" or drug4 == "neuro"):
+                print("+ Interactions !!!")
+                importationDepakNeuro(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
+                drug4 == "benzodiazépines" or drug3 == "bzd" or drug4 == "bzd"):
+                print("+ Interactions !!!")
+                importationDepakBzd(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+                drug4 == "alcool" or drug3 == "oh" or drug4 == "oh"):
+                print("+ Interactions !!!")
+                importationDepakOh(self)
             else:
                 print("Loop to search drug3 and drug4...")
