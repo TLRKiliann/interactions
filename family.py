@@ -32,7 +32,7 @@ def familyMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'mae.txt' does not exist !", outnote)
 
-def familyAtd():
+def familyAtd(self):
     try:
         if os.path.getsize('./medifiles/family/atd.txt'):
             print("+ File 'atd.txt' exist (read)!")
@@ -43,7 +43,7 @@ def familyAtd():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'atd.txt' does not exist !", outnote)
 
-def familyAnxio():
+def familyAnxio(self):
     try:
         if os.path.getsize('./medifiles/family/anxio.txt'):
             print("+ File 'anxio.txt' exist (read)!")
@@ -54,7 +54,7 @@ def familyAnxio():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'anxio.txt' does not exist !", outnote)
 
-def familyThymo():
+def familyThymo(self):
     try:
         if os.path.getsize('./medifiles/family/thymo.txt'):
             print("+ File 'thymo.txt' exist (read)!")
@@ -65,7 +65,7 @@ def familyThymo():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'thymo.txt' does not exist !", outnote)
 
-def familySomni():
+def familySomni(self):
     try:
         if os.path.getsize('./medifiles/family/somni.txt'):
             print("+ File 'somni.txt' exist (read)!")
@@ -76,7 +76,7 @@ def familySomni():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'somni.txt' does not exist !", outnote)
 
-def familyBzd():
+def familyBzd(self):
     try:
         if os.path.getsize('./medifiles/family/bzd.txt'):
             print("+ File 'bzd.txt' exist (read)!")
@@ -87,7 +87,7 @@ def familyBzd():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'bzd.txt' does not exist !", outnote)
 
-def familyIcho():
+def familyIcho(self):
     try:
         if os.path.getsize('./medifiles/family/icho.txt'):
             print("+ File 'icho.txt' exist (read)!")
@@ -98,7 +98,7 @@ def familyIcho():
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'icho.txt' does not exist !", outnote)
 
-def familyPark():
+def familyPark(self):
     try:
         if os.path.getsize('./medifiles/family/park.txt'):
             print("+ File 'park.txt' exist (read)!")
@@ -108,4 +108,3 @@ def familyPark():
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'park.txt' does not exist !", outnote)
-        

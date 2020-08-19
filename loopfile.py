@@ -19,25 +19,25 @@ def luckyLoop(self, drug1):
                 familyMae(self)
         elif i == "antidépresseurs":
             if drug1 == i or drug1 == "atd":
-                familyAtd()
+                familyAtd(self)
         elif i == "anxiolytiques":
             if drug1 == i or drug1 == "anxio":
-                familyAnxio()
+                familyAnxio(self)
         elif i == "thymorégulateurs":
             if drug1 == i or drug1 == "stabilisateurs":
-                familyThymo()
+                familyThymo(self)
         elif i == "somnifères":
             if drug1 == i or drug1 == "somni" or drug1 == "inducteurs de sommeil":
-                familySomni()
+                familySomni(self)
         elif i == "benzodiazépines":
             if drug1 == i or drug1 == "bzd":
-                familyBzd()
+                familyBzd(self)
         elif i == "inhibiteurs de la cholinestérase":
             if drug1 == i or drug1 == "idlc":
-                familyIcho()
+                familyIcho(self)
         elif i == "antiparkinsoniens":
             if drug1 == i or drug1 == "ap":
-                familyPark()
+                familyPark(self)
         else:
             print("+ This drug is not in familylist")
 
