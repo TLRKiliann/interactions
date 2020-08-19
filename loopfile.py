@@ -214,10 +214,35 @@ def luckyLoop3(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importationCarbaAntidep(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "antidiurétique" or \
-                drug3 == "antidiurétiques" or drug4 == "antidiurétique" or \
-                or drug4 == "antidiurétiques"):
+                drug4 == "antidiurétique"):
                 print("+ Interactions !!!")
                 importationCarbaAntidiu(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "isoniazide" or \
+                drug4 == "isoniazide"):
+                print("+ Interactions !!!")
+                importationCarbaIsonia(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "keppra" or \
+                drug3 == "levetiracetam" or drug4 == "keppra" or \
+                drug4 == "levetiracetam"):
+                print("+ Interactions !!!")
+                importationCarbaKeppra(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                drug4 == "lithium"):
+                print("+ Interactions !!!")
+                importationCarbaLith(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "myorelaxant" or \
+                drug4 == "myorelaxant"):
+                print("+ Interactions !!!")
+                importationCarbaMyo(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
+                drug3 == "alcool" or drug4 == "oh" or \
+                drug4 == "alcool"):
+                print("+ Interactions !!!")
+                importationCarbaOh(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "perphénazine" or \
+                drug4 == "perphénazine"):
+                print("+ Interactions !!!")
+                importationCarbaPerphe(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
                 drug3 == "sequase" or drug3 == "quétiapine" or \
                 drug4 == "seroquel" or drug4 == "sequase" or \

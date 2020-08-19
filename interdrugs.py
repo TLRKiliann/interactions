@@ -115,7 +115,7 @@ def importationCarbaAnticoa(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_anticoa.txt' does not exist !", outnote)
 
-def importationCarbaAntidep(self)
+def importationCarbaAntidep(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_atdtc.txt'):
             print("+ File 'carba_atdtc.txt' exist (read)!")
@@ -126,7 +126,7 @@ def importationCarbaAntidep(self)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_atdtc.txt' does not exist !", outnote)
 
-def importationCarbaAntidiu(self)
+def importationCarbaAntidiu(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_diuret.txt'):
             print("+ File 'carba_diuret.txt' exist (read)!")
@@ -137,6 +137,71 @@ def importationCarbaAntidiu(self)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_diuret.txt' does not exist !", outnote)
 
+def importationCarbaIsonia(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_isonia.txt'):
+            print("+ File 'carba_isonia.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_isonia.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_isonia.txt' does not exist !", outnote)
+
+def importationCarbaKeppra(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_levetira.txt'):
+            print("+ File 'carba_levetira.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_levetira.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_levetira.txt' does not exist !", outnote)
+
+def importationCarbaLith(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_lith.txt'):
+            print("+ File 'carba_lith.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_lith.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_lith.txt' does not exist !", outnote)
+
+def importationCarbaMyo(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_myorelax.txt'):
+            print("+ File 'carba_myorelax.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_myorelax.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_myorelax.txt' does not exist !", outnote)
+
+def importationCarbaOh(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_oh.txt'):
+            print("+ File 'carba_oh.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_oh.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_oh.txt' does not exist !", outnote)
+
+def importationCarbaPerphe(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_perphenazine.txt'):
+            print("+ File 'carba_perphenazine.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_perphenazine.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_perphenazine.txt' does not exist !", outnote)
 
 def importationCarbaAntipsy(self):
     try:
