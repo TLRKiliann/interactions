@@ -208,6 +208,16 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "pradaxa" or drug4 == "eliquis"):
                 print("+ Interactions !!!")
                 importationCarbaAnticoa(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "atd" or \
+                drug3 == "antidépresseurs" or drug4 == "atd" or \
+                or drug4 == "antidépresseurs"):
+                print("+ Interactions !!!")
+                importationCarbaAntidep(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antidiurétique" or \
+                drug3 == "antidiurétiques" or drug4 == "antidiurétique" or \
+                or drug4 == "antidiurétiques"):
+                print("+ Interactions !!!")
+                importationCarbaAntidiu(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
                 drug3 == "sequase" or drug3 == "quétiapine" or \
                 drug4 == "seroquel" or drug4 == "sequase" or \

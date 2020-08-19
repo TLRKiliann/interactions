@@ -79,7 +79,19 @@ def importationSeroMeoh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_metha.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + kétoconazol)
+# Display text in textbox from medifiles files (seroquel + OH)
+def importationSeroOh(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/sero_oh.txt'):
+            print("+ File 'sero_oh.txt' exist (read)!")
+            with open('./medifiles/interdrug/sero_oh.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'sero_oh.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles files (seroquel + phénytoïne)
 def importationSeroPheny(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_pheny.txt'):
@@ -91,7 +103,7 @@ def importationSeroPheny(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
     
-# Display text in textbox from medifiles files (seroquel + kétoconazol)
+# Display text in textbox from medifiles files (seroquel + anticoagul)
 def importationCarbaAnticoa(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_anticoa.txt'):
@@ -102,6 +114,29 @@ def importationCarbaAnticoa(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_anticoa.txt' does not exist !", outnote)
+
+def importationCarbaAntidep(self)
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_atdtc.txt'):
+            print("+ File 'carba_atdtc.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_atdtc.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_atdtc.txt' does not exist !", outnote)
+
+def importationCarbaAntidiu(self)
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_diuret.txt'):
+            print("+ File 'carba_diuret.txt' exist (read)!")
+            with open('./medifiles/interdrug/carba_diuret.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_diuret.txt' does not exist !", outnote)
+
 
 def importationCarbaAntipsy(self):
     try:
