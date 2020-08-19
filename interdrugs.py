@@ -393,7 +393,7 @@ def importationDepakMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_mae.txt' does not exist !", outnote)
 
-def importationDepakApsy(self):
+def importationDepakNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_antipsy.txt'):
             print("+ File 'depak_antipsy.txt' exist (read)!")
