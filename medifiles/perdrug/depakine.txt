@@ -68,7 +68,7 @@ IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique 
 Une étude d'interaction pharmacocinétique chez des jeunes volontaires sains de sexe masculin a 
 montré que Depakine n'a aucun effet sur les taux sériques de lithium.
 
-    Phénobarbital
+    Phénobarbital (aphénylbarbite)
 
 Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
 catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
@@ -76,7 +76,7 @@ une surveillance clinique est recommandée durant les 15 premiers jours du trait
 avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
 des taux plasmatiques de phénobarbital si nécessaire.
 
-    Primidone
+    Primidone (mysoline)
 
 Depakine Chrono augmente les taux plasmatiques de primidone avec majoration de ses effets 
 indésirables (sédation). Après usage prolongé, cette interaction cesse. Une surveillance 
@@ -91,7 +91,7 @@ valproïque déplace la phénytoïne de ses sites de fixation protéique plasmat
 son catabolisme hépatique). Une surveillance clinique est donc recommandée. En cas de dosage 
 plasmatique de phénytoïne, c'est surtout la forme libre qui doit être prise en compte.
 
-    Carbamazépine
+    Carbamazépine (tégrétol)
 
 Une toxicité clinique a été rapportée en cas d'association de valproate de sodium/acide 
 valproïque et de carbamazépine, puisque le valproate de sodium/acide valproïque peuvent 
@@ -99,7 +99,7 @@ potentialiser la toxicité de la carbamazépine. Une surveillance clinique est d
 tout particulièrement en début de traitement par l'association et la posologie sera 
 éventuellement ajustée.
 
-    Lamotrigine
+    Lamotrigine (lamictal)
 
 Depakine entrave le métabolisme de la lamotrigine et prolonge sa demi-vie moyenne d'élimination 
 de presque deux fois. Cette interaction peut entraîner une augmentation des effets toxiques de 
@@ -114,11 +114,11 @@ recommandée et les doses de lamotrigine doivent être diminuées le cas échéa
 Le valproate de sodium/acide valproïque peuvent augmenter la concentration plasmatique de 
 zidovudine avec majoration des risques de toxicité de celle-ci.
 
-    Felbamate
+    Felbamate (taloxa)
 
 Depakine peut diminuer la clairance moyenne du felbamate jusqu'à 16%.
 
-    Olanzapine
+    Olanzapine (zyprexa)
 
 L'acide valproïque peut diminuer les concentrations plasmatiques de l'olanzapine.
 
@@ -128,7 +128,7 @@ L'acide valproïque peut conduire à une augmentation du taux plasmatique du ruf
 augmentation dépend de la concentration en acide valproïque. La précaution sera de mise, 
 notamment chez l'enfant, comme cet effet est plus important dans cette population.
 
-    Quétiapine
+    Quétiapine (sequase, seroquel)
 
 L'association de valproate de sodium/acide valproïque et de quétiapine peut augmenter le 
 risque de neutropénie/leucopénie.

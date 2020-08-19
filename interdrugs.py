@@ -381,5 +381,50 @@ def importationLepoCoag(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_coagul.txt' does not exist !", outnote)
 
+# with depakine
+def importationDepakMae(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_mae.txt'):
+            print("+ File 'depak_mae.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_mae.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_mae.txt' does not exist !", outnote)
+
+def importationDepakApsy(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_antipsy.txt'):
+            print("+ File 'depak_antipsy.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_antipsy.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_antipsy.txt' does not exist !", outnote)
+
+def importationDepakAtd(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_atd.txt'):
+            print("+ File 'depak_atd.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_atd.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_atd.txt' does not exist !", outnote)
+
+def importationDepakOh(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_oh.txt'):
+            print("+ File 'depak_oh.txt' exist (read)!")
+            with open('./medifiles/interdrug/depak_oh.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_oh.txt' does not exist !", outnote)
+
 
 
