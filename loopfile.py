@@ -195,7 +195,6 @@ def luckyLoop3(self, drug3, drug4):
                 importationSeroRisp(self)
             else:
                 print("Loop to search drug3 and drug4...")
-                
 
         # drug1 VS drug2 (interactions with carbamazépine)
         if i == "carbamazépine" or i == "tégrétol":
@@ -208,6 +207,17 @@ def luckyLoop3(self, drug3, drug4):
                 drug4 == "pradaxa" or drug4 == "eliquis"):
                 print("+ Interactions !!!")
                 importationCarbaAnticoa(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "atb" or \
+                drug3 == "ciprofloxacine" or drug3 == "érythromycine" or \
+                drug3 == "clarithromycine" or drug3 == "rifabutine" or \
+                drug3 == "doxycycline" or drug3 == "troléandomycine" or \
+                drug3 == "josamycine" or drug4 == "atb" or \
+                drug4 == "ciprofloxacine" or drug4 == "érythromycine" or \
+                drug4 == "clarithromycine" or drug4 == "rifabutine" or \
+                drug4 == "doxycycline" or drug4 == "troléandomycine" or \
+                drug4 == "josamycine"):
+                print("+ Interactions !!!")
+                importationCarbaAtb(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "atd" or \
                 drug3 == "antidépresseurs" or drug4 == "atd" or \
                 drug4 == "antidépresseurs"):
@@ -218,9 +228,11 @@ def luckyLoop3(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importationCarbaAntidiu(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "isoniazide" or \
-                drug4 == "isoniazide"):
+                drug3 == "antituberculeux" or drug3 == "rifampicine" or \
+                drug4 == "isoniazide" or drug4 == "antituberculeux" or \
+                drug4 == "rifampicine"):
                 print("+ Interactions !!!")
-                importationCarbaIsonia(self)
+                importationCarbaAntitub(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "keppra" or \
                 drug3 == "levetiracetam" or drug4 == "keppra" or \
                 drug4 == "levetiracetam"):

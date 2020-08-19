@@ -16,11 +16,17 @@ des effets indésirables (p. ex. vertiges, somnolence, ataxie, diplopie), la
 posologie de Tégrétol doit être surveillée attentivement et éventuellement 
 ajustée, en cas d'administration simultanée avec les substances suivantes: 
 
-loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque (dépakine), 
+loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque, 
 valnoctamide et valpromide.
+
 
 Effet de Tégrétol sur les taux plasmatiques de substances administrées 
 simultanément:
+
+La carbamazépine peut abaisser les concentrations plasmatiques de certains 
+médicaments et diminuer leur activité, voire même la supprimer. La posologie 
+des médicaments suivants devra éventuellement être ajustée aux exigences 
+cliniques:
 
 Antipsychotiques: clozapine, halopéridol (haldol), brompéridol, olanzapine (zyprexa), 
 quétiapine (sequase ou seroquel), rispéridone (risperdal), ziprasidone, 
