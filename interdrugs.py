@@ -245,3 +245,6 @@ def importationLepoCoag(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_coagul.txt' does not exist !", outnote)
+
+
+

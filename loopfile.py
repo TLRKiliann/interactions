@@ -194,142 +194,141 @@ def luckyLoop3(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importationSeroRisp(self)
             else:
-                print("One of your choice (drug3 or drug4) doesn't exist in the list")
+                print("Loop to search drug3 and drug4...")
+                
 
-    # New function to init !!!
-    # drug1 VS drug2 (interactions with carbamazépine)
-    if i == "carbamazépine" or i == "tégrétol":
-        if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
-            drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
-            drug3 == "héparine" or drug3 == "pradaxa" or \
-            drug4 == "eliquis" or \
-            drug4 == "sintrom" or drug4 == "xarelto" or \
-            drug4 == "Rivaroxaban" or drug4 == "héparine" or \
-            drug4 == "pradaxa" or drug4 == "eliquis"):
-            print("+ Interactions !!!")
-            importationCarbaAnticoa(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
-            drug3 == "sequase" or drug3 == "quétiapine" or \
-            drug4 == "seroquel" or drug4 == "sequase" or \
-            drug4 == "quétiapine"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "clopin" or \
-            drug3 == "leponex" or drug3 == "clozapine" or \
-            drug4 == "clopin" or drug4 == "leponex" or \
-            drug4 == "clozapine"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
-            drug3 == "valproate" or drug4 == "dépakine" or \
-            drug4 == "valproate"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
-            drug3 == "zyprexa" or drug4 == "olanzapine" or \
-            drug4 == "zyprexa"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "haldol" or \
-            drug3 == "halopéridol" or drug4 == "haldol" or \
-            drug4 == "halopéridol"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
-            drug3 == "aphénylbarbite" or drug4 == "phénobarbital" or \
-            drug4 == "aphénylbarbite"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "primidone" or \
-            drug3 == "mysoline" or drug4 == "primidone" or \
-            drug4 == "mysoline"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
-            drug3 == "risperdone" or drug4 == "risperdal" or \
-            drug4 == "risperdone"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "abilify" or \
-            drug3 == "aripiprazol" or drug4 == "abilify" or \
-            drug4 == "aripiprazol"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        elif (drug3 == i or drug4 == i) and (drug3 == "invega" or \
-            drug3 == "palipéridone" or drug4 == "invega" or \
-            drug4 == "palipéridone"):
-            print("+ Interactions !!!")
-            importationCarbaAntipsy(self)
-        else:
-            print("One of your choice (3 or 4) doesn't exist in the list (VS)")
+        # drug1 VS drug2 (interactions with carbamazépine)
+        if i == "carbamazépine" or i == "tégrétol":
+            if (drug3 == i or drug4 == i) and (drug3 == "sintrom" or \
+                drug3 == "xarelto" or drug3 == "Rivaroxaban" or \
+                drug3 == "héparine" or drug3 == "pradaxa" or \
+                drug4 == "eliquis" or \
+                drug4 == "sintrom" or drug4 == "xarelto" or \
+                drug4 == "Rivaroxaban" or drug4 == "héparine" or \
+                drug4 == "pradaxa" or drug4 == "eliquis"):
+                print("+ Interactions !!!")
+                importationCarbaAnticoa(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
+                drug3 == "sequase" or drug3 == "quétiapine" or \
+                drug4 == "seroquel" or drug4 == "sequase" or \
+                drug4 == "quétiapine"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "clopin" or \
+                drug3 == "leponex" or drug3 == "clozapine" or \
+                drug4 == "clopin" or drug4 == "leponex" or \
+                drug4 == "clozapine"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
+                drug3 == "valproate" or drug4 == "dépakine" or \
+                drug4 == "valproate"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
+                drug3 == "zyprexa" or drug4 == "olanzapine" or \
+                drug4 == "zyprexa"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "haldol" or \
+                drug3 == "halopéridol" or drug4 == "haldol" or \
+                drug4 == "halopéridol"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
+                drug3 == "aphénylbarbite" or drug4 == "phénobarbital" or \
+                drug4 == "aphénylbarbite"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "primidone" or \
+                drug3 == "mysoline" or drug4 == "primidone" or \
+                drug4 == "mysoline"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
+                drug3 == "risperdone" or drug4 == "risperdal" or \
+                drug4 == "risperdone"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "abilify" or \
+                drug3 == "aripiprazol" or drug4 == "abilify" or \
+                drug4 == "aripiprazol"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "invega" or \
+                drug3 == "palipéridone" or drug4 == "invega" or \
+                drug4 == "palipéridone"):
+                print("+ Interactions !!!")
+                importationCarbaAntipsy(self)
+            else:
+                print("Loop to search drug3 and drug4...")
 
-    # New function to init !!!
-    # drug1 VS drug2 (interactions with carbamazépine)
-    if i == "léponex" or i == "clozapine" or i == "clopin":
-        if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
-            drug3 == "tégrétol" or drug4 == "carbamazépine" or \
-            drug4 == "tégrétol"):
-            print("+ Interactions !!!")
-            importationLepoCarba(self)
+        # drug1 VS drug2 (interactions with carbamazépine)
+        if i == "léponex" or i == "clozapine" or i == "clopin":
+            if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
+                drug3 == "tégrétol" or drug4 == "carbamazépine" or \
+                drug4 == "tégrétol"):
+                print("+ Interactions !!!")
+                importationLepoCarba(self)
 
-        elif (drug3 == i or drug4 == i) and \
-            (drug3 == "inhibiteurs de la pompe à protons" or \
-            drug3 == "IPP" or \
-            drug4 == "inhibiteurs de la pompe à protons" or \
-            drug4 == "IPP"):
-            print("+ Interactions !!!")
-            importationLepoIpp(self)
+            elif (drug3 == i or drug4 == i) and \
+                (drug3 == "inhibiteurs de la pompe à protons" or \
+                drug3 == "IPP" or \
+                drug4 == "inhibiteurs de la pompe à protons" or \
+                drug4 == "IPP"):
+                print("+ Interactions !!!")
+                importationLepoIpp(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
-            drug3 == "ATD" or drug4 == "antidépresseurs" or \
-            drug4 == "ATD"):
-            print("+ Interactions !!!")
-            importationLepoAtd(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
+                drug3 == "ATD" or drug4 == "antidépresseurs" or \
+                drug4 == "ATD"):
+                print("+ Interactions !!!")
+                importationLepoAtd(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "ATB" or \
-            drug3 == "antibiotiques" or drug4 == "ATB" or \
-            drug4 == "antibiotiques"):
-            print("+ Interactions !!!")
-            importationLepoAtb(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "ATB" or \
+                drug3 == "antibiotiques" or drug4 == "ATB" or \
+                drug4 == "antibiotiques"):
+                print("+ Interactions !!!")
+                importationLepoAtb(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "antihistaminiques" or \
-            drug4 == "antihistaminiques"):
-            print("+ Interactions !!!")
-            importationLepoAntiHist(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antihistaminiques" or \
+                drug4 == "antihistaminiques"):
+                print("+ Interactions !!!")
+                importationLepoAntiHist(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
-            drug4 == "antiépileptiques" or drug3 == "MAE" or drug4 == "MAE"):
-            print("+ Interactions !!!")
-            importationLepoMae(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
+                drug4 == "antiépileptiques" or drug3 == "MAE" or drug4 == "MAE"):
+                print("+ Interactions !!!")
+                importationLepoMae(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
-            drug4 == "neuroleptiques" or drug3 == "neuro" or drug4 == "neuro"):
-            print("+ Interactions !!!")
-            importationLepoNeuro(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
+                drug4 == "neuroleptiques" or drug3 == "neuro" or drug4 == "neuro"):
+                print("+ Interactions !!!")
+                importationLepoNeuro(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
-            drug4 == "benzodiazépines" or drug3 == "BZD" or drug4 == "BZD"):
-            print("+ Interactions !!!")
-            importationLepoBzd(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
+                drug4 == "benzodiazépines" or drug3 == "BZD" or drug4 == "BZD"):
+                print("+ Interactions !!!")
+                importationLepoBzd(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
-            drug4 == "alcool" or drug3 == "OH" or drug4 == "OH"):
-            print("+ Interactions !!!")
-            importationLepoOh(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
+                drug4 == "alcool" or drug3 == "OH" or drug4 == "OH"):
+                print("+ Interactions !!!")
+                importationLepoOh(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
-            drug4 == "méthadone" or drug3 == "MeOH" or drug4 == "MeOH"):
-            print("+ Interactions !!!")
-            importationLepoMeOH(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "méthadone" or \
+                drug4 == "méthadone" or drug3 == "MeOH" or drug4 == "MeOH"):
+                print("+ Interactions !!!")
+                importationLepoMeOH(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
-            drug4 == "lithium"):
-            print("+ Interactions !!!")
-            importationLepoLith(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                drug4 == "lithium"):
+                print("+ Interactions !!!")
+                importationLepoLith(self)
 
-        elif (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
-            drug4 == "anticoagulants"):
-            print("+ Interactions !!!")
-            importationLepoCoag(self)
-        else:
-            print("One of your choice (3 or 4) doesn't exist in the list (vs carba)")
+            elif (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
+                drug4 == "anticoagulants"):
+                print("+ Interactions !!!")
+                importationLepoCoag(self)
+            else:
+                print("Loop to search drug3 and drug4...")
