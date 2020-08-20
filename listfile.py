@@ -5,7 +5,6 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
       "anxiolytiques", "thymorégulateurs", "somnifères", "benzodiazépines", 
       "inhibiteurs de la cholinestérase", "antiparkinsoniens"]
 
-
 oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", 
       "clozapine", "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", 
       "haldol", "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
@@ -15,5 +14,17 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "gabitril", "inovelon", 
       "rufinamide", "keppra", "levetiracetam", "lamictal", "lamotrigine", "lyrica", 
       "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", 
-      "felbamate", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
+      "felbamate", "-topamax", "topiramate", "-trileptal", "oxcarbazépine", 
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
+
+"""
+lyrica, prégabaline
+lamictal, lamotrigine
+fycompa, gabitril
+vimpat, lacosamide
+neurontin, gabapentine
+zonegran, zonisamide
+briviact, brivaracétam
+phénytoïne
+keppra, levetiracetam
+"""

@@ -288,6 +288,20 @@ def oneDrug28(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'inovelon.txt' does not exist !", outnote)
 
+def oneDrug31(self):
+    """
+    Per drug lyrica
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/lyrica.txt'):
+            print("+ File 'lyrica.txt' exist (read)!")
+            with open('./medifiles/perdrug/lyrica.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lyrica.txt' does not exist !", outnote)
+
 def oneDrug32(self):
     """
     Per drug neurontin

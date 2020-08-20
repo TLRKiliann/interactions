@@ -1,0 +1,55 @@
+Lyrica (prégabaline) :
+=============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au principe actif ou à l'un des excipients (voir «Composition»).
+
+
+Interactions :
+------------------
+
+La prégabaline est éliminée par les reins, principalement sous forme inchangée, 
+et n'est pratiquement pas métabolisée par l'organisme humain (<2% d'une dose sont 
+retrouvés sous forme de métabolites dans les urines). In vitro, la prégabaline 
+n'inhibe pas le métabolisme des médicaments et ne se lie pas aux protéines 
+plasmatiques. Il est donc peu probable que la prégabaline provoque des 
+interactions médicamenteuses ou en soit l'objet.
+
+Par conséquent, aucune interaction pharmacocinétique cliniquement significative 
+n'a été observée dans les études in vivo entre la prégabaline et la phénytoïne, 
+la carbamazépine, l'acide valproïque, la lamotrigine, la gabapentine, le lorazépam, 
+l'oxycodone ou l'éthanol. De plus, des analyses ont montré que les trois classes de 
+médicaments les plus souvent utilisés que sont les antidiabétiques oraux, les 
+diurétiques et l'insuline, de même que les antiépileptiques souvent administrés que
+sont la phénytoïne, la carbamazépine, l'acide valproïque, la lamotrigine, le 
+phénobarbital, la tiagabine et le topiramate, n'avaient pas d'effet cliniquement 
+significatif sur la clairance de la prégabaline. De même, ces analyses ont montré 
+que la prégabaline n'a pas d'influence cliniquement significative sur la clairance 
+des substances suivantes: phénytoïne, carbamazépine, acide valproïque, lamotrigine, 
+topiramate et phénobarbital.
+
+L'administration concomitante de prégabaline avec les contraceptifs oraux à base de 
+noréthistérone et/ou d'éthinylestradiol n'influence pas les paramètres 
+pharmacocinétiques à l'état d'équilibre de l'une ou l'autre de ces substances.
+
+La prégabaline peut potentialiser les effets de l'éthanol et du lorazépam. Dans des 
+études cliniques contrôlées, l'administration de doses orales multiples de prégabaline 
+en même temps que l'oxycodone, le lorazépam ou l'éthanol n'a pas provoqué d'effets 
+cliniquement pertinents sur la fonction respiratoire.
+
+Une insuffisance respiratoire, un coma et des décès ont été rapportés dans le cadre de 
+l'expérience post-marketing chez les patients prenant simultanément de la prégabaline 
+et d'autres médicaments à effet dépresseur sur le SNC (en particulier des opioïdes), 
+y compris chez les patients toxicomanes.
+
+L'altération de la fonction cognitive et motrice globale provoquée par l'oxycodone 
+semble être accentuée par la prégabaline.
+
+En cas d'administration simultanée de prégabaline et de médicaments pouvant provoquer 
+une constipation (p.ex. opioïdes), une insuffisance fonctionnelle du tractus gastro-
+intestinal inférieur a été rapportée (p.ex. iléus, iléus paralytique, constipation) 
+dans le cadre des expériences post-marketing.
+
+Aucune étude pharmacodynamique spécifique n'a été conduite chez des volontaires âgés.

@@ -122,7 +122,7 @@ def luckyLoop2(self, drug2):
         elif i == "lamictal":
             if drug2 == i:
                 oneDrug30(self)
-        elif i == "lyrica":
+        elif i == "lyrica" or i == "prégabaline":
             if drug2 == i:
                 oneDrug31(self)
         elif i == "neurontin":
