@@ -7,13 +7,13 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
 
 
 oneDrug=["briviact", "abilify", "aripiprazol", "clopixol", "clopin", "clozapine", 
-      "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", 
-      "haldol", "halopéridol", "entumine", "fluanxol", "nozinan", "tiapridal", 
-      "dogmatil", "invega", "palipéridone", "olanzapine", "zyprexa", 
-      "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
-      "solian", "amisulpride", "ethosuximide", "pétinimid", "mysoline", 
-      "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "gabitril", 
-      "inovelon", "keppra", "levetiracetam", "lamictal", "lamotrigine", 
-      "lyrica", "neurontin", "gabapentine", "sabril", "taloxa", "tiapridal", 
-      "topamax", "topiramate", "trileptal", "vimpat", "zonegran"]
-
+      "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", "haldol", 
+      "halopéridol", "entumine", "fluanxol", "nozinan", "tiapridal", "dogmatil", 
+      "sulpride", "invega", "palipéridone", "olanzapine", "zyprexa", "risperdal", 
+      "risperdone", "seroquel", "sequase", "quétiapine", "solian", "amisulpride", 
+      "ethosuximide", "pétinimid", "mysoline", "primidone", "phénobarbital", 
+      "aphénylbarbite", "phénytoïne", "fycompa", "gabitril", "inovelon", "rufinamdie", 
+      "keppra", "levetiracetam", "lamictal", "lamotrigine", "lyrica", "prégabaline", 
+      "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", "felbamate",
+      "tiapridal", "topamax", "topiramate", "trileptal", "oxcarbazépine", "vimpat", 
+      "lacosamide", "zonegran", "zonisamide"]
