@@ -1,0 +1,272 @@
+Lamictal (lamotrigine) :
+==============
+
+Contre-indications :
+--------------------------
+
+    Hypersensibilité connue à la lamotrigine ou à l'un des autres composants du produit.
+    Insuffisance rénale sévère.
+
+
+Interactions :
+------------------
+
+Les études d'interaction ont été réalisées uniquement chez l'adulte.
+
+Les uridine-5'-diphospho (UDP)-glucuronyltransférases (UGT) semblent être les enzymes 
+responsables du métabolisme de la lamotrigine.
+
+Les médicaments qui induisent ou inhibent la glucuronidation peuvent par conséquent modifier 
+la clairance apparente de la lamotrigine. En outre, les inducteurs puissants ou modérés de 
+l'isoenzyme 3A4 du cytochrome P450 (CYP3A4), qui sont également connus pour induire les UGT, 
+peuvent potentialiser le métabolisme de la lamotrigine.
+
+Les médicaments dont il a été démontré qu'ils ont une influence cliniquement significative 
+sur le métabolisme de la lamotrigine sont répertoriés dans le tableau ci-dessous. Pour les 
+instructions spéciales pour la posologie de ce médicament, consulter la rubrique 
+«Posologie/Mode d'emploi».
+
+Rien n'indique que la lamotrigine provoque une induction ou une inhibition cliniquement 
+significative des enzymes du cytochrome P450. La lamotrigine peut induire son propre 
+métabolisme, mais cet effet est modeste et il est peu probablement que cela soit pertinent 
+sur le plan clinique.
+
+
+Principes actifs qui inhibent significativement la glucuronidation de la lamotrigine :
+
+    Valproate (dépakine)
+
+
+Principes actifs qui induisent significativement la glucuronidation de la lamotrigine :
+
+    Carbamazépine (tégrétol)
+
+    Phénytoïne 
+
+    Primidone (mysoline)
+
+    Phénobarbital (aphénylbarbite)
+
+    Rifampicine (antituberculeux)
+
+    Lopinavir/ritonavir* (ttt HIV)
+
+    Atazanavir/ritonavir* (ttt HIV)
+
+    Association éthinylestradiol/lévo-norgestrel (contraceptif)
+
+
+Principes actifs qui n'inhibent ou n'induisent pas significativement la glucuronidation de 
+la lamotrigine :
+
+    Lithium
+
+    Bupropion (wellbutrin)
+
+    Olanzapine (zyprexa)
+
+    Oxcarbazépine (trileptal)
+
+    Felbamate (taloxa)
+
+    Gabapentine (neurontin)
+
+    Lévétiracétam (keppra)
+
+    Prégabaline (lyrica)
+
+    Topiramate (topamax)
+
+    Zonisamide (zonegran)
+
+    Aripiprazole (abilify)
+
+    Lacosamide (vimpat)
+
+    Pérampanel (fycompa)
+
+
+* cf. «Posologie/Mode d'emploi» sous «Instructions spéciales pour la posologie»
+Interactions avec les antiépileptiques
+
+Le valproate, qui inhibe la glucuronidation de la lamotrigine, diminue le métabolisme de 
+la lamotrigine. La demi-vie d'élimination s'allonge et passe en moyenne de 29 heures à 
+70 heures (± 14 heures). La dose de lamotrigine doit être adaptée en cas d'utilisation 
+simultanée de lamotrigine et de valproate (cf. «Posologie/Mode d'emploi»).
+
+Certains antiépileptiques (tels que la phénytoïne, la carbamazépine (tégrétol), le 
+phénobarbital (aphénylbarbite) et la primidone (mysoline)) qui induisent les isoenzymes 
+du cytochrome P450 induisent également les UGT et intensifient, par conséquent, le 
+métabolisme de la lamotrigine. Dans ce cas, la demi-vie d'élimination de la lamotrigine 
+peut diminuer pour atteindre environ 15 heures. La dose de lamotrigine doit être adaptée 
+en cas d'utilisation simultanée de lamotrigine et des médicaments susmentionnés (cf. 
+«Posologie/Mode d'emploi»).
+
+Chez des patients traités par la carbamazépine et ayant reçu en plus de la lamotrigine, 
+des effets sur le SNC tels que vertiges, ataxie, diplopie, vision floue et nausées ont été 
+observés. En général, ces effets secondaires ont disparu dès que la dose de carbamazépine a 
+été réduite. Un effet similaire a été observé dans le cadre d'une étude sur la lamotrigine 
+et l'oxcarbazépine (trileptal) chez des sujets adultes en bonne santé. Toutefois, aucune 
+étude n'a été menée à dose réduite.
+
+Dans le cadre d'une étude menée chez des sujets adultes en bonne santé avec des doses de 
+200 mg de lamotrigine et de 1200 mg d'oxcarbazépine, l'oxcarbazépine n'a provoqué aucune 
+modification de la métabolisation de la lamotrigine et la lamotrigine n'a exercé aucune 
+influence sur le métabolisme de l'oxcarbazépine.
+
+Une étude menée chez des volontaires sains n'a montré aucun effet cliniquement significatif 
+sur la pharmacocinétique de la lamotrigine lors de l'administration simultanée de felbamate 
+(taloxa) (1200 mg, 2 fois par jour) et de lamotrigine (100 mg, 2 fois par jour pendant 10 
+jours).
+
+Selon une analyse rétrospective des concentrations plasmatiques, réalisée chez des patients 
+ayant reçu de la lamotrigine avec ou sans gabapentine, la gabapentine ne semble pas 
+influencer la clairance de la lamotrigine.
+
+Les potentielles interactions pharmacocinétiques entre le lévétiracétam et la lamotrigine 
+ont été évaluées dans des études cliniques contrôlées par placebo. Ces données indiquent 
+que la lamotrigine n'influence pas la pharmacocinétique du lévétiracétam et que le 
+lévétiracétam (keppra) n'influence pas non plus la pharmacocinétique de la lamotrigine.
+
+Dans une étude clinique, l'administration simultanée de prégabaline (lyrica) (200 mg, 3 
+fois par jour) n'a pas eu d'effets sur la concentration minimale de lamotrigine à l'état 
+d'équilibre.
+
+Dans des études cliniques, le topiramate n'a pas modifié la concentration plasmatique de 
+lamotrigine. L'administration de lamotrigine a cependant entraîné une augmentation de la 
+concentration de topiramate (topamax) de 15%.
+
+Dans une étude chez des patients épileptiques, l'administration simultanée de zonisamide 
+(zonegran)(200 à 400 mg/jour) et de lamotrigine (150 à 500 mg/jour) pendant 35 jours n'a 
+pas eu d'effets significatifs sur la pharmacocinétique de la lamotrigine.
+
+Dans des études cliniques contrôlées contre placebo, menées chez des patients présentant 
+des crises convulsives partielles, l'administration simultanée de lacosamide (vimpat) 
+(200, 400 ou 600 mg/jour) n'a pas eu d'effets sur les concentrations plasmatiques de 
+lamotrigine.
+
+Dans une analyse commune des données provenant de trois études cliniques contrôlées contre 
+placebo visant à évaluer l'administration supplémentaire de pérampanel chez des patients 
+présentant des crises convulsives partielles et des crises tonico-cloniques d'emblée 
+généralisées, la dose la plus élevée de pérampanel étudiée (12 mg/jour) a augmenté la 
+clairance de la lamotrigine de moins de 10%. Un effet de cet ordre de grandeur n'est pas 
+considéré comme cliniquement significatif.
+
+Bien que des modifications de la concentration plasmatique d'autres antiépileptiques aient 
+été rapportées, des études contrôlées n'ont révélé aucune influence de la lamotrigine sur 
+la concentration plasmatique des antiépileptiques utilisés en même temps. Des études in 
+vitro montrent que la lamotrigine ne déplace pas les autres antiépileptiques de leurs sites 
+de liaison aux protéines.
+
+--- Interactions avec des psychotropes ---
+
+Chez 12 volontaires, l'administration orale de doses répétées de bupropion n'a pas eu 
+d'effet statistiquement significatif sur la pharmacocinétique d'une dose unique de 
+lamotrigine et a seulement provoqué une légère augmentation de l'AUC du métabolite 
+glucuronoconjugué de la lamotrigine.
+
+Dans une étude menée chez des sujets adultes en bonne santé, une dose de 15 mg d'olanzapine 
+(zyprexa) a diminué l'AUC et la Cmax de la lamotrigine respectivement de 24% et 20% en 
+moyenne. Un effet de cet ordre de grandeur n'est en général pas considéré comme cliniquement 
+significatif. 
+La lamotrigine à une dose de 200 mg n'a montré aucun effet sur la pharmacocinétique de 
+l'olanzapine.
+
+Des doses orales multiples de 400 mg de lamotrigine par jour n'ont pas entraîné d'effets 
+cliniquement significatifs sur la pharmacocinétique lors d'une prise unique de 2 mg de 
+rispéridone chez 14 adultes en bonne santé. Après la prise simultanée de 2 mg de rispéridone 
+(risperdal) et de lamotrigine, 12 des 14 volontaires ont signalé une somnolence, contre 1 des 
+20 sujets traités par la rispéridone seule et aucun de ceux traités par la lamotrigine seule. 
+L'influence de la rispéridone sur la pharmacocinétique de la lamotrigine n'a pas été évaluée 
+dans cette étude.
+
+Dans une étude pharmacocinétique auprès de 18 patients adultes souffrant d'un trouble 
+bipolaire I et bénéficiant d'un régime établi de lamotrigine (≥100 mg par jour), la dose 
+d'aripiprazole a été augmentée en l'espace de 7 jours de sorte à passer de 10 mg par jour 
+à une dose cible de 30 mg par jour. Cette dose a été administrée une fois par jour pendant 
+encore 7 jours. On a observé une réduction moyenne d'environ 10% de la Cmax et de l'AUC de 
+la lamotrigine. Un effet de cet ordre de grandeur ne devrait pas avoir de conséquences 
+cliniquement significatives.
+
+Dans les essais d'inhibition in vitro, l'incubation simultanée avec de l'amitriptyline 
+(saroten), du bupropion, du clonazépam, de l'halopéridol ou du lorazépam n'a eu qu'une 
+faible influence sur la formation du glucuronide 2-N, un métabolite primaire de la 
+lamotrigine. L'importance clinique de ces observations est inconnue, compte tenu de 
+l'absence d'études in vivo. La prudence est donc de rigueur lorsque l'on associe la 
+lamotrigine à l'une de ces substances. 
+Les données concernant le métabolisme du bufuralol dans les microsomes du foie humain 
+indiquent que la lamotrigine ne diminue pas la clairance des médicaments métabolisés 
+essentiellement par le CYP2D6. Les résultats d'essais in vitro prouvent en outre qu'il est 
+peu probable que la clozapine, la fluoxétine, la rispéridone, la sertraline ou la trazodone 
+influe sur la clairance de la lamotrigine.
+
+Chez 20 volontaires sains ayant reçu pendant 6 jours 2 g de gluconate de lithium anhydre 2 
+fois par jour ainsi que 100 mg de lamotrigine une fois par jour, la pharmacocinétique du 
+lithium n'était pas fondamentalement modifiée (<10% de réduction de l'AUC). L'influence de 
+cette association sur la pharmacocinétique de la lamotrigine n'a pas été évalué dans cette 
+étude. Une dose de 100 mg de lamotrigine correspond à la moitié de la dose d'entretien 
+recommandée pour l'indication «trouble bipolaire», si bien que les résultats de cette étude 
+ne permettent pas d'exclure des effets éventuellement plus marqués sur la pharmacocinétique 
+du lithium lors de l'administration de la lamotrigine à des doses thérapeutiques.
+Interactions avec les contraceptifs hormonaux (cf. «Posologie/Mode d'emploi», «Instructions 
+spéciales pour la posologie» et «Mises en garde et précautions»)
+Effet des contraceptifs hormonaux sur la pharmacocinétique de la lamotrigine:
+
+Dans une étude menée chez 16 sujets de sexe féminin, l'administration d'un contraceptif oral 
+combiné composé de 30 µg d'éthinylestradiol et de 150 µg de lévonorgestrel a presque multiplié 
+par deux la clairance de la lamotrigine, ce qui a entraîné une diminution moyenne de l'AUC de 
+la lamotrigine de 52% et de la Cmax de 39%. Les concentrations sériques de lamotrigine ont 
+augmenté progressivement au cours de la période sans principe actif (semaine «sans pilule»), 
+les concentrations mesurées avant la prise à la fin de la semaine sans principe actif étant 
+en moyenne près de deux fois plus élevées que celles mesurées sous la comédication.
+
+Aucun autre contraceptif oral ni traitement hormonal substitutif (THS) n'a été évalué, bien 
+que ceux-ci puissent avoir un effet similaire sur les paramètres pharmacocinétiques de la 
+lamotrigine.
+
+Effet de la lamotrigine sur la pharmacocinétique du contraceptif hormonal:
+
+Dans une étude menée chez 16 sujets de sexe féminin, une dose à l'état d'équilibre de 
+300 mg de lamotrigine n'a eu aucun impact sur la pharmacocinétique du composant 
+éthinylestradiol d'un contraceptif oral combiné. Une augmentation modérée de la 
+clairance du composant lévonorgestrel a été observée, ce qui a entraîné une réduction 
+moyenne de 19% de l'AUC respectivement de 12% de la Cmax du lévonorgestrel. La mesure 
+des concentrations sériques de FSH, de LH et d'estradiol au cours de l'étude a révélé 
+chez quelques femmes une certaine perte d'efficacité en ce qui concerne la suppression 
+de l'activité hormonale ovarienne, bien que la détermination des taux sériques de 
+progestérone n'ait mis en évidence de signe hormonal d'ovulation chez aucune des 16 
+volontaires. L'effet de l'augmentation modérée de la clairance du lévonorgestrel et des 
+modifications des taux sériques de FSH et LH sur l'activité ovarienne est inconnu. Une 
+diminution de l'efficacité contraceptive ne peut être exclue de façon certaine. Aucune 
+étude n'a été réalisée jusqu'à présent avec une posologie autre que 300 mg/jour de 
+lamotrigine ou avec d'autres produits contenant des hormones féminines.
+
+Interactions avec d'autres médicaments
+
+Dans une étude chez 10 sujets masculins, la rifampicine, un inducteur de la glucuronidation, 
+a augmenté la clairance de la lamotrigine et diminué la demi-vie de la lamotrigine. Chez les 
+patients recevant un traitement concomitant par la rifampicine, il convient d'appliquer le 
+schéma thérapeutique recommandé lors d'un traitement associant la lamotrigine et des 
+inducteurs de la glucuronidation (cf. «Posologie/Mode d'emploi»).
+
+Dans une étude chez 18 sujets en bonne santé, un traitement associant le lopinavir/ritonavir 
+et la lamotrigine a entraîné une diminution de la concentration plasmatique de lamotrigine 
+d'environ 50%. Cet effet a été imputé à une induction de la glucuronidation. Chez les 
+patients traités simultanément par le lopinavir/ritonavir et la lamotrigine, il convient donc 
+d'utiliser le schéma thérapeutique recommandé lors d'un traitement associant la lamotrigine et 
+des inducteurs de la glucuronidation (cf. «Posologie/Mode d'emploi»). Les concentrations de 
+lopinavir et de ritonavir n'ont pas été modifiées par l'association avec la lamotrigine.
+
+Dans une étude chez 17 sujets en bonne santé, un traitement association l'atazanavir/ritonavir 
+et la lamotrigine a entraîné une diminution de l'AUC plasmatique de la lamotrigine d'en moyenne 
+32% et de la Cmax de 6% (cf. «Posologie/Mode d'emploi», «Instructions spéciales pour la 
+posologie»).
+
+Dans la même étude, une monothérapie par l'atazanavir n'a pas conduit à des modifications 
+significatives ou pertinentes sur le plan clinique de l'exposition à la lamotrigine.
+
+Les données d'essais in vitro sur les effets de la lamotrigine sur l'OCT-2 montrent que la 
+lamotrigine – mais pas son métabolite glucuronoconjugué N(2) – inhibe l'OCT-2 à des 
+concentrations pouvant être cliniquement significatives. Ces données démontrent que la 
+lamotrigine est un inhibiteur de l'OCT-2 avec une valeur CI50 de 53,8 µM (cf. «Mises en garde 
+et précautions»).

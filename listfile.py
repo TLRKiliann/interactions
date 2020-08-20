@@ -18,7 +18,7 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
 
 """
-lyrica, prégabaline
+
 lamictal, lamotrigine
 fycompa, gabitril
 vimpat, lacosamide
@@ -27,4 +27,5 @@ zonegran, zonisamide
 briviact, brivaracétam
 phénytoïne
 keppra, levetiracetam
+Bupropion (wellbutrin)
 """
