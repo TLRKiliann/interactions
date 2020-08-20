@@ -132,12 +132,17 @@ class Application(Frame):
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
             "Available drugs : \n"
-            "aripiprazol, clopin, clozapine, leponex, clopixol, entumine, fluanxol, haldol, halopéridol, nozinan,\n"
-            "tiapridal, abilify, dogmatil, invega, olanzapine, zyprexa, risperdal, risperdone,\n"
-            "seroquel, sequase, quétiapine, solian, carbamazépine, tégrétol, dépakine, valproate,\n" 
-            "ethosuximide, pétinimid, mysoline, inovelon, aphénylbarbite, phénytoïne, briviact,\n"
-            "fycompa, gabitril, inovelon, keppra, lamictal, lyrica, neurontin, sabril, taloxa,\n" 
-            "tiapridal, topamax, topiramate, trileptal, vimpat, zonegran, palipéridone")
+            "briviact, brivaracétam abilify, aripiprazol, clopixol, clopin, \n" 
+            "clozapine, leponex, carbamazépine, tégrétol, dépakine, valproate, \n" 
+            "haldol, halopéridol, entumine, clitiapine, fluanxol, nozinan, \n" 
+            "tiapridal, dogmatil, sulpride, invega, palipéridone, olanzapine, \n" 
+            "zyprexa, risperdal, risperdone, seroquel, sequase, quétiapine, \n" 
+            "solian, amisulpride, ethosuximide, pétinimid, mysoline, primidone, \n" 
+            "phénobarbital, aphénylbarbite, phénytoïne, fycompa, gabitril, inovelon, \n" 
+            "rufinamdie, keppra, levetiracetam, lamictal, lamotrigine, lyrica, \n" 
+            "prégabaline, neurontin, gabapentine, sabril, vigabatrin, taloxa, \n" 
+            "felbamate, tiapridal, topamax, topiramate, trileptal, oxcarbazépine, \n" 
+            "vimpat, lacosamide, zonegran, zonisamide")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()
