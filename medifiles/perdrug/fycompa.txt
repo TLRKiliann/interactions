@@ -1,0 +1,195 @@
+Fycompa (pérampanel) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue au pérampanel ou à l'un des excipients.
+
+Insuffisance rénale modérée ou sévère et patients sous hémodialyse.
+
+Insuffisance hépatique sévère.
+
+
+Interactions :
+------------------
+
+Interactions pharmacocinétiques
+Données in vitro
+Inhibition des enzymes du métabolisme des médicaments
+
+Dans des microsomes hépatiques humains, le pérampanel (30 μmol/l) a présenté un faible 
+effet inhibiteur sur le CYP2C8 et sur l'UGT1A9 parmi les principaux cytochromes et UDP-
+glucuronosyltransférases hépatiques.
+
+Induction des enzymes du métabolisme des médicaments
+
+Par rapport aux témoins positifs (dont le phénobarbital et la rifampicine), le pérampanel 
+est un inducteur faible du CYP2B6 (30 μmol/l) et du CYP3A4/5 (≥3 μmol/l) parmi les 
+principaux CYP et UGT hépatiques dans des hépatocytes humains en culture.
+Données in vivo
+
+Substrats du CYP3A
+
+Chez des volontaires sains, Fycompa (6 mg/jour pendant 20 jours) a diminué de 13% l'ASC 
+du midazolam. Une diminution plus importante de l'exposition au midazolam (ou à d'autres 
+substrats sensibles du CYP3A) à des doses plus élevées de Fycompa ne peut être exclue.
+
+Inducteurs du cytochrome P450
+
+Les inducteurs puissants du cytochrome P450, tels que la rifampicine et le millepertuis, 
+sont susceptibles de diminuer les concentrations du pérampanel et la possibilité de 
+concentrations plasmatiques augmentées de ses métabolites réactifs n'est au contraire pas 
+à exclure. Le felbamate diminue les concentrations de certains médicaments et pourrait 
+également diminuer celles du pérampanel.
+
+Inhibiteurs du cytochrome P450
+
+Chez des volontaires sains, un inhibiteur du CYP3A4, le kétoconazole (400 mg/jour pendant 
+10 jours), a augmenté de 20% l'ASC du pérampanel et a allongé de 15% sa demi-vie (67,8 h 
+contre 58,4 h). Des effets plus importants ne peuvent être exclus lorsque le pérampanel 
+est associé à un inhibiteur du CYP3A ayant une demi-vie plus longue que le kétoconazole 
+ou lorsque la durée du traitement par l'inhibiteur est plus longue. Des inhibiteurs 
+puissants d'autres isoformes du cytochrome P450 pourraient également augmenter les 
+concentrations du pérampanel.
+
+Lévodopa
+
+Chez des volontaires sains, Fycompa (4 mg/jour pendant 19 jours) n'a pas eu d'effet sur la 
+Cmax ou l'ASC de la lévodopa.
+Médicaments antiépileptiques
+
+Les interactions éventuelles entre Fycompa (jusqu'à 12 mg/jour) et d'autres médicaments 
+antiépileptiques ont été évaluées dans le cadre des études cliniques et dans l'analyse 
+pharmacocinétique de population de 4 études de phase III combinées réalisées chez des 
+patients présentant des crises d'épilepsie focales et chez des patients présentant des 
+crises généralisées tonico-cloniques primaires. Le tableau ci-dessous présente une 
+synthèse de l'effet de ces interactions sur la concentration moyenne à l'état d'équilibre. 
+(Les valeurs indiquées dans le tableau se basent sur les modèles de cinétique de population).
+
+Médicament antiépileptique co-administré
+
+Effet du médicament antiépileptique sur la concentration de pérampanel
+
+    Carbamazépine (tégrétol):           Diminution d'un tiers 
+
+    Clobazam (urbanyl):                 Pas d'effet
+
+    Clonazépam (rivotril):              Pas d'effet
+
+    Lamotrigine (lamictal):             Pas d'effet
+
+    Lévétiracétam (keppra):             Pas d'effet
+
+    Oxcarbazépine (trileptal):          Diminution de moitié
+
+    Phénobarbital (aphénylbarbite):     Pas d'effet
+
+    Phénytoïne:                         Diminution de moitié
+
+    Topiramate (topamax):               Diminution <20%
+
+    Acide valproïque (dépakine):        Pas d'effet
+
+    Zonisamide (zonégran):              Pas d'effet
+
+
+Effet de pérampanel sur la concentration du médicament antiépileptique
+
+    Carbamazépine (tégrétol):           Diminution <10%
+
+    Clobazam (urbanyl):                 Diminution <10%
+
+    Clonazépam (rivotril):              Pas d'effet
+
+    Lamotrigine (lamictal):             Diminution <10%
+
+    Lévétiracétam (keppra):             Pas d'effet
+
+    Oxcarbazépine (trileptal):          Augmentation de 35%1)
+
+    Phénobarbital (aphénylbarbite):     Pas d'effet
+
+    Phénytoïne:                         Pas d'effet
+
+    Topiramate (topamax):               Pas d'effet
+
+    Acide valproïque (dépakine):        Diminution <10%
+
+    Zonisamide (zonégran):              Pas d'effet
+
+
+1) Le métabolite actif monohydroxycarbazépine n'a pas été évalué.
+
+Certains médicaments antiépileptiques connus pour être des inducteurs enzymatiques 
+(carbamazépine, phénytoïne, oxcarbazépine) augmentent la clairance du pérampanel et, 
+par conséquent, diminuent les concentrations plasmatiques du pérampanel. A l'inverse, 
+l'arrêt d'inducteurs enzymatiques administrés concomitamment peut augmenter la 
+concentration plasmatique du pérampanel et nécessiter une adaptation posologique. La 
+carbamazépine, connue pour être un inducteur enzymatique puissant, a diminué de deux 
+tiers les concentrations du pérampanel dans une étude menée chez des volontaires sains.
+
+Un résultat similaire a été observé dans une analyse pharmacocinétique de population 
+de patients présentant des crises d'épilepsie partielles et de patients présentant 
+des crises généralisées tonico-cloniques primaires recevant le pérampanel à des doses 
+allant jusqu'à 12 mg/jour dans des études cliniques contrôlés contre placebo. La 
+clairance totale de Fycompa a augmenté lors de l'administration concomitante de 
+carbamazépine (multiplication par 3), de phénytoïne (multiplication par 2) et 
+d'oxcarbazépine (multiplication par 2), qui sont des inducteurs connus des enzymes 
+du métabolisme (voir rubrique «Pharmacocinétique»). Il convient de tenir compte de 
+cet effet dans le cadre du schéma thérapeutique et de prendre les mesures thérapeutiques 
+appropriées lors de l'ajout ou du retrait de ces médicaments antiépileptiques.
+
+Dans une analyse pharmacocinétique de population de patients présentant des crises 
+d'épilepsie partielles et recevant du pérampanel à des doses allant jusqu'à 12 mg/jour 
+et de patients présentant des crises généralisées tonico-cloniques primaires recevant 
+des doses allant jusqu'à 8 mg par jour dans le cadre d'études cliniques contrôlées 
+contre placebo, Fycompa n'a pas eu d'effet cliniquement pertinent sur la clairance 
+du clonazépam, du lévétiracétam, du phénobarbital, de la phénytoïne, du topiramate, 
+du zonisamide, de la carbamazépine, du clobazam, de la lamotrigine et de l'acide 
+valproïque à la plus forte dose de pérampanel évaluée (12 mg/jour).
+
+Dans l'analyse pharmacocinétique de population de patients épileptiques, le pérampanel 
+a diminué de 26% la clairance de l'oxcarbazépine. L'oxcarbazépine est rapidement 
+métabolisée en métabolite actif, la monohydroxycarbazépine, par la réductase cytosolique. 
+L'effet du pérampanel sur les concentrations de la monohydroxycarbazépine n'est pas connu.
+
+La dose du pérampanel est déterminée par l'effet clinique indépendamment des autres 
+médicaments antiépileptiques.
+
+Contraceptifs oraux
+
+En raison de l'interaction prouvée avec le lévonorgestrel, Fycompa peut diminuer 
+l'efficacité des contraceptifs hormonaux contenant des progestatifs. Il est 
+recommandé d'utiliser une méthode de contraception non hormonale supplémentaire 
+(dispositif intra-utérin (DIU), préservatif).
+
+Chez des femmes en bonne santé, l'administration concomitante de Fycompa à la dose de 
+12 mg (mais pas de 4 ou 8 mg/jour) pendant 21 jours et d'un contraceptif oral combiné 
+a diminué l'exposition au lévonorgestrel (les valeurs moyennes de la Cmax et de l'ASC 
+ont été diminuées chacune de 40%). L'ASC de l'éthinylestradiol n'a pas été modifiée 
+par Fycompa à la dose de 12 mg, tandis que sa Cmax a été diminuée de 18%. Il convient 
+de prendre en compte de manière appropriée le risque de diminution de l'efficacité des 
+contraceptifs oraux contenant des progestatifs chez les jeunes filles ou femmes en âge 
+de procréer nécessitant un traitement par Fycompa (voir rubrique «Mises en garde et 
+précautions»).
+
+Population pédiatrique
+
+Des études d'interaction n'ont été réalisées que chez l'adulte. Les données disponibles 
+à ce sujet dans la population pédiatrique sont limitées: une analyse pharmacocinétique 
+de population de patients adolescents inclus dans les études cliniques de phase III n'a 
+mis en évidence aucune différence notable entre cette population et la population 
+générale.
+
+Interactions pharmacodynamiques
+
+Alcool
+
+Les effets du pérampanel et ceux de l'alcool étaient additifs ou synergiques sur les 
+activités nécessitant attention et vigilance. L'administration répétée de pérampanel 
+à raison de 12 mg/jour a potentialisé les effets de l'alcool également concernant la 
+vigilance et l'attention et a augmenté les degrés de colère, de désorientation et de 
+dépression (voir rubrique «Propriétés/Effets»). Ces effets peuvent également être 
+observés lorsque Fycompa est utilisé en association avec d'autres médicaments 
+dépresseurs du système nerveux central (SNC).

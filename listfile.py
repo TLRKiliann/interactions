@@ -19,8 +19,8 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
 
 """
 
-lamictal, lamotrigine
-fycompa, gabitril
+fycompa, pérampanel
+gabitril
 vimpat, lacosamide
 neurontin, gabapentine
 zonegran, zonisamide
