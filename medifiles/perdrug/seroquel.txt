@@ -1,8 +1,8 @@
-Seroquel :
-=======
+Seroquel (sequase, quétiapine) :
+====================
 
 Contre-indications :
---------------------
+--------------------------
 
 Seroquel est contre-indiqué chez les patients présentant une hypersensibilité connue 
 à l'un des composants, ainsi qu'en période d'allaitement.
@@ -13,7 +13,7 @@ contre-indiquée (voir «Interactions»).
 
 
 Interactions :
---------------
+------------------
 
 Étant donné que la quétiapine agit sur le système nerveux central, il faut être prudent 
 quand on l'associe à d'autres médicaments d'effet central et éviter la consommation 

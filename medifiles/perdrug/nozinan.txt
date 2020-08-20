@@ -1,6 +1,5 @@
-Nozinan :
-=====
-
+Nozinan (levomepromazine) :
+==================
 
 Contre-indications :
 --------------------------
@@ -112,8 +111,9 @@ Effet d'autres médicaments sur Nozinan
 L'utilisation conjointe de médicaments proconvulsivants, ou abaissant le seuil épileptogène, 
 doit être soigneusement pesée, en raison de la sévérité du risque encouru.
 
-Le traitement simultané avec un anthelminthique contenant de la pipérazine et avec le 
-métoclopramide entraine une augmentation du risque d'effets secondaires moteurs extrapyramidaux.
+Le traitement simultané avec un anthelminthique contenant de la pipérazine et avec
+le métoclopramide entraine une augmentation du risque d'effets secondaires moteurs 
+extrapyramidaux.
 
 L'utilisation concomitante de lithium peut conduire au développement de symptômes 
 neuropsychiatriques tels qu'un syndrome neuroleptique malin ou une intoxication au lithium.

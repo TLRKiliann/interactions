@@ -1,5 +1,5 @@
-Solian :
-=====
+Solian (amisulpride) :
+=============
 
 Contre-indications :
 --------------------------
@@ -33,7 +33,7 @@ pointes (voir «Interactions»):
 
 
 Interactions :
--------------------
+------------------
 
 Associations contre-indiquées
 Médicaments qui peuvent induire des torsades de pointes:

@@ -2,7 +2,8 @@ Olanzapine (Zyprexa) :
 ==============
 
 Contre-indications :
------------------------
+--------------------------
+
 Zyprexa ne doit pas être utilisé:
 
     chez des patients présentant une hypersensibilité connue à l'un des composants.
@@ -11,7 +12,7 @@ Zyprexa ne doit pas être utilisé:
 
 
 Interactions :
------------------
+------------------
 
 Effet de l'olanzapine sur d'autres médicaments
 

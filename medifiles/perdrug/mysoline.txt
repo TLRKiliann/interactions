@@ -12,7 +12,7 @@ ainsi que lors d'hypersensibilité ou de réactions allergiques à la primidone,
 
 
 Interactions :
--------------------
+------------------
 
 La primidone, comme également le métabolite principal, le phénobarbital, augmente 
 l'activité des enzymes hépatiques, notamment du système enzymatique du CYP 450 3A4. 

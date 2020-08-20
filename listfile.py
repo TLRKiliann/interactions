@@ -6,14 +6,14 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
       "inhibiteurs de la cholinestérase", "antiparkinsoniens"]
 
 
-oneDrug=["briviact", "brivaracétam" "abilify", "aripiprazol", "clopixol", "clopin", 
+oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", 
       "clozapine", "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", 
-      "haldol", "halopéridol", "entumine", "clitiapine", "fluanxol", "nozinan", 
-      "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", "olanzapine", 
-      "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
+      "haldol", "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
+      "levomepromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
+      "olanzapine", "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
       "solian", "amisulpride", "ethosuximide", "pétinimid", "mysoline", "primidone", 
       "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "gabitril", "inovelon", 
-      "rufinamdie", "keppra", "levetiracetam", "lamictal", "lamotrigine", "lyrica", 
+      "rufinamide", "keppra", "levetiracetam", "lamictal", "lamotrigine", "lyrica", 
       "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", 
-      "felbamate", "tiapridal", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
+      "felbamate", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
       "vimpat", "lacosamide", "zonegran", "zonisamide"]

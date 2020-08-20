@@ -17,6 +17,7 @@ précautions» et «Grossesse/Allaitement» pour de plus amples informations.
 
 Contre-indications :
 --------------------------
+
 Depakine Chrono est contre-indiqué dans les cas suivants:
 Traitement de l'épilepsie
 
@@ -42,10 +43,11 @@ Traitement et prévention des troubles bipolaires
     Hypersensibilité connue au valproate de sodium ou à d'autres composants du médicament.
     Porphyrie hépatique.
     Patients connus pour avoir des maladies mitochondriales causées par des mutations du gène 
-    nucléaire codant pour l'enzyme mitochondriale polymérase gamma (POLG, par exemple dans le 
-    syndrome d'Alpers-Huttenlocher) ainsi que chez les enfants de moins de 2 ans qui sont 
+    nucléaire codant pour l'enzyme mitochondriale polymérase gamma (POLG, par exemple dans 
+    le syndrome d'Alpers-Huttenlocher) ainsi que chez les enfants de moins de 2 ans qui sont 
     suspectés d'avoir une maladie liée au gène POLG (voir «Mises en garde et précautions»).
-    Patients souffrant de troubles connus du cycle de l'urée (voir «Mises en garde et précautions»).
+    Patients souffrant de troubles connus du cycle de l'urée (voir «Mises en garde et 
+    précautions»).
 
 
 Interactions :
@@ -71,10 +73,10 @@ montré que Depakine n'a aucun effet sur les taux sériques de lithium.
     Phénobarbital (aphénylbarbite)
 
 Depakine Chrono augmente les concentrations plasmatiques du phénobarbital par inhibition du 
-catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est pourquoi 
-une surveillance clinique est recommandée durant les 15 premiers jours du traitement combiné, 
-avec réduction immédiate des doses de phénobarbital si une sédation survient et détermination 
-des taux plasmatiques de phénobarbital si nécessaire.
+catabolisme hépatique, entraînant une sédation, particulièrement chez les enfants. C'est 
+pourquoi une surveillance clinique est recommandée durant les 15 premiers jours du traitement 
+combiné, avec réduction immédiate des doses de phénobarbital si une sédation survient et 
+détermination des taux plasmatiques de phénobarbital si nécessaire.
 
     Primidone (mysoline)
 
@@ -101,13 +103,14 @@ tout particulièrement en début de traitement par l'association et la posologie
 
     Lamotrigine (lamictal)
 
-Depakine entrave le métabolisme de la lamotrigine et prolonge sa demi-vie moyenne d'élimination 
-de presque deux fois. Cette interaction peut entraîner une augmentation des effets toxiques de 
-la lamotrigine, en particulier des éruptions cutanées sévères. Certaines réactions cutanées 
-graves qui sont apparues dans les six premières semaines des polythérapies ont été rapportées, 
-mais ces dernières ont régressé partiellement lors de l'arrêt du traitement ou, dans certains 
-cas, uniquement après un traitement approprié. Par conséquent, une surveillance clinique est 
-recommandée et les doses de lamotrigine doivent être diminuées le cas échéant
+Depakine entrave le métabolisme de la lamotrigine et prolonge sa demi-vie moyenne 
+d'élimination de presque deux fois. Cette interaction peut entraîner une augmentation 
+des effets toxiques de la lamotrigine, en particulier des éruptions cutanées sévères. 
+Certaines réactions cutanées graves qui sont apparues dans les six premières semaines des 
+polythérapies ont été rapportées, mais ces dernières ont régressé partiellement lors de 
+l'arrêt du traitement ou, dans certains cas, uniquement après un traitement approprié. 
+Par conséquent, une surveillance clinique est recommandée et les doses de lamotrigine 
+doivent être diminuées le cas échéant
 
     Zidovudine (retrovir AZT - ttt VIH)
 
@@ -148,24 +151,24 @@ L'association de la nimodipine avec l'acide valproïque peut augmenter la concen
 plasmatique de la nimodipine de 50%.
 Effets des autres médicaments sur l'acide valproïque
 
-    Antiépileptiques: Les antiépileptiques avec effet inducteur enzymatique (notamment phénytoïne, 
-    phénobarbital, primidone, carbamazépine) diminuent les concentrations sériques de l'acide 
-    valproïque. En cas d'association, il faut adapter le traitement en fonction de la réponse 
-    clinique et des dosages sanguins.
+    Antiépileptiques: Les antiépileptiques avec effet inducteur enzymatique (notamment 
+    phénytoïne, phénobarbital, primidone, carbamazépine) diminuent les concentrations 
+    sériques de l'acide valproïque. En cas d'association, il faut adapter le traitement 
+    en fonction de la réponse clinique et des dosages sanguins.
 
     L'association du felbamate et de l'acide valproïque, peut entraîner une diminution de la 
     clairance de l'acide valproïque de 22% à 50%, et par conséquent une augmentation dose-
     dépendante de la concentration sérique en acide valproïque. Une surveillance des taux 
     plasmatiques est nécessaire.
 
-    Les taux d'acide valproïque dans le sérum peuvent être augmentés en cas de co-administration 
-    avec la phénytoïne ou le phénobarbital. Par conséquent, les patients qui reçoivent ces deux 
-    traitements doivent être attentivement surveillés à la recherche de signes et de symptômes 
-    d'hyperammoniémie.
+    Les taux d'acide valproïque dans le sérum peuvent être augmentés en cas de 
+    co-administration avec la phénytoïne ou le phénobarbital. Par conséquent, les patients 
+    qui reçoivent ces deux traitements doivent être attentivement surveillés à la recherche 
+    de signes et de symptômes d'hyperammoniémie.
 
-    Méfloquine (antipaludisme): La méfloquine augmente le métabolisme de l'acide valproïque et possède par 
-    ailleurs un effet convulsivant, d'où un risque de survenue de crises épileptiques en cas 
-    d'association.
+    Méfloquine (antipaludisme): La méfloquine augmente le métabolisme de l'acide valproïque 
+    et possède par ailleurs un effet convulsivant, d'où un risque de survenue de crises 
+    épileptiques en cas d'association.
 
     Produits ayants une fixation protéique importante: L'administration concomitante de Depakine 
     Chrono et de produits ayant une fixation protéique importante (par exemple acide 
@@ -174,20 +177,22 @@ Effets des autres médicaments sur l'acide valproïque
     susceptible d'augmenter les taux sériques de l'acide valproïque (diminution de son 
     métabolisme hépatique).
     
-    Carbapénèmes (ATB): En cas de co-administration, les carbapénèmes (panipénème, méropénème, 
-    imipénème par exemple) entraînent une diminution des concentrations sanguines d'acide 
-    valproïque de 60-100% en deux jours, avec parfois des convulsions. En raison du déclenchement 
-    rapide et de la chute brutale de la concentration en acide valproïque, l'on considère que les 
-    conséquences d'une interaction éventuelle entre l'acide valproïque et les carbapénèmes sont 
-    incontrôlables chez les patients dont l'état de santé était stable sous acide valproïque. 
-    La co-administration de carbapénèmes chez des patients stabilisés avec l'acide valproïque 
-    devrait être évitée (voir la rubrique «Mises en garde et précautions»). Si le traitement 
-    avec ces antibiotiques ne peut pas être évité, un contrôle accru des taux plasmatiques 
-    d'acide valproïque doit être effectué.
+    Carbapénèmes (ATB): En cas de co-administration, les carbapénèmes (panipénème, 
+    méropénème, imipénème par exemple) entraînent une diminution des concentrations 
+    sanguines d'acide valproïque de 60-100% en deux jours, avec parfois des convulsions. 
+    En raison du déclenchement rapide et de la chute brutale de la concentration en acide 
+    valproïque, l'on considère que les conséquences d'une interaction éventuelle entre 
+    l'acide valproïque et les carbapénèmes sont incontrôlables chez les patients dont 
+    l'état de santé était stable sous acide valproïque. La co-administration de 
+    carbapénèmes chez des patients stabilisés avec l'acide valproïque devrait être évitée 
+    (voir la rubrique «Mises en garde et précautions»). 
+    Si le traitement avec ces antibiotiques ne peut pas être évité, un contrôle accru des 
+    taux plasmatiques d'acide valproïque doit être effectué.
 
-    Rifampicine: La rifampicine peut causer une diminution de la concentration de l'acide 
-    valproïque dans le sang causant un manque d'effet thérapeutique. Il peut s'avérer nécessaire 
-    d'ajuster les doses de valproate lors d'administration simultanée de rifampicine.
+    Rifampicine (antituberculeux): La rifampicine peut causer une diminution de la 
+    concentration de l'acide valproïque dans le sang causant un manque d'effet thérapeutique. 
+    Il peut s'avérer nécessaire d'ajuster les doses de valproate lors d'administration 
+    simultanée de rifampicine.
 
     Inhibiteurs de protéases: Les inhibiteurs de protéases tels que le lopinavir et le ritonavir 
     diminuent les niveaux plasmatiques de valproate lorsqu'ils sont co-administrés.
@@ -198,29 +203,31 @@ Effets des autres médicaments sur l'acide valproïque
     contraceptifs hormonaux, parce que la substance n'a pas d'effet inducteur d'enzyme. 
     Cependant, les œstrogènes et les produits contenant des œstrogènes ont induit une 
     activité enzymatique UGT in vitro et in vivo. 
-    Les enzymes UGT1A6, UGT1A9 et UGT2B7 contribuent à 40% de la biotransformation de l'acide 
-    valproïque. Des études pharmacocinétiques et des publications littéraires ainsi que des 
-    études post-commercialisation ont montré que les produits contenant des œstrogènes, 
-    notamment certains contraceptifs hormonaux, peuvent augmenter la clairance du valproate, 
-    ce qui peut entraîner une diminution de la concentration de valproate dans le sérum et 
-    potentiellement une réduction de l'efficacité de valproate. (Voir les rubriques 
-    «Posologie/Mode d'emploi», «Mises en garde et précautions» et «Grossesse/Allaitement»).
+    Les enzymes UGT1A6, UGT1A9 et UGT2B7 contribuent à 40% de la biotransformation de 
+    l'acide valproïque. Des études pharmacocinétiques et des publications littéraires 
+    ainsi que des études post-commercialisation ont montré que les produits contenant 
+    des œstrogènes, notamment certains contraceptifs hormonaux, peuvent augmenter la 
+    clairance du valproate, ce qui peut entraîner une diminution de la concentration de 
+    valproate dans le sérum et potentiellement une réduction de l'efficacité de valproate. 
+    (Voir les rubriques «Posologie/Mode d'emploi», «Mises en garde et précautions» et 
+    «Grossesse/Allaitement»).
 
 Autres interactions
 
-Les médicaments potentiellement hépatotoxiques et l'alcool peuvent renforcer la toxicité hépatique 
-de l'acide valproïque (voir la rubrique «Mises en garde et précautions»).
+Les médicaments potentiellement hépatotoxiques et l'alcool peuvent renforcer la toxicité 
+hépatique de l'acide valproïque (voir la rubrique «Mises en garde et précautions»).
 
-En raison de son absence habituelle d'effet inducteur enzymatique, l'acide valproïque ne diminue 
-pas la concentration plasmatique totale des œstroprogestatifs chez les femmes sous contraception 
-hormonale. 
+En raison de son absence habituelle d'effet inducteur enzymatique, l'acide valproïque ne 
+diminue pas la concentration plasmatique totale des œstroprogestatifs chez les femmes sous 
+contraception hormonale. 
 Pour la même raison, il n'abaisse pas la concentration plasmatique totale des antivitamines K.
 
 Par contre, Depakine Chrono peut accroître la fraction libre de la warfarine, en raison de 
-phénomènes de compétition au niveau des sites de fixation albuminique. C'est pourquoi, en cas de 
-traitement par antivitamines K, une surveillance accrue du taux de prothrombine devra être 
-effectuée.
+phénomènes de compétition au niveau des sites de fixation albuminique. C'est pourquoi, en 
+cas de traitement par antivitamines K, une surveillance accrue du taux de prothrombine devra 
+être effectuée.
 
-L'administration concomitante de valproate et de topiramate ou d'acétazolamide a été associée à 
-l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller soigneusement l'apparition de 
-symptômes d'encéphalopathie hyperammoniémique chez les patients traités par ces 2 médicaments.
+L'administration concomitante de valproate et de topiramate ou d'acétazolamide 
+a été associée à l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller 
+soigneusement l'apparition de symptômes d'encéphalopathie hyperammoniémique chez 
+les patients traités par ces 2 médicaments.

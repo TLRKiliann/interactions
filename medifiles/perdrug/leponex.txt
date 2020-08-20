@@ -38,6 +38,7 @@ Contre-indications :
 
 Interactions :
 ------------------
+
 Interactions pharmacodynamiques
 
 Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être 
