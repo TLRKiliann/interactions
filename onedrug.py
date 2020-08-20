@@ -303,6 +303,20 @@ def oneDrug28(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'inovelon.txt' does not exist !", outnote)
 
+def oneDrug29(self):
+    """
+    Per drug keppra
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/keppra.txt'):
+            print("+ File 'keppra.txt' exist (read)!")
+            with open('./medifiles/perdrug/keppra.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'keppra.txt' does not exist !", outnote)
+
 def oneDrug30(self):
     """
     Per drug lamictal

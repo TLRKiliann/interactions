@@ -1,0 +1,58 @@
+Keppra (lévétiracétam) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au lévétiracétam ainsi qu'aux substances de structure apparentée, 
+ou à l'un des excipients
+
+
+Interactions :
+------------------
+
+In-vitro, le lévétiracétam et son métabolite principal n'inhibent ni les isoformes 
+les plus importantes du cytochrome P450 du foie humain (CYP3A4, 2A6, 2C9, 2C19, 2D6, 
+2E1 et 1A2) ni la glucuronyltransférase (UGT1A1 et UGT1A6) ou l'activité de 
+l'hydroxylase époxyde. En outre, le lévétiracétam n'affecte pas non plus la 
+glucuronidation in-vitro de l'acide valproïque et le lévétiracétam n'a entraîné 
+aucun effet ou un effet minime sur la conjugaison de l'éthinylestradiol dans les 
+cultures d'hépatocytes. À des concentrations élevées (680 µg/ml), le lévétiracétam 
+a provoqué une légère induction du CYP2B6 et du CYP3A4; lors de concentrations 
+plasmatiques maximales telles qu'elles ont été observées lors d'une administration 
+répétée de 1500 mg deux fois par jour, ces effets ont été jugés comme étant sans 
+pertinence clinique. C'est pourquoi des interactions entre Keppra et d'autres 
+médicaments dues à une inhibition ou à une induction enzymatique sont assez 
+improbables.
+
+Le probénécide diminue la clairance rénale du métabolite principal, mais pas celle 
+du lévétiracétam. Néanmoins, la concentration du principal métabolite reste faible. 
+Il semble vraisemblable que d'autres substances éliminées par sécrétion tubulaire 
+active diminuent également la clairance rénale de ce métabolite. L'effet du 
+lévétiracétam sur le probénécide n'a pas été étudié et l'effet du lévétiracétam sur 
+d'autres médicaments sécrétés activement comme les AINS, les sulfonamides et le 
+méthotrexate est inconnu.
+
+L'administration concomitante d'autres antiépileptiques (carbamazépine, phénytoïne, 
+acide valproïque, phénobarbital, lamotrigine, primidone et gabapentine) ne modifie 
+pas les paramètres pharmacocinétiques du lévétiracétam et inversement, le 
+lévétiracétam n'influence également pas la concentration sérique de ces 
+antiépileptiques.
+
+Une évaluation rétrospective des interactions pharmacocinétiques chez les enfants et 
+adolescents épileptiques (de 4 à 17 ans) confirme que le traitement en association par 
+le lévétiracétam n'influence pas les concentrations sériques à l'état d'équilibre de 
+la carbamazépine et du valproate administrés de façon concomitante. Des résultats 
+similaires ont été observés pour le topiramate et la lamotrigine. Toutefois, des 
+données suggèrent que les médicaments antiépileptiques inducteurs enzymatiques (par 
+exemple la carbamazépine) augmentent la clairance du lévétiracétam de 22% et diminuent 
+la demi-vie du lévétiracétam de 22%. Cet effet est cependant jugé comme étant sans 
+pertinence clinique et aucun ajustement posologique n'est nécessaire.
+
+Les études pharmacocinétiques ne montrent pas d'interaction avec la digoxine, les 
+contraceptifs oraux (éthinylestradiol et lévonorgestrel) ni avec la warfarine. Les 
+paramètres endocriniens (LH et progestérone), ainsi que le temps de prothrombine ne 
+sont pas modifiés.
+
+Aucune donnée n'est disponible sur une éventuelle interaction entre le lévétiracétam 
+et l'alcool.
