@@ -50,7 +50,7 @@ class Application(Frame):
             luckyLoop3(self, drug3, drug4)
 
         # Label title
-        self.label=Label(self.can, text="Interact", font='Arial 22 bold', 
+        self.label=Label(self.can, text="Interact", font='Times 22 bold', 
             fg='navy', bg='turquoise3')
         self.label.pack(in_=self.top, side=LEFT, padx=5, pady=10)
 
@@ -73,8 +73,8 @@ class Application(Frame):
         self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
 
         # Label VS
-        self.labelbot=Label(self.can, text="VS", font='Arial 18 bold', 
-            fg='white', bg='aquamarine')
+        self.labelbot=Label(self.can, text="VS", font='Times 18 bold', 
+            fg='navy', bg='aquamarine')
         self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=10)
 
         # Text entry 4
