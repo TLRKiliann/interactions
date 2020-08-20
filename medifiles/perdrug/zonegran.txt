@@ -1,0 +1,102 @@
+Zonegran (zonisamide) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au principe actif, à l'un des excipients ou aux sulfonamides.
+
+Troubles rénaux moyennement graves à graves (Clcr <50 ml/min).
+
+Troubles hépatiques moyennement graves à graves (Child Pugh B + C).
+
+Prise simultanée d'inhibiteurs de l'anhydrase carbonique (voir «Interactions»).
+
+
+Interactions :
+------------------
+
+Effet de Zonegran sur les isoenzymes du cytochrome P450
+
+Les études in vitro sur des microsomes hépatiques humains ne montrent pas d'inhibition, 
+ou une inhibition faible (inférieure à 25%), des isoenzymes du cytochrome P450 1A2, 2A6, 
+2B6, 2C8, 2C9, 2C19, 2D6, 2E1 ou 3A4 à des concentrations de zonisamide deux fois 
+supérieures ou plus aux concentrations sériques libres cliniquement efficaces. Par 
+conséquent, il est peu probable que Zonegran affecte la pharmacocinétique d'autres 
+médicaments par des mécanismes faisant intervenir le cytochrome P450, comme cela a 
+été démontré in vivo pour la carbamazépine, la phénytoïne, l'éthinylestradiol et la 
+désipramine.
+
+Risques d'interactions de Zonegran avec d'autres médicaments
+
+Médicaments antiépileptiques:
+
+Chez les patients épileptiques, l'administration de Zonegran à l'état d'équilibre n'a pas 
+provoqué d'effets pharmacocinétiques cliniquement significatifs sur la carbamazépine, la 
+lamotrigine, la phénytoïne ou le valproate de sodium.
+
+Contraceptifs oraux:
+
+Dans les études cliniques menées sur des sujets sains, l'administration de Zonegran à 
+l'état d'équilibre n'a pas eu d'effet sur les concentrations sériques d'éthinylestradiol 
+ou de noréthistérone d'un contraceptif oral combiné.
+
+Inhibiteurs de l'anhydrase carbonique:
+
+Zonegran ne doit pas être utilisé chez les patients traités simultanément par des 
+médicaments de même mécanisme d'action (inhibiteurs de l'anhydrase carbonique tels que 
+le topiramate), car des interactions pharmacodynamiques ne peuvent être exclues (voir 
+«Contre-indications») et le risque, notamment de perte de poids ou de formation de 
+calculs rénaux, est susceptible d'augmenter.
+
+Substrats de la P-gp:
+
+Une étude in vitro a montré que le zonisamide est un faible inhibiteur de la P-gp (MDR1) 
+avec une IC50 de 267 µmol/l et qu'il existe un potentiel théorique pour le zonisamide 
+d'affecter la pharmacocinétique des substances qui sont des substrats de la P-gp. Il 
+est recommandé d'être prudent à l'initiation ou à l'arrêt du traitement par le zonisamide 
+ou d'envisager de modifier la dose de zonisamide chez les patients qui reçoivent également 
+des médicaments qui sont des substrats de la P-gp (ex. digoxine, quinidine).
+
+Risques potentiels d'interactions médicamenteuses sur Zonegran par d'autres médicaments
+
+L'association de Zonegran avec d'autres médicaments qui peuvent induire une lithiase 
+urinaire accroît le risque d'apparition de calculs rénaux; l'administration concomitante 
+de ces médicaments doit donc être évitée (voir «Mises en garde et précautions»).
+
+Le zonisamide est métabolisé en partie par le CYP3A4 (clivage réducteur) ainsi que par 
+les N-acétyl-transférases et par conjugaison avec l'acide glucuronique. Les substances 
+qui peuvent avoir un effet inducteur ou inhibiteur sur ces enzymes peuvent donc affecter 
+la pharmacocinétique du zonisamide:
+
+Induction enzymatique:
+
+L'exposition au zonisamide est inférieure chez les patients épileptiques qui reçoivent 
+des inducteurs du CYP3A4, par exemple phénytoïne, carbamazépine et phénobarbital. Il 
+est peu probable que ces effets soient cliniquement significatifs lorsque Zonegran est 
+ajouté au traitement en cours. Cependant, les concentrations de zonisamide peuvent être 
+modifiées en cas d'arrêt, d'ajustement de la posologie ou d'instauration d'un traitement 
+par des antiépileptiques ou d'autres médicaments inducteurs du CYP3A4 et il peut être 
+nécessaire dans ce cas d'adapter la posologie de Zonegran. La rifampicine est un 
+inducteur puissant du CYP3A4. Si l'administration concomitante de ces deux médicaments 
+est nécessaire, le patient doit faire l'objet d'une surveillance étroite et les 
+posologies de Zonegran et des autres substrats du CYP3A4 doivent être adaptées en 
+conséquence.
+
+Inhibition du CYP3A4:
+
+Sur la base des données cliniques, les inhibiteurs connus du CYP3A4, spécifiques et 
+non spécifiques, ne semblent pas avoir d'effet cliniquement significatif sur les 
+paramètres d'exposition pharmacocinétique du zonisamide. L'administration à l'état 
+d'équilibre de kétoconazole (400 mg/jour) ou de cimétidine (1200 mg/jour) n'a pas eu 
+d'effets cliniquement significatifs sur la pharmacocinétique du zonisamide administré 
+en dose unique à des sujets sains. Par conséquent, il ne devrait pas être nécessaire 
+de modifier les posologies de Zonegran en cas d'administration concomitante avec des 
+inhibiteurs connus du CYP3A4.
+
+Dans des études cliniques, l'administration concomitante de lamotrigine n'a pas eu 
+d'effet apparent sur la pharmacocinétique du zonisamide.
+
+Enfants et adolescents
+
+Les études d'interaction n'ont été réalisées que chez l'adulte.

@@ -1,12 +1,13 @@
 Neurontin (gabapentine):
-===============
+================
 
 Contre-indications :
 --------------------------
+
 Hypersensibilité au principe actif ou à l'un des excipients (voir «Composition»).
 
 Interactions :
--------------------
+------------------
 
 Des études in vitro portant sur une inhibition éventuelle des enzymes du cytochrome 
 P450 les plus importants (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1 et CYP3A4) 

@@ -246,6 +246,7 @@ def oneDrug21(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'ethosuximide.txt' does not exist !", outnote)
 
+# Antiepileptiques !!!
 def oneDrug22(self):
     """
     Per drug mysoline
@@ -399,3 +400,17 @@ def oneDrug38(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'vimpat.txt' does not exist !", outnote)
+
+def oneDrug39(self):
+    """
+    Per drug zonegran
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/zonegran.txt'):
+            print("+ File 'zonegran.txt' exist (read)!")
+            with open('./medifiles/perdrug/zonegran.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'zonegran.txt' does not exist !", outnote)

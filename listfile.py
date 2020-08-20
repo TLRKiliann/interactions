@@ -18,8 +18,6 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
 
 """
-vimpat, lacosamide
-neurontin, gabapentine
 zonegran, zonisamide
 briviact, brivaracétam
 phénytoïne
