@@ -385,3 +385,17 @@ def oneDrug35(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'topamax.txt' does not exist !", outnote)
+
+def oneDrug38(self):
+    """
+    Per drug vimpat
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/vimpat.txt'):
+            print("+ File 'vimpat.txt' exist (read)!")
+            with open('./medifiles/perdrug/vimpat.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'vimpat.txt' does not exist !", outnote)

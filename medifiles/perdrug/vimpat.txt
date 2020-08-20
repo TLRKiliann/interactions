@@ -1,0 +1,101 @@
+Vimpat (lacosamide) :
+==============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité à la substance active ou à l'un des excipients selon la composition.
+
+Blocs auriculo-ventriculaires connus (AV) de 2ème ou 3ème degré.
+
+
+Interactions :
+------------------
+
+Le lacosamide doit être administré avec précaution chez des patients traités par 
+des médicaments connus pour être associés à un allongement de l'espace PR 
+(y compris les antiépileptiques bloquant le canal sodique) et chez ceux traités 
+par des médicaments antiarythmiques. Toutefois, les analyses de sous-groupes au 
+cours des essais cliniques n'ont pas identifié d'augmentation de l'importance 
+de l'allongement de PR chez les patients en cas d'administration concomitante 
+de carbamazépine ou de lamotrigine.
+Données in vitro
+
+Les données suggèrent généralement que Vimpat entraîne assez peu d'interactions 
+médicamenteuses. Les études in vitro montrent que les enzymes CYP1A2, 2B6, 2C9, 
+2C19 et 3A4 ne sont pas induits et que CYP1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 
+2A4/5 ne sont pas inhibés par le lacosamide aux concentrations plasmatiques 
+observées dans les essais cliniques. Une étude in vitro montre que le lacosamide 
+n'est pas transporté par la glycoprotéine P dans l'intestin.
+Données in vivo
+
+Les données cliniques suggèrent que le lacosamide n'inhibe pas ou n'induit pas 
+les enzymes CYP2C19 et CYP3A4.
+
+Par ailleurs, une étude d'interaction avec l'oméprazole (inhibiteur du CYP2C19) 
+n'a pas montré de modifications cliniquement importantes des concentrations 
+plasmatiques du lacosamide et pas d'effet inhibiteur sur la pharmacocinétique 
+de l'oméprazole.
+
+La prudence est recommandée en cas de traitement concomitant avec de puissants 
+inhibiteurs du CYP2C9 (p.ex. fluconazole) et du CYP3A4 (p.ex. itraconazole, 
+kétoconazole, ritonavir, clarithromycine), qui peuvent provoquer une augmentation 
+de l'exposition systémique au lacosamide. De telles interactions n'ont pas été 
+établies in vivo mais sont possibles sur la base des données in vitro.
+
+Des inducteurs enzymatiques puissants comme la rifampicine ou le millepertuis 
+(Hypericum perforatum) peuvent réduire modérément l'exposition systémique du 
+lacosamide. Par conséquent, la mise en œuvre ou l'interruption d'un traitement 
+par ces inducteurs enzymatiques doivent être effectuées avec précaution.
+
+Antiépileptiques
+
+Dans les essais d'interactions médicamenteuses, le lacosamide n'a pas affecté 
+de manière significative les concentrations plasmatiques de la carbamazépine 
+et de l'acide valproïque. Les concentrations plasmatiques en lacosamide n'ont 
+pas été affectées par la carbamazépine ou par l'acide valproïque.
+
+Dans des études cliniques contrôlées contre placebo menées chez des patients 
+présentant des crises focales, le lacosamide (à toutes les doses) n'a pas 
+influencé les concentrations plasmatiques à l'état d'équilibre du lévétiracétam, 
+de la carbamazépine, de la carbamazépine époxyde, de la lamotrigine, du 
+topiramate, de l'oxcarbazépine, du dérivé monohydroxy (DMH), de la phénytoïne, 
+de l'acide valproïque, du phénobarbital, de la gabapentine, du clonazépam et 
+du zonisamide (zonegran).
+
+L'analyse de pharmacocinétique de population montre qu'un traitement concomitant 
+avec d'autres antiépileptiques connus pour être des inducteurs enzymatiques 
+(carbamazépine, phénytoïne et phénobarbital à différentes doses) diminue 
+l'exposition systémique globale du lacosamide de 25%.
+
+Contraceptifs oraux
+
+Dans une étude d'interactions, il n'a été observé aucune interaction cliniquement 
+significative entre le lacosamide et les contraceptifs oraux, éthinylœstradiol et 
+lévonorgestrel. Les concentrations de progestérone n'ont pas été affectées lorsque 
+les médicaments ont été administrés simultanément.
+
+Autres médicaments
+
+Les études d'interactions médicamenteuses ont montré que le lacosamide n'a pas 
+d'effet sur la pharmacocinétique de la digoxine. Il n'y a pas d'interaction 
+cliniquement significative entre le lacosamide et la metformine.
+
+L'oméprazole à la dose de 40 mg une fois par jour a augmenté l'aire sous la courbe 
+du lacosamide de 19%. L'effet est vraisemblablement dépourvu de signification 
+clinique. Le lacosamide n'affecte pas les propriétés pharmacocinétiques d'une dose 
+unique d'oméprazole.
+
+L'utilisation concomitante de warfarine avec le lacosamide n'a pas d'effet clinique 
+significatif sur la pharmacocinétique ni sur les effets pharmacodynamiques de la 
+warfarine (aucun médicament contenant l'anticoagulant warfarine n'est autorisé en 
+Suisse).
+
+Il n'existe aucune donnée pharmacocinétique quant à une éventuelle interaction 
+entre le lacosamide et l'alcool, mais un effet pharmacodynamique ne peut être 
+exclu.
+
+Le lacosamide montre une faible liaison aux protéines, inférieure à 15%. Par 
+conséquent, les interactions cliniquement significatives avec d'autres médicaments 
+par compétition au niveau des sites de liaison aux protéines sont considérées comme 
+peu probables.

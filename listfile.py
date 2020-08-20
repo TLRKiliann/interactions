@@ -11,16 +11,13 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "levomepromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
       "olanzapine", "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
       "solian", "amisulpride", "ethosuximide", "pétinimid", "mysoline", "primidone", 
-      "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "gabitril", "inovelon", 
+      "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "pérampanel", "inovelon", 
       "rufinamide", "keppra", "levetiracetam", "lamictal", "lamotrigine", "lyrica", 
       "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", 
-      "felbamate", "-topamax", "topiramate", "-trileptal", "oxcarbazépine", 
+      "felbamate", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
 
 """
-
-fycompa, pérampanel
-gabitril
 vimpat, lacosamide
 neurontin, gabapentine
 zonegran, zonisamide

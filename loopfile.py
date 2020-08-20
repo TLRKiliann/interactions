@@ -140,7 +140,7 @@ def luckyLoop2(self, drug2):
         elif i == "trileptal":
             if drug2 == i:
                 oneDrug36(self)
-        elif i == "vimpat":
+        elif i == "vimpat" or i == "lacosamide":
             if drug2 == i:
                 oneDrug38(self)
         elif i == "zonegran":
