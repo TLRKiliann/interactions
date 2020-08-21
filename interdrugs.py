@@ -436,6 +436,3 @@ def importationDepakOh(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_oh.txt' does not exist !", outnote)
-
-
-

@@ -20,6 +20,5 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
 """
 briviact, brivaracétam
 phénytoïne
-keppra, levetiracetam
 Bupropion (wellbutrin)
 """

@@ -45,9 +45,12 @@ class Application(Frame):
             drug3 = self.compDrug1_var.get()
             drug4 = self.comparedrug2_var.get()
 
-            luckyLoop(self, drug1)
-            luckyLoop2(self, drug2)
-            luckyLoop3(self, drug3, drug4)
+            familyLoop(self, drug1)
+            oneDrugLoop(self, drug2)
+            seroLoop(self, drug3, drug4)
+            carbaLoop(self, drug3, drug4)
+            lepoLoop(self, drug3, drug4)
+            depaLoop(self, drug3, drug4)
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 
