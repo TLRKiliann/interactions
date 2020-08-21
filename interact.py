@@ -4,6 +4,10 @@
 
 from tkinter import *
 from loopfile import *
+from seroloop import *
+from carbaloop import *
+from lepoloop import *
+from depaloop import *
 #import os
 #import subprocess
 

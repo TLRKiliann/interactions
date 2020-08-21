@@ -8,7 +8,7 @@ from family import *
 from onedrug import *
 
 
-def familiyLoop(self, drug1):
+def familyLoop(self, drug1):
     for i in familiyttt:
         if i == "antipsychotiques":
             if drug1 == i or drug1 == "antipsy":

@@ -7,10 +7,9 @@ import os
 import subprocess
 
 
-# Per family...
 def familyPsycho(self):
     """
-    Choose per family of medication !
+    Choose one family of medication !
     """
     try:
         if os.path.getsize('./medifiles/family/antipsycho.txt'):
