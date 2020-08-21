@@ -142,8 +142,41 @@ def oneDrugLoop(self, drug2):
         elif i == "zonegran" or i == "zonisamide":
             if drug2 == i:
                 oneDrug39(self)
-        elif i == "anafranil":
+        elif i == "atarax":
             if drug2 == i:
                 oneDrug40(self)
+        elif i == "buspar":
+            if drug2 == i:
+                oneDrug41(self)
+        elif i == "demetrin":
+            if drug2 == i:
+                oneDrug42(self)
+        elif i == "lexotanil":
+            if drug2 == i:
+                oneDrug43(self)
+        elif i == "rivotril":
+            if drug2 == i:
+                oneDrug44(self)
+        elif i == "rohypnol":
+            if drug2 == i:
+                oneDrug45(self)
+        elif i == "seresta":
+            if drug2 == i:
+                oneDrug46(self)
+        elif i == "temesta":
+            if drug2 == i:
+                oneDrug47(self)
+        elif i == "tranxilium":
+            if drug2 == i:
+                oneDrug48(self)
+        elif i == "urbanyl":
+            if drug2 == i:
+                oneDrug49(self)
+        elif i == "valium":
+            if drug2 == i:
+                oneDrug50(self)
+        elif i == "xanax":
+            if drug2 == i:
+                oneDrug51(self)
         else:
             print("+ drug2 is not in the list")

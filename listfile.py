@@ -18,7 +18,12 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
 
 """
-phénytoïne
+Anxiolytiques: 
+Atarax; Buspar; Demetrin; Lexotanil; Rivotril; Rohypnol; Seresta; Temesta; 
+Traxilium; Urbanyl; Valium; Xanax.
+ATD
 anafranyl
 Bupropion (wellbutrin)
+Stabilisateurs de l'humeur: Carbamazépine; Dépakine; Lamotrigine; Lithium; Valproate; 
+Zyprexa.
 """
