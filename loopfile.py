@@ -46,19 +46,19 @@ def oneDrugLoop(self, drug2):
         if i == "clopin" or i == "leponex" or i == "clozapine":
             if drug2 == i:
                 oneDrug2(self)
-        elif i == "clopixol":
+        elif i == "clopixol" or i == "zuclopenthixol":
             if drug2 == i:
                 oneDrug3(self)
-        elif i == "entumine":
+        elif i == "entumine" or i == "clotiapine":
             if drug2 == i:
                 oneDrug4(self)
-        elif i == "fluanxol":
+        elif i == "fluanxol" or i == "flupentixol":
             if drug2 == i:
                 oneDrug5(self)
-        elif i == "haldol":
+        elif i == "haldol" or i == "halopéridol":
             if drug2 == i:
                 oneDrug6(self)
-        elif i == "nozinan":
+        elif i == "nozinan" or i == "levomepromazine":
             if drug2 == i:
                 oneDrug7(self)
         elif i == "tiapridal" or i == "tiapride":
@@ -109,10 +109,7 @@ def oneDrugLoop(self, drug2):
         elif i == "fycompa" or i == "pérampanel":
             if drug2 == i:
                 oneDrug26(self)
-        elif i == "gabitril":
-            if drug2 == i:
-                oneDrug27(self)
-        elif i == "inovelon":
+        elif i == "inovelon" or i == "rufinamide":
             if drug2 == i:
                 oneDrug28(self)
         elif i == "keppra" or i == "lévétiracétam":
@@ -124,19 +121,19 @@ def oneDrugLoop(self, drug2):
         elif i == "lyrica" or i == "prégabaline":
             if drug2 == i:
                 oneDrug31(self)
-        elif i == "neurontin":
+        elif i == "neurontin" or i == "gabapentine":
             if drug2 == i:
                 oneDrug32(self)
-        elif i == "sabril":
+        elif i == "sabril" or i == "vigabatrine":
             if drug2 == i:
                 oneDrug33(self)
-        elif i == "taloxa":
+        elif i == "taloxa" or i == "felbamate":
             if drug2 == i:
                 oneDrug34(self)
         elif i == "topamax" or i == "topiramate":
             if drug2 == i:
                 oneDrug35(self)
-        elif i == "trileptal":
+        elif i == "trileptal" or i == "oxcarbazépine":
             if drug2 == i:
                 oneDrug36(self)
         elif i == "vimpat" or i == "lacosamide":

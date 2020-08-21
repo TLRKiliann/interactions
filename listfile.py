@@ -18,7 +18,7 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
       "vimpat", "lacosamide", "zonegran", "zonisamide"]
 
 """
-briviact, brivaracétam
 phénytoïne
+anafranyl
 Bupropion (wellbutrin)
 """
