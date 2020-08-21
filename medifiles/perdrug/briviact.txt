@@ -1,0 +1,130 @@
+Briviact (brivaracétam) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au brivaracétam, aux substances apparentées ou à l'un des excipients.
+
+
+Interactions :
+------------------
+
+Données in vitro
+
+L'hydrolyse du brivaracétam est médiée par des amidases indépendantes des CYP. 
+L'hydroxylation du brivaracétam, principalement médiée par le CYP2C19, semble 
+représenter une voie secondaire d'élimination. L'oxydation médiée par les CYP 
+est responsable d'une proportion limitée de l'élimination du brivaracétam. Pour 
+cette raison, il est peu probable que l'élimination du brivaracétam soit 
+significativement influencée par des inhibiteurs des CYP (p. ex. CYP1A, 2C8, 
+2C9, 2C19, 2D6 et 3A4).
+Inhibition d'enzymes métabolisant des médicaments
+
+Il est peu probable que le brivaracétam inhibe ou induise la clairance d'autres 
+médicaments métabolisés par des isoformes du CYP450. Les essais in vitro ont 
+montré que le brivaracétam à des concentrations plasmatiques thérapeutiques 
+n'inhibe que peu ou pas les isoformes du CYP450 (CYP1A2, 2A6, 2B6, 2C8, 2C9, 
+2D6, 3A4).
+
+Le brivaracétam est un inhibiteur de l'époxyde hydrolase (CI50 = 8,2 µM), ce qui 
+suggère que le brivaracétam peut inhiber l'enzyme in vivo.
+Induction d'enzymes métabolisant des médicaments
+
+Le brivaracétam n'a, pour des concentrations allant jusqu'à 10 µM, entraîné que 
+peu ou pas de modifications de l'expression de l'ARNm des CYP1A2, 2B6, 2C9, 2C19, 
+3A4 et de l'époxyde hydrolase. Une induction de ces enzymes par des concentrations 
+thérapeutiques de brivaracétam (Cmax = 13 µM) ne peut pas être exclue.
+Transporteurs
+
+Le brivaracétam n'est pas un substrat de la P-gp, la MRP1 ou la MRP2.
+
+Le brivaracétam n'a pas inhibé les transporteurs P-gp, BCRP, BSEP, MRP2, MATE1, 
+MATE2/K, OATP1B1, OATP1B3, OAT1, OCT1, OCT2 in vitro. Le brivaracétam a inhibé 
+l'OAT3 avec une demi concentration inhibitrice maximale 42 fois supérieure à la 
+Cmax de la dose clinique maximale. Le métabolite principal (métabolite hydroxylé) 
+a entraîné une inhibition statistiquement significative de la BCRP et de l'OCT1 
+(inhibition de resp. 15 et 39%) à des concentrations suprathérapeutiques in vitro.
+Données in vivo
+
+Les études d'interaction n'ont été réalisées que chez des adultes.
+Interactions entre le brivaracétam et d'autres médicaments
+
+Le tableau 1 contient une liste des interactions cliniques pertinentes prouvées 
+ou potentielles, mises en évidence par les variations de l'AUC et de la Cmax avec 
+les symboles «↔» (au sein), «↑» (au-dessus) ou «↓» (au-dessous) des limites 
+d'équivalence prédéfinies, le rapport des moyennes géométriques des moindres carrés 
+[moyenne géométrique] avec et sans médicament interagissant ainsi que l'intervalle 
+de confiance à 90% correspondant.
+
+Les interactions médicamenteuses décrites ont été observées soit dans des études de 
+phase 1, soit dans une analyse poolée des concentrations plasmatiques de principes 
+actifs, soit dans des modèles pharmacocinétiques de population issus des données 
+d'études de phase 2/3.
+
+Un ajustement de la posologie n'est pas nécessaire lorsque le brivaracétam est utilisé 
+de façon concomitante avec les médicaments cités dans la liste, à l'exception de la 
+rifampicine, la rifabutine et la rifapentine (voir tableau 1).
+Tableau 1: interactions entre le brivaracétam et d'autres médicaments
+Rapports des moyennes géométriques de l'AUC et de la Cmax avec/sans médicament 
+interagissant (intervalle de confiance à 90%)
+
+	
+	Rifampicine :
+
+Une élévation de la dose de brivaracétam devrait être prise en compte.
+
+
+	Rifabutine, Rifapentine :
+
+Une élévation de la dose de brivaracétam devrait être prise en compte.
+
+	Millepertuis (Hypericum perforatum) :
+
+Un traitement avec du millepertuis doit être initié resp. arrêté avec précaution.
+
+
+	Lévonorgestrel (LVN) Éthinylestradiol (EES) :
+
+Aucun ajustement de la posologie nécessaire.
+Une perte de l'effet des contraceptifs oraux après administration de 200 mg de 
+rivaracétam par jour ne peut pas être exclue.
+
+
+Notes:
+
+    Les effets de la carbamazépine, du phénobarbital et de la phénytoïne sur le 
+    brivaracétam ont été examinés dans une analyse rétrospective de pharmacocinétique 
+    de population et étaient statistiquement significatifs.
+    Les effets de la lamotrigine, du lévétiracétam, de l'oxcarbazépine, du topiramate 
+    et de l'acide valproïque ont été examinés dans une analyse rétrospective de 
+    pharmacocinétique de population et n'étaient pas statistiquement significatifs.
+    Css = concentration plasmatique à l'état d'équilibre obtenue lors du suivi 
+    thérapeutique pharmacologique des patients; les données sont basées sur des doses 
+    thérapeutiques de brivaracétam de 50 à 200 mg/jour
+    Ctrough = concentration avant l'administration de la dose à l'état d'équilibre
+
+Autres
+
+L'ampleur de la résorption du brivaracétam n'est pas influencée par les aliments.
+
+Une étude d'interaction pharmacocinétique et pharmacodynamique entre le brivaracétam 
+200 mg en dose unique et l'éthanol 0,6 g/l en perfusion continue chez des sujets sains 
+a montré que le brivaracétam a presque doublé l'effet de l'alcool sur les fonctions 
+psychomotrices, l'attention et la mémoire. Aucune interaction pharmacocinétique 
+mutuelle n'a été enregistrée. La prise de brivaracétam avec de l'alcool n'est pas 
+recommandée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

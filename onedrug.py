@@ -275,6 +275,20 @@ def oneDrug23(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'phenobarbit.txt' does not exist !", outnote)
 
+def oneDrug25(self):
+    """
+    Per drug briviact
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/briviact.txt'):
+            print("+ File 'briviact.txt' exist (read)!")
+            with open('./medifiles/perdrug/briviact.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'briviact.txt' does not exist !", outnote)
+
 def oneDrug26(self):
     """
     Per drug fycompa

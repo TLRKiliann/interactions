@@ -61,13 +61,13 @@ def oneDrugLoop(self, drug2):
         elif i == "nozinan":
             if drug2 == i:
                 oneDrug7(self)
-        elif i == "tiapridal":
+        elif i == "tiapridal" or i == "tiapride":
             if drug2 == i:
                 oneDrug8(self)
-        elif i == "abilify":
+        elif i == "abilify" or i == "aripiprazol":
             if drug2 == i:
                 oneDrug9(self)
-        elif i == "dogmatil":
+        elif i == "dogmatil" or i == "sulpride":
             if drug2 == i:
                 oneDrug10(self)
         elif i == "invega" or i == "palipéridone":
@@ -82,7 +82,7 @@ def oneDrugLoop(self, drug2):
         elif i == "sequase" or i == "seroquel" or i == "quétiapine":
             if drug2 == i:
                 oneDrug16(self)
-        elif i == "solian":
+        elif i == "solian" or i == "amisulpride":
             if drug2 == i:
                 oneDrug17(self)
         elif i == "carbamazépine" or i == "tégrétol":
@@ -94,7 +94,7 @@ def oneDrugLoop(self, drug2):
         elif i == "ethosuximide" or i == "pétinimid":
             if drug2 == i:
                 oneDrug21(self)
-        elif i == "mysoline":
+        elif i == "mysoline" or i == "primidone":
             if drug2 == i:
                 oneDrug22(self)
         elif i == "phénobarbital" or i == "aphénylbarbite":
@@ -103,7 +103,7 @@ def oneDrugLoop(self, drug2):
         elif i == "phénytoïne":
             if drug2 == i:
                 oneDrug24(self)
-        elif i == "briviact":
+        elif i == "briviact" or i == "brivaracétam":
             if drug2 == i:
                 oneDrug25(self)
         elif i == "fycompa" or i == "pérampanel":
