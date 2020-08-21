@@ -21,9 +21,24 @@ oneDrug=["briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clo
 Anxiolytiques: 
 Atarax; Buspar; Demetrin; Lexotanil; Rivotril; Rohypnol; Seresta; Temesta; 
 Traxilium; Urbanyl; Valium; Xanax.
+
+
 ATD
-anafranyl
-Bupropion (wellbutrin)
+Antidépresseurs TCC (tricycliques): Anafranil; Ludiomil; Saroten; Surmontil; Tofranil; Trittico.
+
+Antidépresseurs ISRS (inhibiteurs sélectifs de la recapture en sérotonine): Citalopram (Seropram); escitalopram 
+(Cipralex); fluoxétine (Prozac); fluvoxamine (Floxyfral); Deroxat (Paroxétine); Sertraline (Zoloft).
+
+Antidépresseurs IRSNA (inhibiteurs de la recapture de la sérotonine-noradrénaline): Venlafaxine; Duloxétine.
+
+Inhibiteurs de la recapture de la dopamine-noradrénaline: Bupropion (wellbutrine).
+
+IMAO sélectifs (inhibiteurs de la mono-amine oxydase): Aurorix; Moclamine.
+
+IMAO non-sélectifs: Regitine (Phantolamine).
+
+Antidépresseurs sélectifs: Cymbalta; Effexor; Remeron.
+
 Stabilisateurs de l'humeur: Carbamazépine; Dépakine; Lamotrigine; Lithium; Valproate; 
 Zyprexa.
 """
