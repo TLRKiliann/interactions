@@ -187,7 +187,21 @@ class Application(Frame):
             "topamax = topiramate\n"
             "trileptal = oxcarbazépine\n" 
             "vimpat = lacosamide\n"
-            "zonegran = zonisamide\n\n")
+            "zonegran = zonisamide\n\n"
+
+            "Anxiolytiques :\n"
+            "--------------------\n\n"
+            "atarax = dichlorhydrate d'hydroxyzine\n"
+            "demetrin = prazépam\n"
+            "lexotanil = bromazépam\n"
+            "Rivotril"
+            "Rohypnol"
+            "Seresta"
+            "Temesta"
+            "Traxilium"
+            "Urbanyl"
+            "Valium"
+            "Xanax")
         self.textBox.pack(padx=20, pady=20)
 
         self.pack()

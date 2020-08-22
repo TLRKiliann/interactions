@@ -1,0 +1,56 @@
+Lexotanil (bromazépam ) :
+================
+
+Contre-indications :
+--------------------------
+
+Lexotanil est contre-indiqué chez les patients présentant une hypersensibilité aux 
+benzodiazépines ou à l'un des excipients, une insuffisance respiratoire sévère, un 
+syndrome des apnées du sommeil, une myasthénie grave ainsi qu'une insuffisance hépatique 
+grave (les benzodiazépines peuvent accentuer une encéphalopathie hépatique).
+
+Les patients présentant ou soupçonnés de présenter une dépendance aux substances 
+déprimant le SNC, dont l'alcool, ne doivent pas prendre de benzodiazépines.
+
+
+Interactions :
+------------------
+
+Interactions pharmacodynamiques (DDI)
+
+Des effets indésirables plus marqués tels que sédation et dépression cardiorespiratoire 
+peuvent survenir lorsque le bromazepam est utilisé simultanément à des substances 
+déprimant le SNC, dont l'alcool.
+
+Les patients recevant bromazepam doivent éviter de consommer de l'alcool (voir sous 
+«Précautions générales»).
+
+Remarques concernant d'autres substances déprimant le SNC dont l'alcool, voir sous 
+«Surdosage».
+
+Dans le cas des analgésiques narcotiques, une euphorie accrue peut apparaître, 
+pouvant provoquer une dépendance plus marquée.
+
+Il faut prendre garde au risque accru de faiblesse musculaire chez les patients traités 
+par des myorelaxants.
+
+Il existe un risque accru de dépression respiratoire.
+
+Interactions pharmacocinétiques (DDI)
+
+Il est possible que l'activité des benzodiazépines soit renforcée par des liaisons 
+qui inhibent des enzymes oxydatifs importants au niveau hépatique. L'administration 
+concomitante de cimétidine, un inhibiteur de plusieurs enzymes du CYP, et probablement 
+de propranolol, peut allonger la demi-vie d'élimination du bromazépam, en raison de la 
+réduction importante de la clearance (pour la cimétidine: réduction de 50%). 
+L'administration simultanée de fluvoxamine, un inhibiteur du CYP1A2, provoque une 
+augmentation significative de l'exposition au bromazépam (2,4 fois la valeur de l'AUC) 
+et de la demi-vie d'élimination (1,9 fois).
+
+Le bromazépam n'a eu aucun effet sur le métabolisme de la phénazone, marqueur de 
+substitution de l'activité des CYP1A2, CYP2B6, CYP2C et CYP3A. Il n'y a en outre pas 
+eu, in vitro, d'induction d'isoenzymes importantes du CYP450 par le bromazépam au 
+niveau de l'ARNm, pas plus que les récepteurs aux hormones nucléaires n'ont été 
+activés par le bromazépam. Par conséquent, il est peu probable que le bromazépam 
+induise des interactions médicamenteuses pharmacocinétiques liées à une induction 
+du CYP450.

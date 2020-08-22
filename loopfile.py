@@ -145,10 +145,10 @@ def oneDrugLoop(self, drug2):
         elif i == "atarax":
             if drug2 == i:
                 oneDrug40(self)
-        elif i == "demetrin":
+        elif i == "demetrin" or i == "prazépam":
             if drug2 == i:
                 oneDrug42(self)
-        elif i == "lexotanil":
+        elif i == "lexotanil" or i == "bromazépam":
             if drug2 == i:
                 oneDrug43(self)
         elif i == "rivotril":
