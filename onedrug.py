@@ -540,3 +540,17 @@ def oneDrug46(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'seresta.txt' does not exist !", outnote)
+
+def oneDrug47(self):
+    """
+    Per drug temesta
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/temesta.txt'):
+            print("+ File 'temesta.txt' exist (read)!")
+            with open('./medifiles/perdrug/temesta.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'temesta.txt' does not exist !", outnote)

@@ -160,7 +160,7 @@ def oneDrugLoop(self, drug2):
         elif i == "seresta" or i == "oxazépam":
             if drug2 == i:
                 oneDrug46(self)
-        elif i == "temesta":
+        elif i == "temesta" or i == "lorazépam":
             if drug2 == i:
                 oneDrug47(self)
         elif i == "tranxilium":
