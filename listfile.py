@@ -18,7 +18,7 @@ oneDrug=["atarax", "demetrin", "prazépam", "briviact", "brivaracétam", "abilif
       "felbamate", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
       "vimpat", "lacosamide", "zonegran", "zonisamide", "lexotanil", "bromazépam", 
       "rivotril", "clonazépam", "rohypnol", "flunitrazepamum", "seresta", "oxazépam",
-      "temesta", "lorazépam"]
+      "temesta", "lorazépam", "tranxilium", "clorazépate"]
 
 """
 Anxiolytiques:
@@ -28,10 +28,10 @@ Demetrin = prazépam
 Lexotanil = bromazépam 
 Rivotril = clonazépam
 rohypnol = flunitrazepamum
-
 seresta = oxazépam
-Temesta; 
-Traxilium; 
+Temesta = lorazépam
+
+Traxilium = clorazépate
 Urbanyl; 
 Valium; 
 Xanax.

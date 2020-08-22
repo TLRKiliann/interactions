@@ -554,3 +554,17 @@ def oneDrug47(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'temesta.txt' does not exist !", outnote)
+
+def oneDrug48(self):
+    """
+    Per drug tranxilium
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/tranxilium.txt'):
+            print("+ File 'tranxilium.txt' exist (read)!")
+            with open('./medifiles/perdrug/tranxilium.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'tranxilium.txt' does not exist !", outnote)

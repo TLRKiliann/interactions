@@ -198,7 +198,7 @@ class Application(Frame):
             "Rohypnol"
             "Seresta = oxazépam"
             "Temesta = lorazépam"
-            "Traxilium"
+            "Traxilium = clorazépate"
             "Urbanyl"
             "Valium"
             "Xanax")
