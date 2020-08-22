@@ -1,0 +1,86 @@
+Rohypnol (flunitrazepamum) :
+===================
+
+Contre-indications :
+--------------------------
+
+-Hypersensibilité au principe actif ou à l'un des excipients conformément à la composition.
+
+-Myasthénie
+
+-Allergie connue aux benzodiazépines
+
+-Insuffisance respiratoire sévère
+
+-Hypercapnie chronique sévère
+
+-Antécédents de dépendance à l'alcool ou aux drogues, abus d'alcool ou de drogues (ancien 
+ ou actuel)
+
+-Syndrome des apnées du sommeil
+
+-Insomnie chez l'enfant et l'adolescent
+
+-Insuffisance hépatique sévère
+
+-Les benzodiazépines ne sont pas recommandées pour le traitement de psychoses.
+
+
+Interactions :
+------------------
+
+Psychotropes
+
+Lorsque Rohypnol est associé à d'autres médicaments d'action centrale tels qu'antipsychotiques, 
+neuroleptiques, antidépresseurs, antiépileptiques, tranquillisants, anxiolytiques, sédatifs, 
+hypnotiques, antihistaminiques, analgésiques (opiacés, en particulier) et anesthésiques, 
+l'effet sédatif sur le SNC peut être renforcé. Avec les analgésiques opioïdes, une augmentation 
+de l'effet euphorisant est possible, ce qui peut accentuer des symptômes de dépendance 
+psychique.
+
+En cas d'utilisation concomitante de principes actifs dépresseurs du système nerveux central 
+(dont l'alcool), des effets accrus sur la sédation, la respiration et la circulation peuvent 
+survenir (voir « Mises en garde et précautions »).
+
+Il existe une potentialisation réciproque entre Rohypnol et l'alcool. Rohypnol ne doit 
+donc pas être pris en même temps que de l'alcool ou d'autres hypnotiques. Voir «Surdosage» 
+concernant les mises en garde relatives à d'autres médicaments dépresseurs du système 
+nerveux central, y compris l'alcool.
+
+Opioïdes
+L'administration simultanée de médicaments sédatifs tels que les benzodiazépines ou de 
+médicaments apparentés tels que Rohypnol avec des opioïdes augmente le risque de sédation, 
+de dépression respiratoire, de coma et de mort en raison d'un effet additif dépresseur 
+sur le SNC.
+
+La posologie et la durée de l'administration simultanée doivent être limitées (voir 
+paragraphe « Mises en garde et précautions »).
+
+Inhibiteurs du CYP
+
+La prudence est de rigueur lors de l'administration simultanée de substances inhibant 
+certaines enzymes hépatiques (en particulier les enzymes dépendant du cytochrome P450), 
+étant donné que l'inhibition de ces enzymes risque de renforcer l'effet de Rohypnol.
+
+Des interactions avec les inhibiteurs puissants du CYP3A4 suivants ne peuvent pas être 
+exclues (la liste n'est pas exhaustive):
+
+- antifongiques azolés: fluconazole, kétoconazole, itraconazole
+
+- cimétidine
+
+- inhibiteurs de la protéase du VIH
+
+- gemfibrozil (un antagoniste du PPAR-α)
+
+- antibiotiques macrolides: érythromycine, clarithromycine, télithromycine
+
+- néfazodone (un IRSN)
+
+- statines
+
+- vérapamil (un antagoniste calcique)
+
+- jus de pamplemousse
+
+Rohypnol peut être associé aux anticoagulants et aux antidiabétiques oraux.
