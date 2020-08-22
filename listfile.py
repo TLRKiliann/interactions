@@ -5,7 +5,7 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
       "anxiolytiques", "thymorégulateurs", "somnifères", "benzodiazépines", 
       "inhibiteurs de la cholinestérase", "antiparkinsoniens"]
 
-oneDrug=["atarax", "briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", 
+oneDrug=["atarax", "demetrin", "prazépam", "briviact", "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", 
       "clozapine", "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", 
       "haldol", "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
       "levomepromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
@@ -21,8 +21,8 @@ oneDrug=["atarax", "briviact", "brivaracétam", "abilify", "aripiprazol", "clopi
 Anxiolytiques:
 --------------
 Atarax (dichlorhydrate d'hydroxyzine); 
-Buspar; 
-Demetrin; 
+Demetrin = prazépam
+
 Lexotanil; 
 Rivotril; 
 Rohypnol; 

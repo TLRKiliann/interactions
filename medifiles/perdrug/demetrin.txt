@@ -1,0 +1,49 @@
+Demetrin (prazépam) :
+==============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au principe actif ou à l'un des excipients (voir «Composition»), 
+anamnèse de dépendance, myasthénie grave, insuffisance respiratoire sévère, syndrome 
+d'apnée du sommeil et insuffisance hépatique grave.
+
+
+Interactions :
+-----------------
+
+Lors de l'utilisation simultanée d'opiacés, de tramadol, de barbituriques et de 
+narcotiques (gaz hilarant inclus), d'antihistaminiques H1 à effet sédatif, de 
+neuroleptiques, d'antidépresseurs ou d'antiépileptiques, un renforcement mutuel 
+des effets centraux de ces médicaments peut se produire (p.ex. sédation renforcée 
+ou effet dépresseur sur le SNC, y compris dépression respiratoire) (voir «Mises 
+en garde et précautions»). Ceci vaut en particulier aussi pour la consommation 
+simultanée d'alcool, durant laquelle les effets peuvent être modifiés et renforcés 
+de façon imprévisible.
+
+L'effet des myorelaxants peut être renforcé. Le risque de dépression respiratoire 
+est également augmenté.
+
+En cas d'administration concomitante de médicaments inhibiteurs du système de la 
+mono-oxygénase, comme p.ex. la cimétidine, l'effet du prazépam peut être augmenté 
+et prolongé.
+
+Le prazépam est métabolisé par les isoenzymes CYP3A4 et CYP2C19. La prudence est 
+par conséquent de rigueur en cas d'administration concomitante de Demetrin et d'un 
+inhibiteur de ces isoenzymes tel que l'érythromycine ou d'autres macrolides, les 
+antifongiques azolés (p.ex. kétoconazole), les ISRS (p.ex. fluoxétine), les 
+inhibiteurs de la protéase, l'amiodarone ou l'oméprazole, vu que ces médicaments 
+peuvent diminuer le métabolisme du prazépam et augmenter ainsi son potentiel toxique.
+
+Les contraceptifs oraux inhibent le métabolisme oxydatif et peuvent donc renforcer 
+l'effet du prazépam. Les patientes utilisant des contraceptifs oraux doivent donc 
+être surveillées en conséquence.
+
+Une prudence particulière est de rigueur lorsque la clozapine est associée aux 
+benzodiazépines, car leur effet dépresseur sur le système nerveux central peut 
+s'en trouver renforcé. Rarement, un état confus sévère, un épisode hypotensif 
+ou une dépression respiratoire sont apparus chez des patients qui avaient reçu 
+de la clozapine pendant ou à la suite d'un traitement par une benzodiazépine. 
+Chez les patients traités en même temps par la clozapine, la dose initiale de 
+prazépam devrait par conséquent être réduite à la moitié de la dose usuelle 
+jusqu'à ce que leur réaction individuelle à cette association soit connue.

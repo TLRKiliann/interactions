@@ -145,9 +145,6 @@ def oneDrugLoop(self, drug2):
         elif i == "atarax":
             if drug2 == i:
                 oneDrug40(self)
-        elif i == "buspar":
-            if drug2 == i:
-                oneDrug41(self)
         elif i == "demetrin":
             if drug2 == i:
                 oneDrug42(self)
