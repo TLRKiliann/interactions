@@ -1,0 +1,106 @@
+Atarax (dichlorhydrate d'hydroxyzine) :
+========================
+
+Contre-indications :
+--------------------------
+
+Atarax est contre-indiqué:
+
+    lors d'hypersensibilité connue au dichlorhydrate d'hydroxyzine, à la cétirizine 
+    ou à un autre dérivé de la pipérazine, à l'aminophylline ou à l'éthylène diamine 
+    ou à un excipient selon la composition.
+    lors d'insuffisances hépatique ou rénale graves;
+    lors d'adénome de la prostate avec volume urinaire résiduel;
+    lors de glaucome à angle fermé;
+    chez le patient souffrant de porphyrie;
+    chez les enfants de moins d'un an;
+    lors d'un traitement concomitant par inhibiteurs de la MAO (voir «Interactions»);
+    durant la grossesse et l'allaitement;
+    chez les patients ayant des antécédents d'allongement héréditaire ou acquis de 
+    l'intervalle QT;
+    chez les patients présentant un facteur de risque d'allongement de l'intervalle 
+    QT ainsi qu'un antécédent de maladie cardiovasculaire, un fort déséquilibre 
+    électrolytique (hypokaliémie, carence en magnésium), un antécédent familial de 
+    mort subite par arrêt cardiaque, une bradycardie significative, chez les patients 
+    suivant un traitement concomitant par des médicaments connus pour allonger 
+    l'intervalle QT ou provoquer des torsades de pointe (voir les paragraphes «Mises 
+    en garde et précautions» et «Interactions»).
+
+Atarax sirop contient du saccharose comme excipient. Les patients avec une 
+intolérance au fructose, une malabsorption du glucose-galactose ou un déficit 
+en sucrase-isomaltase (maladie métabolique rare), ne devraient par conséquent 
+pas prendre le sirop.
+
+Les comprimés filmés d'Atarax contiennent du lactose. Les patients avec une 
+intolérance au galactose, un déficit en lactase de Lapp ou une malabsorption 
+du glucose-galactose ne doivent pas prendre ce médicament.
+
+
+Interactions :
+------------------
+
+L'effet d'Atarax est renforcé par l'alcool.
+
+L'hydroxyzine accentue l'effet des médicaments inhibiteurs du système nerveux 
+central ou possédant des propriétés anticholinergiques. Pour cette raison, il 
+convient d'adapter la posologie de façon individuelle.
+
+La prise simultanée d'inhibiteurs de la monoamine-oxydase peut également accentuer 
+l'effet anticholinergique du dichlorhydrate d'hydroxyzine. Cet effet peut se manifester 
+p.ex. par un iléus paralytique, une rétention urinaire ou un glaucome aigu. De plus, 
+l'administration concomitante de dichlorhydrate d'hydroxyzine et d'inhibiteurs de la 
+monoamine-oxydase peut provoquer une hypotension et une dépression accrue du système 
+nerveux central et des fonctions respiratoires, de sorte qu'un traitement associant 
+les deux substances doit être évité.
+
+Atarax antagonise l'effet de la bétahistine et des agents cholinergiques.
+
+Le dichlorhydrate d'hydroxyzine s'oppose à l'effet de l'adrénaline sur la tension 
+artérielle.
+
+L'effet de la phénytoïne est diminué chez le rat lors d'une administration 
+concomitante de dichlorhydrate d'hydroxyzine et de phénytoïne.
+
+Lors de l'administration concomitante de cimétidine (600 mg 2× par jour), la 
+concentration plasmatique du dichlorhydrate d'hydroxyzine augmente de 36% et 
+le pic plasmatique du métabolite, la cétirizine, diminue de 20%.
+
+Parce que le dichlorhydrate d'hydroxyzine est un inhibiteur du CYP 2D6, des 
+interactions sont possibles à hautes doses avec des substrats du CYP 2D6 (p.ex. 
+la fluoxétine).
+
+Atarax n'a pas d'effet inhibiteur à 100 μM sur les deux isoformes de l'UDP-glucuronyl 
+transférase 1A1 et 1A6 dans les microsomes du foie humain. Il inhibe les isoformes 
+2C9, 2C19 et 3A4 du cytochrome P450 à des concentrations (IC50: 103 à 140 μM; 46 à 
+52 μg/ml) bien supérieures aux concentrations plasmatiques maximales. Aussi, il est 
+improbable qu'Atarax interfère avec le métabolisme des médicaments qui sont des 
+substrats pour ces enzymes.
+
+Le métabolite cétirizine à 100 μM n'a pas d'effet inhibiteur sur les cytochromes 
+hépatiques humains P 450 (1A2, 2A6, 2C9, 2C19, 2D6, 2E1 et 3A4) ni sur les isoformes 
+de l'UDP-glucuronyl transférase.
+
+Vu la métabolisation du dichlorhydrate d'hydroxyzine par l'alcool déshydrogénase et 
+le CYP3A4/5, on peut s'attendre à une élévation de la concentration sanguine de 
+dichlorhydrate d'hydroxyzine quand elle est co-administrée avec d'autres médicaments 
+connus comme des inhibiteurs de ces enzymes. Cependant lorsqu'une seule voie métabolique 
+est inhibée, l'autre voie peut partiellement compenser.
+
+L'utilisation du dichlorhydrate d'hydroxyzine et d'antihypertenseurs peut provoquer 
+une sédation accentuée.
+
+La prise combinée d'hydroxyzine et de médicaments connus pour allonger l'intervalle 
+QT ou provoquer des torsades de pointe augmente le risque d'arythmie cardiaque. Ce 
+sont notamment les antiarythmiques des groupes IA (quinidine, disopyramide par exemple) 
+et III (amiodarone, sotalol); certains antihistaminiques; certains antipsychotiques 
+(halopéridol par exemple); certains antidépresseurs (citalopram, escitalopram 
+notamment); certains médicaments destinés à la prophylaxie ou au traitement du 
+paludisme (méfloquine et hydroxychloroquine par exemple); certains antibiotiques 
+(érythromycine, lévofloxacine, moxifloxacine); certaines substances antimycosiques 
+(dont la pentamidine); certains médicaments contre les affections gastro-intestinales; 
+certains anticancéreux (torémifène, vandétanib); ainsi que la méthadone. L'association 
+de ces produits est par conséquent contre-indiquée (voir le paragraphe «Contre-
+indications»).
+
+Des précautions sont à prendre avec les médicaments susceptibles de causer une 
+bradycardie ou une hypokaliémie.

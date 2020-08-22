@@ -456,3 +456,17 @@ def oneDrug39(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'zonegran.txt' does not exist !", outnote)
+
+def oneDrug40(self):
+    """
+    Per drug atarax
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/atarax.txt'):
+            print("+ File 'atarax.txt' exist (read)!")
+            with open('./medifiles/perdrug/atarax.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'atarax.txt' does not exist !", outnote)
