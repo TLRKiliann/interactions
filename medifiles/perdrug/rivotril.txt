@@ -1,0 +1,76 @@
+Rivotril (clonazépam) :
+==============
+
+Contre-indications :
+--------------------------
+
+Rivotril ne doit pas être administré en cas de:
+
+    hypersensibilité connue au clonazépam ou à l'un des excipients contenus dans le 
+    médicament
+    insuffisance respiratoire sévère
+    insuffisance hépatique sévère
+    dépendance connue à l'égard de médicaments, de stupéfiants et de l'alcool
+    myasthénie
+
+Les ampoules de Rivotril contiennent de l'alcool benzylique comme conservateur. 
+Comme des troubles neuropsychologiques et des troubles de plusieurs systèmes organiques, 
+de nature permanente, ont été rapportés en association à l'alcool benzylique, les ampoules 
+de Rivotril ne doivent pas être employées chez le nouveau-né, notamment pas chez le 
+prématuré immature.
+
+
+Interactions :
+------------------
+
+Rivotril peut être administré en même temps qu'un ou que plusieurs autres antiépileptiques. 
+En cas d'adjonction d'un autre médicament au schéma thérapeutique existant, les réactions 
+cliniques du patient doivent toujours être très soigneusement évaluées car des effets 
+indésirables (sédation, apathie, par exemple) sont plus susceptibles de survenir. Dans de 
+tels cas, la posologie de chaque produit doit être adaptée individuellement, afin que l'on 
+obtienne l'effet optimal recherché.
+
+Interactions pharmacocinétiques
+
+L'administration concomitante d'inducteurs des enzymes hépatiques comme les barbituriques 
+et d'antiépileptiques tels que la phénytoïne, le phénobarbital, la carbamazépine, la 
+lamotrigine, et dans une faible mesure, le valproate, peut accroître la clairance du 
+clonazépam et diminuer les concentrations plasmatiques de ce dernier dans une proportion 
+pouvant atteindre 38%.
+
+Rivotril peut altérer les concentrations de phénytoïne.
+
+Étant donné la nature bidirectionnelle de l'interaction entre le clonazépam et la phénytoïne, 
+on a constaté que les taux de phénytoïne peuvent demeurer inchangés, augmenter ou baisser, 
+lors de l'administration concomitante de Rivotril, selon la posologie et les facteurs propres 
+au patient. Rivotril n'induit pas lui-même les enzymes responsables de son propre métabolisme. 
+Les enzymes en jeu dans le métabolisme de Rivotril n'ont pas tous été clairement identifiés, 
+mais on sait qu'ils comprennent le CYP3A4. Les inhibiteurs du CYP3A4 (p.ex. le fluconazole) 
+peuvent nuire au métabolisme de Rivotril et entraîner des concentrations et des effets 
+excessifs.
+
+La sertraline (faible inducteur du CYP3A4), la fluoxétine (inhibiteur du CYP2D6), deux 
+inhibiteurs sélectifs du recaptage de la sérotonine, et l'antiépileptique felbamate 
+(inhibiteur du CYP2C19; inducteur du CYP3A4), n'ont aucun effet sur la pharmaco-
+-cinétique du clonazépam lorsqu'ils sont administrés de manière concomitante.
+
+Interactions pharmacodynamiques
+
+L'association de Rivotril et d'acide valproïque peut occasionnellement faire apparaître 
+un état de petit mal épileptique.
+
+Une augmentation des effets indésirables, tels que p.ex. la sédation et la dépression 
+cardiorespiratoire, est également possible lorsque Rivotril est utilisé en même temps que 
+des substances exerçant un effet dépresseur central, tout comme lors de la prise 
+simultanée de Rivotril et d'alcool.
+
+La consommation d'alcool doit être évitée par les patients qui reçoivent Rivotril (voir 
+«Mises en garde et précautions»).
+
+D'autres remarques au sujet d'autres substances exerçant un effet dépresseur central, y 
+compris l'alcool, sont par ailleurs mentionnées aux paragraphes «Mises en garde et 
+précautions» et «Surdosage».
+
+En cas de traitement concomitant avec des médicaments exerçant un effet dépresseur central, 
+la posologie de chaque médicament doit être adaptée pour obtenir l'effet 
+optimal.

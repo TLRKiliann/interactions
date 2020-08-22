@@ -498,3 +498,17 @@ def oneDrug43(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lexotanil.txt' does not exist !", outnote)
+
+def oneDrug44(self):
+    """
+    Per drug rivotril
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/rivotril.txt'):
+            print("+ File 'rivotril.txt' exist (read)!")
+            with open('./medifiles/perdrug/rivotril.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'rivotril.txt' does not exist !", outnote)
