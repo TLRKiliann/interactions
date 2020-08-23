@@ -14,6 +14,8 @@ def anxioDrug40(self):
     try:
         if os.path.getsize('./medifiles/perdrug/atarax.txt'):
             print("+ File 'atarax.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/atarax.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -28,6 +30,8 @@ def anxioDrug42(self):
     try:
         if os.path.getsize('./medifiles/perdrug/demetrin.txt'):
             print("+ File 'demetrin.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/demetrin.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -42,6 +46,8 @@ def anxioDrug43(self):
     try:
         if os.path.getsize('./medifiles/perdrug/lexotanil.txt'):
             print("+ File 'lexotanil.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/lexotanil.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -56,6 +62,8 @@ def anxioDrug44(self):
     try:
         if os.path.getsize('./medifiles/perdrug/rivotril.txt'):
             print("+ File 'rivotril.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/rivotril.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -70,6 +78,8 @@ def anxioDrug45(self):
     try:
         if os.path.getsize('./medifiles/perdrug/rohypnol.txt'):
             print("+ File 'rohypnol.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/rohypnol.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -84,6 +94,8 @@ def anxioDrug46(self):
     try:
         if os.path.getsize('./medifiles/perdrug/seresta.txt'):
             print("+ File 'seresta.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/seresta.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -98,6 +110,8 @@ def anxioDrug47(self):
     try:
         if os.path.getsize('./medifiles/perdrug/temesta.txt'):
             print("+ File 'temesta.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/temesta.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -112,6 +126,8 @@ def anxioDrug48(self):
     try:
         if os.path.getsize('./medifiles/perdrug/tranxilium.txt'):
             print("+ File 'tranxilium.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/tranxilium.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:

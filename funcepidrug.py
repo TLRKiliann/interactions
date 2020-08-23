@@ -14,6 +14,8 @@ def antiepiDrug19(self):
     try:
         if os.path.getsize('./medifiles/perdrug/carbamazepine.txt'):
             print("+ File 'carbamazepine.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/carbamazepine.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -28,6 +30,8 @@ def antiepiDrug20(self):
     try:
         if os.path.getsize('./medifiles/perdrug/depakine.txt'):
             print("+ File 'depakine.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/depakine.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -42,6 +46,8 @@ def antiepiDrug21(self):
     try:
         if os.path.getsize('./medifiles/perdrug/ethosuximide.txt'):
             print("+ File 'ethosuximide.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/ethosuximide.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -57,6 +63,8 @@ def antiepiDrug22(self):
     try:
         if os.path.getsize('./medifiles/perdrug/mysoline.txt'):
             print("+ File 'mysoline.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/mysoline.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -71,6 +79,8 @@ def antiepiDrug23(self):
     try:
         if os.path.getsize('./medifiles/perdrug/phenobarbit.txt'):
             print("+ File 'phenobarbit.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/phenobarbit.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -85,6 +95,8 @@ def antiepiDrug24(self):
     try:
         if os.path.getsize('./medifiles/perdrug/phenytoine.txt'):
             print("+ File 'phenytoine.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/phenytoine.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -99,6 +111,8 @@ def antiepiDrug25(self):
     try:
         if os.path.getsize('./medifiles/perdrug/briviact.txt'):
             print("+ File 'briviact.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/briviact.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -113,6 +127,8 @@ def antiepiDrug26(self):
     try:
         if os.path.getsize('./medifiles/perdrug/fycompa.txt'):
             print("+ File 'fycompa.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/fycompa.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -127,6 +143,8 @@ def antiepiDrug28(self):
     try:
         if os.path.getsize('./medifiles/perdrug/inovelon.txt'):
             print("+ File 'inovelon.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/inovelon.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -141,6 +159,8 @@ def antiepiDrug29(self):
     try:
         if os.path.getsize('./medifiles/perdrug/keppra.txt'):
             print("+ File 'keppra.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/keppra.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -155,6 +175,8 @@ def antiepiDrug30(self):
     try:
         if os.path.getsize('./medifiles/perdrug/lamictal.txt'):
             print("+ File 'lamictal.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/lamictal.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -169,6 +191,8 @@ def antiepiDrug31(self):
     try:
         if os.path.getsize('./medifiles/perdrug/lyrica.txt'):
             print("+ File 'lyrica.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/lyrica.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -183,6 +207,8 @@ def antiepiDrug32(self):
     try:
         if os.path.getsize('./medifiles/perdrug/neurontin.txt'):
             print("+ File 'neurontin.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/neurontin.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -197,6 +223,8 @@ def antiepiDrug33(self):
     try:
         if os.path.getsize('./medifiles/perdrug/sabril.txt'):
             print("+ File 'sabril.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/sabril.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -211,6 +239,8 @@ def antiepiDrug34(self):
     try:
         if os.path.getsize('./medifiles/perdrug/taloxa.txt'):
             print("+ File 'taloxa.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/taloxa.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -225,6 +255,8 @@ def antiepiDrug35(self):
     try:
         if os.path.getsize('./medifiles/perdrug/topamax.txt'):
             print("+ File 'topamax.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/topamax.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -239,6 +271,8 @@ def antiepiDrug38(self):
     try:
         if os.path.getsize('./medifiles/perdrug/vimpat.txt'):
             print("+ File 'vimpat.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/vimpat.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
@@ -253,6 +287,8 @@ def antiepiDrug39(self):
     try:
         if os.path.getsize('./medifiles/perdrug/zonegran.txt'):
             print("+ File 'zonegran.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
             with open('./medifiles/perdrug/zonegran.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
