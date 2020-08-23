@@ -1,0 +1,213 @@
+Valium (diazépam) :
+=============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue aux benzodiazépines ou à l'un des excipients selon la composition.
+
+Insuffisance respiratoire sévère, insuffisance hépatique sévère, car les benzodiazépines 
+peuvent provoquer une encéphalopathie hépatique, syndrome d'apnée du sommeil et 
+myasthénie grave. Les benzodiazépines ne sont pas recommandées pour le traitement primaire 
+de troubles psychotiques. En cas de dépression ou d'états anxieux lors de dépression, les 
+benzodiazépines ne doivent pas être utilisées seules, en raison du risque de suicide auquel 
+sont exposés les patients.
+
+
+Interactions :
+------------------
+
+Interactions pharmacocinétiques (DDI)
+
+Le métabolisme du diazépam et de son principal métabolite, le DMDZ (desméthyldiazépam), 
+dépend des isoenzymes CYP3A4 et le CYP2C19 du cytochrome P450. Les modulateurs de ces 
+enzymes peuvent modifier l'exposition et les effets du diazépam. De fortes interactions 
+sont observées avec les composés affectant simultanément les deux voies métaboliques 
+oxydatives du diazépam. Cependant, même avec des inhibiteurs puissants, les effets sont 
+modérés si ceux-ci n'affectent qu'une des voies de dégradation du diazépam.
+
+Les inhibiteurs du CYP3A4 et du CYP2C19 ralentissent la dégradation métabolique et 
+peuvent entraîner une augmentation des concentrations de diazépam et du métabolite 
+desméthyle, renforçant/prolongeant ainsi les effets sédatifs et anxiolytiques. De tels 
+changements peuvent renforcer les effets du diazépam chez les patients plus sensibles, 
+par exemple en raison de leur âge, de l'altération de leur fonction hépatique ou d'un 
+traitement par d'autres médicaments perturbant le taux d'oxydation. Les inducteurs du 
+CYP3A4 et du CYP2C19 peuvent induire des concentrations inférieures aux attentes et ne 
+pas avoir l'effet souhaité. Un ajustement de la posologie peut être nécessaire pour 
+obtenir l'effet souhaité.
+
+Effets d'autres médicaments sur la pharmacocinétique du diazépam
+
+Inhibiteurs enzymatiques
+
+Le jus de pamplemousse contient de puissants inhibiteurs du CYP3A4. Lorsque le diazépam 
+était pris avec du jus de pamplemousse à la place de l'eau, l'exposition au diazépam était 
+fortement augmentée (3,2 fois ASC, 1,5 fois Cmax) et le temps nécessaire pour atteindre la 
+concentration maximale était plus long.
+
+Les dérivés azolés antimycotiques inhibent les voies métaboliques du CYP3A4 et du CYP2C19 
+et ont entraîné une exposition accrue au diazépam (rapport de l'ASC du diazépam de 2,5 avec 
+le fluconazole et de 2,2 avec le voriconazole). La demi-vie d'élimination du diazépam était 
+prolongée (passant de 31 h à 73 h pour le fluconazole et de 31 h à 61 h pour le voriconazole). 
+L'effet des antimycotiques sur les taux de diazépam a été observé dès 4 heures après 
+l'administration et se poursuit ensuite. Des tests de performance psychomotrice ont montré 
+que l'itraconazole avait des effets plus modérés, sans interaction cliniquement significative 
+avec le diazépam.
+
+La fluvoxamine, un inhibiteur de la recapture de la sérotonine, inhibe également les deux 
+voies de dégradation du diazépam. Elle a non seulement augmenté de 180% l'exposition au 
+diazépam et prolongé sa demi-vie d'élimination de 51 h à 118 h, mais a également prolongé 
+l'exposition et le temps nécessaire au métabolite desméthyl pour atteindre l'état 
+d'équilibre (Steady State). La fluoxétine a eu des effets plus modérés sur l'ASC du 
+diazépam (augmentation d'environ 50%) et n'a eu aucun effet sur la réponse psychomotrice, 
+car les concentrations combinées de diazépam et de desméthyldiazépam étaient comparables 
+avec ou sans fluoxétine.
+
+Les contraceptifs hormonaux combinés semblent réduire la clairance du diazépam (de 40%) et 
+prolonger sa demi-vie d'élimination (de 47%). La déficience psychomotrice induite par le 
+diazépam chez les utilisatrices de contraceptifs peut être plus marquée pendant la pause 
+menstruelle de 7 jours au cours de laquelle la préparation hormonale n'est pas prise par 
+rapport à la phase de prise du contraceptif. Certaines données semblent indiquer que les 
+benzodiazépines pourraient augmenter l'incidence des saignements intermenstruels chez les 
+utilisatrices de contraceptifs hormonaux. Une interaction médicamenteuse ayant entraîné une 
+grossesse n'a pas été observée.
+
+L'oméprazole, un inhibiteur de la pompe à protons, est un inhibiteur du CYP2C19 
+et du CYP3A4. L'administration d'une dose de 20 mg une fois par jour a causé une 
+augmentation de 40% de l'ASC du diazépam et une augmentation de 36% de la demi-vie. 
+À la dose de 40 mg une fois par jour, l'oméprazole a augmenté de 122% l'ASC du 
+diazépam et la demi-vie de 130%. L'élimination du desméthyldiazépam a également 
+été réduite. L'effet de l'oméprazole n'a été observé que chez les métaboliseurs 
+rapides du CYP2C19, mais pas chez les lents. L'ésoméprazole (mais pas le 
+lansoprazole ni le pantoprazole) a le potentiel d'inhiber le métabolisme du 
+diazépam de manière similaire à l'oméprazole.
+
+La cimétidine, un antagoniste des récepteurs H2 à l'histamine, inhibe plusieurs 
+isoenzymes du CYP, notamment le CYP3A4 et le CYP2C19, et réduit de 40 à 50% la 
+clairance du diazépam et du desméthyldiazépam. L'effet est comparable après une 
+administration d'un jour et une administration chronique de cimétidine et conduit 
+après administration d'une dose unique de diazépam à une exposition accrue au 
+diazépam et à son principal métabolite et à la prolongation de leur demi-vie 
+d'élimination et, après plusieurs administrations de diazépam, à des 
+concentrations plus élevées à l'état d'équilibre. Une sédation accrue a été 
+observée lors de l'utilisation concomitante de cimétidine. Aucune interaction 
+pharmacocinétique de ce type n'a été observée avec les antagonistes H2, 
+ranitidine et famotidine.
+
+Le disulfirame inhibe le métabolisme du diazépam (réduction moyenne de 41% de la 
+clairance et allongement de 37% de la demi-vie) et probablement également la 
+dégradation ultérieure des métabolites actifs du diazépam. Par conséquent, les 
+effets sédatifs peuvent être renforcés.
+
+Un traitement de la tuberculose peut modifier le maintien du diazépam. En présence 
+d'isoniazide, l'exposition moyenne au diazépam (ASC) et la demi-vie de ce dernier 
+ont été augmentées (de 33 à 35% en moyenne); les changements les plus importants 
+étant observés chez les patients présentant un phénotype acétyleur lent.
+
+Le diltiazem, un inhibiteur calcique, substrat des mêmes isoenzymes du CYP que 
+le diazépam et inhibiteur du CYP3A4, a augmenté l'ASC (d'environ 25%) et a prolongé 
+la demi-vie (de 43% pour les métaboliseurs rapides du CYP2C19) du diazépam, alors 
+que les différences étaient faibles entre les patients avec des phénotypes CYP2C19 
+différents. En présence de diltiazem, l'exposition au desméthyldiazépam a également 
+tendance à augmenter.
+
+Le principal métabolite de l'idélalisib est un puissant inhibiteur du CYP3A4 et a 
+augmenté les concentrations sériques de diazépam, ce qui suggère d'envisager une 
+réduction de la dose.
+
+Les psychostimulants modafinil et armodafinil ont un effet inducteur sur le CYP3A4 
+et un effet inhibiteur sur le CYP2C19; ainsi ils pourraient prolonger l'élimination 
+du diazépam et induire une sédation excessive.
+
+Inducteurs enzymatiques
+
+La rifampicine a un effet inducteur très puissant sur le CYP3A4 et un effet 
+accélérateur significatif sur la voie du CYP2C19. A un dosage de 600 mg par 
+jour pendant 7 jours, la clairance du diazépam a été multipliée par 4,3 et 
+l'ASC réduite de 77%. De plus, une réduction significative de l'exposition 
+à tous les métabolites du diazépam a été observée. Doubler la dose 
+quotidienne de rifampicine n'a pas augmenté les effets de cette substance.
+
+La carbamazépine est un inducteur connu du CYP3A4 et a accéléré l'élimination 
+(augmentation de la clairance, réduction de la demi-vie) du diazépam de 3 fois, 
+tout en augmentant les concentrations de desméthyldiazépam.
+
+Aliments et antiacides
+
+Les aliments et les antiacides peuvent diminuer la vitesse de résorption du 
+comprimé de diazépam (réduction d'environ 30% de la Cmax), mais ne réduisent 
+pas le degré de résorption (ASC); cela peut entraîner un affaiblissement de 
+l'effet après une dose unique. Cependant, le traitement avec des doses 
+multiples n'affecte pas les concentrations à l'état d'équilibre.
+
+Les substances procinétiques, par exemple le métoclopramide, peuvent accélérer 
+la résorption du diazépam. Le métoclopramide par voie intraveineuse, mais pas 
+par voie orale, accélère la résorption du diazépam et augmente la concentration 
+maximale atteinte après administration orale. Les narcotiques (morphine, 
+péthidine) réduisent le taux de résorption et les concentrations maximales de 
+diazépam administré par voie orale.
+
+Effet du diazépam sur la pharmacocinétique d'autres médicaments
+
+Aucun effet inducteur ou inhibiteur du diazépam sur les enzymes métabolisantes n'a 
+été observé. Cependant, il est à l'origine de certaines interactions avec d'autres 
+médicaments.
+
+Le traitement par la phénytoïne en association avec le diazépam a été associé à une 
+augmentation des concentrations et à une augmentation de l'intoxication à la phénytoïne. 
+Cependant, certains auteurs n'ont trouvé aucune interaction ni même de diminution des 
+concentrations plasmatiques de phénytoïne lorsqu'il était utilisé avec du diazépam.
+
+Interactions pharmacodynamiques (DDI)
+
+La consommation d'alcool doit être évitée par les patients qui reçoivent Valium (voir «Mises 
+en garde et précautions»).
+
+D'autres remarques au sujet d'autres substances exerçant un effet dépresseur central, y 
+compris l'alcool, sont par ailleurs mentionnées au paragraphe «Surdosage».
+
+Une augmentation des effets secondaires, tels que la sédation et la dépression 
+cardiorespiratoire, peuvent également survenir lorsque Valium est utilisé avec des substances 
+exerçant un effet dépresseur central, y compris l'alcool.
+
+Plusieurs cas d'hypotension grave, de dépression respiratoire ou de perte de conscience 
+ont été rapportés chez des patients recevant un traitement combiné par la clozapine et 
+les benzodiazépines, y compris le diazépam.
+
+Lorsque l'on associe des phénothiazines à des benzodiazépines, il faut s'attendre à ce que 
+l'effet dépresseur sur le SNC augmente; des cas de sédation, de dépression respiratoire et 
+d'obstruction des voies respiratoires ont été rapportés lors d'utilisation combinée de 
+lévopromazine et de diazépam.
+
+L'olanzapine et le diazépam entraînent une augmentation de la sédation et de l'hypotension 
+sans interaction pharmacocinétique. L'utilisation parentérale concomitante n'est pas 
+recommandée.
+
+Le diazépam renforce l'effet opioïde subjectif de la méthadone. Il renforce l'effet de 
+la méthadone sur le diamètre de la pupille et la sédation, et provoque également un retard 
+beaucoup plus long du temps de réaction qu'en utilisant uniquement la méthadone. Aucune 
+interaction pharmacocinétique n'existe entre les deux médicaments.
+
+Une perte réversible de contrôle de la maladie de Parkinson a été observée chez certains 
+patients recevant en association la lévodopa et le diazépam. Cela pourrait être dû à une 
+diminution des taux de dopamine striatale.
+
+La xanthine théophylline et la caféine neutralisent partiellement les effets sédatifs et 
+éventuellement anxiolytiques du diazépam en bloquant les récepteurs de l'adénosine.
+
+Le prétraitement au diazépam modifie la pharmacodynamique et la pharmacocinétique de 
+l'anesthésique kétamine. La N-déméthylation de la kétamine était inhibée, entraînant 
+une prolongation de sa demi-vie et de la durée de l'anesthésie induite par la kétamine. 
+En présence de diazépam, une concentration en kétamine plus faible est nécessaire pour 
+obtenir une anesthésie adéquate.
+
+La théophylline peut inhiber l'action du diazépam.
+
+Aucune interaction n'est cependant connue avec les antidiabétiques courants, les anticoagulants 
+et les diurétiques.
+
+La rifampicine possède un fort pouvoir inducteur des enzymes hépatiques, ce qui accélère le 
+métabolisme du diazépam dans le foie.
+
+Il faut être attentif à un possible renforcement de l'effet dépresseur sur la respiration en 
+cas d'association de Valium et d'opiacés exerçant une dépression respiratoire.
