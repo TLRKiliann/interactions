@@ -1,0 +1,82 @@
+Xanax (alprazolam) :
+=============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au principe actif, aux autres benzodiazépines ou à l'un des excipients 
+(voir «Composition»).
+
+Myasthénie grave, insuffisance respiratoire grave, syndrome des apnées du sommeil, 
+insuffisance hépatique sévère, administration concomitante d'inhibiteurs de la protéase, 
+de kétoconazole, d'itraconazole ou d'autres antimycosiques azolés (voir «Interactions»).
+
+
+Interactions :
+------------------
+
+Administrées en association avec des psychotropes (par exemple des opioïdes), des 
+anticonvulsivants, des antihistaminiques, l'alcool et d'autres substances à action 
+sédative sur le SNC, les benzodiazépines produisent un renforcement de l'effet 
+sédatif, y compris une dépression respiratoire (voir «Mises en garde et précautions»).
+
+L'administration simultanée de benzodiazépines peut potentialiser l'action des 
+myorelaxants.
+
+Des interactions pharmacocinétiques peuvent se produire lorsque l'alprazolam est 
+associé à des composés pouvant modifier son métabolisme. Les substances pouvant 
+inhiber certaines enzymes hépatiques (notamment le cytochrome P4503A4) peuvent 
+entraîner une augmentation des taux plasmatiques d'alprazolam, et ainsi accentuer 
+son effet. Les données d'études cliniques et in vitro menées avec l'alprazolam, 
+ainsi que des études cliniques menées avec des substances métabolisées de manière 
+similaire ont mis en évidence la possibilité de diverses interactions avec toute 
+une série de substances.
+
+L'association d'alprazolam et de kétoconazole, d'itraconazole et d'autres 
+antifongiques de type azole n'est pas recommandée.
+
+Les patients qui reçoivent l'alprazolam en même temps que la néfazodone, la 
+fluvoxamine ou la cimétidine, seront surveillés afin de réduire éventuellement 
+la posologie de Xanax/-retard.
+
+La prudence s'impose lors de l'administration concomitante d'alprazolam et de 
+fluoxétine, dextropropoxyphène, contraceptifs oraux, diltiazem ou d'antibiotiques
+du groupe des macrolides comme érythromycine, clarithromycine ou troléandomycine.
+
+Ritonavir et autres inhibiteurs de la protéase: Les interactions entre inhibiteurs 
+de la protéase du VIH et alprazolam sont complexes et dépendent de la durée du 
+traitement. De faibles doses de ritonavir ont conduit à une diminution marquée de 
+la clairance de l'alprazolam, une prolongation de sa demi-vie d'élimination et une 
+accentuation de ses effets cliniques. En conséquence, l'administration concomitante 
+d'alprazolam et d'inhibiteurs de la protéase est contre-indiquée.
+
+Imipramine/Désipramine: les taux plasmatiques augmentent d'environ 30% lors de 
+l'administration d'alprazolam, et la clairance de l'imipramine est réduite 
+d'environ 20%. L'élimination de l'alprazolam n'est pas modifiée. La signification 
+clinique est encore incertaine.
+
+Lithium: sous alprazolam, les taux plasmatiques du lithium peuvent subir une 
+augmentation légère mais significative.
+
+Dextropropoxyphène: la demi-vie de l'alprazolam est prolongée et la clairance 
+totale est réduite.
+
+Propranolol: la clairance de l'alprazolam n'est pas modifiée. Les concentrations 
+sériques maximales d'alprazolam sont toutefois plus faibles et leur apparition est 
+retardée.
+
+Cimétidine: la demi-vie de l'alprazolam est augmentée et la clairance est diminuée. 
+L'administration répétée entraîne une augmentation de la concentration à l'état 
+d'équilibre.
+
+Digoxine: En cas d'administration simultanée d'alprazolam et de digoxine, des taux 
+plasmatiques de digoxine élevés ont été constatés, en particulier chez les patients 
+âgés (>65 ans). Pour cette raison, les patients recevant simultanément de la 
+digoxine et de l'alprazolam doivent être étroitement surveillés en ce qui concerne 
+une toxicité potentielle de la digoxine.
+
+Contraceptifs oraux: l'administration simultanée d'éthinylestradiol à faibles doses 
+par voie orale entraîne une augmentation de la demi-vie de l'alprazolam.
+
+Tabagisme: la demi-vie de l'alprazolam est réduite et la clairance est augmentée. 
+Chez les fumeurs, une dose quelque peu plus forte peut être nécessaire.

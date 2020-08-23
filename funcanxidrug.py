@@ -166,4 +166,19 @@ def anxioDrug50(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'valium.txt' does not exist !", outnote)
-        
+
+def anxioDrug51(self):
+    """
+    Per drug xanax
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/xanax.txt'):
+            print("+ File 'xanax.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/xanax.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'xanax.txt' does not exist !", outnote)
