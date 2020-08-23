@@ -58,10 +58,10 @@ class Application(Frame):
             antiepiDrugLoop(self, drug2)
             anxioDrugLoop(self, drug2)
 
-            seroLoop(self, drug3, drug4)
-            carbaLoop(self, drug3, drug4)
-            lepoLoop(self, drug3, drug4)
-            depaLoop(self, drug3, drug4)
+            seroFunc(self, drug3, drug4)
+            carbaFunc(self, drug3, drug4)
+            lepoFunc(self, drug3, drug4)
+            depaFunc(self, drug3, drug4)
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 

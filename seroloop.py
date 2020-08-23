@@ -7,7 +7,7 @@ from listfile import *
 from interdrugs import *
 
 
-def seroLoop(self, drug3, drug4):
+def seroFunc(self, drug3, drug4):
     """
     drug1 VS drug2 (interactions with seroquel)
     """
@@ -17,43 +17,43 @@ def seroLoop(self, drug3, drug4):
                 drug4 == "carbamazépine" or drug3 == "tégrétol" or \
                 drug4 == "tégrétol"):
                 print("+ Interactions ultraviolente !!!")
-                importationViolente(self)
+                importSeroCarba(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
                 drug3 == "valproate" or drug4 == "dépakine" or \
                 drug4 == "valproate"):
                 print("+ Interactions !!!")
-                importationSeroDepak(self)
+                importSeroDepak(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "érythromycine" or \
                 drug4 == "érythromycine"):
                 print("+ Interactions !!!")
-                importationSeroEry(self)
+                importSeroEry(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazol" or \
                 drug4 == "kétoconazol"):
                 print("+ Interactions !!!")
-                importationSeroKeto(self)
+                importSeroKeto(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
                 drug4 == "lithium"):
                 print("+ Interactions !!!")
-                importationSeroLith(self)
+                importSeroLith(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "methadone" or \
                 drug3 == "meoh" or drug4 == "methadone" or \
                 drug4 == "meoh"):
                 print("+ Interactions !!!")
-                importationSeroMeoh(self)
+                importSeroMeoh(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
                 drug3 == "alcool" or drug4 == "oh" or \
                 drug4 == "alcool"):
                 print("+ Interactions !!!")
-                importationSeroOh(self)
+                importSeroOh(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "phénitoïne" or \
                 drug3 == "aphénylbarbite" or drug4 == "phénitoïne" or \
                 drug4 == "aphénylbarbite"):
                 print("+ Interactions !!!")
-                importationSeroPheny(self)
+                importSeroPheny(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "risperdal" or \
                 drug3 == "risperdone" or drug4 == "risperdal" or \
                 drug4 == "risperdone"):
                 print("+ Interactions !!!")
-                importationSeroRisp(self)
+                importSeroRisp(self)
             else:
                 print("Loop to search drug3 and drug4...")

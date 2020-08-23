@@ -8,7 +8,7 @@ import subprocess
 
 
 # Display text in textbox from medifiles files (seroquel + carabamazepine)
-def importationViolente(self):
+def importSeroCarba(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_sero.txt'):
             print("+ File 'carba_sero.txt' exist (read)!")
@@ -22,7 +22,7 @@ def importationViolente(self):
         print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + depakine)
-def importationSeroDepak(self):
+def importSeroDepak(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_depak.txt'):
             print("+ File 'sero_depak.txt' exist (read)!")
@@ -36,7 +36,7 @@ def importationSeroDepak(self):
         print("+ Sorry, file 'sero_depak.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + érythromicine)
-def importationSeroEry(self):
+def importSeroEry(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_erythro.txt'):
             print("+ File 'sero_erythro.txt' exist (read)!")
@@ -50,7 +50,7 @@ def importationSeroEry(self):
         print("+ Sorry, file 'sero_erythro.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + kétoconazol)
-def importationSeroKeto(self):
+def importSeroKeto(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_keto.txt'):
             print("+ File 'sero_keto.txt' exist (read)!")
@@ -64,7 +64,7 @@ def importationSeroKeto(self):
         print("+ Sorry, file 'sero_keto.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + lithium)
-def importationSeroLith(self):
+def importSeroLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_lith.txt'):
             print("+ File 'sero_lith.txt' exist (read)!")
@@ -78,7 +78,7 @@ def importationSeroLith(self):
         print("+ Sorry, file 'sero_lith.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + MeOH)
-def importationSeroMeoh(self):
+def importSeroMeoh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_metha.txt'):
             print("+ File 'sero_metha.txt' exist (read)!")
@@ -92,7 +92,7 @@ def importationSeroMeoh(self):
         print("+ Sorry, file 'sero_metha.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + OH)
-def importationSeroOh(self):
+def importSeroOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_oh.txt'):
             print("+ File 'sero_oh.txt' exist (read)!")
@@ -106,7 +106,7 @@ def importationSeroOh(self):
         print("+ Sorry, file 'sero_oh.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + phénytoïne)
-def importationSeroPheny(self):
+def importSeroPheny(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_pheny.txt'):
             print("+ File 'sero_pheny.txt' exist (read)!")
@@ -120,7 +120,7 @@ def importationSeroPheny(self):
         print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
     
 # Display text in textbox from medifiles files (seroquel + anticoagul)
-def importationCarbaAnticoa(self):
+def importCarbaAnticoa(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_anticoa.txt'):
             print("+ File 'carba_anticoa.txt' exist (read)!")
@@ -134,7 +134,7 @@ def importationCarbaAnticoa(self):
         print("+ Sorry, file 'carba_anticoa.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + atb)
-def importationCarbaAtb(self):
+def importCarbaAtb(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_atb.txt'):
             print("+ File 'carba_atb.txt' exist (read)!")
@@ -148,7 +148,7 @@ def importationCarbaAtb(self):
         print("+ Sorry, file 'carba_atb.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles files (seroquel + atd)
-def importationCarbaAntidep(self):
+def importCarbaAntidep(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_atdtc.txt'):
             print("+ File 'carba_atdtc.txt' exist (read)!")
@@ -161,7 +161,7 @@ def importationCarbaAntidep(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_atdtc.txt' does not exist !", outnote)
 
-def importationCarbaDepak(self):
+def importCarbaDepak(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_depak.txt'):
             print("+ File 'carba_depak.txt' exist (read)!")
@@ -174,7 +174,7 @@ def importationCarbaDepak(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_depak.txt' does not exist !", outnote)
 
-def importationCarbaAntidiu(self):
+def importCarbaAntidiu(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_diuret.txt'):
             print("+ File 'carba_diuret.txt' exist (read)!")
@@ -187,7 +187,7 @@ def importationCarbaAntidiu(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_diuret.txt' does not exist !", outnote)
 
-def importationCarbaAntitub(self):
+def importCarbaAntitub(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_isonia.txt'):
             print("+ File 'carba_isonia.txt' exist (read)!")
@@ -200,7 +200,7 @@ def importationCarbaAntitub(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_isonia.txt' does not exist !", outnote)
 
-def importationCarbaMae(self):
+def importCarbaMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_mae.txt'):
             print("+ File 'carba_mae.txt' exist (read)!")
@@ -213,7 +213,7 @@ def importationCarbaMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_mae.txt' does not exist !", outnote)
 
-def importationCarbaKeppra(self):
+def importCarbaKeppra(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_levetira.txt'):
             print("+ File 'carba_levetira.txt' exist (read)!")
@@ -226,7 +226,7 @@ def importationCarbaKeppra(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_levetira.txt' does not exist !", outnote)
 
-def importationCarbaLith(self):
+def importCarbaLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_lith.txt'):
             print("+ File 'carba_lith.txt' exist (read)!")
@@ -239,7 +239,7 @@ def importationCarbaLith(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_lith.txt' does not exist !", outnote)
 
-def importationCarbaMyo(self):
+def importCarbaMyo(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_myorelax.txt'):
             print("+ File 'carba_myorelax.txt' exist (read)!")
@@ -252,7 +252,7 @@ def importationCarbaMyo(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_myorelax.txt' does not exist !", outnote)
 
-def importationCarbaOh(self):
+def importCarbaOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_oh.txt'):
             print("+ File 'carba_oh.txt' exist (read)!")
@@ -265,7 +265,7 @@ def importationCarbaOh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_oh.txt' does not exist !", outnote)
 
-def importationCarbaPerphe(self):
+def importCarbaPerphe(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_perphenazine.txt'):
             print("+ File 'carba_perphenazine.txt' exist (read)!")
@@ -278,7 +278,7 @@ def importationCarbaPerphe(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_perphenazine.txt' does not exist !", outnote)
 
-def importationCarbaAntipsy(self):
+def importCarbaAntipsy(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_neuro.txt'):
             print("+ File 'carba_neuro.txt' exist (read)!")
@@ -291,7 +291,7 @@ def importationCarbaAntipsy(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_neuro.txt' does not exist !", outnote)
 
-def importationLepoCarba(self):
+def importLepoCarba(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_carba.txt'):
             print("+ File 'lepo_carba.txt' exist (read)!")
@@ -304,7 +304,7 @@ def importationLepoCarba(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_carba.txt' does not exist !", outnote)
 
-def importationLepoIpp(self):
+def importLepoIpp(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_ipp.txt'):
             print("+ File 'lepo_ipp.txt' exist (read)!")
@@ -317,7 +317,7 @@ def importationLepoIpp(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_ipp.txt' does not exist !", outnote)
 
-def importationLepoAtd(self):
+def importLepoAtd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_atd.txt'):
             print("+ File 'lepo_atd.txt' exist (read)!")
@@ -330,7 +330,7 @@ def importationLepoAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atd.txt' does not exist !", outnote)
 
-def importationLepoAtb(self):
+def importLepoAtb(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_atb.txt'):
             print("+ File 'lepo_atb.txt' exist (read)!")
@@ -343,7 +343,7 @@ def importationLepoAtb(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atb.txt' does not exist !", outnote)
 
-def importationLepoAntiHist(self):
+def importLepoAntiHist(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_antihist.txt'):
             print("+ File 'lepo_antihist.txt' exist (read)!")
@@ -356,7 +356,7 @@ def importationLepoAntiHist(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_antihist.txt' does not exist !", outnote)
 
-def importationLepoMae(self):
+def importLepoMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_mae.txt'):
             print("+ File 'lepo_mae.txt' exist (read)!")
@@ -369,7 +369,7 @@ def importationLepoMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_mae.txt' does not exist !", outnote)
 
-def importationLepoNeuro(self):
+def importLepoNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_neuro.txt'):
             print("+ File 'lepo_neuro.txt' exist (read)!")
@@ -382,7 +382,7 @@ def importationLepoNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_neuro.txt' does not exist !", outnote)
 
-def importationLepoBzd(self):
+def importLepoBzd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_bzd.txt'):
             print("+ File 'lepo_bzd.txt' exist (read)!")
@@ -395,7 +395,7 @@ def importationLepoBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_bzd.txt' does not exist !", outnote)
 
-def importationLepoOh(self):
+def importLepoOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_oh.txt'):
             print("+ File 'lepo_oh.txt' exist (read)!")
@@ -408,7 +408,7 @@ def importationLepoOh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_oh.txt' does not exist !", outnote)
 
-def importationLepoMeOH(self):
+def importLepoMeOH(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_meoh.txt'):
             print("+ File 'lepo_meoh.txt' exist (read)!")
@@ -421,7 +421,7 @@ def importationLepoMeOH(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_meoh.txt' does not exist !", outnote)
 
-def importationLepoLith(self):
+def importLepoLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_lith.txt'):
             print("+ File 'lepo_lith.txt' exist (read)!")
@@ -434,7 +434,7 @@ def importationLepoLith(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_lith.txt' does not exist !", outnote)
 
-def importationLepoCoag(self):
+def importLepoCoag(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_coagul.txt'):
             print("+ File 'lepo_coagul.txt' exist (read)!")
@@ -448,7 +448,7 @@ def importationLepoCoag(self):
         print("+ Sorry, file 'lepo_coagul.txt' does not exist !", outnote)
 
 # with depakine
-def importationDepakMae(self):
+def importDepakMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_mae.txt'):
             print("+ File 'depak_mae.txt' exist (read)!")
@@ -461,7 +461,7 @@ def importationDepakMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_mae.txt' does not exist !", outnote)
 
-def importationDepakNeuro(self):
+def importDepakNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_neuro.txt'):
             print("+ File 'depak_neuro.txt' exist (read)!")
@@ -474,7 +474,7 @@ def importationDepakNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_neuro.txt' does not exist !", outnote)
 
-def importationDepakAtd(self):
+def importDepakAtd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_atd.txt'):
             print("+ File 'depak_atd.txt' exist (read)!")
@@ -487,7 +487,7 @@ def importationDepakAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_atd.txt' does not exist !", outnote)
 
-def importationDepakBzd(self):
+def importDepakBzd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_bzd.txt'):
             print("+ File 'depak_bzd.txt' exist (read)!")
@@ -500,7 +500,7 @@ def importationDepakBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_bzd.txt' does not exist !", outnote)
 
-def importationDepakOh(self):
+def importDepakOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_oh.txt'):
             print("+ File 'depak_oh.txt' exist (read)!")
