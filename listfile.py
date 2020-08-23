@@ -27,11 +27,11 @@ Atarax (dichlorhydrate d'hydroxyzine);
 Demetrin = prazépam
 Lexotanil = bromazépam 
 Rivotril = clonazépam
-rohypnol = flunitrazepamum
+rohypnol = flunitrazepam
 seresta = oxazépam
 Temesta = lorazépam
-
 Traxilium = clorazépate
+
 Urbanyl; 
 Valium; 
 Xanax.

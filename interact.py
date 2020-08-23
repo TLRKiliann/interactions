@@ -4,6 +4,9 @@
 
 from tkinter import *
 from loopfile import *
+from apsydrug import *
+from aepidrug import *
+from anxidrug import *
 from seroloop import *
 from carbaloop import *
 from lepoloop import *
@@ -50,7 +53,11 @@ class Application(Frame):
             drug4 = self.comparedrug2_var.get()
 
             familyLoop(self, drug1)
-            oneDrugLoop(self, drug2)
+
+            antipsyDrugLoop(self, drug2)
+            antiepiDrugLoop(self, drug2)
+            anxioDrugLoop(self, drug2)
+
             seroLoop(self, drug3, drug4)
             carbaLoop(self, drug3, drug4)
             lepoLoop(self, drug3, drug4)
@@ -138,15 +145,6 @@ class Application(Frame):
             "Available class of drugs : \n"
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
             "somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens\n\n"
-            "La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un\n" 
-            "compartiment ou une zone d'essai spécifique du corps après l'administration du médicament\n"
-            "et avant l'administration d'une deuxième dose. Il s'agit d'une mesure standard en \n"
-            "pharmacocinétique.\n\n"
-            "Dans le domaine de la pharmacocinétique, l'aire sous la courbe (AUC) est l'intégrale\n"
-            "définie d'une courbe qui décrit la variation de la concentration d'un médicament dans\n"
-            "le plasma sanguin en fonction du temps. En pratique, la concentration de médicament est\n"
-            "mesurée à certains points discrets dans le temps et la règle du trapèze est utilisée\n"
-            "pour estimer l'AUC.\n\n"
             
             "Available drugs : \n\n"
             "Antipsychotiques : \n"
@@ -194,16 +192,26 @@ class Application(Frame):
             "atarax = dichlorhydrate d'hydroxyzine\n"
             "demetrin = prazépam\n"
             "lexotanil = bromazépam\n"
-            "Rivotril = clonazépam"
-            "Rohypnol"
-            "Seresta = oxazépam"
-            "Temesta = lorazépam"
-            "Traxilium = clorazépate"
-            "Urbanyl"
-            "Valium"
-            "Xanax")
+            "Rivotril = clonazépam\n"
+            "Rohypnol\n"
+            "Seresta = oxazépam\n"
+            "Temesta = lorazépam\n"
+            "Traxilium = clorazépate\n"
+            "Urbanyl\n"
+            "Valium\n"
+            "Xanax\n\n"
+            "Cmax :\n"
+            "La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un\n" 
+            "compartiment ou une zone d'essai spécifique du corps après l'administration du médicament\n"
+            "et avant l'administration d'une deuxième dose. Il s'agit d'une mesure standard en \n"
+            "pharmacocinétique.\n\n"
+            "AUC :\n"
+            "Dans le domaine de la pharmacocinétique, l'aire sous la courbe (AUC) est l'intégrale\n"
+            "définie d'une courbe qui décrit la variation de la concentration d'un médicament dans\n"
+            "le plasma sanguin en fonction du temps. En pratique, la concentration de médicament est\n"
+            "mesurée à certains points discrets dans le temps et la règle du trapèze est utilisée\n"
+            "pour estimer l'AUC.\n\n")
         self.textBox.pack(padx=20, pady=20)
-
         self.pack()
 
 if __name__=='__main__':
