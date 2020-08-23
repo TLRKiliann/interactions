@@ -134,3 +134,19 @@ def anxioDrug48(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'tranxilium.txt' does not exist !", outnote)
+
+def anxioDrug49(self):
+    """
+    Per drug urbanyl
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/urbanyl.txt'):
+            print("+ File 'urbanyl.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/urbanyl.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'urbanyl.txt' does not exist !", outnote)

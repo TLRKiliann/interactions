@@ -33,7 +33,7 @@ def anxioDrugLoop(self, drug2):
         elif i == "tranxilium" or i == "clorazépate":
             if drug2 == i:
                 anxioDrug48(self)
-        elif i == "urbanyl":
+        elif i == "urbanyl" or i == "clobazam":
             if drug2 == i:
                 anxioDrug49(self)
         elif i == "valium":

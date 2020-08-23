@@ -1,0 +1,75 @@
+Urbanyl (clobazam) :
+=============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue au clobazam ou à l'un des excipients du médicament.
+
+Myasthénie grave.
+
+Insuffisance respiratoire sévère.
+
+Dépendance à l'alcool ou aux drogues.
+
+Episodes d'apnée pendant le sommeil.
+
+Insuffisance hépatique grave.
+
+Premier trimestre de la grossesse, période d'allaitement.
+
+Les benzodiazépines ne doivent être administrées à l'enfant qu'après une évaluation 
+médicale stricte. Urbanyl ne doit être administré à l'enfant de moins de 3 ans qu'en 
+cas de nécessité absolue.
+
+
+Interactions :
+------------------
+
+L'association avec d'autres médicaments dépresseurs du système nerveux central 
+(neuroleptiques, hypnotiques, anxiolytiques, antidépresseurs, narcotiques, 
+antiépileptiques, anesthésiques et antihistaminiques sédatifs, par exemple) ou avec 
+l'alcool peut entraîner une potentialisation des effets réciproques. Une précaution 
+particulière s'impose lorsque Urbanyl est administré en cas d'intoxications provoquées 
+par des dépresseurs du système nerveux central ou par le lithium.
+
+En association avec des narcotiques analgésiques, une euphorie accentuée peut se 
+manifester et entraîner une dépendance accrue.
+
+Benzodiazépines et opioïdes: l’utilisation concomitante de benzodiazépines, incluant 
+le clobazam, avec des opioïdes, augmente le risque de sédation, de détresse respiratoire, 
+de coma et de décès en raison des effets additionnels dépresseurs sur le système nerveux 
+central. Limiter le dosage et la durée de traitement chez les patients prenant 
+simultanément des benzodiazépines et des opioïdes.
+
+Lorsqu'Urbanyl est administré chez les épileptiques en association avec une thérapie de 
+base anticonvulsive, la posologie doit être adaptée sous contrôle médical régulier. 
+Lorsqu'Urbanyl est administré en même temps que de la phénytoïne ou de l'acide valproïque, 
+les taux plasmatiques de la phénytoïne ou de l'acide valproïque peuvent être élevés. Dans 
+la mesure du possible, ces paramètres sanguins doivent être contrôlés.
+
+La phénytoïne et la carbamazépine peuvent augmenter la métabolisation du clobazam en 
+N-desméthylclobazam actif. Lors de la prise concomitante de médicaments qui inhibent le 
+système enzymatique cytochrome P-450, comme la cimétidine par exemple (inhibiteur 
+CYP-450 non-spécifique), l'effet d'Urbanyl peut être potentialisé ou prolongé. L'effet 
+des myorelaxants peut être potentialisé.
+
+La consommation d'alcool durant le traitement par Urbanyl doit être évitée. L'alcool 
+augmente la biodisponibilité du clobazam de 50% et peut entraîner une potentialisation 
+des effets d'Urbanyl.
+
+Le stiripentol augmente les concentrations plasmatiques de clobazam et de son métabolite 
+actif N-desméthylclobazam par inhibition du CYP3A et CYP2C19. La surveillance des 
+concentrations sanguines est recommandée avant le début de la prise de stiripentol, puis 
+une nouvelle fois lorsque l'état d'équilibre a été atteint, c'est à dire au bout de 2 
+semaines environ.
+
+Des inhibiteurs forts et modérés du CYP2C19 peuvent entraîner une exposition accrue aux 
+N-desmethylclobazam (N-CLB), le métabolite actif du clobazam. L'adaptation du dosage du 
+clobazam peut être nécessaire en cas de co-administration avec un inhibiteur fort (par 
+exemple le fluconazole, la fluvoxamine, la ticlopidine) ou un inhibiteur modéré (oméprazole 
+par exemple) du CYP2C19.
+
+Le clobazam est un faible inhibiteur du CYP2D6. L'adaptation de la posologie des médicaments 
+métabolisés par le CYP2D6 (par exemple, le dextrométhorphane, le pimozide, la paroxétine, 
+le nébivolol) peut s'avérer nécessaire.
