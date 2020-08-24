@@ -57,6 +57,7 @@ class Application(Frame):
             antipsyDrugLoop(self, drug2)
             antiepiDrugLoop(self, drug2)
             anxioDrugLoop(self, drug2)
+            atdDrugLoop(self, drug2)
 
             seroFunc(self, drug3, drug4)
             carbaFunc(self, drug3, drug4)
