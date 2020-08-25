@@ -19,7 +19,8 @@ oneDrug=["atarax", "demetrin", "prazépam", "briviact", "brivaracétam", "abilif
       "zonisamide", "lexotanil", "bromazépam", "rivotril", "clonazépam", "rohypnol", 
       "flunitrazepamum", "seresta", "oxazépam", "temesta", "lorazépam", "tranxilium", 
       "clorazépate", "urbanyl", "clobazam", "valium", "diazépam", "xanax", "alprazolam",
-      "anafranil", "clomipramine", "saroten", "amitriptyline"]
+      "anafranil", "clomipramine", "saroten", "amitriptyline", "surmontil", "trimipramine",
+      "trittico", "trazodone"]
 
 """
 

@@ -1,0 +1,123 @@
+Surmontil (trimipramine) :
+================
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité envers la substance active, la trimipramine, ou l'un des excipients 
+de Surmontil (voir «Composition»).
+
+Association de Surmontil et d'un inhibiteur de la MAO (voir «Interactions»).
+
+Hypertrophie de la prostate avec rétention urinaire, ischurie, glaucome par fermeture 
+d'angle, bloc AV de 3e degré.
+
+Surmontil est contre-indiqué pendant la phase de rétablissement après un infarctus du 
+myocarde récent.
+
+
+Interactions :
+------------------
+
+Dépresseurs centraux
+
+Surmontil renforce l'effet de l'alcool, des barbituriques et d'autres dépresseurs 
+centraux.
+
+Anticholinergique
+
+L'emploi concomitant d'un anticholinergique (p.ex. antiparkinsoniens, antihistaminiques, 
+neuroleptiques, antidépresseurs, atropine) peut majorer les effets parasympathiques de 
+Surmontil.
+
+Inhibiteurs de MAO
+
+Surmontil ne doit pas être associé aux inhibiteurs de MAO (voir «Contre-indications»). 
+Il faut respecter un délai de 14 jours au minimum entre la suspension du traitement 
+aux inhibiteurs de la MAO et le début de la thérapie au Surmontil. Pareillement, 
+après avoir interrompu la thérapie au Surmontil il faut attendre au moins 1 semaine 
+avant de commencer une thérapie avec des inhibiteurs de MAO.
+
+Divers cas de statuts sérotoninergique résultant d'une hyperstimulation sérotoninergique 
+ont été décrits (syndrome sérotoninergique).
+
+L'association des inhibiteurs de MAO avec d'autres antidépresseurs tricycliques comme 
+Surmontil a provoqué chez quelques patients une grave fièvre toxique, des convulsions 
+et décès.
+
+Inhibiteurs des neurones adrénergiques
+
+Les antidépresseurs tricycliques peuvent atténuer ou supprimer l'effet hypotenseur de la 
+clonidine, guanéthidine, béthanidine, réserpine et méthyldopa; en cas de besoin, on 
+utilisera des antihypertenseurs ayant un autre type d'action (diurétiques, bêtabloquants).
+
+Antidépresseurs tricycliques
+
+L'association avec d'autres antidépresseurs tricycliques peut favoriser l'apparition 
+d'une hypotension. Cette association n'est donc pas recommandée.
+
+Anorexigènes
+
+L'association avec des anorexigènes (dérivés d'amphétamines) peut favoriser 
+l'apparition de crises hypertensives.
+
+Antiarythmiques
+
+La trimipramine peut renforcer l'action d'antiarythmiques, notamment du type Ia 
+(p.ex. la quinidine) et du type III (p.ex. l'amiodarone).
+
+Anesthésiques
+
+Anesthésie d'un patient sous traitement au Surmontil: voir «Mises en garde et 
+précautions».
+
+Substances actives sérotoninergiques
+
+Pour les inhibiteurs de la MAO, voir «Contre-indications». Lors d'une association 
+avec d'autres substances actives sérotoninergiques (ISRS, IRSN, lithium, triptans, 
+tramadol), il peut se produire un syndrome sérotoninergique. Une surveillance étroite 
+doit être mise en place lors de cette association, voir «Mises en garde et précaution».
+
+Substances connues pour allonger l'intervalle QT ou induisant une hypokaliémie ou 
+une bradycardie
+
+Surmontil doit être utilisé avec précaution chez les patients déjà traités avec des 
+substances connues pour allonger l'intervalle QT, ou induisant une hypokaliémie ou 
+une bradycardie.
+
+Inhibiteurs sélectifs du recaptage de la sérotonine
+
+Lors d'une association ou d'un traitement préalable avec des inhibiteurs du recaptage 
+de la sérotonine (fluoxétine, paroxétine, sertraline, citalopram ou fluvoxamine), il 
+peut se produire une élévation des concentrations plasmatiques de trimipramine par 
+compétition de substrat ou bien par inhibition des enzymes (Cytochrome P-450 2D6). 
+Une réduction de la dose de trimipramine ou de l'inhibiteur du recaptage de la 
+sérotonine est nécessaire.
+
+Substances qui sont métabolisées par le cytochrome P-450 2D6 ou qui inhibent cette 
+enzyme
+
+L'association avec des substances qui sont métabolisées par le cytochrome P-450 2D6 
+ou qui inhibent cette enzyme peut provoquer des interactions (p.ex. amitriptyline, 
+clozapine, fluoxétine, codéine).
+
+Neuroleptiques
+
+Lors d'un traitement combiné avec des neuroleptiques, il peut se produire une élévation 
+de la concentration plasmatique de l'antidépresseur tricyclique.
+
+Cimétidine
+
+La concentration plasmatique d'antidépresseurs tricycliques peut être augmentée en cas 
+de traitement associé à la cimétidine.
+
+Sympathico-mimétiques
+
+L'action des sympathico-mimétiques (incl. vasoconstricteurs additionnels des 
+anesthésiques locaux) peut être renforcée lors d'une association avec Surmontil
+
+Millepertuis
+
+Des effets indésirables peuvent survenir en cas d'utilisation simultanée d'inhibiteurs 
+de la recapture de la sérotonine et de préparation à base de plantes contenant du 
+millepertuis.
