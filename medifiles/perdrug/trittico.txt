@@ -1,0 +1,125 @@
+Trittico (trazodone) :
+=============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue à la trazodone ou à l’un des excipients.
+
+Intoxication à l’alcool ou avec des hypnotiques et infarctus aigu du myocarde.
+
+En raison de la présence de lactose, ce médicament n’est pas indiqué en cas de galactosémie 
+congénitale, de syndrome de malabsorption du glucose et du galactose ou de déficit en lactase.
+
+Etant donné qu'il n'existe pas encore une expérience clinique suffisante sur l'utilisation de 
+Trittico chez les enfants et adolescents de moins de 18 ans, ce médicament ne doit être 
+administré qu'à des adultes.
+
+
+Interactions :
+------------------
+
+Général
+
+Les effets sédatifs des substances antipsychotiques, hypnotiques, sédatives, anxiolytiques et 
+antihistaminiques peuvent être renforcés; une diminution de leur dosage est recommandée dans 
+de tels cas.
+
+Le métabolisme des antidépresseurs est accéléré suite à une induction enzymatique hépatique 
+par les contraceptifs oraux, la phénytoïne, la carbamazépine et les barbituriques. Le 
+métabolisme des antidépresseurs est inhibé par la cimétidine et certaines substances 
+antipsychotiques.
+
+Inhibiteurs du CYP3A4
+
+Des études in vitro du métabolisme du médicament suggèrent des interactions potentielles si 
+la trazodone est administrée avec des inhibiteurs puissants du CYP3A4 tels que 
+l’érythromycine, le kétoconazole, l’itraconazole, le ritonavir, l’indinavir et la néfazodone.
+
+Les inhibiteurs du CYP3A4 semblent pouvoir conduire à de substantielles augmentations des 
+concentrations plasmatiques de trazodone. Des études chez des patients sains ont démontré 
+que lors de l’administration de 200 mg de ritonavir 2×/j, la concentration plasmatique de 
+la trazodone a plus que doublé, provoquant des nausées, syncope et hypotension.
+
+Si la trazodone est utilisée avec un inhibiteur puissant du CYP3A4, des doses plus faibles de 
+trazodone devraient être envisagées.
+
+Cependant une co-médication de la trazodone avec des inhibiteurs puissants du CYP3A4 devrait 
+être autant que possible évitée.
+
+Carbamazépine
+
+La carbamazépine réduit les concentrations plasmatiques de trazodone, en cas de 
+co-administration. L’administration concomitante de carbamazépine à 400 mg/j a mené à 
+une diminution de la concentration plasmatique de la trazodone et de son métabolite 
+actif présumé m-chlorophenylpiperazine de 76% et 60% respectivement. Les patients 
+devraient être suivis de près pour voir s’il est nécessaire d’augmenter la dose de 
+trazodone.
+
+Antidépresseurs tricycliques
+
+L’administration concomitante devrait être évitée vu le risque d’interaction. Le risque 
+d’un syndrome sérotoninergique et d’effets indésirables cardiovasculaires devraient être 
+pris en considération.
+
+Fluoxétine
+
+De rares cas d’élévation du taux plasmatique de la trazodone et d’effets indésirables 
+ont été rapportés lors de co-médication avec la fluoxétine, un inhibiteur du CYP1A2/2D6. 
+Le mécanisme d’action responsable de cette interaction pharmacocinétique n’a pas été 
+complètement élucidé. Une interaction pharmacodynamique (syndrome sérotoninergique) ne 
+peut pas être exclue.
+
+Inhibiteurs de la monoamine-oxidase
+
+Des interactions ayant une relation possible avec les IMAO ont été occasionnellement 
+rapportées. Bien que certains cliniciens administrent les deux médicaments simultanément, 
+l’utilisation concomitante (ou avec un intervalle de moins de 2 semaines après l’arrêt de 
+ces substances) de la trazodone avec les IMAO n’est pas recommandée. L’administration d’un 
+IMAO à moins d’une semaine d’intervalle après l’arrêt de la trazodone n’est également pas 
+recommandée.
+
+Phénothiazines
+
+Des hypotensions orthostatiques sévères ont été observées lors d’utilisation concomitante 
+avec les phénothiazines (p.ex. chlorpromazine, fluphénazine, lévomepromazine, perphénazine).
+
+Neuroleptiques
+
+Des cas d’interactions sous forme de syndrome sérotoninergique et syndrome neuroleptique 
+malin ont été rapportés lors d’administration concomitante avec de la trazodone.
+
+Anesthésiques/relaxants musculaires
+
+La trazodone peut renforcer les effets des myorelaxants et des anesthésiques par inhalation. 
+La prudence est recommandée lors d’utilisation concomitante.
+
+Alcool
+
+La trazodone renforce les effets sédatifs de l’alcool. La consommation d’alcool devrait être 
+évitée lors d’un traitement avec de la trazodone.
+
+Lévodopa
+
+Les antidépresseurs peuvent accélérer le métabolisme de la lévodopa.
+
+Autres
+
+L’administration concomitante de la trazodone avec des substances prolongeant l’intervalle 
+QT peut augmenter le risque d’arythmies ventriculaires, notamment de torsades de pointes. 
+La prudence est recommandée lors d’administration simultanée de ces substances avec la 
+trazodone.
+
+Etant donné que la trazodone est un inhibiteur très faible de la recapture de la noradrénaline 
+et ne modifie pas l’effet de la tyramine sur la pression sanguine, une interférence sur l’effet 
+hypotensif des substances telles que la guanéthidine est improbable. Cependant des études 
+précliniques suggèrent que la trazodone peut inhiber les effets aigus de la clonidine.
+
+Bien qu’aucune interaction n’ait été rapportée, la possibilité d’un renforcement de l’effet 
+d’autres substances antihypertensives devrait être prise en considération.
+
+Une élévation des taux sanguins de digoxine et de phénytoïne a été rapportée en association 
+avec la trazodone. Un monitoring des taux sériques devrait être envisagé chez ces patients.
+
+Les effets indésirables peuvent être plus fréquents en cas d’administration simultanée de 
+préparations à base d’Hypericum perforatum.
