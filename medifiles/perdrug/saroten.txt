@@ -1,0 +1,128 @@
+Saroten (amitriptyline) :
+===============
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité au amitriptyline ou à l'un des excipients de la rubrique Composition.
+
+Infarctus du myocarde récent. Bloc cardiaque, quel qu'en soit le degré, ou trouble du 
+rythme cardiaque et insuffisance coronarienne.
+
+Le traitement concomitant par inhibiteurs de la monoamine oxydase (MOA) est contre-indiqué 
+(voir Interactions).
+
+L'utilisation concomitante d'amitriptyline et d'inhibiteurs de MAO peut entraîner un 
+syndrome sérotoninergique (association de symptômes tels qu'agitation, confusion, 
+tremblements, myoclonie et hyperthermie).
+
+Le traitement par l'amitriptyline ne peut être commencé que 14 jours après l'arrêt d'un 
+traitement par inhibiteurs irréversibles non sélectifs de la MAO et au plus tôt un jour 
+après l'arrêt du principe actif moclobémide réversible. Un traitement par inhibiteurs de 
+la MAO peut être instauré 14 jours après l'arrêt de l'amitriptyline.
+
+Maladie hépatique sévère.
+
+
+Interactions :
+------------------
+
+Effets potentiels de l'amitriptyline sur d'autres médicaments
+
+Associations contre-indiquées
+
+Inhibiteurs de MAO (inhibiteurs non sélectifs et sélectifs de la MOA A (moclobémide) et 
+MAO B (sélégiline)): Risque de syndrome sérotoninergique (voir rubrique Contre-indications).
+
+Associations non recommandées
+
+Système sympathomimétique: L'amitriptyline peut potentialiser les effets cardiovasculaires 
+de l'adrénaline, de l'éphédrine, de l'isoprénaline, de la noradrénaline, de la 
+phényléphrine et de la phénylpropanolamine (contenues par ex. dans les produits 
+d'anesthésie locale et générale et dans les décongestionnants nasaux).
+
+Agents bloquant des récepteurs adrénergiques: les antidépresseurs tricycliques peuvent 
+contrer les effets antihypertenseurs des antihypertenseurs à action centrale comme par 
+ex. la guanéthidine, la bétanidine, la réserpine, la clonidine et la méthyldopamine. 
+Il est recommandé de vérifier chaque traitement antihypertenseur pendant la durée du 
+traitement par antidépresseurs tricycliques.
+
+Anticholinergiques: Les antidépresseurs tricycliques peuvent potentialiser les effets 
+de ces principes actifs sur les yeux, le système nerveux central, l'intestin et la 
+vessie; l'utilisation concomitante de ces principes actifs doit être évitée, car ils 
+sont liés à un risque accru d'iléus paralytique, d'hyperpyrexie, etc.
+
+Les médicaments qui allongent l'intervalle QT, par ex. les anti-arythmiques comme la 
+quinidine, les antihistaminiques astémizole et terfénadine, certains antipsychotiques 
+(en particulier le pimozide et le sertindole) cisapride, halofantrine et sotalol, 
+peuvent augmenter le risque d'arythmies ventriculaires lorsqu'ils sont pris avec des 
+antidépresseurs tricycliques.
+
+Ils doivent être utilisés avec prudence lors de l'utilisation concomitante d'amitriptyline 
+et de méthadone en raison d'un risque d'effets cumulés sur l'intervalle QT et du risque 
+accru d'effets cardiovasculaires graves.
+
+En cas d'administration concomitante d'amitriptyline et de diurétiques induisant une 
+hypokaliémie (par ex. furosémide), la prudence est également recommandée.
+
+Thioridazine: L'administration concomitante d'amitriptyline et de thioridazine (substrat 
+de CYP2D6) doit être évitée en raison de l'inhibition du métabolisme de la thioridazine 
+et, en conséquence, du risque accru d'effets.
+
+Tramadol: L'utilisation concomitante de tramadol (substrat de CYP2D6) et d'antidépresseurs 
+tricycliques, comme par ex. l'amitriptyline, augmente le risque d'épilepsie et de syndrome 
+sérotoninergique. En outre, cette association peut inhiber la métabolisation du tramadol 
+en son métabolite actif.
+
+Il a été observé que les antifongiques, comme le fluconazole (inhibiteur du CYP2C9) et la 
+terbinafine (inhibiteur du CYP2D6) peuvent augmenter les concentrations sériques 
+d'amitriptyline et de nortriptyline et la toxicité qui y est associée. Des cas de syncope 
+et de torsades de pointe ont été observés.
+
+Associations nécessitant des mesures de précaution
+
+Dépresseurs du SNC: L'amitriptyline peut augmenter l'effet sédatif de l'alcool, des 
+barbituriques et des autres dépresseurs du système nerveux central.
+
+Effets potentiels d'autres médicaments sur l'amitriptyline
+
+Les antidépresseurs tricycliques (ATC), y compris l'amitriptyline, sont essentiellement 
+métabolisés par les isoenzymes CYP2D6 et CYP2C19 du cytochrome P450 hépatiques, qui sont 
+polymorphes dans la population. Les autres isoenzymes dans le métabolisme de 
+l'amitriptyline sont CYP3A4, CYP1A2 et CYP2C9.
+
+Inhibiteurs de CYP2D6: L'isoenzyme CYP2D6 peut être inhibée par différents médicaments, 
+par ex. les neuroleptiques, les inhibiteurs de recapture de la sérotonine, les bêtabloquants 
+et les antiarythmiques. Le bupropion, la fluoxétine, la paroxétine et la quinidine sont des 
+exemples d'inhibiteurs puissants de CYP2D6. Ces médicaments peuvent ralentir de façon 
+importante le métabolisme des ATC et entraîner une augmentation significative de leurs 
+concentrations plasmatiques. Envisager de contrôler les concentrations plasmatiques des ATC, 
+dès lors qu'un ATC doit être administré conjointement à un autre médicament connu comme 
+étant un inhibiteur du CYP2D6. Des ajustements posologiques de l'amitriptyline peuvent être 
+nécessaires (voir rubrique Posologie/Mode d'emploi).
+
+Autres inhibiteurs du cytochrome P450: La cimétidine, le méthylphénidate et les inhibiteurs 
+des canaux calciques (par ex. diltiazem et vérapamil) peuvent augmenter la concentration 
+plasmatique des antidépresseurs tricycliques et la toxicité que cela implique.
+
+Les isoenzymes CYP3A4 et CYP1A2 participent dans une moindre mesure à la métabolisation 
+de l'amitriptyline. Il a toutefois été démontré que la fluvoxamine (puissant inhibiteur 
+de CYP1A2) augmentait la concentration plasmatique d'amitriptyline et cette association 
+doit être évitée. Des interactions cliniquement significatives peuvent être attendues 
+avec l'utilisation concomitante d'amitriptyline et de puissants inhibiteurs du CYP3A4 
+tels que le kétoconazole, l'itraconazole et le ritonavir.
+
+Les antidépresseurs tricycliques et les neuroleptiques inhibent mutuellement leur 
+métabolisation; cela peut entraîner un seuil de convulsion plus bas et des crises 
+convulsives. Il peut être nécessaire d'ajuster la posologie de ces médicaments.
+
+Inducteurs du cytochrome P450: La rifampicine, la phénytoïne, les barbituriques, la 
+carbamazépine et le millepertuis (Hypericum perforatum) peuvent accélérer le métabolisme 
+des antidépresseurs tricycliques, ce qui entraîne des concentrations plasmatiques plus 
+basses d'antidépresseurs tricycliques et une diminution de la réponse aux antidépresseurs.
+
+En présence d'éthanol, les concentrations plasmatiques libres d'amitriptyline et les 
+concentrations de nortriptyline étaient augmentées.
+
+Le valproate de sodium et le valpromide peuvent augmenter la concentration plasmatique 
+d'amitriptyline. Par conséquent, une surveillance clinique est recommandée.
