@@ -26,7 +26,7 @@ oneDrug=["atarax", "demetrin", "prazépam", "briviact", "brivaracétam", "abilif
 
 ATD :
 -----
-Antidépresseurs TCC (tricycliques): Anafranil; Ludiomil; Saroten; Surmontil; Tofranil; Trittico.
+Antidépresseurs TCC (tricycliques): Anafranil; Ludiomil; Saroten; Surmontil; Tofranil; Trittico. --- OK
 
 Antidépresseurs ISRS (inhibiteurs sélectifs de la recapture en sérotonine): Citalopram (Seropram); escitalopram 
 (Cipralex); fluoxétine (Prozac); fluvoxamine (Floxyfral); Deroxat (Paroxétine); Sertraline (Zoloft).
@@ -72,13 +72,17 @@ Les benzodiazépines :
 Benzo: Dormicum, Halcion, Stilnox, Imovane, Sonata, Xanax, Lexotanil, Rohypnol, Temesta, Noctamid, 
 Seresta, Urbanyl, Rivotril, Tranxilium, Valium, Dalmadorm, Demetrin.
 
-Inhibiteurs de la cholinestérase: dopénézil (Ariecpt); galantamine (Reminyl); rivastigmine (Exelon); 
+
+Inhibiteurs de la cholinestérase:
+---------------------------------
+dopénézil (Ariecpt); galantamine (Reminyl); rivastigmine (Exelon); 
 mémantine (Axura)
 
 
 Contre les dyskinésies / Lévodopa + carbidopa :
 -----------------------------------------------
 Duodopa; Carbidopa/Levodopa; Lecapon; Sinemet
+
 
 Contre les dyskinésies / Lévodopa + inhibiteur de la décarboxylase + inhibiteur de la COMT :
 --------------------------------------------------------------------------------------------

@@ -8,7 +8,7 @@ from apsydrug import *
 from aepidrug import *
 from anxidrug import *
 from atddrug import *
-#from drugloop import *
+from drugloop import *
 #import os
 #import subprocess
 
@@ -57,12 +57,10 @@ class Application(Frame):
             anxioDrugLoop(self, drug2)
             atdDrugLoop(self, drug2)
 
-            """
             seroFunc(self, drug3, drug4)
             carbaFunc(self, drug3, drug4)
             lepoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
-            """
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 
