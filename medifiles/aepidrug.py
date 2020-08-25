@@ -3,8 +3,8 @@
 
 
 from tkinter import *
-from listfile import *
-from funcepidrug import *
+from medifiles.listfile import *
+from medifiles.func_pack.funcepidrug import *
 
 
 def antiepiDrugLoop(self, drug2):

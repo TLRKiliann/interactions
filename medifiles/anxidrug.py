@@ -3,8 +3,8 @@
 
 
 from tkinter import *
-from listfile import *
-from funcanxidrug import *
+from medifiles.listfile import *
+from medifiles.func_pack.funcanxidrug import *
 
 
 def anxioDrugLoop(self, drug2):

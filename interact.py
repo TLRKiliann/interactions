@@ -3,14 +3,15 @@
 
 
 from tkinter import *
-from loopfile import *
-from apsydrug import *
-from aepidrug import *
-from anxidrug import *
-from atddrug import *
-from drugloop import *
-#import os
-#import subprocess
+from medifiles.familyloop import *
+from medifiles.apsydrug import *
+from medifiles.aepidrug import *
+from medifiles.anxidrug import *
+from medifiles.atddrug import *
+from medifiles.carbaloop import *
+from medifiles.depaloop import *
+from medifiles.lepoloop import *
+from medifiles.seroloop import *
 
 
 class Application(Frame):

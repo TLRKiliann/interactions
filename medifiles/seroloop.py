@@ -3,8 +3,8 @@
 
 
 from tkinter import *
-from listfile import *
-from interdrugs import *
+from medifiles.listfile import *
+from medifiles.inter_pack.interdrugs import *
 
 
 def seroFunc(self, drug3, drug4):

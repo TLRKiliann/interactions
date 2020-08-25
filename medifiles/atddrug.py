@@ -3,8 +3,8 @@
 
 
 from tkinter import *
-from listfile import *
-from funcatddrug import *
+from medifiles.listfile import *
+from medifiles.func_pack.funcatddrug import *
 
 
 def atdDrugLoop(self, drug2):

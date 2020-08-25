@@ -3,8 +3,8 @@
 
 
 from tkinter import *
-from listfile import *
-from family import *
+from medifiles.listfile import *
+from medifiles.func_pack.funcfamily import *
 
 
 def familyLoop(self, drug1):
