@@ -141,6 +141,18 @@ class Application(Frame):
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
+        try:
+            if os.path.getsize('textualbox.txt'):
+                print("+ File 'textualbox.txt' exist (read)!")
+                self.textBox.delete('0.0', 'end')
+                self.textBox.update()
+                with open('textualbox.txt', 'r') as textfile:
+                    lines = textfile.readlines()
+                    for li in lines:
+                        self.textBox.insert(END, li)
+        except FileNotFoundError as outnote:
+            print("+ Sorry, file 'textualbox.txt' does not exist !", outnote)
+        """
         self.textBox.insert(INSERT, "You can choose from the following families or medications :\n\n"
             "Available class of drugs : \n"
             "antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs,\n" 
@@ -211,6 +223,7 @@ class Application(Frame):
             "le plasma sanguin en fonction du temps. En pratique, la concentration de médicament est\n"
             "mesurée à certains points discrets dans le temps et la règle du trapèze est utilisée\n"
             "pour estimer l'AUC.\n\n")
+        """
         self.textBox.pack(padx=20, pady=20)
         self.pack()
 

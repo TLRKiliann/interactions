@@ -1,0 +1,74 @@
+BIENVENUE DANS INTERACT !
+
+Médicaments disponibles par classe : 
+antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs, 
+somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens
+
+Médicaments disponibles par interactions :
+
+Antipsychotiques : 
+------------------------
+abilify, aripiprazol
+clopin = clozapine = leponex
+clopixol = zuclopenthixol
+dépakine = valproate
+dogmatil = sulpride
+entumine = clotiapine
+fluanxol = flupentixol
+haldol = halopéridol
+invega = palipéridone
+nozinan = levomepromazine
+olanzapine = zyprexa
+risperdal = risperdone
+seroquel = sequase = quétiapine
+solian = amisulpride
+tiapridal = tiapride
+
+Antiépileptiques :
+-----------------------
+briviact = brivaracétam =
+carbamazépine = tégrétol
+ethosuximide = pétinimid
+fycompa = pérampanel
+gabitril
+inovelon = rufinamide
+keppra = levetiracetam
+lamictal = lamotrigine
+lyrica = prégabaline
+mysoline = primidone
+neurontin = gabapentine
+phénobarbital = aphénylbarbite
+phénytoïne
+sabril = vigabatrin
+taloxa = felbamate
+topamax = topiramate
+trileptal = oxcarbazépine 
+vimpat = lacosamide
+zonegran = zonisamide
+
+Anxiolytiques :
+--------------------
+atarax = dichlorhydrate d'hydroxyzine
+demetrin = prazépam
+lexotanil = bromazépam
+Rivotril = clonazépam
+Rohypnol
+Seresta = oxazépam
+Temesta = lorazépam
+Traxilium = clorazépate
+Urbanyl
+Valium
+Xanax
+
+Cmax :
+La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 
+compartiment ou une zone d'essai spécifique du corps après l'administration du médicament
+et avant l'administration d'une deuxième dose. Il s'agit d'une mesure standard en 
+pharmacocinétique.
+
+AUC :
+Dans le domaine de la pharmacocinétique, l'aire sous la courbe (AUC) est l'intégrale
+définie d'une courbe qui décrit la variation de la concentration d'un médicament dans
+le plasma sanguin en fonction du temps. En pratique, la concentration de médicament est
+mesurée à certains points discrets dans le temps et la règle du trapèze est utilisée
+pour estimer l'AUC.
