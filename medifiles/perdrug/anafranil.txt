@@ -1,0 +1,199 @@
+Anafranil (clomipramine) :
+================
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité à la clomipramine ou à un excipient d'Anafranil ou hypersensibilité 
+croisée aux antidépresseurs tricycliques du groupe des dibenzoazépines.
+
+Les antidépresseurs tricycliques ne doivent pas être associés à des antiarythmiques 
+comme la quinidine et la propafénone qui sont des inhibiteurs puissants du CYP2D6.
+
+Anafranil ne doit pas être associé à un IMAO non sélectif irréversible ou sélectif 
+irréversible ou être administré au cours des 2 semaines précédant ou suivant un tel 
+traitement (cf. «Interactions»). Un traitement concomitant par un inhibiteur 
+sélectif réversible de la MAO-A comme le moclobémide ou par un IMAO non sélectif 
+réversible comme le linézolide est également contre-indiqué (cf. «Interactions»).
+
+L'administration d'Anafranil est également contre-indiquée en cas d'infarctus du 
+myocarde récent ainsi que lors du syndrome du QTc long congénital.
+
+Anafranil ne doit pas être administré lors de
+
+    intoxications aiguës à des médicaments dépresseurs du système nerveux central 
+    comme les hypnotiques, les analgésiques, les psychotropes ou l'alcool,
+    rétention urinaire aiguë,
+    délires aigus,
+    glaucome à angle étroit non traité,
+    hypertrophie de la prostate avec un reste post-mictionnel,
+    sténose du pylore,
+    iléus paralytique.
+
+
+Interactions :
+------------------
+
+Interactions pharmacodynamiques
+Inhibiteurs de la monoaminooxydase (MAO)
+
+Après traitement par un IMAO non sélectif irréversible ou sélectif irréversible, 
+il est absolument indispensable d'attendre 2 semaines au moins avant de commencer 
+l'administration d'Anafranil, sous peine de voir apparaître des symptômes graves, 
+p.ex. crise hypertensive, hyperpyrexie, ainsi que des symptômes associés au 
+syndrome sérotoninergique tels que myoclonies, agitation, convulsions, délire et 
+coma. Les mêmes précautions s'imposent quand un IMAO est administré après un 
+traitement par Anafranil. Dans les deux cas, le traitement par Anafranil, resp. 
+par un IMAO, débutera par des doses progressives faibles et en surveillant l'effet 
+(cf. «Contre-indications»).
+
+On dispose d'informations indiquant qu'Anafranil peut être administré 24 h déjà 
+après un inhibiteur réversible de la MAO-A tel le moclobémide. Il est toutefois 
+indispensable de respecter la période sans médicament de deux semaines lorsque 
+que l'on veut passer à un inhibiteur de la MAO-A après un traitement par Anafranil.
+
+L'antibiotique linézolide est un IMAO non sélectif réversible et ne doit donc 
+pas être utilisé chez les patients traités par la clomipramine.
+Inhibiteurs sélectifs de la recapture de la sérotonine (SSRI)
+
+En cas d'administration concomitante, un effet additif sur le système 
+sérotoninergique est possible.
+Substances sérotoninergiques
+
+L'apparition d'un syndrome sérotoninergique est possible lorsque la clomipramine 
+est associée à des médicaments sérotoninergiques comme les inhibiteurs sélectifs 
+de la recapture de la sérotonine (SSRI), les inhibiteurs de la recapture de la 
+sérotonine et de la noradrénaline (SNaRI), les antidépresseurs tricycliques ou le 
+lithium (cf. «Posologie/Mode d'emploi» et «Mises en garde et précautions»). Dans 
+le cas de la fluoxétine, une période de sevrage thérapeutique d'une durée de deux 
+à trois semaines avant et après le traitement par cette substance est recommandée.
+Inhibiteurs des neurones adrénergiques
+
+Anafranil peut réduire ou supprimer l'effet antihypertenseur de la guanéthidine, 
+la bétanidine, la réserpine, la clonidine et l'alpha-méthyldopa. Chez les patients 
+devant suivre un traitement hypotenseur, il faudra donc avoir recours à des 
+antihypertenseurs dont le mode d'action est différent (p.ex. vasodilatateurs, 
+bêtabloquants).
+Sympathomimétiques
+
+Les effets cardiovasculaires de l'adrénaline, la noradrénaline, l'isoprénaline, 
+l'éphédrine et la phényléphrine (p.ex. dans les anesthésiques locaux) peuvent 
+être potentialisés par Anafranil.
+Dépresseurs du système nerveux central
+
+Les antidépresseurs tricycliques peuvent augmenter les effets de l'alcool et 
+d'autres dépresseurs du système nerveux central (p.ex. opiacés, barbituriques, 
+benzodiazépines ou anesthésiques généraux).
+Anticholinergiques
+
+Les antidépresseurs tricycliques peuvent potentialiser l'effet de ces médicaments 
+(p.ex. phénothiazine, antiparkinsoniens, antihistaminiques, atropine, bipéridène) 
+au niveau de l'oeil, des intestins et de la vessie. Il y a risque d'hyperthermie.
+Diurétiques
+
+Le traitement concomitant par des diurétiques peut conduire à une hypokaliémie, 
+celle-ci augmentant le risque de prolongation de l'intervalle QTc et de torsades 
+de pointes. C'est pourquoi l'hypokaliémie en particulier doit être traitée avant 
+l'instauration du traitement par Anafranil.
+
+En cas d'apparition éventuelle d'autres troubles électrolytiques, en particulier 
+d'hypomagnésiémie, une correction de ces troubles pourrait être nécessaire avant 
+d'instaurer un traitement par Anafranil.
+Interactions pharmacocinétiques
+
+Anafranil (clomipramine) est éliminé principalement sous forme métabolisée. La 
+principale voie métabolique est la déméthylation en N-desméthylclomipramine, un 
+métabolite actif, suivie par l'hydroxylation et la conjugaison de la 
+N-desméthylclomipramine et de la substance-mère. Plusieurs cytochromes P450 
+participent à la déméthylation, en particulier les CYP3A4, CYP2C19 et CYP1A2. 
+L'élimination des deux substances actives a lieu par hydroxylation, 
+transformation catalysée par le CYP2D6.
+
+L'administration concomitante d'inhibiteurs du CYP2D6 peut conduire à une 
+augmentation de la concentration des deux principes actifs; allant jusqu'à un 
+facteur 3 chez les patients présentant un phénotype de métabolisation extensive 
+débrisoquine/spartéine, ces patients devenant des métaboliseurs lents.
+L'administration simultanée d'inhibiteurs des CYP1A2, CYP2C19 et CYP3A4 conduit 
+probablement à une augmentation de la concentration de clomipramine et à une 
+baisse de la concentration de N-desméthylclomipramine, ce qui implique que 
+l'effet pharmacologique n'est pas forcément modifié.
+
+    Les IMAO comme le moclobémide, qui sont eux aussi des inhibiteurs in vivo 
+    puissants du CYP2D6, ne doivent pas être administrés en même temps que la 
+    clomipramine (cf. «Contre-indications»).
+    Les antidépresseurs tricycliques ne doivent pas être associés à des 
+    antiarythmiques comme la quinidine et la propafénone qui sont des inhibiteurs 
+    puissants du CYP2D6.
+    Les SSRI comme la fluoxétine, la paroxétine ou la sertraline, qui sont des 
+    inhibiteurs du CYP2D6, ainsi que les SSRI comme la fluvoxamine, inhibiteur 
+    d'autres enzymes du CYP – entre autres CYP1A2 et CYP2C19 – peuvent également 
+    augmenter le taux plasmatique de clomipramine, conduisant aux effets 
+    indésirables correspondants. En cas d'administration concomitante de 
+    fluvoxamine, le niveau d'équilibre (steady state) a révélé un taux sérique 
+    de clomipramine environ 4 fois supérieur et un taux de N-desméthylclomipramine 
+    réduit de moitié environ (cf. «Posologie/Mode d'emploi» et «Mises en garde et 
+    précautions»).
+    Le traitement concomitant par des neuroleptiques, p.ex. phénothiazines, peut 
+    conduire à des taux plasmatiques accrus d'antidépresseurs tricycliques, à un 
+    abaissement du seuil épileptogène et à des crises convulsives. L'association 
+    de thioridazine peut provoquer des troubles graves du rythme cardiaque.
+    La terbinafine orale, un puissant inhibiteur du CYP2D6, peut entraîner une 
+    augmentation de l'exposition et une accumulation de la clomipramine et des 
+    métabolites N-déméthylés de celle-ci. Un ajustement de la dose peut donc 
+    s'avérer nécessaire en cas d'administration simultanée d'Anafranil et de 
+    terbinafine.
+    L'association de cimétidine, un antagoniste des récepteurs histaminiques H2 
+    (inhibiteur de plusieurs enzymes P450, entre autres CYP2D6 et CYP3A4), peut 
+    augmenter le taux plasmatique des antidépresseurs tricycliques; c'est pourquoi 
+    la posologie de l'antidépresseur doit être réduite.
+    Aucune interaction n'a été détectée entre Anafranil (25 mg par jour) et des 
+    contraceptifs oraux pris à long terme (15 ou 30 µg d'éthinylestradiol par jour). 
+    Selon les connaissances actuelles, les estrogènes ne provoquent aucune 
+    inhibition du CYP2D6, l'enzyme le plus important dans le processus d'élimination 
+    de la clomipramine; c'est pourquoi aucune interaction n'est attendue. Lors de la 
+    prise simultanée d'une dose élevée d'estrogène (50 µg par jour) et de 
+    l'antidépresseur tricyclique imipramine, une augmentation de la biodisponibilité 
+    de l'imipramine, un renforcement de l'effet thérapeutique, ainsi qu'un 
+    accroissement des effets indésirables ont été observés. La signification de ces 
+    observations n'est cependant pas éclaircie pour la clomipramine et une dose 
+    moins élevée d'estrogène. Lors de l'administration d'une dose élevée d'estrogène 
+    (50 µg par jour), il est recommandé de surveiller la réponse aux antidépresseurs 
+    tricycliques et, le cas échéant, d'adapter la posologie.
+    Il est également possible que le méthylphénidate augmente la concentration des 
+    antidépresseurs tricycliques par l'inhibition de leur métabolisme; une 
+    réduction de la dose de l'antidépresseur tricyclique peut s'avérer nécessaire.
+    L'administration concomitante du valproate et de la clomipramine peut inhiber 
+    le métabolisme du CYP2C et/ou l'enzyme UGT et ainsi augmenter le taux sérique 
+    de la clomipramine et de la desméthylclomipramine.
+    L'administration concomitante d'Anafranil et de pamplemousse, de jus de 
+    pamplemousse ou de jus d'airelles peut modifier la concentration plasmatique de 
+    la clomipramine.
+    Quelques antidépresseurs tricycliques peuvent renforcer l'action anticoagulante 
+    des dérivés coumariniques, p.ex. warfarine, probablement en inhibant le 
+    métabolisme du CYP2C9. On ne dispose d'aucun indice révélant une inhibition par 
+    la clomipramine du métabolisme des anticoagulants comme la warfarine. Toutefois, 
+    pour cette classe de médicaments, une surveillance étroite de la prothrombine 
+    plasmatique est recommandée. L'administration simultanée de substances qui 
+    induisent les enzymes du cytochrome P450, en particulier le CYP3A4, CYP2C19 
+    et/ou CYP1A2, peuvent accélérer le métabolisme de la clomipramine et diminuer 
+    l'efficacité d'Anafranil.
+    Les inducteurs du CYP3A4 et du CYP2C19 comme la rifampicine ou des 
+    anticonvulsivants (p.ex. les barbituriques, la carbamazépine, le phénobarbital 
+    et la phénytoïne) peuvent diminuer la concentration plasmatique de la 
+    clomipramine.
+    Les inducteurs du CYP1A2 (p.ex. la nicotine/composants de la fumée de cigarette) 
+    diminuent la concentration plasmatique d'antidépresseurs tricycliques. Chez les 
+    fumeurs de cigarette, les concentrations plasmatiques à l'état d'équilibre 
+    atteignaient la moitié de celle chez les non-fumeurs (pas de modification de la 
+    concentration plasmatique de la N-desméthyl-clomipramine). La clomipramine est 
+    également un inhibiteur in-vitro (Ki=2.2 µM) et in-vivo de l'activité du CYP2D6 
+    (oxydation spartéine), et peut donc entraîner une hausse des concentrations de 
+    substances administrées en même temps, qui sont dégradées principalement par 
+    le CYP2D chez les métaboliseurs rapides.
+    L'administration concomitante d'une résine échangeuse d'ions telle que la 
+    cholestyramine ou le colestipol peut diminuer le taux plasmatique de la 
+    clomipramine. Il est recommandé d'espacer les prises de clomipramine et de 
+    résine, en administrant la clomipramine soit 2 heures avant, soit 4 à 6 heures 
+    après la prise de la résine échangeuse d'ions.
+    L'administration concomitante d'Anafranil et de millepertuis (Hypericum 
+    perforatum) peut diminuer la concentration plasmatique de la clomipramine.

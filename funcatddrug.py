@@ -25,16 +25,48 @@ def atdDrug1(self):
 
 def atdDrug2(self):
     """
-    To reach file ludiomil.txt
+    To reach file saroten.txt
     """
     try:
-        if os.path.getsize('./medifiles/perdrug/ludiomil.txt'):
-            print("+ File 'ludiomil.txt' exist (read)!")
+        if os.path.getsize('./medifiles/perdrug/saroten.txt'):
+            print("+ File 'saroten.txt' exist (read)!")
             self.textBox.delete('0.0', 'end')
             self.textBox.update()
-            with open('./medifiles/perdrug/ludiomil.txt', 'r') as textfile:
+            with open('./medifiles/perdrug/saroten.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
-        print("+ Sorry, file 'ludiomil.txt' does not exist !", outnote)
+        print("+ Sorry, file 'saroten.txt' does not exist !", outnote)
+
+def atdDrug3(self):
+    """
+    To reach file surmontil.txt
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/surmontil.txt'):
+            print("+ File 'surmontil.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/surmontil.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'surmontil.txt' does not exist !", outnote)
+
+def atdDrug4(self):
+    """
+    To reach file trittico.txt
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/trittico.txt'):
+            print("+ File 'trittico.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/trittico.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'trittico.txt' does not exist !", outnote)
