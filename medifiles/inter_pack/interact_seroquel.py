@@ -118,3 +118,17 @@ def importSeroPheny(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (seroquel + risperdal)
+def importSeroRisp(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/sero_risp.txt'):
+            print("+ File 'sero_risp.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/sero_risp.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'sero_risp.txt' does not exist !", outnote)
