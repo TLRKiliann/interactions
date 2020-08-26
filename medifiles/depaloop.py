@@ -4,7 +4,7 @@
 
 from tkinter import *
 from medifiles.listfile import *
-from medifiles.inter_pack.interdrugs import *
+from medifiles.inter_pack.interact_depakine import *
 
 
 def depaFunc(self, drug3, drug4):

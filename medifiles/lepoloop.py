@@ -4,7 +4,7 @@
 
 from tkinter import *
 from medifiles.listfile import *
-from medifiles.inter_pack.interdrugs import *
+from medifiles.inter_pack.interact_leponex import *
 
 
 def lepoFunc(self, drug3, drug4):
@@ -80,3 +80,5 @@ def lepoFunc(self, drug3, drug4):
                 importLepoCoag(self)
             else:
                 print("Loop to search drug3 and drug4...")
+                importNoDrugs(self)
+                
