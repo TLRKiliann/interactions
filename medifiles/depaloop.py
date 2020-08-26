@@ -38,5 +38,4 @@ def depaFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importDepakOh(self)
             else:
-                print("Loop to search drug3 and drug4...")
-                importNoDrugs(self)
+                print("Loop to search depakine and interactions...")

@@ -56,5 +56,4 @@ def seroFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importSeroRisp(self)
             else:
-                print("Loop to search drug3 and drug4...")
-                importNoDrugs(self)
+                print("Loop to search seroquel and interactions...")

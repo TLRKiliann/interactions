@@ -79,6 +79,5 @@ def lepoFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importLepoCoag(self)
             else:
-                print("Loop to search drug3 and drug4...")
-                importNoDrugs(self)
+                print("Loop to search leponex and interactions...")
                 

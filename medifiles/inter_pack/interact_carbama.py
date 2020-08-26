@@ -188,6 +188,3 @@ def importCarbaAntipsy(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_neuro.txt' does not exist !", outnote)
-
-def importNoDrugs(self):
-    self.textBox.insert(INSERT, "There is no information about this interaction !")
