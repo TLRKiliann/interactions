@@ -127,3 +127,4 @@ def carbaFunc(self, drug3, drug4):
                 importCarbaAntipsy(self)
             else:
                 print("Loop to search drug3 and drug4...")
+                importNoDrugs(self)

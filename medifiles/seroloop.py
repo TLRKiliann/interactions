@@ -57,3 +57,4 @@ def seroFunc(self, drug3, drug4):
                 importSeroRisp(self)
             else:
                 print("Loop to search drug3 and drug4...")
+                importNoDrugs(self)

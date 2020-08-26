@@ -7,7 +7,7 @@ import os
 import subprocess
 
 
-# Display text in textbox from medifiles files (dépakine + mae)
+# Display text in textbox from medifiles/interdrug (dépakine + mae)
 def importDepakMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_mae.txt'):
@@ -21,7 +21,7 @@ def importDepakMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_mae.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (dépakine + neuro)
+# Display text in textbox from medifiles/interdrug (dépakine + neuro)
 def importDepakNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_neuro.txt'):
@@ -35,7 +35,7 @@ def importDepakNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_neuro.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (dépakine + atd)
+# Display text in textbox from medifiles/interdrug (dépakine + atd)
 def importDepakAtd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_atd.txt'):
@@ -49,7 +49,7 @@ def importDepakAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_atd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (dépakine + bzd)
+# Display text in textbox from medifiles/interdrug (dépakine + bzd)
 def importDepakBzd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_bzd.txt'):
@@ -63,7 +63,7 @@ def importDepakBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_bzd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (dépakine + OH)
+# Display text in textbox from medifiles/interdrug (dépakine + OH)
 def importDepakOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_oh.txt'):
@@ -76,3 +76,6 @@ def importDepakOh(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_oh.txt' does not exist !", outnote)
+
+def importNoDrugs(self):
+    self.textBox.insert(INSERT, "There is no information about this interaction !")

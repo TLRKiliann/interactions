@@ -7,7 +7,7 @@ import os
 import subprocess
 
 
-# Display text in textbox from medifiles files (leponex + carbamazépine)
+# Display text in textbox from medifiles/interdrug (leponex + carbamazépine)
 def importLepoCarba(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_carba.txt'):
@@ -21,7 +21,7 @@ def importLepoCarba(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_carba.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (carbamazépine + ipp)
+# Display text in textbox from medifiles/interdrug (carbamazépine + ipp)
 def importLepoIpp(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_ipp.txt'):
@@ -35,7 +35,7 @@ def importLepoIpp(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_ipp.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + atd)
+# Display text in textbox from medifiles/interdrug (leponex + atd)
 def importLepoAtd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_atd.txt'):
@@ -49,7 +49,7 @@ def importLepoAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + atb)
+# Display text in textbox from medifiles/interdrug (leponex + atb)
 def importLepoAtb(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_atb.txt'):
@@ -63,7 +63,7 @@ def importLepoAtb(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atb.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + antihistaminique)
+# Display text in textbox from medifiles/interdrug (leponex + antihistaminique)
 def importLepoAntiHist(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_antihist.txt'):
@@ -77,7 +77,7 @@ def importLepoAntiHist(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_antihist.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + mae)
+# Display text in textbox from medifiles/interdrug (leponex + mae)
 def importLepoMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_mae.txt'):
@@ -91,7 +91,7 @@ def importLepoMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_mae.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + neuro)
+# Display text in textbox from medifiles/interdrug (leponex + neuro)
 def importLepoNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_neuro.txt'):
@@ -105,7 +105,7 @@ def importLepoNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_neuro.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + bzd)
+# Display text in textbox from medifiles/interdrug (leponex + bzd)
 def importLepoBzd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_bzd.txt'):
@@ -119,7 +119,7 @@ def importLepoBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_bzd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + OH)
+# Display text in textbox from medifiles/interdrug (leponex + OH)
 def importLepoOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_oh.txt'):
@@ -133,7 +133,7 @@ def importLepoOh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_oh.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + méthadone)
+# Display text in textbox from medifiles/interdrug (leponex + méthadone)
 def importLepoMeOH(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_meoh.txt'):
@@ -147,7 +147,7 @@ def importLepoMeOH(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_meoh.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + lithium)
+# Display text in textbox from medifiles/interdrug (leponex + lithium)
 def importLepoLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_lith.txt'):
@@ -161,7 +161,7 @@ def importLepoLith(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_lith.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (leponex + coagulant)
+# Display text in textbox from medifiles/interdrug (leponex + coagulant)
 def importLepoCoag(self):
     try:
         if os.path.getsize('./medifiles/interdrug/lepo_coagul.txt'):
@@ -177,4 +177,3 @@ def importLepoCoag(self):
 
 def importNoDrugs(self):
     self.textBox.insert(INSERT, "There is no information about this interaction !")
-

@@ -7,7 +7,7 @@ import os
 import subprocess
 
 
-# Display text in textbox from medifiles files (seroquel + carabamazepine)
+# Display text in textbox from medifiles/interdrug (seroquel + carabamazepine)
 def importSeroCarba(self):
     try:
         if os.path.getsize('./medifiles/interdrug/carba_sero.txt'):
@@ -21,7 +21,7 @@ def importSeroCarba(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + depakine)
+# Display text in textbox from medifiles/interdrug (seroquel + depakine)
 def importSeroDepak(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_depak.txt'):
@@ -35,7 +35,7 @@ def importSeroDepak(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_depak.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + érythromicine)
+# Display text in textbox from medifiles/interdrug (seroquel + érythromicine)
 def importSeroEry(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_erythro.txt'):
@@ -49,7 +49,7 @@ def importSeroEry(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_erythro.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + kétoconazol)
+# Display text in textbox from medifiles/interdrug (seroquel + kétoconazol)
 def importSeroKeto(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_keto.txt'):
@@ -63,7 +63,7 @@ def importSeroKeto(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_keto.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + lithium)
+# Display text in textbox from medifiles/interdrug (seroquel + lithium)
 def importSeroLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_lith.txt'):
@@ -77,7 +77,7 @@ def importSeroLith(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_lith.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + MeOH)
+# Display text in textbox from medifiles/interdrug (seroquel + MeOH)
 def importSeroMeoh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_metha.txt'):
@@ -91,7 +91,7 @@ def importSeroMeoh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_metha.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + OH)
+# Display text in textbox from medifiles/interdrug (seroquel + OH)
 def importSeroOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_oh.txt'):
@@ -105,7 +105,7 @@ def importSeroOh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_oh.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles files (seroquel + phénytoïne)
+# Display text in textbox from medifiles/interdrug (seroquel + phénytoïne)
 def importSeroPheny(self):
     try:
         if os.path.getsize('./medifiles/interdrug/sero_pheny.txt'):
@@ -118,3 +118,6 @@ def importSeroPheny(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_pheny.txt' does not exist !", outnote)
+
+def importNoDrugs(self):
+    self.textBox.insert(INSERT, "There is no information about this interaction !")
