@@ -7,7 +7,7 @@ import os
 import subprocess
 
 
-def antipsyDrug2(self):
+def antipsyDrug1(self):
     """
     Per drug leponex
     """
@@ -22,6 +22,22 @@ def antipsyDrug2(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'leponex.txt' does not exist !", outnote)
+
+def antipsyDrug2(self):
+    """
+    Per drug leponex
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/prazine.txt'):
+            print("+ File 'prazine.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/prazine.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'prazine.txt' does not exist !", outnote)
 
 def antipsyDrug3(self):
     """

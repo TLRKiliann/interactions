@@ -9,7 +9,8 @@ Médicaments disponibles par interactions :
 
 Antipsychotiques : 
 ------------------------
-abilify, aripiprazol
+abilify = aripiprazol
+chlorpromazine = prazine
 clopin = clozapine = leponex
 clopixol = zuclopenthixol
 dépakine = valproate
@@ -29,7 +30,6 @@ Antiépileptiques :
 -----------------------
 briviact = brivaracétam
 carbamazépine = tégrétol
-chlorpromazine = prazine
 ethosuximide = pétinimid
 fycompa = pérampanel
 gabitril

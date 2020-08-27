@@ -12,6 +12,9 @@ def antipsyDrugLoop(self, drug2):
     for i in oneDrug:
         if i == "clopin" or i == "leponex" or i == "clozapine":
             if drug2 == i:
+                antipsyDrug1(self)
+        elif i == "prazine" or i == "chlorpromazine":
+            if drug2 == i:
                 antipsyDrug2(self)
         elif i == "clopixol" or i == "zuclopenthixol":
             if drug2 == i:
