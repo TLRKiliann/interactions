@@ -14,8 +14,8 @@ def depaFunc(self, drug3, drug4):
         """
         if i == "dépakine" or i == "valproate":
             if (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
-                drug4 == "anticoagulants" or drug3 == "anticoag" or \
-                drug4 == "anticoag"):
+                drug4 == "anticoagulants" or drug3 == "ac" or \
+                drug4 == "ac"):
                 print("+ Interactions !!!")
                 importDepakAnticoag(self)
 
@@ -76,7 +76,7 @@ def depaFunc(self, drug3, drug4):
                 importDepakTopadia(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
                 drug4 == "neuroleptiques" or drug3 == "neuro" or \
-                drug4 == "neuro"):
+                drug3 == "antipsy" or drug4 == "neuro" or drug4 == "antipsy"):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
@@ -115,8 +115,8 @@ def depaFunc(self, drug3, drug4):
                 importDepakAtb(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "contraceptifs" or \
-                drug4 == "contraceptifs" or drug3 == "contracep" or \
-                drug4 == "contracep"):
+                drug4 == "contraceptifs" or drug3 == "cc" or \
+                drug4 == "cc"):
                 print("+ Interactions !!!")
                 importDepakContracep(self)
             else:
