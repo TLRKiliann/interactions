@@ -113,5 +113,11 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "atb"):
                 print("+ Interactions !!!")
                 importDepakAtb(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "contraceptifs" or \
+                drug4 == "contraceptifs" or drug3 == "contracep" or \
+                drug4 == "contracep"):
+                print("+ Interactions !!!")
+                importDepakContracep(self)
             else:
                 print("Loop to search depakine and interactions...")
