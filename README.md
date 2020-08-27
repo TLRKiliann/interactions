@@ -11,7 +11,7 @@ The application includes several search modes, you can find :
 The main file to launch this app is :
 - interact.py
 
-To launch this file, use :
+To launch this file, use : \
   python3 interact.py
 
 Thanks to use it.
