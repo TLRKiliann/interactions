@@ -81,6 +81,11 @@ def depaFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
 
+            elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
+                drug4 == "lithium"):
+                print("+ Interactions !!!")
+                importDepakLith(self)
+
             elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
                 drug4 == "benzodiazépines" or drug3 == "bzd" or \
                 drug4 == "bzd"):
