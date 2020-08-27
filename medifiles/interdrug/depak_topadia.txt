@@ -4,3 +4,5 @@ L'administration concomitante de valproate et de topiramate (topamax) ou d'acét
 (diamox) a été associée à l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller 
 soigneusement l'apparition de symptômes d'encéphalopathie hyperammoniémique chez les 
 patients traités par ces 2 médicaments.
+
+(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)

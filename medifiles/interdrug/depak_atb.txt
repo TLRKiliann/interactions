@@ -11,3 +11,5 @@ carbapénèmes chez des patients stabilisés avec l'acide valproïque devrait ê
 (voir la rubrique «Mises en garde et précautions»). 
 Si le traitement avec ces antibiotiques ne peut pas être évité, un contrôle accru des 
 taux plasmatiques d'acide valproïque doit être effectué.
+
+(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)

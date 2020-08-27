@@ -11,3 +11,5 @@ correspondant. Les interactions suivantes sont particulièrement importantes:
 Depakine Chrono peut potentialiser l'effet d'autres neuropsychotropes, tels que neuroleptiques, 
 IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique et une adaptation 
 éventuelle du traitement.
+
+(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)

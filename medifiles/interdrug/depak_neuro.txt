@@ -20,3 +20,5 @@ L'acide valproïque peut diminuer les concentrations plasmatiques de l'olanzapin
 
 L'association de valproate de sodium/acide valproïque et de quétiapine peut augmenter le 
 risque de neutropénie/leucopénie.
+
+(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)
