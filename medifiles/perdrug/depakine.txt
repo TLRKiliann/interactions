@@ -1,6 +1,9 @@
 Dépakine (valproate) :
 ==============
 
+Contre-indications :
+--------------------------
+
 Le valproate est un tératogène entraînant un risque élevé de malformations congénitales 
 et de troubles neuro-développementaux chez les enfants exposés in utero.
 
@@ -19,6 +22,7 @@ Contre-indications :
 --------------------------
 
 Depakine Chrono est contre-indiqué dans les cas suivants:
+
 Traitement de l'épilepsie
 
     Depakine Chrono est contre-indiqué chez les femmes enceintes sauf si aucune alternative 
@@ -36,16 +40,22 @@ Traitement et prévention des troubles bipolaires
     Depakine Chrono est contre-indiqué chez les femmes en âge de procréer sauf si toutes les 
     conditions du programme de prévention de la grossesse sont remplies (voir les rubriques 
     «Mises en garde et précautions» et «Grossesse/Allaitement»).
+
     Hépatite aiguë.
+    
     Hépatite chronique.
+    
     Antécédents chez le patient ou dans l'anamnèse familiale d'hépatites sévères, 
     médicamenteuses notamment.
+    
     Hypersensibilité connue au valproate de sodium ou à d'autres composants du médicament.
     Porphyrie hépatique.
+    
     Patients connus pour avoir des maladies mitochondriales causées par des mutations du gène 
     nucléaire codant pour l'enzyme mitochondriale polymérase gamma (POLG, par exemple dans 
     le syndrome d'Alpers-Huttenlocher) ainsi que chez les enfants de moins de 2 ans qui sont 
     suspectés d'avoir une maladie liée au gène POLG (voir «Mises en garde et précautions»).
+    
     Patients souffrant de troubles connus du cycle de l'urée (voir «Mises en garde et 
     précautions»).
 
