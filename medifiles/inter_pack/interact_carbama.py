@@ -188,3 +188,17 @@ def importCarbaAntipsy(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'carba_neuro.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (carbamazépine + seroquel)
+def importCarbaSero(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/carba_sero.txt'):
+            print("+ File 'carba_sero.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/carba_sero.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'carba_sero.txt' does not exist !", outnote)

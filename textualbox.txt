@@ -1,6 +1,7 @@
 BIENVENUE DANS INTERACT !
 
-Médicaments disponibles par classe : 
+Médicaments disponibles par classe :
+
 antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs, 
 somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens
 
@@ -26,8 +27,9 @@ tiapridal = tiapride
 
 Antiépileptiques :
 -----------------------
-briviact = brivaracétam =
+briviact = brivaracétam
 carbamazépine = tégrétol
+chlorpromazine = prazine
 ethosuximide = pétinimid
 fycompa = pérampanel
 gabitril
@@ -51,14 +53,14 @@ Anxiolytiques :
 atarax = dichlorhydrate d'hydroxyzine
 demetrin = prazépam
 lexotanil = bromazépam
-Rivotril = clonazépam
-Rohypnol
-Seresta = oxazépam
-Temesta = lorazépam
-Traxilium = clorazépate
-Urbanyl
-Valium
-Xanax
+rivotril = clonazépam
+rohypnol
+seresta = oxazépam
+temesta = lorazépam
+traxilium = clorazépate
+urbanyl = clobazam
+valium = diazépam
+xanax = alprazolam
 
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 

@@ -78,7 +78,7 @@ def carbaFunc(self, drug3, drug4):
                 drug4 == "seroquel" or drug4 == "sequase" or \
                 drug4 == "quétiapine"):
                 print("+ Interactions !!!")
-                importCarbaAntipsy(self)
+                importCarbaSero(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "clopin" or \
                 drug3 == "leponex" or drug3 == "clozapine" or \
                 drug4 == "clopin" or drug4 == "leponex" or \
@@ -123,6 +123,16 @@ def carbaFunc(self, drug3, drug4):
             elif (drug3 == i or drug4 == i) and (drug3 == "invega" or \
                 drug3 == "palipéridone" or drug4 == "invega" or \
                 drug4 == "palipéridone"):
+                print("+ Interactions !!!")
+                importCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "neuro" or \
+                drug3 == "neuroleptiques" or drug4 == "neuro" or \
+                drug4 == "neuroleptiques"):
+                print("+ Interactions !!!")
+                importCarbaAntipsy(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antipsy" or \
+                drug3 == "antipsychotiques" or drug4 == "antipsy" or \
+                drug4 == "antipsychotiques"):
                 print("+ Interactions !!!")
                 importCarbaAntipsy(self)
             else:

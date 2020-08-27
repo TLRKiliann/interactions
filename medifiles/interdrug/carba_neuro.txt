@@ -1,20 +1,20 @@
 INTERACTIONS CARBAMAZEPINE AVEC NEUROLEPTIQUES !
 
-Dans la littérature, il est mentionné que la prise additionnelle de carbamazépine lors 
-de traitement préexistant par des neuroleptiques peut élever le risque de survenue d'un 
+Dans la littérature, il est mentionné que la prise additionnelle de carbamazépine (tégrétol) 
+lors de traitement préexistant par des neuroleptiques peut élever le risque de survenue d'un 
 syndrome malin des neuroleptiques ou d'un syndrome de Steven-Johnson.
 
-Antipsychotiques: loxapine, olanzapine, quétiapine.
+Antipsychotiques: loxapine, olanzapine (zyprexa), quétiapine (seroquel, sequase).
 
 Substances susceptibles d'augmenter les concentrations plasmatiques d'époxy-10,11-
-carbamazépine :
+carbamazépine (tégrétol):
 
 L'augmentation du taux plasmatique d'époxy-10,11-carbamazépine pouvant causer des effets 
 indésirables (p. ex. vertiges, somnolence, ataxie, diplopie), la posologie de Tégrétol doit 
 être surveillée attentivement et éventuellement ajustée, en cas d'administration simultanée 
 avec les substances suivantes: 
 
-loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque, 
+loxapine, quétiapine, primidone (mysoline), progabide, acide valproïque (dépakine, valproate), 
 valnoctamide et valpromide.
 
 
@@ -24,8 +24,8 @@ La carbamazépine peut abaisser les concentrations plasmatiques de certains méd
 et diminuer leur activité, voire même la supprimer. La posologie des médicaments suivants 
 devra éventuellement être ajustée aux exigences cliniques:
 
-Antipsychotiques: clozapine, halopéridol (haldol), brompéridol, olanzapine (zyprexa), 
-quétiapine (sequase ou seroquel), rispéridone (risperdal), ziprasidone, 
+Antipsychotiques: clozapine (clopin, leponex), halopéridol (haldol), brompéridol, olanzapine 
+(zyprexa), quétiapine (sequase ou seroquel), rispéridone (risperdal), ziprasidone, 
 aripiprazole (abilify), palipéridone (invega).
 
 
