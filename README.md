@@ -9,10 +9,10 @@ The application includes several search modes, you can find :
 - the interactions between 2 drugs by entering their names.
 
 The main file to launch this app is :
-interact.py
+- interact.py
 
 To launch this file, use :
-$ python3 interact.py
+  $ python3 interact.py
 
 Thanks to use it.
 
