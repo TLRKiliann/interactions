@@ -104,3 +104,17 @@ def importDepakOh(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_oh.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (dépakine + ATB)
+def importDepakAtb(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_atb.txt'):
+            print("+ File 'depak_atb.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/depak_atb.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_atb.txt' does not exist !", outnote)

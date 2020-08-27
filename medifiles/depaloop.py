@@ -80,6 +80,17 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "neuro"):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
+                drug4 == "olanzapine" or drug3 == "zyprexa" or \
+                drug4 == "zyprexa"):
+                print("+ Interactions !!!")
+                importDepakNeuro(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "seroquel" or \
+                drug4 == "seroquel" or drug3 == "sequase" or \
+                drug3 == "quétiapine" or drug4 == "sequase" or \
+                drug4 == "quétiapine"):
+                print("+ Interactions !!!")
+                importDepakNeuro(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
                 drug4 == "lithium"):
@@ -97,5 +108,11 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "oh"):
                 print("+ Interactions !!!")
                 importDepakOh(self)
+                
+            elif (drug3 == i or drug4 == i) and (drug3 == "antibiotiques" or \
+                drug4 == "antibiotiques" or drug3 == "atb" or \
+                drug4 == "atb"):
+                print("+ Interactions !!!")
+                importDepakAtb(self)
             else:
                 print("Loop to search depakine and interactions...")
