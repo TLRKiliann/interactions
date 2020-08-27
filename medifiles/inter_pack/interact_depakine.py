@@ -49,6 +49,20 @@ def importDepakNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_neuro.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (dépakine + topamax + diamox)
+def importDepakTopadia(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_topadia.txt'):
+            print("+ File 'depak_topadia.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/depak_topadia.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_topadia.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (dépakine + lithium)
 def importDepakLith(self):
     try:

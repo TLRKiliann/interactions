@@ -68,13 +68,12 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "topamax" or drug3 == "topiramate" or \
                 drug4 == "topiramate"):
                 print("+ Interactions !!!")
-                importDepakMae(self)
+                importDepakTopadia(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "diamox" or \
                 drug4 == "diamox" or drug3 == "acétazolamide" or \
                 drug4 == "acétazolamide"):
                 print("+ Interactions !!!")
-                importDepakMae(self)
-
+                importDepakTopadia(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
                 drug4 == "neuroleptiques" or drug3 == "neuro" or \
                 drug4 == "neuro"):
@@ -108,7 +107,7 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "oh"):
                 print("+ Interactions !!!")
                 importDepakOh(self)
-                
+
             elif (drug3 == i or drug4 == i) and (drug3 == "antibiotiques" or \
                 drug4 == "antibiotiques" or drug3 == "atb" or \
                 drug4 == "atb"):

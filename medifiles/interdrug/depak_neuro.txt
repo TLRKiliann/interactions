@@ -16,12 +16,6 @@ IMAO, antidépresseurs et benzodiazépines, suscitant une surveillance clinique 
 
 L'acide valproïque peut diminuer les concentrations plasmatiques de l'olanzapine.
 
-    Rufinamide (inovelon)
-
-L'acide valproïque peut conduire à une augmentation du taux plasmatique du rufinamide. Cette 
-augmentation dépend de la concentration en acide valproïque. La précaution sera de mise, 
-notamment chez l'enfant, comme cet effet est plus important dans cette population.
-
     Quétiapine (sequase, seroquel)
 
 L'association de valproate de sodium/acide valproïque et de quétiapine peut augmenter le 
