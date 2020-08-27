@@ -7,6 +7,20 @@ import os
 import subprocess
 
 
+# Display text in textbox from medifiles/interdrug (dépakine + anticoag)
+def importDepakAnticoag(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/depak_anticoag.txt'):
+            print("+ File 'depak_anticoag.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/depak_anticoag.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'depak_anticoag.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (dépakine + mae)
 def importDepakMae(self):
     try:

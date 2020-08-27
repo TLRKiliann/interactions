@@ -162,12 +162,13 @@ plasmatique de la nimodipine de 50%.
 Effets des autres médicaments sur l'acide valproïque
 
     Antiépileptiques: Les antiépileptiques avec effet inducteur enzymatique (notamment 
-    phénytoïne, phénobarbital, primidone, carbamazépine) diminuent les concentrations 
-    sériques de l'acide valproïque. En cas d'association, il faut adapter le traitement 
-    en fonction de la réponse clinique et des dosages sanguins.
+    phénytoïne, phénobarbital (aphénylbarbite), primidone (mysoline), carbamazépine (tégrétol) 
+    diminuent les concentrations sériques de l'acide valproïque (dépakine, valproate). En cas 
+    d'association, il faut adapter le traitement en fonction de la réponse clinique et des 
+    dosages sanguins.
 
-    L'association du felbamate et de l'acide valproïque, peut entraîner une diminution de la 
-    clairance de l'acide valproïque de 22% à 50%, et par conséquent une augmentation dose-
+    L'association du felbamate (taloxa) et de l'acide valproïque, peut entraîner une diminution 
+    de la clairance de l'acide valproïque de 22% à 50%, et par conséquent une augmentation dose-
     dépendante de la concentration sérique en acide valproïque. Une surveillance des taux 
     plasmatiques est nécessaire.
 
@@ -182,7 +183,9 @@ Effets des autres médicaments sur l'acide valproïque
 
     Produits ayants une fixation protéique importante: L'administration concomitante de Depakine 
     Chrono et de produits ayant une fixation protéique importante (par exemple acide 
-    acétylsalicylique) peut entraîner une élévation des taux sériques libres de l'acide valproïque.
+    acétylsalicylique (aspirine)) peut entraîner une élévation des taux sériques libres de l'acide 
+    valproïque.
+
     Cimétidine ou Erythromycine: La prise concomitante de cimétidine ou d'érythromycine est 
     susceptible d'augmenter les taux sériques de l'acide valproïque (diminution de son 
     métabolisme hépatique).
@@ -204,15 +207,18 @@ Effets des autres médicaments sur l'acide valproïque
     Il peut s'avérer nécessaire d'ajuster les doses de valproate lors d'administration 
     simultanée de rifampicine.
 
-    Inhibiteurs de protéases: Les inhibiteurs de protéases tels que le lopinavir et le ritonavir 
-    diminuent les niveaux plasmatiques de valproate lorsqu'ils sont co-administrés.
+    Inhibiteurs de protéases: Les inhibiteurs de protéases tels que le lopinavir et le 
+    ritonavir diminuent les niveaux plasmatiques de valproate lorsqu'ils sont co-
+    administrés.
+    
     Cholestyramine: La cholestyramine peut entraîner une diminution du taux plasmatique de 
     valproate en cas de co-administration.
 
     Produits contenant des oestrogènes: Le valproate ne diminue pas l'efficacité des 
     contraceptifs hormonaux, parce que la substance n'a pas d'effet inducteur d'enzyme. 
     Cependant, les œstrogènes et les produits contenant des œstrogènes ont induit une 
-    activité enzymatique UGT in vitro et in vivo. 
+    activité enzymatique UGT in vitro et in vivo.
+
     Les enzymes UGT1A6, UGT1A9 et UGT2B7 contribuent à 40% de la biotransformation de 
     l'acide valproïque. Des études pharmacocinétiques et des publications littéraires 
     ainsi que des études post-commercialisation ont montré que les produits contenant 
@@ -237,7 +243,7 @@ phénomènes de compétition au niveau des sites de fixation albuminique. C'est 
 cas de traitement par antivitamines K, une surveillance accrue du taux de prothrombine devra 
 être effectuée.
 
-L'administration concomitante de valproate et de topiramate ou d'acétazolamide 
-a été associée à l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller 
-soigneusement l'apparition de symptômes d'encéphalopathie hyperammoniémique chez 
-les patients traités par ces 2 médicaments.
+L'administration concomitante de valproate et de topiramate (topamax) ou d'acétazolamide 
+(diamox) a été associée à l'encéphalopathie et/ou à l'hyperammoniémie. Il faut surveiller 
+soigneusement l'apparition de symptômes d'encéphalopathie hyperammoniémique chez les 
+patients traités par ces 2 médicaments.
