@@ -88,7 +88,7 @@ class Application(Frame):
 
         # Label VS
         self.labelbot=Label(self.can, text="VS", font='Times 18 bold', 
-            fg='navy', bg='aquamarine')
+            fg='white', bg='aquamarine')
         self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=10)
 
         # Text entry 4

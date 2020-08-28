@@ -13,7 +13,6 @@ abilify = aripiprazol
 chlorpromazine = prazine
 clopin = clozapine = leponex
 clopixol = zuclopenthixol
-dépakine = valproate
 dogmatil = sulpride
 entumine = clotiapine
 fluanxol = flupentixol
@@ -30,9 +29,9 @@ Antiépileptiques :
 -----------------------
 briviact = brivaracétam
 carbamazépine = tégrétol
+depakine = valproate
 ethosuximide = pétinimid
 fycompa = pérampanel
-gabitril
 inovelon = rufinamide
 keppra = levetiracetam
 lamictal = lamotrigine

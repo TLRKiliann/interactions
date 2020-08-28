@@ -12,7 +12,7 @@ def antiepiDrugLoop(self, drug2):
         if i == "carbamazépine" or i == "tégrétol":
             if drug2 == i:
                 antiepiDrug19(self)
-        elif i == "dépakine" or i == "valproate":
+        elif i == "depakine" or i == "valproate":
             if drug2 == i:
                 antiepiDrug20(self)
         elif i == "ethosuximide" or i == "pétinimid":

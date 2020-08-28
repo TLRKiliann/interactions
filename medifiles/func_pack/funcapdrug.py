@@ -25,7 +25,7 @@ def antipsyDrug1(self):
 
 def antipsyDrug2(self):
     """
-    Per drug leponex
+    Per drug prazine
     """
     try:
         if os.path.getsize('./medifiles/perdrug/prazine.txt'):

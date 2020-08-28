@@ -18,13 +18,11 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "ac"):
                 print("+ Interactions !!!")
                 importDepakAnticoag(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
                 drug4 == "antidépresseurs" or drug3 == "atd" or \
                 drug4 == "atd"):
                 print("+ Interactions !!!")
                 importDepakAtd(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
                 drug4 == "antiépileptiques" or drug3 == "mae" or \
                 drug4 == "mae"):
@@ -90,30 +88,25 @@ def depaFunc(self, drug3, drug4):
                 drug4 == "quétiapine"):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
                 drug4 == "lithium"):
                 print("+ Interactions !!!")
                 importDepakLith(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
                 drug4 == "benzodiazépines" or drug3 == "bzd" or \
                 drug4 == "bzd"):
                 print("+ Interactions !!!")
                 importDepakBzd(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "alcool" or \
                 drug4 == "alcool" or drug3 == "oh" or \
                 drug4 == "oh"):
                 print("+ Interactions !!!")
                 importDepakOh(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "antibiotiques" or \
                 drug4 == "antibiotiques" or drug3 == "atb" or \
                 drug4 == "atb"):
                 print("+ Interactions !!!")
                 importDepakAtb(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "contraceptifs" or \
                 drug4 == "contraceptifs" or drug3 == "cc" or \
                 drug4 == "cc"):

@@ -264,6 +264,22 @@ def antiepiDrug35(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'topamax.txt' does not exist !", outnote)
 
+def antiepiDrug36(self):
+    """
+    Per drug trileptal
+    """
+    try:
+        if os.path.getsize('./medifiles/perdrug/trileptal.txt'):
+            print("+ File 'trileptal.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/perdrug/trileptal.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'trileptal.txt' does not exist !", outnote)
+
 def antiepiDrug38(self):
     """
     Per drug vimpat

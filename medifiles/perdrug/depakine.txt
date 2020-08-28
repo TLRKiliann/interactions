@@ -1,4 +1,4 @@
-Dépakine (valproate) :
+Depakine (valproate) :
 ==============
 
 Contre-indications :
@@ -228,7 +228,7 @@ Effets des autres médicaments sur l'acide valproïque
     (Voir les rubriques «Posologie/Mode d'emploi», «Mises en garde et précautions» et 
     «Grossesse/Allaitement»).
 
-Autres interactions
+    Autres interactions 
 
 Les médicaments potentiellement hépatotoxiques et l'alcool peuvent renforcer la toxicité 
 hépatique de l'acide valproïque (voir la rubrique «Mises en garde et précautions»).

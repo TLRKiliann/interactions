@@ -1,0 +1,119 @@
+Trileptal (oxcarbazépine) :
+================
+
+Contre-indications :
+--------------------------
+
+Hypersensibilité connue à l'oxcarbazépine, à l'eslicarbazépine ou à l'un des excipients.
+
+
+Interactions :
+------------------
+
+Le tableau suivant présente une vue d'ensemble des interactions de l'oxcarbazépine avec 
+les autres médicaments. Pour les détails, voir le texte qui suit.
+
+Résumé des interactions entre les médicaments antiépileptiques et Trileptal :
+
+Antiépileptique                     Influence de Trileptal sur l'antiépileptique Cmin:
+Administration 
+simultanée de :
+
+Carbamazépine                       Diminution de 0–22% (augmentation
+                                    de 30% de l'époxyde de carbamazépine)
+
+Clobazam                            Non étudié
+
+Felbamate                           Non étudié
+
+Lamotrigine                         Pas d'influence (*)
+
+Phénobarbital                       Augmentation de 14-15%
+
+Phénytoïne                          Augmentation de 0-40%
+
+Acide valproïque                    Pas d'influence
+
+
+
+Antiépileptique                     Influence de l'antiépileptique sur le MHD (**) AUC:
+Administration 
+simultanée de :
+
+Carbamazépine                       Diminution de 40%
+
+Clobazam                            Pas d'influence
+
+Felbamate                           Pas d'influence
+
+Lamotrigine                         Pas d'influence
+
+Phénobarbital                       Diminution de 30-31%
+
+Phénytoïne                          Diminution de 29-35%
+
+Acide valproïque                    Diminution de 0-18%
+
+
+(*: pas d'influence sur la Cmin, l'AUC et la Cmax)
+
+(**: MHD: dérivé monohydroxylé (métabolite pharmacologiquement actif de l'oxcarbazépine))
+Influence des autres médicaments sur la pharmacocinétique de l'oxcarbazépine
+
+Les inducteurs puissants du cytochrome P450 comme la rifampicine, la carbamazépine, 
+la phénytoïne et le phénobarbital induisent une diminution des concentrations de MHD 
+de 29-40% dans le plasma ou le sérum. En cas d’administration simultanée d’un ou de 
+plusieurs médicaments antiépileptiques et d’oxcarbazépine, on peut envisager selon 
+le cas un ajustement soigneux de la dose et/ou un contrôle des taux plasmatiques.
+
+La cimétidine, l'érythromycine, la viloxazine, la warfarine et le dextropropoxyphène 
+n'ont pas eu d'influence sur la pharmacocinétique du MHD.
+
+Influence de l'oxcarbazépine sur la pharmacocinétique d'autres médicaments
+
+Inhibition enzymatique
+
+L'oxcarbazépine et son métabolite pharmacologiquement actif (le dérivé monohydroxylé, MHD) 
+inhibent le CYP2C19. Par conséquent, des interactions surviennent lorsque de hautes doses 
+de Trileptal sont administrées en même temps que des médicaments métabolisés par le 
+CYP2C19 (par ex. phénytoïne). Les taux plasmatiques de phénytoïne ont augmenté jusqu'à 40% 
+lors d'une administration de Trileptal à des doses supérieures à 1'200 mg/d (cf. tableau 
+ci-dessus). Une réduction de la dose de la phénytoïne administrée simultanément peut dans 
+ce cas s'avérer nécessaire (cf. «Posologie/mode d'emploi»).
+
+Induction enzymatique
+
+L'oxcarbazépine et le MHD sont in vitro et in vivo des inducteurs faibles des cytochromes 
+CYP3A4 et CYP3A5 qui sont essentiellement responsables du métabolisme par ex. des 
+antagonistes du calcium de type dihydropyridine (p.ex. félodipine), des immunosuppresseurs 
+(p.ex. ciclosporine, tacrolimus), des contraceptifs oraux (cf. plus bas) et de certains 
+autres antiépileptiques (p.ex. carbamazépine). Ils provoquent un taux sérique plus faible 
+de ces médicaments.
+
+In vitro, l'oxcarbazépine et le MHD n'induisent que faiblement l'UDP-glucuronyltransférase 
+(étude sur l'enzyme UGT non spécifique). Il semble donc peu vraisemblable que l'oxcarbazépine 
+et le MHD aient in vivo un effet clinique significatif sur des médicaments éliminés 
+essentiellement par une conjugaison catalysée par les UDP-glucuronyltransférases.
+
+Malgré le faible potentiel d'induction de l'oxcarbazépine et du MHD, une diminution de la 
+dose des médicaments administrés simultanément peut s'avérer nécessaire lors de l'arrêt du 
+traitement par Trileptal; la décision doit reposer sur la surveillance clinique et les 
+contrôles des taux plasmatiques.
+
+Aucune auto-induction n'a été observée avec Trileptal.
+
+Contraceptifs hormonaux: dans une étude avec un contraceptif combiné (éthinylestradiol et 
+lévonorgestrel), l'administration concomitante d'oxcarbazépine a induit une diminution des 
+valeurs moyennes de l'AUC de l'éthinylestradiol et du lévonorgestrel de 48-52% et 
+respectivement de 32-52%. D'autres contraceptifs hormonaux n'ont pas été étudiés. 
+Par conséquent, en cas d'utilisation concomitante de Trileptal, l'efficacité des contraceptifs 
+hormonaux peut être diminuée de manière significative (cf. «Mises en garde et précautions») 
+et d'autres méthodes de contraception fiables doivent être utilisées.
+
+Antidépresseurs tricycliques
+
+Dans les essais cliniques, aucune interaction significative cliniquement n'a été observée.
+
+Interactions pharmacodynamiques
+
+L'association du lithium avec Trileptal peut augmenter les effets neurotoxiques.

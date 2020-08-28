@@ -7,7 +7,7 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
 
 oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "briviact", 
       "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", "clozapine", 
-      "leponex", "carbamazépine", "tégrétol", "dépakine", "valproate", "haldol", 
+      "leponex", "carbamazépine", "tégrétol", "depakine", "valproate", "haldol", 
       "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
       "levomepromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
       "olanzapine", "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
