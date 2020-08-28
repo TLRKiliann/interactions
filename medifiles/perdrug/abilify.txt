@@ -31,8 +31,8 @@ Quinidine (antipaludéens) et autres inhibiteurs du CYP2D6.
 
 Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CYP2D6 
 (la quinidine) a augmenté l'ASC de l'aripiprazole de 107%, alors que la Cmax restait inchangée. 
-L'ASC et la Cmax du métabolite actif, le déhydro-aripiprazole, ont diminué respectivement de 32% 
-et 47%. La dose prescrite d'aripiprazole doit être réduite de moitié environ en cas 
+L'ASC et la Cmax du métabolite actif, le déhydro-aripiprazole, ont diminué respectivement 
+de 32% et 47%. La dose prescrite d'aripiprazole doit être réduite de moitié environ en cas 
 d'administration concomitante d'aripiprazole et de quinidine. D'autres inhibiteurs 
 puissants du CYP2D6, tels que la fluoxétine et la paroxétine, sont susceptibles d'avoir 
 des effets similaires, et par conséquent, les mêmes réductions de dose s'appliquent. 
@@ -65,11 +65,11 @@ ont diminué respectivement de 69% et 71% lors de l'administration concomitante 
 carbamazépine, comparativement à l'aripiprazole en monothérapie.
 
 La dose d'aripiprazole doit être multipliée par deux en cas d'administration d'aripiprazole 
-et de carbamazépine. D'autres inducteurs puissants du CYP3A4 (rifampicine, rifabutine, 
-phénytoïne, phénobarbital, primidone, éfavirenz, névirapine et millepertuis) sont susceptibles 
-d'avoir des effets similaires, et par conséquent, les mêmes augmentations de dose sont 
-recommandées. A l'arrêt du traitement par l'inducteur puissant du CYP3A4, la dose 
-d'aripiprazole doit être ramenée à la posologie recommandée.
+et de carbamazépine. D'autres inducteurs puissants du CYP3A4 (rifampicine, rifabutine 
+(ttt VIH), phénytoïne, phénobarbital, primidone, éfavirenz, névirapine (ttt VIH) et 
+millepertuis) sont susceptibles d'avoir des effets similaires, et par conséquent, les 
+mêmes augmentations de dose sont recommandées. A l'arrêt du traitement par l'inducteur 
+puissant du CYP3A4, la dose d'aripiprazole doit être ramenée à la posologie recommandée.
 
 Valproate et lithium
 
@@ -88,13 +88,15 @@ ou des médicaments connus pour augmenter les concentrations de l'aripiprazole.
 
 Effets potentiels de l'aripiprazole sur d'autres médicaments
 
-Dans les études cliniques, l'aripiprazole à des doses allant de 10 mg à 30 mg/jour n'a pas eu 
-d'effet significatif sur le métabolisme des substrats du CYP2D6 (dextrométhorphane (bexine)), du CYP2C9 
-(warfarine), du CYP2C19 (oméprazole) et du CYP3A4 (dextrométhorphane (bexine)). De plus, l'aripiprazole 
-et le déhydro-aripiprazole n'ont pas démontré in vitro de potentiel d'altération du métabolisme 
-dépendant du CYP1A2. Par conséquent, il est peu probable que l'aripiprazole soit à l'origine 
-d'interactions cliniquement significatives impliquant ces enzymes.
+Dans les études cliniques, l'aripiprazole à des doses allant de 10 mg à 30 mg/jour n'a pas 
+eu d'effet significatif sur le métabolisme des substrats du CYP2D6 (dextrométhorphane 
+(bexine)), du CYP2C9 (warfarine), du CYP2C19 (oméprazole) et du CYP3A4 (dextrométhorphane 
+(bexine)). 
+De plus, l'aripiprazole et le déhydro-aripiprazole n'ont pas démontré in vitro de potentiel 
+d'altération du métabolisme dépendant du CYP1A2. Par conséquent, il est peu probable que 
+l'aripiprazole soit à l'origine d'interactions cliniquement significatives impliquant ces 
+enzymes.
 
-Il n'a pas été observé de variation cliniquement significative des concentrations de valproate, 
-de lithium ou de lamotrigine à la suite d'une administration concomitante d'aripiprazole et de 
-valproate, de lithium ou de lamotrigine.
+Il n'a pas été observé de variation cliniquement significative des concentrations de 
+valproate, de lithium ou de lamotrigine à la suite d'une administration concomitante 
+d'aripiprazole et de valproate, de lithium ou de lamotrigine.

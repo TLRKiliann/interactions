@@ -64,7 +64,10 @@ def ariFunc(self, drug3, drug4):
             elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazole" or \
                 drug4 == "kétoconazole"):
                 print("+ Interactions !!!")
-                importAriKeto(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "ahyperTA" or \
+                drug4 == "ahyperTA"):
+                print("+ Interactions !!!")
+                importAriTa(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "ac" or \
                 drug4 == "ac" or drug3 == "warfarine" or \
                 drug4 == "warfarine" or \

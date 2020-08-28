@@ -63,6 +63,20 @@ def importAriFluo(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'ari_fluo.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (abilify + ahyperTA)
+def importAriTa(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/ari_ahyperta.txt'):
+            print("+ File 'ari_ahyperta.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/ari_ahyperta.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'ari_ahyperta.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (abilify + kétoconazole)
 def importAriKeto(self):
     try:
