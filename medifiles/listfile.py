@@ -17,7 +17,7 @@ oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "brivia
       "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", "felbamate", 
       "topamax", "topiramate", "trileptal", "oxcarbazépine", "vimpat", "lacosamide", "zonegran", 
       "zonisamide", "lexotanil", "bromazépam", "rivotril", "clonazépam", "rohypnol", 
-      "flunitrazepamum", "seresta", "oxazépam", "temesta", "lorazépam", "tranxilium", 
+      "flunitrazepam", "seresta", "oxazépam", "temesta", "lorazépam", "tranxilium", 
       "clorazépate", "urbanyl", "clobazam", "valium", "diazépam", "xanax", "alprazolam",
       "anafranil", "clomipramine", "saroten", "amitriptyline", "surmontil", "trimipramine",
       "trittico", "trazodone", "lithium"]

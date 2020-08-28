@@ -10,7 +10,6 @@ Médicaments disponibles par interactions :
 Antipsychotiques : 
 ------------------------
 abilify = aripiprazol
-chlorpromazine = prazine
 clopin = clozapine = leponex
 clopixol = zuclopenthixol
 dogmatil = sulpride
@@ -20,6 +19,7 @@ haldol = halopéridol
 invega = palipéridone
 nozinan = levomepromazine
 olanzapine = zyprexa
+prazine = chlorpromazine
 risperdal = risperdone
 seroquel = sequase = quétiapine
 solian = amisulpride
@@ -53,13 +53,33 @@ atarax = dichlorhydrate d'hydroxyzine
 demetrin = prazépam
 lexotanil = bromazépam
 rivotril = clonazépam
-rohypnol
+rohypnol = flunitrazepam
 seresta = oxazépam
 temesta = lorazépam
 traxilium = clorazépate
 urbanyl = clobazam
 valium = diazépam
 xanax = alprazolam
+
+Benzodiazépines :
+------------------------
+dalmadorm =
+demetrin =
+dormicum =
+halcion =
+imovane =
+lexotanil =
+noctamid =
+rivotril =
+rohypnol =
+seresta =
+sonata =
+stilnox =
+temesta =
+tranxilium =
+urbanyl =
+valium =
+xanax =
 
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 
