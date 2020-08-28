@@ -10,7 +10,7 @@ from medifiles.inter_pack.interact_depakine import *
 def depaFunc(self, drug3, drug4):
     for i in oneDrug:
         """
-        drug1 VS drug2 (interactions with carbamazépine)
+        drug1 VS drug2 (interactions with depakine)
         """
         if i == "depakine" or i == "valproate":
             if (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
