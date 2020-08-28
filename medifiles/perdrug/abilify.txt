@@ -41,10 +41,10 @@ Kétoconazole et autres inhibiteurs du CYP3A4.
 
 Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CYP3A4 
 (le kétoconazole) a augmenté l'ASC et la Cmax de l'aripiprazole respectivement de 63% et 37%. 
-L'ASC et la Cmax du déhydro-aripiprazole ont 
-augmenté respectivement de 77% et 43%. Chez les métaboliseurs lents du CYP2D6, l'utilisation 
-concomitante d'inhibiteurs puissants du CYP3A4 peut conduire à une élévation des concentrations 
-plasmatiques d'aripiprazole, comparativement aux métaboliseurs rapides du CYP2D6. 
+L'ASC et la Cmax du déhydro-aripiprazole ont augmenté respectivement de 77% et 43%. 
+Chez les métaboliseurs lents du CYP2D6, l'utilisation concomitante d'inhibiteurs 
+puissants du CYP3A4 peut conduire à une élévation des concentrations plasmatiques 
+d'aripiprazole, comparativement aux métaboliseurs rapides du CYP2D6. 
 L'administration concomitante de kétoconazole ou d'autres inhibiteurs puissants du CYP3A4 
 avec l'aripiprazole n'est envisagée que si les bénéfices escomptés sont supérieurs aux risques 
 encourus. La dose prescrite d'aripiprazole doit être réduite de moitié environ lors de 

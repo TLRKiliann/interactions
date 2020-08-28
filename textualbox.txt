@@ -90,7 +90,7 @@ lithiofor = lithium
 tégrétol = carbamazépine
 zyprexa = olanzapine
 
-Antidépresseurs :
+Antidépresseurs : fluoxétine à trouver !!!!
 -----------------------
 # TCC (tricycliques) :
 
@@ -134,10 +134,16 @@ Remeron =
 
 Mots clef de l'application :
 
+atb
 isrs
+irsn
 antipsy
 neuro
 mae
+oh
+meoh
+atd
+anti-hyperTA
 
 
 

@@ -28,10 +28,23 @@ def ariFunc(self, drug3, drug4):
                 drug4 == "lithium"):
                 print("+ Interactions !!!")
                 importAriVal(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "lithiofor" or \
-                drug4 == "lithiofor" or drug3 == "lithium" or \
-                drug4 == "lithium"):
+            elif (drug3 == i or drug4 == i) and (drug3 == "isrs" or \
+                drug3 == "irsn" or drug4 == "isrs" or \
+                drug4 == "irsn"):
                 print("+ Interactions !!!")
-                importAriVal(self)
+                importAriSrs(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "fluoxétine" or \
+                drug4 == "fluoxétine"):
+                print("+ Interactions !!!")
+                importAriFluo(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "paroxétine" or \
+                drug4 == "paroxétine" or drug3 == "deroxat" or \
+                drug4 == "deroxat"):
+                print("+ Interactions !!!")
+                importAriFluo(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
+                drug4 == "oh"):
+                print("+ Interactions !!!")
+                importAriOh(self)
             else:
-                print("abilify n'a pas d'interactions avec ce médic !")
+                print("End of loop of abilify ttt !")
