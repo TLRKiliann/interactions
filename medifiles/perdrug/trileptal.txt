@@ -20,20 +20,25 @@ Administration
 simultanée de :
 
 Carbamazépine                       Diminution de 0–22% (augmentation
-                                    de 30% de l'époxyde de carbamazépine)
+(tégrétol)                          de 30% de l'époxyde de carbamazépine)
 
 Clobazam                            Non étudié
+(urbanyl)
 
 Felbamate                           Non étudié
+(taloxa)
 
 Lamotrigine                         Pas d'influence (*)
+(lamictal)
 
 Phénobarbital                       Augmentation de 14-15%
+(aphénylbarbite)
 
 Phénytoïne                          Augmentation de 0-40%
+(phenytoïne)
 
 Acide valproïque                    Pas d'influence
-
+(depakine, valproate)
 
 
 Antiépileptique                     Influence de l'antiépileptique sur le MHD (**) AUC:
@@ -41,19 +46,25 @@ Administration
 simultanée de :
 
 Carbamazépine                       Diminution de 40%
+(tégrétol)
 
 Clobazam                            Pas d'influence
+(urbanyl)
 
 Felbamate                           Pas d'influence
+(taloxa)
 
 Lamotrigine                         Pas d'influence
+(lamictal)
 
 Phénobarbital                       Diminution de 30-31%
+(aphénylbarbite)
 
 Phénytoïne                          Diminution de 29-35%
+(phenytoïne)
 
 Acide valproïque                    Diminution de 0-18%
-
+(depakine, valproate)
 
 (*: pas d'influence sur la Cmin, l'AUC et la Cmax)
 

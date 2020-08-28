@@ -90,7 +90,7 @@ def antiepiDrug23(self):
 
 def antiepiDrug24(self):
     """
-    Per drug phénytoine
+    Per drug phénytoïne
     """
     try:
         if os.path.getsize('./medifiles/perdrug/phenytoine.txt'):

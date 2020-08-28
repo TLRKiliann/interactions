@@ -1,22 +1,33 @@
-Haldol :
-=====
+Haldol (halopéridol) :
+=============
 
 Contre-indications :
 --------------------------
 
-    hypersensibilité connue à l'halopéridol ou à l'un des composants conformément à 
+    -Hypersensibilité connue à l'halopéridol ou à l'un des composants conformément à 
     la composition
-    états comateux
-    dépression du système nerveux central due à l'alcool ou à des dépresseurs centraux
-    syndrome parkinsonien
-    démence à corps de Lewy
-    paralysie supranucléaire progressive
-    allongement connu de l'intervalle QTc ou syndrome du QT long congénital
-    infarctus du myocarde aigu récent
-    insuffisance cardiaque décompensée
-    antécédents connus d'arythmies ventriculaires ou de torsades de pointes
-    hypokaliémie non corrigée
-    traitement concomitant par des médicaments allongeant l'intervalle QT 
+
+    -Etats comateux
+
+    -Dépression du système nerveux central due à l'alcool ou à des dépresseurs centraux
+
+    -Syndrome parkinsonien
+
+    -Démence à corps de Lewy
+
+    -Paralysie supranucléaire progressive
+
+    -Allongement connu de l'intervalle QTc ou syndrome du QT long congénital
+
+    -Infarctus du myocarde aigu récent
+
+    -Insuffisance cardiaque décompensée
+
+    -Antécédents connus d'arythmies ventriculaires ou de torsades de pointes
+
+    -Hypokaliémie non corrigée
+    
+    -Traitement concomitant par des médicaments allongeant l'intervalle QT 
     (voir Interactions)
 
 
@@ -115,14 +126,15 @@ raison des différents mécanismes d'interaction entre les principes actifs), pa
 
 Cette liste n'est pas exhaustive.
 
-Une induction enzymatique est éventuellement observée au bout de quelques jours de traitement. 
-L'induction enzymatique atteint généralement son niveau maximal en l'espace de 2 semaines 
-environ et persiste ensuite pendant une durée similaire après l'arrêt du traitement par le 
-médicament. En cas de traitement concomitant par des inducteurs des CYP3A4, il est recommandé 
-de maintenir les patients sous surveillance et d'augmenter la dose d'Haldol ou d'ajuster les 
-intervalles entre les administrations si nécessaire. Après l'arrêt de l'inducteur du CYP3A4, 
-la concentration de l'halopéridol peut augmenter progressivement et il peut donc être nécessaire 
-de réduire la dose d'Haldol ou d'ajuster les intervalles entre les administrations.
+Une induction enzymatique est éventuellement observée au bout de quelques jours de 
+traitement. L'induction enzymatique atteint généralement son niveau maximal en l'espace 
+de 2 semaines environ et persiste ensuite pendant une durée similaire après l'arrêt du 
+traitement par le médicament. En cas de traitement concomitant par des inducteurs des 
+CYP3A4, il est recommandé de maintenir les patients sous surveillance et d'augmenter 
+la dose d'Haldol ou d'ajuster les intervalles entre les administrations si nécessaire. 
+Après l'arrêt de l'inducteur du CYP3A4, la concentration de l'halopéridol peut augmenter 
+progressivement et il peut donc être nécessaire de réduire la dose d'Haldol ou d'ajuster 
+les intervalles entre les administrations.
 
 Effet de l'halopéridol sur d'autres médicaments
 
@@ -135,15 +147,15 @@ la méthyldopa a donné lieu à des effets secondaires centraux et psychiques.
 L'halopéridol peut atténuer l'action antiparkinsonienne de la lévodopa et d'autres agonistes 
 de la dopamine.
 
-L'halopéridol peut antagoniser l'effet de l'adrénaline et d'autres sympathomimétiques et inverser 
-les effets antihypertenseurs de substances anti-adrénergiques comme la guanéthidine.
+L'halopéridol peut antagoniser l'effet de l'adrénaline et d'autres sympathomimétiques et 
+inverser les effets antihypertenseurs de substances anti-adrénergiques comme la guanéthidine.
 
 L'halopéridol est un inhibiteur de l'isoenzyme CYP2D6 et peut inhiber la métabolisation des 
-antidépresseurs tricycliques, et augmenter ainsi leur taux plasmatique. Leur toxicité peut s'en 
-trouver augmentée (effets anticholinergiques, toxicité cardiovasculaire, baisse du seuil 
+antidépresseurs tricycliques, et augmenter ainsi leur taux plasmatique. Leur toxicité peut 
+s'en trouver augmentée (effets anticholinergiques, toxicité cardiovasculaire, baisse du seuil 
 épileptogène).
 
-Autres interactions
+    Autres interactions
 
 Dans de rares cas, les symptômes suivants ont été décrits au cours de traitement associé 
 au lithium:
