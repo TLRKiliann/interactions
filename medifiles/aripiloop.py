@@ -10,7 +10,7 @@ from medifiles.inter_pack.interact_abilify import *
 def ariFunc(self, drug3, drug4):
     for i in oneDrug:
         """
-        drug1 VS drug2 (interactions with depakine)
+        drug1 VS drug2 (interactions with abilify)
         """
         if i == "abilify" or i == "aripiprazol":
             if (drug3 == i or drug4 == i) and (drug3 == "carbamazépine" or \
@@ -21,6 +21,11 @@ def ariFunc(self, drug3, drug4):
             elif (drug3 == i or drug4 == i) and (drug3 == "depakine" or \
                 drug4 == "depakine" or drug3 == "valproate" or \
                 drug4 == "valproate"):
+                print("+ Interactions !!!")
+                importAriVal(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "lithiofor" or \
+                drug4 == "lithiofor" or drug3 == "lithium" or \
+                drug4 == "lithium"):
                 print("+ Interactions !!!")
                 importAriVal(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "lithiofor" or \

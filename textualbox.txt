@@ -132,6 +132,15 @@ Cymbalta =
 Effexor =
 Remeron =
 
+Mots clef de l'application :
+
+isrs
+antipsy
+neuro
+mae
+
+
+
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 
 compartiment ou une zone d'essai spécifique du corps après l'administration du médicament
