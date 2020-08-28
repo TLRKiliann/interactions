@@ -135,6 +135,7 @@ Remeron =
 Mots clef de l'application :
 
 atb
+ac = anticoagulants
 isrs
 irsn
 antipsy
@@ -143,9 +144,10 @@ mae
 oh
 meoh
 atd
-anti-hyperTA
-
-
+ahyperTA = antihypertenseurs
+palu = antipaludéens
+atus = antitussifs (bexin)
+ipp = inhibiteurs de la pompe à protons
 
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 

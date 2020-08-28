@@ -18,6 +18,20 @@ def ariFunc(self, drug3, drug4):
                 drug4 == "tégrétol"):
                 print("+ Interactions !!!")
                 importAriCarba(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "primidone" or \
+                drug4 == "primidone" or drug3 == "mysoline" or \
+                drug4 == "mysoline"):
+                print("+ Interactions !!!")
+                importAriCarba(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "phénobarbital" or \
+                drug4 == "phénobarbital" or drug3 == "aphénylbarbite" or \
+                drug4 == "aphénylbarbite"):
+                print("+ Interactions !!!")
+                importAriCarba(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
+                drug4 == "phénytoïne"):
+                print("+ Interactions !!!")
+                importAriCarba(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "depakine" or \
                 drug4 == "depakine" or drug3 == "valproate" or \
                 drug4 == "valproate"):
@@ -40,6 +54,28 @@ def ariFunc(self, drug3, drug4):
             elif (drug3 == i or drug4 == i) and (drug3 == "paroxétine" or \
                 drug4 == "paroxétine" or drug3 == "deroxat" or \
                 drug4 == "deroxat"):
+                print("+ Interactions !!!")
+                importAriFluo(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "palu" or \
+                drug4 == "palu" or drug3 == "quinidine" or \
+                drug4 == "quinidine"):
+                print("+ Interactions !!!")
+                importAriFluo(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazole" or \
+                drug4 == "kétoconazole"):
+                print("+ Interactions !!!")
+                importAriKeto(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "ac" or \
+                drug4 == "ac" or drug3 == "warfarine" or \
+                drug4 == "warfarine" or \
+                drug3 == "bexine" or drug4 == "bexine" or \
+                drug3 == "dextrométhorphane" or \
+                drug4 == "dextrométhorphane"):
+                print("+ Interactions !!!")
+                importAriMiscel(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "oméoprazole" or \
+                drug4 == "oméoprazole" or drug3 == "ipp" or \
+                drug4 == "ipp"):
                 print("+ Interactions !!!")
                 importAriFluo(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \

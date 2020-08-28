@@ -27,7 +27,7 @@ L'aripiprazole est métabolisé par de multiples voies impliquant les enzymes CY
 mais pas les enzymes CYP1A. Par conséquent, aucun ajustement posologique n'est nécessaire 
 pour les fumeurs. 
 
-Quinidine et autres inhibiteurs du CYP2D6.
+Quinidine (antipaludéens) et autres inhibiteurs du CYP2D6.
 
 Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CYP2D6 
 (la quinidine) a augmenté l'ASC de l'aripiprazole de 107%, alors que la Cmax restait inchangée. 
@@ -89,8 +89,8 @@ ou des médicaments connus pour augmenter les concentrations de l'aripiprazole.
 Effets potentiels de l'aripiprazole sur d'autres médicaments
 
 Dans les études cliniques, l'aripiprazole à des doses allant de 10 mg à 30 mg/jour n'a pas eu 
-d'effet significatif sur le métabolisme des substrats du CYP2D6 (dextrométhorphane), du CYP2C9 
-(warfarine), du CYP2C19 (oméprazole) et du CYP3A4 (dextrométhorphane). De plus, l'aripiprazole 
+d'effet significatif sur le métabolisme des substrats du CYP2D6 (dextrométhorphane (bexine)), du CYP2C9 
+(warfarine), du CYP2C19 (oméprazole) et du CYP3A4 (dextrométhorphane (bexine)). De plus, l'aripiprazole 
 et le déhydro-aripiprazole n'ont pas démontré in vitro de potentiel d'altération du métabolisme 
 dépendant du CYP1A2. Par conséquent, il est peu probable que l'aripiprazole soit à l'origine 
 d'interactions cliniquement significatives impliquant ces enzymes.
