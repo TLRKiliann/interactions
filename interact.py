@@ -10,6 +10,7 @@ from medifiles.anxidrug import *
 from medifiles.atddrug import *
 from medifiles.stabdrug import *
 
+from medifiles.aripiloop import *
 from medifiles.carbaloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
@@ -65,6 +66,7 @@ class Application(Frame):
             carbaFunc(self, drug3, drug4)
             lepoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
+            ariFunc(self, drug3, drug4)
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 

@@ -1,0 +1,17 @@
+INTERACTIONS ABILIFY AVEC TEGRETOL :
+
+Carbamazépine et autres inducteurs du CYP3A4
+
+Lors de l'administration concomitante de carbamazépine, un inducteur puissant du CYP3A4, 
+les moyennes géométriques de la Cmax et de l'ASC de l'aripiprazole ont diminué 
+respectivement de 68% et 73%, comparativement à l'aripiprazole (30 mg) en monothérapie. 
+De la même façon, les moyennes géométriques de la Cmax et de l'ASC du déhydro-aripiprazole 
+ont diminué respectivement de 69% et 71% lors de l'administration concomitante de 
+carbamazépine, comparativement à l'aripiprazole en monothérapie.
+
+La dose d'aripiprazole doit être multipliée par deux en cas d'administration d'aripiprazole 
+et de carbamazépine. D'autres inducteurs puissants du CYP3A4 (rifampicine, rifabutine, 
+phénytoïne, phénobarbital, primidone, éfavirenz, névirapine et millepertuis) sont susceptibles 
+d'avoir des effets similaires, et par conséquent, les mêmes augmentations de dose sont 
+recommandées. A l'arrêt du traitement par l'inducteur puissant du CYP3A4, la dose 
+d'aripiprazole doit être ramenée à la posologie recommandée.
