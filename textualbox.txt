@@ -94,12 +94,10 @@ Antidépresseurs :
 -----------------------
 # TCC (tricycliques) :
 
-Anafranil =
-Ludiomil =
-Saroten =
-Surmontil =
-Tofranil =
-Trittico. 
+anafranil = clomipramine hydrochloride
+saroten = amitriptyline
+surmontil = trimipramine
+trittico = trazodone
 
 # ISRS (inhibiteurs sélectifs de la recapture en sérotonine) :
 
