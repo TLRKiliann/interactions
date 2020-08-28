@@ -18,8 +18,8 @@ def seroFunc(self, drug3, drug4):
                 drug4 == "tégrétol"):
                 print("+ Interactions ultraviolente !!!")
                 importSeroCarba(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "dépakine" or \
-                drug3 == "valproate" or drug4 == "dépakine" or \
+            elif (drug3 == i or drug4 == i) and (drug3 == "depakine" or \
+                drug3 == "valproate" or drug4 == "depakine" or \
                 drug4 == "valproate"):
                 print("+ Interactions !!!")
                 importSeroDepak(self)

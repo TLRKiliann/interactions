@@ -3,4 +3,4 @@ INTERACTIONS DEPAKINE AVEC LITHIUM !
 Une étude d'interaction pharmacocinétique chez des jeunes volontaires sains de sexe masculin a 
 montré que Depakine n'a aucun effet sur les taux sériques de lithium.
 
-(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)
+(Entrer depakine dans "Enter name of drug" pour plus d'interactions !)

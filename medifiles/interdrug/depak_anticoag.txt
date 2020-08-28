@@ -10,4 +10,4 @@ phénomènes de compétition au niveau des sites de fixation albuminique. C'est 
 cas de traitement par antivitamines K, une surveillance accrue du taux de prothrombine devra 
 être effectuée.
 
-(Entrer DEPAKINE  dans "Enter name of drug" pour plus d'interactions !)
+(Entrer depakine dans "Enter name of drug" pour plus d'interactions !)

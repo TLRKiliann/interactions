@@ -12,7 +12,7 @@ def depaFunc(self, drug3, drug4):
         """
         drug1 VS drug2 (interactions with carbamazépine)
         """
-        if i == "dépakine" or i == "valproate":
+        if i == "depakine" or i == "valproate":
             if (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
                 drug4 == "anticoagulants" or drug3 == "ac" or \
                 drug4 == "ac"):

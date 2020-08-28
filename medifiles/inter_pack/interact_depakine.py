@@ -7,7 +7,7 @@ import os
 import subprocess
 
 
-# Display text in textbox from medifiles/interdrug (dépakine + anticoag)
+# Display text in textbox from medifiles/interdrug (depakine + anticoag)
 def importDepakAnticoag(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_anticoag.txt'):
@@ -21,7 +21,7 @@ def importDepakAnticoag(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_anticoag.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + mae)
+# Display text in textbox from medifiles/interdrug (depakine + mae)
 def importDepakMae(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_mae.txt'):
@@ -35,7 +35,7 @@ def importDepakMae(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_mae.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + neuro)
+# Display text in textbox from medifiles/interdrug (depakine + neuro)
 def importDepakNeuro(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_neuro.txt'):
@@ -49,7 +49,7 @@ def importDepakNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_neuro.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + topamax + diamox)
+# Display text in textbox from medifiles/interdrug (depakine + topamax + diamox)
 def importDepakTopadia(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_topadia.txt'):
@@ -63,7 +63,7 @@ def importDepakTopadia(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_topadia.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + lithium)
+# Display text in textbox from medifiles/interdrug (depakine + lithium)
 def importDepakLith(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_lith.txt'):
@@ -77,7 +77,7 @@ def importDepakLith(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_lith.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + atd)
+# Display text in textbox from medifiles/interdrug (depakine + atd)
 def importDepakAtd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_atd.txt'):
@@ -91,7 +91,7 @@ def importDepakAtd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_atd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + bzd)
+# Display text in textbox from medifiles/interdrug (depakine + bzd)
 def importDepakBzd(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_bzd.txt'):
@@ -105,7 +105,7 @@ def importDepakBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_bzd.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + OH)
+# Display text in textbox from medifiles/interdrug (depakine + OH)
 def importDepakOh(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_oh.txt'):
@@ -119,7 +119,7 @@ def importDepakOh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_oh.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + ATB)
+# Display text in textbox from medifiles/interdrug (depakine + ATB)
 def importDepakAtb(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_atb.txt'):
@@ -133,7 +133,7 @@ def importDepakAtb(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'depak_atb.txt' does not exist !", outnote)
 
-# Display text in textbox from medifiles/interdrug (dépakine + contraceptifs)
+# Display text in textbox from medifiles/interdrug (depakine + contraceptifs)
 def importDepakContracep(self):
     try:
         if os.path.getsize('./medifiles/interdrug/depak_contracept.txt'):
