@@ -63,10 +63,6 @@ Stabilisateurs de l'humeur :
 ----------------------------
 Carbamazépine; Dépakine; Lamotrigine; Lithium; Valproate; Zyprexa.
 
-Stabilisateurs d'humeur
-Stabilisateurs de l'humeur: Carbamazépine; Dépakine; Lamotrigine; Lithium; Valproate; Zyprexa.
-
-
 Les benzodiazépines :
 ---------------------
 Benzo: Dormicum, Halcion, Stilnox, Imovane, Sonata, Xanax, Lexotanil, Rohypnol, Temesta, Noctamid, 

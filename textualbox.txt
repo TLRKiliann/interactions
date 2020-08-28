@@ -18,7 +18,7 @@ fluanxol = flupentixol
 haldol = halopéridol
 invega = palipéridone
 nozinan = levomepromazine
-olanzapine = zyprexa
+zyprexa = olanzapine
 prazine = chlorpromazine
 risperdal = risperdone
 seroquel = sequase = quétiapine
@@ -48,7 +48,7 @@ vimpat = lacosamide
 zonegran = zonisamide
 
 Anxiolytiques :
---------------------
+-------------------
 atarax = dichlorhydrate d'hydroxyzine
 demetrin = prazépam
 lexotanil = bromazépam
@@ -80,6 +80,59 @@ tranxilium =
 urbanyl =
 valium =
 xanax =
+
+Stabilisateurs de l'humeur ou thymorégulateurs : 
+------------------------------------------------------------------
+depakine = valproate
+lamictal = lamotrigine 
+lithiofor = lithium
+(sel EMSR, quilonorm)
+tégrétol = carbamazépine
+zyprexa = olanzapine
+
+Antidépresseurs :
+-----------------------
+# TCC (tricycliques) :
+
+Anafranil =
+Ludiomil =
+Saroten =
+Surmontil =
+Tofranil =
+Trittico. 
+
+# ISRS (inhibiteurs sélectifs de la recapture en sérotonine) :
+
+Citalopram (Seropram) =
+Deroxat (Paroxétine) =
+escitalopram (Cipralex) =
+fluoxétine (Prozac) =
+fluvoxamine (Floxyfral) =
+Sertraline (Zoloft).
+
+# IRSNA (inhibiteurs de la recapture de la sérotonine-noradrénaline) :
+
+Venlafaxine =
+Duloxétine =
+
+# Inhibiteurs de la recapture de la dopamine-noradrénaline :
+
+Bupropion (wellbutrine)
+
+# IMAO sélectifs (inhibiteurs de la mono-amine oxydase) :
+
+Aurorix =
+Moclamine =
+
+# IMAO non-sélectifs :
+
+Regitine (Phantolamine)
+
+# Antidépresseurs sélectifs :
+
+Cymbalta =
+Effexor =
+Remeron =
 
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 
