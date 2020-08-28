@@ -1,0 +1,95 @@
+Lithiofor (lithium) :
+===========
+
+Contre-indications :
+--------------------------
+
+Patients ayant des antécédents de réactions d'hypersensibilité au lithium ou à 
+un autre composant de Lithiofor.
+
+En règle générale, le lithium ne devrait pas être prescrit dans les cas suivants:
+
+    néphropathie,
+
+    maladie cardiovasculaire (insuffisance cardiaque en particulier), syndrome du 
+    QT long congénital ou antécédents familiaux de QT long congénital de même que 
+    chez les patients ayant un intervalle QT long acquis (intervalle QTc >450 msec 
+    chez l'homme et intervalle QTc >470 msec chez la femme),
+
+    hypothyroïdie non traitée,
+
+    troubles du bilan hydrosodique par déshydratation,
+
+    régime hyposodé,
+
+    maladie d'Addison,
+
+car ces patients présentent un risque accru d'intoxication par le lithium. Toutefois, 
+si l'indication psychiatrique avait un caractère vital, le patient ne réagissant pas 
+à d'autres médications, le traitement au lithium pourrait être instauré, mais avec 
+une grande prudence. Il faudrait alors hospitaliser le malade et procéder 
+journellement au dosage de la lithiémie.
+
+L'allaitement est contre-indiqué durant un traitement par Lithiofor (voir «Grossesse/
+Allaitement»).
+
+
+Interactions :
+------------------
+
+Des interactions sont possibles avec un certain nombre de médicaments et un 
+traitement associé à d'autres médicaments est à conduire avec circonspection.
+
+Il a été fait état en particulier des interactions médicamenteuses suivantes:
+
+Interactions entraînant une hausse de la lithiémie
+
+Les substances actives suivantes peuvent faire augmenter le «steady state» des 
+concentrations sériques du lithium, phénomène pouvant mener à une intoxication:
+
+    métronidazole;
+    anti-inflammatoires non stéroïdiens;
+    inhibiteurs de l'ECA;
+    les antagonistes des récepteurs de l'angiotensine II (sartans).
+    les diurétiques d'épargne potassique, les diurétiques de l'anse de Henle; 
+    les thiazidiques peuvent paradoxalement entraîner une rétention hydrique 
+    et une intoxication par le lithium (voir «Mises en garde et précautions»).
+
+Interactions entraînant une baisse de la lithiémie
+
+Une baisse de la lithiémie peut être observée lorsque le lithium est pris en 
+même temps que les substances suivantes:
+
+    urée (carbamide),
+    xanthines,
+    substances alcalinisantes, p.ex. du type bicarbonate de sodium,
+    diurétiques (voir aussi ci-dessus): diurétiques à effet osmotique et 
+    inhibiteurs de carbo-anhydrase, dont l'acétazolamide.
+
+Il convient donc d'augmenter la fréquence des dosages de la lithiémie dès que 
+le lithium est associé à l'une des substances énumérées ci-dessus.
+Associations à neurotoxicité potentielle
+
+Des réactions neurotoxiques sont possibles en association avec
+
+    des neuroleptiques susceptibles de déclencher un syndrome d'encéphalopathie 
+    (cf. «Mises en garde et précautions»),
+    les anticonvulsivants,
+    la méthyldopa,
+    les antagonistes sélectifs des récepteurs sérotoninergiques (antagonistes 
+    du 5-HT); l'administration simultanée de lithium et de ces substances devra 
+    se faire avec circonspection, cette association pouvant être à l'origine 
+    d'un syndrome sérotoninergique;
+    les bloquants du canal calcique: ils sont susceptibles de renforcer l'effet 
+    neurotoxique du lithium et il peut être nécessaire d'ajuster la posologie de 
+    ce dernier au niveau le plus bas de la fourchette thérapeutique,
+    des antidépresseurs tricycliques.
+
+Autres interactions
+
+Le lithium peut prolonger la durée de l'effet des médicaments assurant un blocage 
+neuromusculaire. Lors de l'administration concomitante de calcitonine et de lithium, 
+la lithiémie peut subir une baisse allant jusqu'à 30% et la posologie du lithium 
+devra être ajustée en conséquence.
+
+Sismothérapie: voir «Mises en garde et précautions».

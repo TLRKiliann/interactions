@@ -8,6 +8,8 @@ from medifiles.apsydrug import *
 from medifiles.aepidrug import *
 from medifiles.anxidrug import *
 from medifiles.atddrug import *
+from medifiles.stabdrug import *
+
 from medifiles.carbaloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
@@ -57,6 +59,7 @@ class Application(Frame):
             antiepiDrugLoop(self, drug2)
             anxioDrugLoop(self, drug2)
             atdDrugLoop(self, drug2)
+            stabDrugLoop(self, drug2)
 
             seroFunc(self, drug3, drug4)
             carbaFunc(self, drug3, drug4)

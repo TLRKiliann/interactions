@@ -20,7 +20,7 @@ oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "brivia
       "flunitrazepam", "seresta", "oxazépam", "temesta", "lorazépam", "tranxilium", 
       "clorazépate", "urbanyl", "clobazam", "valium", "diazépam", "xanax", "alprazolam",
       "anafranil", "clomipramine", "saroten", "amitriptyline", "surmontil", "trimipramine",
-      "trittico", "trazodone", "lithium"]
+      "trittico", "trazodone", "lithium", "lithiofor"]
 
 """
 
