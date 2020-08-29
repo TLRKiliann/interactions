@@ -29,7 +29,7 @@ Contre-indications :
 
     Iléus paralytique;
 
-    Un traitement par Léponex ne doit pas être entrepris lorsque d'autres médicaments 
+    Un traitement par Leponex ne doit pas être entrepris lorsque d'autres médicaments 
     susceptibles de causer une agranulocytose sont administrés en même temps; 
 
     l'administration concomitante de neuroleptiques à action prolongée (Dépôt) n'est 
@@ -74,9 +74,9 @@ prépondérant et peut également inverser l'effet presseur de l'adrénaline.
 Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication 
 anti-épileptique est nécessaire. De rares cas de crises épileptiques graves, y compris 
 l'apparition de nouvelles convulsions, ainsi que des cas isolés de delirium ont été 
-décrits lorsque Léponex est administré en même temps que l'acide valproïque. Cet effet 
-repose probablement sur une interaction pharmacodynamique dont le mécanisme n'est pas 
-connu.
+décrits lorsque Léponex est administré en même temps que l'acide valproïque (depakine,
+valproate). Cet effet repose probablement sur une interaction pharmacodynamique dont 
+le mécanisme n'est pas connu.
 
 Léponex peut augmenter la concentration plasmatique de substances se liant fortement 
 aux protéines (par ex. la warfarine et la digoxine) en raison de leur déplacement à 
@@ -112,12 +112,12 @@ Inhibiteurs
 
     L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine 
     (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
-    clarithromycine, d'azithromycine, de fluvoxamine (1A2), de pérazine (1A2), de 
+    clarithromycine, d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), de 
     ciprofloxacine (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
     par Léponex à fortes doses a été corrélée avec une élévation du taux sanguin de 
     clozapine et l'apparition d'effets indésirables.
     Une élévation des taux plasmatiques de clozapine a été signalée chez des patients 
-    qui avaient reçu ce médicament en association avec de la fluvoxamine (inhibiteur 
+    qui avaient reçu ce médicament en association avec de la fluvoxamine (atd) (inhibiteur 
     du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs 
     sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du 
     CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine 
@@ -144,16 +144,18 @@ Substrats
 
 Inducteurs
 
-    Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine), 
-    peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement par 
-    la carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine.
-    Lors d'administration concomitante de phénytoïne une diminution des taux plasmatiques 
-    de clozapine ayant conduit à une diminution de l'efficacité la dose de Léponex 
-    auparavant efficace a été constatée.
+    Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine 
+    (antiTB)), peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un 
+    traitement par la carbamazépine a conduit à une augmentation des taux plasmatiques de 
+    clozapine. Lors d'administration concomitante de phénytoïne une diminution des taux 
+    plasmatiques de clozapine ayant conduit à une diminution de l'efficacité la dose de 
+    Léponex auparavant efficace a été constatée.
+
     La fumée de tabac induit le CYP1A2, c'est pourquoi une abstinence subite chez les gros 
     fumeurs peut provoquer une augmentation des taux plasmatiques de clozapine et par là 
     des effets indésirables.
+    
     L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
     Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
-    (faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous 
-    combinaison de lanzoprazole avec la paroxétine).
+    (faibles concentrations de clozapine sous oméprazole (ipp) et pantoprazole (ipp) resp. 
+    sous combinaison de lanzoprazole (ipp) avec la paroxétine (deroxat)).
