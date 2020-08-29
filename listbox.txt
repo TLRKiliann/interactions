@@ -7,6 +7,7 @@ ac = anticoagulants
 antihist = antihistaminiques
 ahyperTA = antihypertenseurs
 apalu = antipaludéens (antimalaria)
+amyco = antimycotiques
 apsy = antipsychotiques
 atd = antidépresseurs
 antiTB = antituberculeux

@@ -22,10 +22,6 @@ le plus faible parmi les SSRIs d'une interaction cliniquement significative).
 Pourtant des cas d'interaction cliniquement significative lors de comédication de 
 citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de 
 clozapine a également été observée lors de combinaison avec la venlafaxine.
-Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des 
-inhibiteurs/inducteurs puissants du CYP3A4. Il est à prévoir que ces médicaments 
-puissent également conduire à des interactions à signification clinique. Toutefois, 
-jusqu'à ce jour aucune interaction n'a été rapportée.
 
 L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
 Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 

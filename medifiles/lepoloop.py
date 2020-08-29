@@ -44,6 +44,11 @@ def lepoFunc(self, drug3, drug4):
                 drug4 == "antibiotiques"):
                 print("+ Interactions !!!")
                 importLepoAtb(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "amyco" or \
+                drug3 == "antimycotiques" or drug4 == "amyco" or \
+                drug4 == "antimycotiques"):
+                print("+ Interactions !!!")
+                importLepoAmyco(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "cc" or \
                 drug4 == "cc" or drug3 == "contraceptifs" or \
                 drug4 == "contraceptifs"):

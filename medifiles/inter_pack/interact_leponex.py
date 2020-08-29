@@ -77,6 +77,20 @@ def importLepoAtb(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atb.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (leponex + atb)
+def importLepoAmyco(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_amyco.txt'):
+            print("+ File 'lepo_amyco.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_amyco.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_amyco.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (leponex + cc)
 def importLepoContracept(self):
     try:

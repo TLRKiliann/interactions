@@ -1,0 +1,12 @@
+INTERACTIONS LEPONEX AVEC ANTIMYCOTIQUES !
+
+La combinaison de Léponex avec des substances connues pour influencer l'activité des iso-
+-enzymes CYP450 peut conduire à une augmentation ou une diminution des taux plasmatiques 
+de clozapine :
+
+Inhibiteurs
+
+    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des inhibiteurs/
+    inducteurs puissants du CYP3A4. Il est à prévoir que ces médicaments puissent également 
+    conduire à des interactions à signification clinique. Toutefois, jusqu'à ce jour aucune 
+    interaction n'a été rapportée.

@@ -128,7 +128,8 @@ Inhibiteurs
     Pourtant des cas d'interaction cliniquement significative lors de comédication de 
     citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de                        --- citalopram et de clozapine 
     clozapine a également été observée lors de combinaison avec la venlafaxine.
-    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des                             --- antimycotiques azolés
+
+    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des
     inhibiteurs/inducteurs puissants du CYP3A4. Il est à prévoir que ces médicaments 
     puissent également conduire à des interactions à signification clinique. Toutefois, 
     jusqu'à ce jour aucune interaction n'a été rapportée.
