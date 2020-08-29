@@ -135,7 +135,7 @@ Inhibiteurs
 
 Substrats
 
-    La caféine (substrat du CYP1A2) peut augmenter les taux plasmatiques de la clozapine.                   --- café
+    La caféine (substrat du CYP1A2) peut augmenter les taux plasmatiques de la clozapine.                   
     Après 5 jours sans absorption de caféine, les taux plasmatiques de clozapine diminue 
     d'env. 50%. Ceci devrait être pris en considération lors de modifications de la 
     consommation de café/thé. Lors d'administration concomitante de 2× 250 mg de 
