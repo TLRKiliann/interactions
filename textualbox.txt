@@ -145,6 +145,8 @@ cymbalta =
 effexor = venlafaxine
 remeron = mirtazapine
 
+# SSRI
+
 # Phytothérapie :
 
 millepertuis

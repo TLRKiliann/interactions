@@ -41,55 +41,55 @@ Interactions :
 
 Interactions pharmacodynamiques
 
-Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être 
+Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être                   --- neuro
 associés à Léponex. Les neuroleptiques (potentiellement myélosuppresseurs) à durée 
 d'action prolongée (Dépôt), ne devraient pas être administrés en même temps que Léponex 
 car ces substances ne peuvent pas être éliminées rapidement de l'organisme en cas de 
 nécessité, par ex. en cas de neutropénie (cf. «Mises en garde et précautions, 
 Précautions particulières»).
 
-Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC ainsi que 
+Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC ainsi que                 --- oh antiHist imao bzd methadone
 l'effet dépresseur des narcotiques, des antihistaminiques et des benzodiazépines. Des 
 cas de décès lors de combinaison de clozapine avec ces substances y compris la méthadone 
 ont été observés.
 
-Une prudence particulière s'impose lors de l'administration simultanée d'une 
+Une prudence particulière s'impose lors de l'administration simultanée d'une                            --- bzd 
 benzodiazépine ou d'autres psychotropes, ainsi que chez les patients qui ont reçu 
 récemment des médicaments de cette catégorie, cela en raison d'un risque accru de 
 collapsus cardiovasculaire, lequel peut s'avérer profond dans de rares cas et entraîner 
 un arrêt cardiaque ou respiratoire. Il n'est pas certain qu'un ajustement posologique 
 puisse prévenir l'apparition d'un collapsus cardiovasculaire ou respiratoire.
 
-L'utilisation concomitante de lithium ou d'autres médicaments agissant au niveau central 
+L'utilisation concomitante de lithium ou d'autres médicaments agissant au niveau central                --- lithium
 peut augmenter le risque de syndrome neuroleptique malin.
 
-En raison d'effets cumulatifs possibles, une grande prudence s'impose lors de 
+En raison d'effets cumulatifs possibles, une grande prudence s'impose lors de                           --- anticholinergique ahyperTA bzd
 l'administration concomitante de médicaments ayant des propriétés anticholinergiques, 
 hypotensives ou de dépression respiratoire.
 
-En raison de ses propriétés anti-alpha-adrénergiques Léponex peut diminuer l'effet 
+En raison de ses propriétés anti-alpha-adrénergiques Léponex peut diminuer l'effet                      --- alpha-adrénergiques noradrénaline
 hémopresseur de la noradrénaline ou d'autres produits à effet alpha-adrénergique 
 prépondérant et peut également inverser l'effet presseur de l'adrénaline.
 
-Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication 
+Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication                           --- mae valproate
 anti-épileptique est nécessaire. De rares cas de crises épileptiques graves, y compris 
 l'apparition de nouvelles convulsions, ainsi que des cas isolés de delirium ont été 
 décrits lorsque Léponex est administré en même temps que l'acide valproïque (depakine,
 valproate). Cet effet repose probablement sur une interaction pharmacodynamique dont 
 le mécanisme n'est pas connu.
 
-Léponex peut augmenter la concentration plasmatique de substances se liant fortement 
+Léponex peut augmenter la concentration plasmatique de substances se liant fortement                     --- ac digoxine
 aux protéines (par ex. la warfarine et la digoxine) en raison de leur déplacement à 
 partir des protéines plasmatiques. Si nécessaire, la posologie de la substance liée 
 aux protéines devra être corrigée.
 
-Comme avec d'autres neuroleptiques, Léponex doit être prescrit avec prudence en 
+Comme avec d'autres neuroleptiques, Léponex doit être prescrit avec prudence en                          --- neuro
 association avec des médicaments connus pour allonger l'intervalle QTc ou pour 
 entraîner un déséquilibre électrolytique.
 
 Interactions pharmacocinétiques
 
-La clozapine est un substrat pour beaucoup d'isoenzymes du CYP450; les plus importantes 
+La clozapine est un substrat pour beaucoup d'isoenzymes du CYP450; les plus importantes                   --- 
 étant 3A4, 1A2 et 2D6. Ceci devrait réduire le risque d'interactions métaboliques dues 
 à l'influence d'une seule isoforme. Chez les patients recevant un traitement concomitant 
 avec des médicaments ayant une affinité pour une ou plusieurs de ces enzymes, le taux 
@@ -105,12 +105,12 @@ réduction posologique. Toutefois, aucune interaction à signification clinique 
 rapportée à ce jour.
 
 La combinaison de Léponex avec des substances connues pour influencer l'activité des 
-isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux plasmatiques 
-de clozapine:
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux 
+plasmatiques de clozapine :
 
 Inhibiteurs
 
-    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine 
+    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine                            --- cimétidine pérazine atb cc
     (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
     clarithromycine, d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), de 
     ciprofloxacine (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
@@ -119,7 +119,7 @@ Inhibiteurs
     Une élévation des taux plasmatiques de clozapine a été signalée chez des patients 
     qui avaient reçu ce médicament en association avec de la fluvoxamine (atd) (inhibiteur 
     du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs 
-    sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du 
+    sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du                       --- isrs
     CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine 
     (inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram 
     (probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel 
