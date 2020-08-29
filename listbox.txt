@@ -9,7 +9,7 @@ ahyperTA = antihypertenseurs
 apalu = antipaludéens
 apsy = antipsychotiques
 atd = antidépresseurs
-atub = antituberculeux
+antiTB = antituberculeux
 atuss = antitussifs
 
 B
@@ -24,7 +24,7 @@ irsn = inhibiteurs de la recapture en sérotonine et noradrénaline
 isrs = inhibiteurs sélectifs de la recapture en sérotonine 
 
 K
-keto = kétoconazol
+keto = kétoconazole
 
 M
 mae = antiépileptiques

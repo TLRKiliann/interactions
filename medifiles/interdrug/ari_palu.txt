@@ -1,4 +1,4 @@
-INTERACTONS ABILIFY AVEC FLUOXETINE - PAROXETINE :
+INTERACTONS ABILIFY AVEC QUINIDINE (ANTIPALUDEEN) :
 
 Quinidine (antipaludéens) et autres inhibiteurs du CYP2D6.
 
@@ -6,7 +6,4 @@ Dans une étude clinique sur des volontaires sains, un inhibiteur puissant du CY
 (la quinidine) a augmenté l'ASC de l'aripiprazole de 107%, alors que la Cmax restait 
 inchangée. L'ASC et la Cmax du métabolite actif, le déhydro-aripiprazole, ont diminué 
 respectivement de 32% et 47%. La dose prescrite d'aripiprazole doit être réduite de 
-moitié environ en cas d'administration concomitante d'aripiprazole et de quinidine. 
-D'autres inhibiteurs puissants du CYP2D6, tels que la fluoxétine (prozac) et la paroxétine 
-(deroxat), sont susceptibles d'avoir des effets similaires, et par conséquent, les mêmes 
-réductions de dose s'appliquent. 
+moitié environ en cas d'administration concomitante d'aripiprazole et de quinidine.

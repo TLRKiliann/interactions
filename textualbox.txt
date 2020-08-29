@@ -145,6 +145,9 @@ Cymbalta =
 Effexor =
 Remeron =
 
+# Phytothérapie :
+
+Millepertuis
 
 # Quelques définitions :
 
