@@ -133,6 +133,20 @@ def importLepoBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_bzd.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (leponex + café)
+def importLepoCafe(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_caf.txt'):
+            print("+ File 'lepo_caf.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_caf.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_caf.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (leponex + OH)
 def importLepoOh(self):
     try:

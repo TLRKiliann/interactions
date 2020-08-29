@@ -1,5 +1,9 @@
 INTERACTIONS LEPONEX AVEC CARBAMAZEPINE - ANTITUBERCULEUX !
 
+La combinaison de Léponex avec des substances connues pour influencer l'activité des 
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux 
+plasmatiques de clozapine :
+
 Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine (mae) et la rifampicine 
 (antiTB)), peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement 
 par la carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine.
