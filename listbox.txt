@@ -1,0 +1,41 @@
+Mots clef de l'application :
+-----------------------------------
+
+A
+atb = antibiotiques
+ac = anticoagulants
+antihist = antihistaminiques
+ahyperTA = antihypertenseurs
+apalu = antipaludéens
+apsy = antipsychotiques
+atd = antidépresseurs
+atub = antituberculeux
+atuss = antitussifs
+
+B
+bzd = benzodiazépines
+
+C
+cc = contraceptifs
+
+I
+ipp = inhibiteurs de la pompe à protons
+irsn = inhibiteurs de la recapture en sérotonine et noradrénaline
+isrs = inhibiteurs sélectifs de la recapture en sérotonine 
+
+K
+keto = kétoconazol
+
+M
+mae = antiépileptiques
+meoh = méthadone
+
+N
+neuro = neuroleptiques
+
+O
+oh = alcool
+onco = chimio et ttt anticancéreux
+
+V
+vih = traitement contre le VIH

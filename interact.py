@@ -109,12 +109,37 @@ class Application(Frame):
             command=searchExpress)
         self.buttonSearch.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
-        def refresh():
+        def renewTextBox():
             """
-            To refresh textBox !
+            To renew textBox with intro page !
             """
-            self.textBox.delete('0.0', END)
-            self.textBox.update()
+            try:
+                if os.path.getsize('textualbox.txt'):
+                    print("+ File 'textualbox.txt' exist (read)!")
+                    self.textBox.delete('0.0', 'end')
+                    self.textBox.update()
+                    with open('textualbox.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'textualbox.txt' does not exist !", outnote)
+
+        def showListtt():
+            """
+            To display list of ttt to use app !
+            """
+            try:
+                if os.path.getsize('listbox.txt'):
+                    print("+ File 'listbox.txt' exist (read)!")
+                    self.textBox.delete('0.0', 'end')
+                    self.textBox.update()
+                    with open('listbox.txt', 'r') as textfile:
+                        lines = textfile.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote:
+                print("+ Sorry, file 'listbox.txt' does not exist !", outnote)
 
         def upDateAll():
             """
@@ -123,11 +148,18 @@ class Application(Frame):
             self.master.destroy()
             subprocess.call('./interact.py')
 
-        # Button to earase textBox
-        self.buttonRefresh = Button(self.can, text='Erase', width=8, bd=3,
+        # Button to display list of ttt
+        self.buttonListtt = Button(self.can, text='Liste ttt', width=8, bd=3,
             fg='navy', bg='turquoise2', highlightbackground='darkblue',
             activeforeground='yellow',
-            activebackground='light blue', command=refresh)
+            activebackground='light blue', command=showListtt)
+        self.buttonListtt.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
+
+        # Button to earase textBox
+        self.buttonRefresh = Button(self.can, text='Intro', width=8, bd=3,
+            fg='navy', bg='turquoise2', highlightbackground='darkblue',
+            activeforeground='yellow',
+            activebackground='light blue', command=renewTextBox)
         self.buttonRefresh.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         # Button to update
