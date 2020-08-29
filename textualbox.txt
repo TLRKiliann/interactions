@@ -2,8 +2,16 @@ BIENVENUE DANS INTERACT !
 
 Médicaments disponibles par classe :
 
-antipsychotiques, antiépileptiques, antidépresseurs, anxiolytiques, thymorégulateurs, 
-somnifères, benzodiazépines, inhibiteurs de la cholinestérase, antiparkinsoniens
+antipsychotiques(apsy)
+antiépileptiques(mae)
+antidépresseurs(atd)
+anxiolytiques(anxio)
+antiparkinsoniens(apk)
+benzodiazépines(bzd)
+inhibiteurs de la cholinestérase(idlc)
+somnifères(somni)
+thymorégulateurs(stab)
+
 
 Médicaments disponibles par interactions :
 
@@ -24,6 +32,7 @@ risperdal = risperdone
 seroquel = sequase = quétiapine
 solian = amisulpride
 tiapridal = tiapride
+
 
 Antiépileptiques :
 -----------------------
@@ -47,6 +56,7 @@ trileptal = oxcarbazépine
 vimpat = lacosamide
 zonegran = zonisamide
 
+
 Anxiolytiques :
 -------------------
 atarax = dichlorhydrate d'hydroxyzine
@@ -60,6 +70,7 @@ traxilium = clorazépate
 urbanyl = clobazam
 valium = diazépam
 xanax = alprazolam
+
 
 Benzodiazépines :
 ------------------------
@@ -81,6 +92,7 @@ urbanyl =
 valium =
 xanax =
 
+
 Stabilisateurs de l'humeur ou thymorégulateurs : 
 ------------------------------------------------------------------
 depakine = valproate
@@ -89,6 +101,7 @@ lithiofor = lithium
 (sel EMSR, quilonorm)
 tégrétol = carbamazépine
 zyprexa = olanzapine
+
 
 Antidépresseurs : fluoxétine à trouver !!!!
 -----------------------
@@ -132,22 +145,43 @@ Cymbalta =
 Effexor =
 Remeron =
 
-Mots clef de l'application :
 
-atb
+Mots clef de l'application :
+-----------------------------------
+
+A
+atb = antibiotiques
 ac = anticoagulants
-isrs
-irsn
-antipsy
-neuro
-mae
-oh
-meoh
-atd
 ahyperTA = antihypertenseurs
-palu = antipaludéens
-atus = antitussifs (bexin)
+apalu = antipaludéens
+apsy = antipsychotiques
+atd = antidépresseurs
+atub = antituberculeux
+atuss = antitussifs
+
+C
+cc = contraceptifs
+
+I
 ipp = inhibiteurs de la pompe à protons
+irsn = inhibiteurs de la recapture en sérotonine et noradrénaline
+isrs = inhibiteurs sélectifs de la recapture en sérotonine 
+
+M
+mae = médicaments anti-épileptiques
+meoh = méthadone
+
+N
+neuro = neuroleptiques
+
+O
+oh = alcool
+
+V
+vih = traitement contre le VIH
+
+
+# Quelques définitions :
 
 Cmax :
 La Cmax est la concentration sérique maximale (ou pic) qu'un médicament atteint dans un 
