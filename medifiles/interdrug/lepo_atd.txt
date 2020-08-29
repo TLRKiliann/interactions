@@ -1,29 +1,26 @@
 INTERACTIONS LEPONEX AVEC ATD !
 
-Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC ainsi que 
-l'effet dépresseur des narcotiques, des antihistaminiques et des benzodiazépines. Des 
-cas de décès lors de combinaison de clozapine avec ces substances y compris la méthadone 
-ont été observés.
+Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC ainsi que l'effet 
+dépresseur des narcotiques, des antihistaminiques et des benzodiazépines. Des cas de décès 
+lors de combinaison de clozapine avec ces substances y compris la méthadone ont été observés.
 
 Théoriquement il est possible que le taux plasmatique des antidépresseurs tricycliques, 
 de la phénothiazine et des anti-arythmiques de type lC, qui sont connus pour se lier au 
-cytochrome P450 2D6, soit augmenté par la clozapine ce qui pourrait nécessiter une 
-réduction posologique. Toutefois, aucune interaction à signification clinique n'a été 
-rapportée à ce jour.
+cytochrome P450 2D6, soit augmenté par la clozapine ce qui pourrait nécessiter une réduction 
+posologique. Toutefois, aucune interaction à signification clinique n'a été rapportée à ce jour.
 
-Une élévation des taux plasmatiques de clozapine a été signalée chez des patients 
-qui avaient reçu ce médicament en association avec de la fluvoxamine (inhibiteur 
-du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs 
-sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du 
-CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine 
-(inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram 
-(probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel 
-le plus faible parmi les SSRIs d'une interaction cliniquement significative). 
-Pourtant des cas d'interaction cliniquement significative lors de comédication de 
-citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de 
-clozapine a également été observée lors de combinaison avec la venlafaxine.
+Une élévation des taux plasmatiques de clozapine a été signalée chez des patients qui avaient 
+reçu ce médicament en association avec de la fluvoxamine (inhibiteur du CYP3A4 et CYP1A2; 
+taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs sélectifs du recaptage de la sérotonine 
+(SSRI) comme la paroxétine (inhibiteur du CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 
+2D6) ou la fluoxétine (inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram 
+(probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel le plus 
+faible parmi les SSRIs d'une interaction cliniquement significative). Pourtant des cas 
+d'interaction cliniquement significative lors de comédication de citalopram et de clozapine 
+ont été rapportés. Une élévation des taux sanguins de clozapine a également été observée lors 
+de combinaison avec la venlafaxine.
 
 L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
 Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
-(faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous 
-combinaison de lanzoprazole avec la paroxétine).
+(faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous combinaison 
+de lanzoprazole avec la paroxétine).
