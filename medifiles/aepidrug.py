@@ -67,4 +67,4 @@ def antiepiDrugLoop(self, drug2):
             if drug2 == i:
                 antiepiDrug39(self)
         else:
-            print("This antiepi is not in the list")
+            print("End of mae loop !")

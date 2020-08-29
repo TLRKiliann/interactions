@@ -74,7 +74,7 @@ def depaFunc(self, drug3, drug4):
                 importDepakTopadia(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
                 drug4 == "neuroleptiques" or drug3 == "neuro" or \
-                drug3 == "antipsy" or drug4 == "neuro" or drug4 == "antipsy"):
+                drug3 == "apsy" or drug4 == "neuro" or drug4 == "apsy"):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "olanzapine" or \
@@ -89,7 +89,8 @@ def depaFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importDepakNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
-                drug4 == "lithium"):
+                drug3 == "lithiofor" or drug4 == "lithium" or \
+                drug4 == "lithiofor"):
                 print("+ Interactions !!!")
                 importDepakLith(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
@@ -113,4 +114,4 @@ def depaFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importDepakContracep(self)
             else:
-                print("Loop to search depakine and interactions...")
+                print("+ End of depaloop ttt list !")

@@ -13,4 +13,4 @@ def stabDrugLoop(self, drug2):
             if drug2 == i:
                 stabDrug1(self)
         else:
-            print("This atd is not in the list")
+            print("End of stab loop !")

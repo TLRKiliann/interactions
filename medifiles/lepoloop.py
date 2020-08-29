@@ -21,31 +21,31 @@ def lepoFunc(self, drug3, drug4):
 
             elif (drug3 == i or drug4 == i) and \
                 (drug3 == "inhibiteurs de la pompe à protons" or \
-                drug3 == "IPP" or \
+                drug3 == "ipp" or \
                 drug4 == "inhibiteurs de la pompe à protons" or \
-                drug4 == "IPP"):
+                drug4 == "ipp"):
                 print("+ Interactions !!!")
                 importLepoIpp(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "antidépresseurs" or \
-                drug3 == "ATD" or drug4 == "antidépresseurs" or \
-                drug4 == "ATD"):
+                drug3 == "atd" or drug4 == "antidépresseurs" or \
+                drug4 == "atd"):
                 print("+ Interactions !!!")
                 importLepoAtd(self)
 
-            elif (drug3 == i or drug4 == i) and (drug3 == "ATB" or \
-                drug3 == "antibiotiques" or drug4 == "ATB" or \
+            elif (drug3 == i or drug4 == i) and (drug3 == "atb" or \
+                drug3 == "antibiotiques" or drug4 == "atb" or \
                 drug4 == "antibiotiques"):
                 print("+ Interactions !!!")
                 importLepoAtb(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "antihistaminiques" or \
-                drug4 == "antihistaminiques"):
+                drug3 == "antihist" or drug4 == "antihist" or drug4 == "antihistaminiques"):
                 print("+ Interactions !!!")
                 importLepoAntiHist(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
-                drug4 == "antiépileptiques" or drug3 == "MAE" or drug4 == "MAE"):
+                drug4 == "antiépileptiques" or drug3 == "mae" or drug4 == "mae"):
                 print("+ Interactions !!!")
                 importLepoMae(self)
 
@@ -55,7 +55,7 @@ def lepoFunc(self, drug3, drug4):
                 importLepoNeuro(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
-                drug4 == "benzodiazépines" or drug3 == "BZD" or drug4 == "BZD"):
+                drug4 == "benzodiazépines" or drug3 == "bzd" or drug4 == "bzd"):
                 print("+ Interactions !!!")
                 importLepoBzd(self)
 
@@ -70,14 +70,14 @@ def lepoFunc(self, drug3, drug4):
                 importLepoMeOH(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
-                drug4 == "lithium"):
+                drug3 == "lithiofor" or drug4 == "lithium" or drug4 == "lithiofor"):
                 print("+ Interactions !!!")
                 importLepoLith(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "anticoagulants" or \
-                drug4 == "anticoagulants"):
+                drug3 == "ac" or drug4 == "anticoagulants" or drug4 == "ac"):
                 print("+ Interactions !!!")
                 importLepoCoag(self)
             else:
-                print("Loop to search leponex and interactions...")
+                print("+ End of lepoloop ttt list !")
                 

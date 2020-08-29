@@ -77,30 +77,30 @@ class Application(Frame):
         self.familyDrug1_var = StringVar()
         self.reachFamily = Entry(self.can, textvariable=self.familyDrug1_var, width=30)
         self.familyDrug1_var.set("Enter a class of drug")
-        self.reachFamily.pack(in_=self.top2, side=LEFT, padx=10, pady=20)
+        self.reachFamily.pack(in_=self.top2, side=LEFT, padx=40, pady=20)
 
         # Text entry 2
         self.oneperdrug2_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.oneperdrug2_var, width=30)
         self.oneperdrug2_var.set("Enter a name of drug")
-        self.reachDate.pack(in_=self.top2, side=LEFT, padx=10, pady=20)
+        self.reachDate.pack(in_=self.top2, side=LEFT, padx=40, pady=20)
 
         # Text entry 3
         self.compDrug1_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.compDrug1_var, width=30)
         self.compDrug1_var.set("Enter a drug 1")
-        self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
+        self.reachDate.pack(in_=self.top3, side=LEFT, padx=20, pady=10)
 
         # Label VS
         self.labelbot=Label(self.can, text="VS", font='Times 18 bold', 
             fg='red', bg='aquamarine')
-        self.labelbot.pack(in_=self.top3, side=LEFT, padx=5, pady=10)
+        self.labelbot.pack(in_=self.top3, side=LEFT, pady=10)
 
         # Text entry 4
         self.comparedrug2_var = StringVar()
         self.reachDate = Entry(self.can, textvariable=self.comparedrug2_var, width=30)
         self.comparedrug2_var.set("Enter drug 2")
-        self.reachDate.pack(in_=self.top3, side=LEFT, padx=80, pady=10)
+        self.reachDate.pack(in_=self.top3, side=LEFT, padx=20, pady=10)
 
         # Button to search text entry
         self.buttonSearch = Button(self.can, text='Search', width=8, bd=3,

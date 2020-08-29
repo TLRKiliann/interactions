@@ -18,6 +18,11 @@ def ariFunc(self, drug3, drug4):
                 drug4 == "tégrétol"):
                 print("+ Interactions !!!")
                 importAriCarba(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "mae" or \
+                drug4 == "mae" or drug3 == "antiépileptiques" or \
+                drug4 == "antiépileptiques"):
+                print("+ Interactions !!!")
+                importAriCarba(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "primidone" or \
                 drug4 == "primidone" or drug3 == "mysoline" or \
                 drug4 == "mysoline"):
@@ -56,13 +61,13 @@ def ariFunc(self, drug3, drug4):
                 drug4 == "deroxat"):
                 print("+ Interactions !!!")
                 importAriFluo(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "palu" or \
-                drug4 == "palu" or drug3 == "quinidine" or \
+            elif (drug3 == i or drug4 == i) and (drug3 == "apalu" or \
+                drug4 == "apalu" or drug3 == "quinidine" or \
                 drug4 == "quinidine"):
                 print("+ Interactions !!!")
                 importAriFluo(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazole" or \
-                drug4 == "kétoconazole"):
+                drug3 == "keto" or drug4 == "kétoconazole" or drug4 == "keto"):
                 print("+ Interactions !!!")
             elif (drug3 == i or drug4 == i) and (drug3 == "ahyperTA" or \
                 drug4 == "ahyperTA"):
@@ -82,8 +87,8 @@ def ariFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importAriFluo(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
-                drug4 == "oh"):
+                drug3 == "alcool" or drug4 == "oh" or drug4 == "alcool"):
                 print("+ Interactions !!!")
                 importAriOh(self)
             else:
-                print("End of loop of abilify ttt !")
+                print("+ End of aripiloop ttt list !")

@@ -43,4 +43,4 @@ def anxioDrugLoop(self, drug2):
             if drug2 == i:
                 anxioDrug51(self)
         else:
-            print("This anxio is not in the list")
+            print("End of anxio loop !")

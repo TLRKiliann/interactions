@@ -28,7 +28,7 @@ def antipsyDrugLoop(self, drug2):
         elif i == "haldol" or i == "halopéridol":
             if drug2 == i:
                 antipsyDrug6(self)
-        elif i == "nozinan" or i == "levomepromazine":
+        elif i == "nozinan" or i == "lévomépromazine":
             if drug2 == i:
                 antipsyDrug7(self)
         elif i == "tiapridal" or i == "tiapride":
@@ -56,4 +56,4 @@ def antipsyDrugLoop(self, drug2):
             if drug2 == i:
                 antipsyDrug17(self)
         else:
-            print("This antipsy is not in the list")
+            print("End of apsy loop !")

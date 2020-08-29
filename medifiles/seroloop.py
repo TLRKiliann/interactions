@@ -28,7 +28,7 @@ def seroFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importSeroEry(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "kétoconazol" or \
-                drug4 == "kétoconazol"):
+                drug3 == "keto" or drug4 == "kétoconazol" or drug4 == keto):
                 print("+ Interactions !!!")
                 importSeroKeto(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "lithium" or \
@@ -56,4 +56,4 @@ def seroFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importSeroRisp(self)
             else:
-                print("Loop to search seroquel and interactions...")
+                print("+ End of seroloop ttt list !")

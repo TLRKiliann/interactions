@@ -136,4 +136,4 @@ def carbaFunc(self, drug3, drug4):
                 print("+ Interactions !!!")
                 importCarbaAntipsy(self)
             else:
-                print("Loop to search carbamazepine and interactions...")
+                print("+ End of carbaloop ttt list !")

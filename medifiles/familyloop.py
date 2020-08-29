@@ -10,7 +10,7 @@ from medifiles.func_pack.funcfamily import *
 def familyLoop(self, drug1):
     for i in familiyttt:
         if i == "antipsychotiques":
-            if drug1 == i or drug1 == "antipsy":
+            if drug1 == i or drug1 == "apsy":
                 familyPsycho(self)
         elif i == "antiépileptiques":
             if drug1 == i or drug1 == "mae":
@@ -34,7 +34,7 @@ def familyLoop(self, drug1):
             if drug1 == i or drug1 == "idlc":
                 familyIcho(self)
         elif i == "antiparkinsoniens":
-            if drug1 == i or drug1 == "ap":
+            if drug1 == i or drug1 == "apk":
                 familyPark(self)
         else:
-            print("+ This drug is not in familylist")
+            print("+ End of familyloop list !")
