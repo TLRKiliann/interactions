@@ -10,17 +10,18 @@ oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "brivia
       "leponex", "carbamazépine", "tégrétol", "depakine", "valproate", "haldol", 
       "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
       "lévomépromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
-      "olanzapine", "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", "quétiapine", 
-      "solian", "amisulpride", "ethosuximide", "pétinimid", "mysoline", "primidone", 
-      "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "pérampanel", "inovelon", 
-      "rufinamide", "keppra", "lévétiracetam", "lamictal", "lamotrigine", "lyrica", 
-      "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", "taloxa", "felbamate", 
-      "topamax", "topiramate", "trileptal", "oxcarbazépine", "vimpat", "lacosamide", "zonegran", 
-      "zonisamide", "lexotanil", "bromazépam", "rivotril", "clonazépam", "rohypnol", 
-      "flunitrazepam", "seresta", "oxazépam", "temesta", "lorazépam", "tranxilium", 
-      "clorazépate", "urbanyl", "clobazam", "valium", "diazépam", "xanax", "alprazolam",
-      "anafranil", "clomipramine", "saroten", "amitriptyline", "surmontil", "trimipramine",
-      "trittico", "trazodone", "lithium", "lithiofor"]
+      "olanzapine", "zyprexa", "risperdal", "risperdone", "seroquel", "sequase", 
+      "quétiapine", "solian", "amisulpride", "ethosuximide", "pétinimid", "mysoline", 
+      "primidone", "phénobarbital", "aphénylbarbite", "phénytoïne", "fycompa", "pérampanel", 
+      "inovelon", "rufinamide", "keppra", "lévétiracetam", "lamictal", "lamotrigine", 
+      "lyrica", "prégabaline", "neurontin", "gabapentine", "sabril", "vigabatrin", 
+      "taloxa", "felbamate", "topamax", "topiramate", "trileptal", "oxcarbazépine", 
+      "vimpat", "lacosamide", "zonegran", "zonisamide", "lexotanil", "bromazépam", 
+      "rivotril", "clonazépam", "rohypnol", "flunitrazepam", "seresta", "oxazépam", 
+      "temesta", "lorazépam", "tranxilium", "clorazépate", "urbanyl", "clobazam", 
+      "valium", "diazépam", "xanax", "alprazolam","anafranil", "clomipramine", "saroten", 
+      "amitriptyline", "surmontil", "trimipramine","trittico", "trazodone", "lithium", 
+      "lithiofor"]
 
 """
 

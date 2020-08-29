@@ -114,12 +114,12 @@ trittico = trazodone
 
 # ISRS (inhibiteurs sélectifs de la recapture en sérotonine) :
 
-Citalopram (Seropram) =
-Deroxat (Paroxétine) =
-escitalopram (Cipralex) =
-fluoxétine (Prozac) =
-fluvoxamine (Floxyfral) =
-Sertraline (Zoloft).
+seropram = citalopram
+deroxat = paroxétine
+cipralex = escitalopram
+prozac = fluoxétine
+floxyfral = fluvoxamine
+sertraline = zoloft
 
 # IRSNA (inhibiteurs de la recapture de la sérotonine-noradrénaline) :
 
@@ -141,13 +141,13 @@ Regitine (Phantolamine)
 
 # Antidépresseurs sélectifs :
 
-Cymbalta =
-Effexor =
-Remeron =
+cymbalta =
+effexor = venlafaxine
+remeron = mirtazapine
 
 # Phytothérapie :
 
-Millepertuis
+millepertuis
 
 # Quelques définitions :
 
