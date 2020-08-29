@@ -21,6 +21,20 @@ def importLepoCarba(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_carba.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (leponex + phénytoïne)
+def importLepoPheny(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_phenyto.txt'):
+            print("+ File 'lepo_phenyto.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_phenyto.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_phenyto.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (carbamazépine + ipp)
 def importLepoIpp(self):
     try:

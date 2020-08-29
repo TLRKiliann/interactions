@@ -41,7 +41,7 @@ Interactions :
 
 Interactions pharmacodynamiques
 
-Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être                   --- neuro
+Les médicaments connus pour leur potentiel myélosuppresseur élevé ne doivent pas être 
 associés à Léponex. Les neuroleptiques (potentiellement myélosuppresseurs) à durée 
 d'action prolongée (Dépôt), ne devraient pas être administrés en même temps que Léponex 
 car ces substances ne peuvent pas être éliminées rapidement de l'organisme en cas de 
@@ -83,7 +83,7 @@ aux protéines (par ex. la warfarine et la digoxine) en raison de leur déplacem
 partir des protéines plasmatiques. Si nécessaire, la posologie de la substance liée 
 aux protéines devra être corrigée.
 
-Comme avec d'autres neuroleptiques, Léponex doit être prescrit avec prudence en                          --- neuro
+Comme avec d'autres neuroleptiques, Léponex doit être prescrit avec prudence en
 association avec des médicaments connus pour allonger l'intervalle QTc ou pour 
 entraîner un déséquilibre électrolytique.
 
@@ -98,8 +98,8 @@ concomitante de substances influençant ces isoenzymes peut conduire à une bais
 augmentation des taux plasmatiques de clozapine et/ou de ceux de la substance 
 administrée conjointement.
 
-Théoriquement il est possible que le taux plasmatique des antidépresseurs tricycliques, 
-de la phénothiazine et des anti-arythmiques de type lC, qui sont connus pour se lier au 
+Théoriquement il est possible que le taux plasmatique des antidépresseurs tricycliques,                     --- atd tcc
+de la phénothiazine et des anti-arythmiques de type lC, qui sont connus pour se lier au                     --- phénothiazine et des anti-arythmiques
 cytochrome P450 2D6, soit augmenté par la clozapine ce qui pourrait nécessiter une 
 réduction posologique. Toutefois, aucune interaction à signification clinique n'a été 
 rapportée à ce jour.
@@ -111,51 +111,52 @@ plasmatiques de clozapine :
 Inhibiteurs
 
     L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine                            --- cimétidine pérazine atb cc
-    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
-    clarithromycine, d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), de 
-    ciprofloxacine (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
+    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de                          --- érythromycine
+    clarithromycine, d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), de                     --- clarithromycine, d'azithromycine,
+    ciprofloxacine (atb) (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
     par Léponex à fortes doses a été corrélée avec une élévation du taux sanguin de 
     clozapine et l'apparition d'effets indésirables.
+
     Une élévation des taux plasmatiques de clozapine a été signalée chez des patients 
-    qui avaient reçu ce médicament en association avec de la fluvoxamine (atd) (inhibiteur 
+    qui avaient reçu ce médicament en association avec de la fluvoxamine (atd) (inhibiteur                  --- fluvoxamine
     du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs 
-    sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du                       --- isrs
-    CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine 
-    (inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram 
+    sélectifs du recaptage de la sérotonine (SSRI) comme la paroxétine (inhibiteur du                       --- isrs paroxétine
+    CYP1A2, 2D6), la sertraline (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine                              --- sertraline fluoxétine
+    (inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram                                --- citalopram 
     (probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel 
     le plus faible parmi les SSRIs d'une interaction cliniquement significative). 
     Pourtant des cas d'interaction cliniquement significative lors de comédication de 
-    citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de 
+    citalopram et de clozapine ont été rapportés. Une élévation des taux sanguins de                        --- citalopram et de clozapine 
     clozapine a également été observée lors de combinaison avec la venlafaxine.
-    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des 
+    Les antimycotiques azolés ainsi que les inhibiteurs de la protéase sont des                             --- antimycotiques azolés
     inhibiteurs/inducteurs puissants du CYP3A4. Il est à prévoir que ces médicaments 
     puissent également conduire à des interactions à signification clinique. Toutefois, 
     jusqu'à ce jour aucune interaction n'a été rapportée.
 
 Substrats
 
-    La caféine (substrat du CYP1A2) peut augmenter les taux plasmatiques de la clozapine. 
+    La caféine (substrat du CYP1A2) peut augmenter les taux plasmatiques de la clozapine.                   --- café
     Après 5 jours sans absorption de caféine, les taux plasmatiques de clozapine diminue 
     d'env. 50%. Ceci devrait être pris en considération lors de modifications de la 
     consommation de café/thé. Lors d'administration concomitante de 2× 250 mg de 
     ciprofloxacine, une augmentation significative de clozapine et de N-déméthyl-
-    clozapine a été observée. De même, des cas d'interaction avec la norfloxacine et 
-    l'enoxacine ont été rapportés.
+    clozapine a été observée. De même, des cas d'interaction avec la norfloxacine et                        --- norfloxacine
+    l'enoxacine ont été rapportés.                                                                          --- enoxacine
 
 Inducteurs
 
     Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine 
     (antiTB)), peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un 
     traitement par la carbamazépine a conduit à une augmentation des taux plasmatiques de 
-    clozapine. Lors d'administration concomitante de phénytoïne une diminution des taux 
+    clozapine. Lors d'administration concomitante de phénytoïne une diminution des taux                     --- phénytoïne
     plasmatiques de clozapine ayant conduit à une diminution de l'efficacité la dose de 
     Léponex auparavant efficace a été constatée.
 
-    La fumée de tabac induit le CYP1A2, c'est pourquoi une abstinence subite chez les gros 
+    La fumée de tabac induit le CYP1A2, c'est pourquoi une abstinence subite chez les gros                  --- tabac
     fumeurs peut provoquer une augmentation des taux plasmatiques de clozapine et par là 
     des effets indésirables.
     
-    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
+    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19.                 --- oméprazole ipp
     Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
     (faibles concentrations de clozapine sous oméprazole (ipp) et pantoprazole (ipp) resp. 
     sous combinaison de lanzoprazole (ipp) avec la paroxétine (deroxat)).

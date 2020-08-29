@@ -18,6 +18,16 @@ def lepoFunc(self, drug3, drug4):
                 drug4 == "tégrétol"):
                 print("+ Interactions !!!")
                 importLepoCarba(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
+                drug4 == "phénytoïne"):
+                print("+ Interactions phénytoïne !!!")
+                importLepoPheny(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "antituberculeux" or \
+                drug3 == "antiTB" or drug4 == "antituberculeux" or \
+                drug4 == "antiTB"):
+                print("+ Interactions !!!")
+                importLepoCarba(self)
             elif (drug3 == i or drug4 == i) and \
                 (drug3 == "inhibiteurs de la pompe à protons" or \
                 drug3 == "ipp" or \
@@ -43,8 +53,8 @@ def lepoFunc(self, drug3, drug4):
                 drug4 == "antiépileptiques" or drug3 == "mae" or drug4 == "mae"):
                 print("+ Interactions !!!")
                 importLepoMae(self)
-            elif (drug3 == i or drug4 == i) and (drug3 == "neuroleptiques" or \
-                drug4 == "neuroleptiques" or drug3 == "neuro" or drug4 == "neuro"):
+            elif (drug3 == i or drug4 == i) and (drug3 == "apsy" or \
+                drug4 == "apsy" or drug3 == "neuro" or drug4 == "neuro"):
                 print("+ Interactions !!!")
                 importLepoNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "benzodiazépines" or \
