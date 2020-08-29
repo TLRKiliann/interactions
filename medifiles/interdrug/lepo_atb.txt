@@ -6,12 +6,12 @@ plasmatiques de clozapine :
 
 Inhibiteurs
 
-    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine 
-    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
-    clarithromycine, d'azithromycine, de fluvoxamine (1A2), de pérazine (1A2), de 
-    ciprofloxacine (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie 
-    par Léponex à fortes doses a été corrélée avec une élévation du taux sanguin de 
-    clozapine et l'apparition d'effets indésirables.
+    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine (ipp)
+    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (atb) (inhibiteur du CYP3A4), 
+    de clarithromycine, d'azithromycine, de fluvoxamine (floxyfral = atd) (1A2), de 
+    pérazine () (1A2), de ciprofloxacine (ATB) (1A2) ou d'un contraceptif oral (1A2, 
+    3A4, 2C19) lors d'une thérapie par Léponex à fortes doses a été corrélée avec 
+    une élévation du taux sanguin de clozapine et l'apparition d'effets indésirables.
 
 Substrats
 
