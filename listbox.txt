@@ -35,6 +35,7 @@ cc = contraceptifs
 
 H
 hypno = hypnotiques
+hypo-uri = hypo-uricémiants
 
 I
 imao = inhibiteurs de la recapture de la mono-amine oxydase

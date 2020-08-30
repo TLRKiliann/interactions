@@ -37,34 +37,34 @@ Interactions :
 Il est déconseillé de consommer simultanément de l'alcool. On observe une potentialisation de 
 l'effet sédatif lorsque la préparation est prise en même temps que de l'alcool.
 
-Potentialisation possible de l'effet dépresseur sur le système nerveux central, avec
-augmentation du risque de dépression respiratoire, en cas de prise concomitante 
-d'antipsychotiques (neuroleptiques, par exemple clozapine), hypnotiques, 
-anxiolytiques/sédatifs, antidépresseurs, anti-épileptiques, stupéfiants tels qu'opioïdes, --- opioïdes
-anesthésiques et antihistaminiques avec effet sédatif (voir «Mises en garde et précautions»).
+Potentialisation possible de l'effet dépresseur sur le système nerveux central, avec augmentation 
+du risque de dépression respiratoire, en cas de prise concomitante d'antipsychotiques (neuro-
+-leptiques, par exemple clozapine), hypnotiques, anxiolytiques/sédatifs, antidépresseurs, anti-
+-épileptiques, stupéfiants tels qu'opioïdes, anesthésiques et antihistaminiques avec effet sédatif 
+(voir «Mises en garde et précautions»).
 
-La prise simultanée de stupéfiants (opiacés notamment) peut renforcer leur effet --- opiacés
-euphorisant et conduire à une dépendance psychique accrue.
+La prise simultanée de stupéfiants (opiacés notamment) peut renforcer leur effet euphorisant et 
+conduire à une dépendance psychique accrue.
 
-Les benzodiazépines peuvent renforcer l'effet des myorelaxants. --- myorelaxant
+Les benzodiazépines peuvent renforcer l'effet des myorelaxants. 
 
-L'administration simultanée de clozapine et de lorazépam peut entraîner une sédation 
-marquée, une salivation excessive et une ataxie.
+L'administration simultanée de clozapine et de lorazépam peut entraîner une sédation marquée, 
+une salivation excessive et une ataxie.
 
 Lorsque le lorazépam est administré avec le valproate, une augmentation de la concentration 
-plasmatique et une diminution de la clairance du lorazépam peuvent survenir. Dans ce cas, 
-il convient de diminuer de 50% environ la dose de lorazépam.
+plasmatique et une diminution de la clairance du lorazépam peuvent survenir. Dans ce cas, il 
+convient de diminuer de 50% environ la dose de lorazépam.
 
-L'administration concomitante de lorazépam et de probénécide entraîne, par prolongement --- probénécide
-de la demi-vie et diminution de la clairance totale, un début d'action plus rapide ou 
-une prolongation de l'action du lorazépam. Dans ce cas, il convient de diminuer de 50% 
-environ la dose de lorazépam.
+L'administration concomitante de lorazépam et de probénécide (santuril) entraîne, par 
+prolongement de la demi-vie et diminution de la clairance totale, un début d'action plus 
+rapide ou une prolongation de l'action du lorazépam. Dans ce cas, il convient de diminuer 
+de 50% environ la dose de lorazépam.
 
-L'administration supplémentaire de théophylline/aminophylline peut réduire l'effet sédatif --- théophylline/aminophylline
-des benzodiazépines, lorazépam compris.
+L'administration supplémentaire de théophylline/aminophylline peut réduire l'effet sédatif des 
+benzodiazépines, lorazépam compris.
 
-Le lorazépam n'exerce aucune influence sur l'activité du système du cytochrome P450. Il n'y 
-a par conséquent aucune interaction avec les médicaments métabolisés par cet enzyme.
+Le lorazépam n'exerce aucune influence sur l'activité du système du cytochrome P450. Il n'y a
+par conséquent aucune interaction avec les médicaments métabolisés par cet enzyme.
 
-Temesta, solution injectable ne doit pas être associé à la scopolamine en raison d'un risque  --- scopolamine
+Temesta, solution injectable ne doit pas être associé à la scopolamine en raison d'un risque 
 d'apparition accru de sédation, d'hallucinations ou de comportement irrationnel.

@@ -152,14 +152,14 @@ class Application(Frame):
             subprocess.call('./interact.py')
 
         # Button to display list of ttt
-        self.buttonListtt = Button(self.can, text='Liste ttt', width=8, bd=3,
+        self.buttonListtt = Button(self.can, text='Bravact', width=8, bd=3,
             fg='navy', bg='turquoise2', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=showListtt)
         self.buttonListtt.pack(in_=self.top4, side=LEFT, padx=10, pady=10)
 
         # Button to earase textBox
-        self.buttonRefresh = Button(self.can, text='Intro', width=8, bd=3,
+        self.buttonRefresh = Button(self.can, text='List', width=8, bd=3,
             fg='navy', bg='turquoise2', highlightbackground='darkblue',
             activeforeground='yellow',
             activebackground='light blue', command=renewTextBox)
