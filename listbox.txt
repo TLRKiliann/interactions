@@ -20,6 +20,7 @@ antihist = antihistaminiques
 ahyperTA = antihypertenseurs
 apalu = antipaludéens (antimalaria)
 amyco = antimycotiques
+anest = anesthésiques
 apsy = antipsychotiques
 atd = antidépresseurs
 antiTB = antituberculeux
@@ -31,6 +32,9 @@ bzd = benzodiazépines
 C
 café
 cc = contraceptifs
+
+H
+hypno = hypnotiques
 
 I
 imao = inhibiteurs de la recapture de la mono-amine oxydase
@@ -45,6 +49,7 @@ M
 mae = antiépileptiques
 meoh = méthadone
 mysup = myélosuppresseurs
+myo = myorelaxants
 
 N
 neuro = neuroleptiques
@@ -52,6 +57,10 @@ neuro = neuroleptiques
 O
 oh = alcool
 onco = chimio et ttt anticancéreux
+opio = opioïdes
+
+S
+somni = hypnotiques
 
 T
 tabac

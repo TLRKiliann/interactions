@@ -21,6 +21,34 @@ def importTemestaNeuro(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'temesta_neuro.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (temesta + mae)
+def importTemestaMae(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/temesta_mae.txt'):
+            print("+ File 'temesta_mae.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/temesta_mae.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'temesta_mae.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (temesta + opio)
+def importTemestaOpio(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/temesta_opio.txt'):
+            print("+ File 'temesta_opio.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/temesta_opio.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'temesta_opio.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (temesta + oh)
 def importTemestaOh(self):
     try:
