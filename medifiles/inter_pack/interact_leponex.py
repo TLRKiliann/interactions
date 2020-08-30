@@ -21,6 +21,20 @@ def importLepoCarba(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_carba.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (leponex + valproate)
+def importLepoValpro(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_valpro.txt'):
+            print("+ File 'lepo_valpro.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_valpro.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_valpro.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (leponex + phénytoïne)
 def importLepoPheny(self):
     try:
@@ -62,6 +76,48 @@ def importLepoAtd(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'lepo_atd.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (leponex + atd isrs)
+def importLepoIsrs(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_isrs.txt'):
+            print("+ File 'lepo_isrs.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_isrs.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_isrs.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (leponex + atd irsna)
+def importLepoIrsna(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_irsna.txt'):
+            print("+ File 'lepo_irsna.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_irsna.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_irsna.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (leponex + atd imao)
+def importLepoImao(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/lepo_imao.txt'):
+            print("+ File 'lepo_imao.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/lepo_imao.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'lepo_imao.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles/interdrug (leponex + atb)
 def importLepoAtb(self):

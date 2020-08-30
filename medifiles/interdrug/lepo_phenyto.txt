@@ -1,8 +1,14 @@
 INTERACTIONS LEPONEX AVEC PHENYTOÏNE !
 
-Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine (antiTB)), 
-peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement par la 
-carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine. Lors 
-d'administration concomitante de phénytoïne une diminution des taux plasmatiques de clozapine 
-ayant conduit à une diminution de l'efficacité la dose de Léponex auparavant efficace a été 
-constatée.
+La combinaison de Léponex avec des substances connues pour influencer l'activité des 
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux 
+plasmatiques de clozapine :
+
+Inducteurs
+
+    Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine 
+    (antiTB)), peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un 
+    traitement par la carbamazépine a conduit à une augmentation des taux plasmatiques de 
+    clozapine. Lors d'administration concomitante de phénytoïne une diminution des taux 
+    plasmatiques de clozapine ayant conduit à une diminution de l'efficacité la dose de 
+    Léponex auparavant efficace a été constatée.

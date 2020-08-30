@@ -18,7 +18,7 @@ Médicaments disponibles par interactions :
 Antipsychotiques : 
 ------------------------
 abilify = aripiprazol
-clopin = clozapine = leponex
+leponex = clopin = clozapine
 clopixol = zuclopenthixol
 dogmatil = sulpride
 entumine = clotiapine

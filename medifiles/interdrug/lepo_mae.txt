@@ -1,18 +1,12 @@
 INTERACTIONS LEPONEX AVEC MAE !
 
-Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication anti-épileptique 
-est nécessaire. De rares cas de crises épileptiques graves, y compris l'apparition de convulsions, 
-ainsi que des cas isolés de delirium ont été décrits lorsque Léponex est administré en même 
-temps que l'acide valproïque. Cet effet repose probablement sur une interaction pharmaco-
--dynamique dont le mécanisme n'est pas connu.
-
-	Carbamazépine
+    Carbamazépine
 
 Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine (mae) et la rifampicine 
 (antiTB)), peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement 
 par la carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine.
 
-	Phénytoïne
+    Phénytoïne
 
 Les médicaments qui induisent le P450 CYP3A (p.ex. la carbamazépine et la rifampicine (antiTB)), 
 peuvent diminuer les taux plasmatiques de clozapine. L'interruption d'un traitement par la 
@@ -20,3 +14,11 @@ carbamazépine a conduit à une augmentation des taux plasmatiques de clozapine.
 d'administration concomitante de phénytoïne une diminution des taux plasmatiques de clozapine 
 ayant conduit à une diminution de l'efficacité la dose de Léponex auparavant efficace a été 
 constatée.
+
+    Valproate
+
+Comme Léponex peut abaisser le seuil convulsif, l'adaptation de la médication anti-épileptique 
+est nécessaire. De rares cas de crises épileptiques graves, y compris l'apparition de convulsions, 
+ainsi que des cas isolés de delirium ont été décrits lorsque Léponex est administré en même 
+temps que l'acide valproïque (depakine). Cet effet repose probablement sur une interaction 
+pharmacodynamique dont le mécanisme n'est pas connu.

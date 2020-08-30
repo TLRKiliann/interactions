@@ -35,7 +35,7 @@ cc = contraceptifs
 I
 imao = inhibiteurs de la recapture de la mono-amine oxydase
 ipp = inhibiteurs de la pompe à protons
-irsn = inhibiteurs de la recapture en sérotonine et noradrénaline
+irsna = inhibiteurs de la recapture en sérotonine et noradrénaline
 isrs = inhibiteurs sélectifs de la recapture en sérotonine 
 
 K

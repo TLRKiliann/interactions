@@ -1,0 +1,23 @@
+INTERACTIONS CLOPIN - ATD ISRS (fluvoxamine - paroxétine - sertraline - citalopram)
+
+Une élévation des taux plasmatiques de clozapine a été signalée chez des patients qui avaient 
+reçu ce médicament en association avec de la fluvoxamine (floxyfral atd isrs) (inhibiteur) 
+du CYP3A4 et CYP1A2; taux augmenté jusqu'à dix fois) ou d'autres inhibiteurs sélectifs du 
+recaptage de la sérotonine (atd isrs) comme la paroxétine (deroxat = atd isrs) (inhibiteur du 
+CYP1A2, 2D6), la sertraline (atd isrs) (inhibiteur du CYP2C8/9, 2D6) ou la fluoxétine (atd isrs) 
+(inhibiteur du CYP2D6, taux augmenté jusqu'à deux fois) ou le citalopram (atd isrs) 
+(probablement un inhibiteur faible du CYP1A2 présentant probablement le potentiel le plus 
+faible parmi les SSRIs d'une interaction cliniquement significative). Pourtant des cas 
+d'interaction cliniquement significative lors de comédication de citalopram et de clozapine 
+ont été rapportés.
+
+La combinaison de Léponex avec des substances connues pour influencer l'activité des 
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux 
+plasmatiques de clozapine :
+
+Inducteurs
+
+    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19.
+    Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
+    (faibles concentrations de clozapine sous oméprazole (ipp) et pantoprazole (ipp) resp. 
+    sous combinaison de lanzoprazole (ipp) avec la paroxétine (deroxat)).

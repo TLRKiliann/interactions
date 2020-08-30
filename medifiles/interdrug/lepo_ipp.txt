@@ -1,21 +1,20 @@
 INTERACTIONS LEPONEX AVEC IPP !
 
 La combinaison de Léponex avec des substances connues pour influencer l'activité des 
-isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux plasma-
--tiques de clozapine :
+isoenzymes CYP450 peut conduire à une augmentation ou une diminution des taux plasmatiques 
+de clozapine :
 
 Inhibiteurs
 
-    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine 
-    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de 
-    clarithromycine, d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), 
-    de ciprofloxacine (atb) (1A2) ou d'un contraceptif oral (1A2, 3A4, 2C19) lors 
-    d'une thérapie par Léponex à fortes doses a été corrélée avec une élévation du 
-    taux sanguin de clozapine et l'apparition d'effets indésirables.
+    L'administration concomitante d'inhibiteurs enzymatiques comme la cimétidine (ipp) 
+    (inhibiteur du CYP1A2, 3A4 et 2D6), d'érythromycine (inhibiteur du CYP3A4), de clarithromycine, 
+    d'azithromycine, de fluvoxamine (atd) (1A2), de pérazine (1A2), de ciprofloxacine (atb) (1A2) 
+    ou d'un contraceptif oral (1A2, 3A4, 2C19) lors d'une thérapie par Léponex à fortes doses a été 
+    corrélée avec une élévation du taux sanguin de clozapine et l'apparition d'effets indésirables.
 
 Inducteurs
 
-    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du 
-    CYP2C19. Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons 
-    ont été rapportés (faibles concentrations de clozapine sous oméprazole et 
-    pantoprazole resp. sous combinaison de lanzoprazole avec la paroxétine).
+    L'oméprazole est un inducteur du CYP1A2 et du CYP3A4 ainsi qu'un inhibiteur du CYP2C19. 
+    Des cas isolés d'interaction avec les inhibiteurs de la pompe à protons ont été rapportés 
+    (faibles concentrations de clozapine sous oméprazole et pantoprazole resp. sous combinaison 
+    de lanzoprazole avec la paroxétine).
