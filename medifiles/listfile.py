@@ -23,8 +23,8 @@ oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "brivia
       "amitriptyline", "surmontil", "trimipramine","trittico", "trazodone", "lithium", 
       "lithiofor"]
 
-"""
 
+"""
 ATD :
 -----
 Antidépresseurs TCC (tricycliques): Anafranil; Ludiomil; Saroten; Surmontil; Tofranil; Trittico. --- OK

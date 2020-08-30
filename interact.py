@@ -15,6 +15,7 @@ from medifiles.carbaloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
 from medifiles.seroloop import *
+from medifiles.temestaloop import *
 
 
 class Application(Frame):
@@ -62,11 +63,13 @@ class Application(Frame):
             atdDrugLoop(self, drug2)
             stabDrugLoop(self, drug2)
 
+            ariFunc(self, drug3, drug4)
             seroFunc(self, drug3, drug4)
             carbaFunc(self, drug3, drug4)
             lepoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
-            ariFunc(self, drug3, drug4)
+            temestaFunc(self, drug3, drug4)
+
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 

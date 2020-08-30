@@ -86,7 +86,7 @@ rohypnol =
 seresta =
 sonata =
 stilnox =
-temesta =
+temesta = lorazépam
 tranxilium =
 urbanyl =
 valium =
@@ -123,8 +123,8 @@ sertraline = zoloft
 
 # IRSNA (inhibiteurs de la recapture de la sérotonine-noradrénaline) :
 
-Venlafaxine =
-Duloxétine =
+efexor = venlafaxine
+cymbalta = duloxétine
 
 # Inhibiteurs de la recapture de la dopamine-noradrénaline :
 
