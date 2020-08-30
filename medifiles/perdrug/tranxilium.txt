@@ -5,47 +5,51 @@ Contre-indications :
 --------------------------
 
     Allergie connue aux benzodiazépines ou un des excipients
+
     Insuffisance respiratoire sévère décompensée
+
     Syndrome des apnées du sommeil
+
     Myasthénie grave
+
     Enfants de moins de 9 ans
 
 
 Interactions :
 ------------------
 
-    Action additive (synergie) avec les dépresseurs neuromusculaires (curarisants, 
+    Action additive (synergie) avec les dépresseurs neuromusculaires (curarisants,                  --- myorelaxants
     myorelaxants).
-    Majoration du risque d'apparition d'un syndrome de sevrage par l'association 
+    Majoration du risque d'apparition d'un syndrome de sevrage par l'association                    --- bzd anxio hypno
     de benzodiazépines prescrites comme anxiolytiques ou comme hypnotiques.
 
 Associations déconseillées:
 
-    Alcool: L'absorption de boissons alcoolisées et de médicaments contenant de 
+    Alcool: L'absorption de boissons alcoolisées et de médicaments contenant de                     --- alcool
     l'alcool est déconseillée pendant le traitement et dans les jours qui suivent 
     la dernière administration, en raison de la majoration par l'alcool de l'effet 
     sédatif des benzodiazépines.
 
 Associations nécessitant des précautions d'emploi:
 
-    Dépresseurs du système nerveux central: les dérivés morphiniques y inclus 
+    Dépresseurs du système nerveux central: les dérivés morphiniques y inclus                       --- Tout le toutim !!!
     buprénorphine (analgésiques et antitussifs), barbituriques, antidépresseurs, 
     antihistaminiques sédatifs, tranquillisants autres que benzodiazépines, 
     neuroleptiques, clonidine et apparentés. Majoration de la dépression centrale, 
     avec un risque accru de dépression respiratoire, voire d'arrêt respiratoire.
-    Cisapride: majoration transitoire de l'effet sédatif des benzodiazépines par 
+    Cisapride: majoration transitoire de l'effet sédatif des benzodiazépines par                    --- cisapride
     augmentation de leur vitesse d'absorption.
     Inhibiteurs du CYP 3A4: ces produits pourraient réduire le métabolisme du 
     métabolite actif du clorazépate (le N-desméthyldiazépam). 
     En cas d'administration concomitante d'un inhibiteur modéré ou puissant du 
     CYP 3A4 et de clorazépate, les patients doivent être surveillés.
-    Cimétidine et disulfirame: potentialisation possible des effets du Tranxilium. 
+    Cimétidine et disulfirame: potentialisation possible des effets du Tranxilium.                  --- cimétidine
     L'administration concomitante est déconseillée.
-    Clozapine: risque accru de collapsus avec arrêt respiratoire et/ou cardiaque.
-    Oméprazole et autres inhibiteurs du CYP 2C19: ces produits peuvent provoquer 
+    Clozapine: risque accru de collapsus avec arrêt respiratoire et/ou cardiaque.                   --- clozapine
+    Oméprazole et autres inhibiteurs du CYP 2C19: ces produits peuvent provoquer                    --- ipp
     une inhibition du métabolisme du nordiazépam (N-desméthyldiazépam, métabolite 
     actif) se traduisant par une augmentation des taux plasmatiques de ce produit.
-    Benzodiazépines et opioïdes: l'utilisation concomitante de benzodiazépines et 
+    Benzodiazépines et opioïdes: l'utilisation concomitante de benzodiazépines et                   --- opio bzd
     d'opioïdes augmente le risque de sédation, de détresse respiratoire, de coma 
     et de décès en raison de l'effet dépresseur additif sur le système nerveux 
     central. Limiter le dosage et la durée d'utilisation chez les patients prenant 
