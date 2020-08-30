@@ -1,5 +1,17 @@
-Mots clef de l'application :
+Mots clefs de l'application :
 -----------------------------------
+Les abréviations figurantes ci-dessous permettent à l'application de 
+simplifier son utilisation. 
+
+Ainsi, si l'utilisateur cherche une interaction d'un médicament avec 
+un autre, il pourra utiliser l'un de ces termes.
+Exemple:
+
+leponex VS atb
+ou
+atb VS abilify
+
+Voilà, enjoy !
 
 A
 atb = antibiotiques
@@ -17,6 +29,7 @@ B
 bzd = benzodiazépines
 
 C
+café
 cc = contraceptifs
 
 I
@@ -39,6 +52,9 @@ neuro = neuroleptiques
 O
 oh = alcool
 onco = chimio et ttt anticancéreux
+
+T
+tabac
 
 V
 vih = traitement contre le VIH

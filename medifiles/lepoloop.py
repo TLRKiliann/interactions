@@ -55,8 +55,9 @@ def lepoFunc(self, drug3, drug4):
                 print("+ Interactions contraceptifs !!!")
                 importLepoContracept(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "antihistaminiques" or \
-                drug3 == "antihist" or drug4 == "antihist" or drug4 == "antihistaminiques"):
-                print("+ Interactions !!!")
+                drug3 == "antihist" or drug4 == "antihist" or \
+                drug4 == "antihistaminiques"):
+                print("+ Interactions antihist !!!")
                 importLepoAntiHist(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "antiépileptiques" or \
                 drug4 == "antiépileptiques" or drug3 == "mae" or drug4 == "mae"):

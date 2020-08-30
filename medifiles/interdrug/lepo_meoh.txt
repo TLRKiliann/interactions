@@ -4,3 +4,7 @@ Léponex peut renforcer les effets centraux de l'alcool et des IMAO sur le SNC a
 l'effet dépresseur des narcotiques, des antihistaminiques et des benzodiazépines. Des 
 cas de décès lors de combinaison de clozapine avec ces substances y compris la méthadone 
 ont été observés.
+
+En raison d'effets cumulatifs possibles, une grande prudence s'impose lors de l'administration 
+concomitante de médicaments ayant des propriétés anticholinergiques, hypotensives ou de 
+dépression respiratoire.
