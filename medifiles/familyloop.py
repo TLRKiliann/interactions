@@ -22,7 +22,7 @@ def familyLoop(self, drug1):
             if drug1 == i or drug1 == "anxio":
                 familyAnxio(self)
         elif i == "thymorégulateurs":
-            if drug1 == i or drug1 == "stabilisateurs":
+            if drug1 == i or drug1 == "stab":
                 familyThymo(self)
         elif i == "somnifères":
             if drug1 == i or drug1 == "somni" or drug1 == "inducteurs de sommeil":
