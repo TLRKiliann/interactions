@@ -10,9 +10,9 @@ from medifiles.inter_pack.interact_zyprexa import *
 def zyprexFunc(self, drug3, drug4):
     for i in oneDrug:
         """
-        drug1 VS drug2 (interactions with abilify)
+        drug1 VS drug2 (interactions with zyprexa)
         """
-        if i == "abilify" or i == "aripiprazol":
+        if i == "zyprexa" or i == "olanzapine":
             if (drug3 == i or drug4 == i) and (drug3 == "phénytoïne" or \
                 drug3 == "phénobarbital" or drug3 == "aphénylbarbite" or \
                 drug3 == "anti-épileptiques" or drug3 == "mae" or \

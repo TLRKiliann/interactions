@@ -10,16 +10,16 @@ import subprocess
 # Display text in textbox from medifiles/interdrug (zyprexa + neuro)
 def importZyprexMae(self):
     try:
-        if os.path.getsize('./medifiles/interdrug/zyprexa_neuro.txt'):
-            print("+ File 'zyprexa_neuro.txt' exist (read)!")
+        if os.path.getsize('./medifiles/interdrug/zyprexa_mae.txt'):
+            print("+ File 'zyprexa_mae.txt' exist (read)!")
             self.textBox.delete('0.0', 'end')
             self.textBox.update()
-            with open('./medifiles/interdrug/zyprexa_neuro.txt', 'r') as textfile:
+            with open('./medifiles/interdrug/zyprexa_mae.txt', 'r') as textfile:
                 lines = textfile.readlines()
                 for li in lines:
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
-        print("+ Sorry, file 'zyprexa_neuro.txt' does not exist !", outnote)
+        print("+ Sorry, file 'zyprexa_mae.txt' does not exist !", outnote)
 
 # Display text in textbox from medifiles/interdrug (zyprexa + atd)
 def importZyprexAtd(self):
