@@ -13,9 +13,14 @@ atb VS abilify
 
 Voilà, enjoy !
 
+Je recommande à l'utilisateur de d'abord utiliser les classes avant les noms ou molécules :
+Exemple:
+temesta VS atb
+
 A
 atb = antibiotiques
 ac = anticoagulants
+antiA = antiarythmiques
 antihist = antihistaminiques
 ahyperTA = antihypertenseurs
 apalu = antipaludéens (antimalaria)

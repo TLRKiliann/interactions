@@ -14,6 +14,7 @@ from medifiles.carbaloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
 from medifiles.seroloop import *
+from medifiles.solianloop import *
 from medifiles.temestaloop import *
 from medifiles.tranxiloop import *
 from medifiles.zyprexaloop import *
@@ -69,10 +70,10 @@ class Application(Frame):
             carbaFunc(self, drug3, drug4)
             lepoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
+            solianFunc(self, drug3, drug4)
             temestaFunc(self, drug3, drug4)
             tranxiFunc(self, drug3, drug4)
             zyprexFunc(self, drug3, drug4)
-
 
         # Label title
         self.label=Label(self.can, text="Interact", font='Times 22 bold', 

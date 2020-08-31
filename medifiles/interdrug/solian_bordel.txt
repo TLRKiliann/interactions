@@ -1,0 +1,47 @@
+INTERACTIONS AMISULPRIDE BEACOUP D'INTERACTIONS !
+
+Au vu du nombre d'interactions, je préfère renvoyer l'utilisateur
+à "Enter a name of drug" pour plus de précision sur les interactions.
+
+Alcool
+Analgésiques
+Anesthésiques
+Antiarythmiques
+Antidépresseurs
+Antihypertenseurs
+Anxiolytiques
+Benzamides
+Benzodiazépines
+Clozapine
+Haldol
+Hypnotiques
+L-Dopa
+Lithium
+Méthadone
+Phénothiaziniques
+Pimozide
+
+Médicaments qui peuvent induire des torsades de pointes:
+Association avec des agonistes dopaminergiques :
+Antiarythmiques
+Erythromycine IV, 
+vincamine IV, 
+mizolastine, 
+halofantrine, 
+pentamidine, 
+moxifloxacine,
+sparfloxacine, 
+antimycotiques 
+imidazolés.
+
+Médicaments qui induisent une bradycardie : 
+béta-bloquants, 
+anticalciques 
+bradycardisants comme p.ex. diltiazem et vérapamil, clonidine, guanfacine, digitaliques.
+
+Médicaments qui induisent une hypokaliémie: diurétiques hypokaliémiants, laxatifs stimulants, 
+amphotéricine B IV, glucocorticoïdes, tétracosactides. L'hypokaliémie doit être corrigée.
+
+Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocriptine, 
+cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, 
+ropinirole) en dehors du cas du patient parkinsonien.

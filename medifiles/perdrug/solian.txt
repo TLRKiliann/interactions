@@ -6,8 +6,10 @@ Contre-indications :
 
     Hypersensibilité au principe actif ou à l'un des excipients entrant dans 
     la composition du médicament.
+
     Tumeurs prolactine-dépendantes, telles que prolactinome hypophysaire et 
     cancer du sein.
+
     Phéochromocytome.
 
 Association avec les médicaments suivants qui peuvent induire des torsades de 
@@ -36,15 +38,19 @@ Interactions :
 ------------------
 
 Associations contre-indiquées
+
 Médicaments qui peuvent induire des torsades de pointes:
 
-    Antiarrythmiques de classe IA tels que quinidine, hydroquinidine, disopyramide,
+    Antiarythmiques de classe IA tels que quinidine, hydroquinidine, disopyramide, 
     de classe IB tel que mexilétine, de classe IC tels que flécaïnide, propafénone.
-    Antiarrythmiques de classe III tels qu'amiodarone, sotalol, dofétilide, ibutilide.
-    Certains neuroleptiques: phénothiaziniques (chlorpromazine, cyamémazine, lévomépromazine, 
-    thioridazine, trifluopérazine), benzamides (sulpiride, tiapride), butyrophénones 
-    (dropéridol, halopéridol), autres (pimozide).
-    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine, 
+
+    Antiarythmiques de classe III tels qu'amiodarone, sotalol, dofétilide, ibutilide.
+    
+    Certains neuroleptiques: phénothiaziniques (chlorpromazine (prazine), cyamémazine, prazine
+    lévomépromazine (nozinan), thioridazine, trifluopérazine), benzamides (sulpiride, 
+    tiapride), butyrophénones (dropéridol, halopéridol (haldol)), autres (pimozide). 
+    
+    Autres médicaments tels que bépridil, cisapride, diphémanil, sultopride, thioridazine,			--- méthadone ??? PUTAIN !!!!
     méthadone, érythromycine IV, vincamine IV, mizolastine, halofantrine, pentamidine, 
     moxifloxacine, sparfloxacine, antimycotiques imidazolés.
 
@@ -52,7 +58,8 @@ Association avec des agonistes dopaminergiques (amantadine, apomorphine, bromocr
 cabergoline, entacapone, lisuride, pergolide, piribédil, pramipexole, quinagolide, 
 ropinirole) en dehors du cas du patient parkinsonien.
 
-Lévodopa: antagonisme réciproque des effets de la lévodopa et des neuroleptiques.
+Lévodopa: antagonisme réciproque des effets de la lévodopa et des neuroleptiques.					--- L-dopa
+
 Associations non recommandées
 
 L'amisulpride peut augmenter les effets de l'alcool sur le système nerveux central. Une 
@@ -68,6 +75,7 @@ Médicaments qui induisent une hypokaliémie: diurétiques hypokaliémiants, lax
 amphotéricine B IV, glucocorticoïdes, tétracosactides. L'hypokaliémie doit être corrigée.
 
 Antidépresseurs imipraminiques; lithium.
+
 Associations à prendre en compte
 
 On ne dispose pas d'études pharmacodynamiques avec des médicaments actifs sur le système 
@@ -81,6 +89,6 @@ captodiame, étifoxine, baclofène, thalidomide.
 
 Antihypertenseurs et autres produits hypotenseurs.
 
-La co-administration d'amisulpride et de clozapine peut entraîner une augmentation du 
-taux sérique d'amisulpride.
+La co-administration d'amisulpride et de clozapine peut entraîner une augmentation du taux 
+sérique d'amisulpride.
 

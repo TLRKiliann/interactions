@@ -48,21 +48,21 @@ l'olanzapine.
 Induction du CYP1A2: le métabolisme de l'olanzapine peut être induit par le tabagisme (la 
 clairance de l'olanzapine diminue de 33% et la demi-vie d'élimination terminale augmente 
 de 21% chez les non-fumeurs par rapport aux fumeurs) et la carbamazépine (la clairance 
-augmente de 44% et la demi-vie d'élimination terminale diminue de 20% lors d'une 
-administration concomitante avec la carbamazépine). L'association thérapeutique à la 
-carbamazépine entraîne une induction significative du métabolisme de l'olanzapine. En cas 
+augmente de 44% et la demi-vie d'élimination terminale diminue de 20% lors d'une admini-
+-stration concomitante avec la carbamazépine). L'association thérapeutique à la carbama-
+-zépine entraîne une induction significative du métabolisme de l'olanzapine. En cas 
 d'administration concomitante de carbamazépine, on a observé une réduction de l'exposition 
 d'environ 50%. Une surveillance clinique est recommandée. Une augmentation de la posologie 
 de l'olanzapine peut être éventuellement envisagée, si nécessaire.
 
-Inhibition du CYP1A2: il a été montré que la fluvoxamine (floxyfral), inhibiteur spécifique 
-du CYP1A2, inhibe significativement le métabolisme de l'olanzapine. La fluvoxamine entraîne 
-une augmentation moyenne de la Cmax de l'olanzapine de 54% chez les femmes non-fumeuses et 
+Inhibition du CYP1A2: il a été montré que la fluvoxamine (floxyfral), inhibiteur spécifique du 
+CYP1A2, inhibe significativement le métabolisme de l'olanzapine. La fluvoxamine entraîne une 
+augmentation moyenne de la Cmax de l'olanzapine de 54% chez les femmes non-fumeuses et 
 de 77% chez les hommes fumeurs. L'augmentation moyenne de l'AUC de l'olanzapine était 
-respectivement de 52% et de 108%. Une posologie initiale plus faible d'olanzapine doit 
-être envisagée chez les patients traités par la fluvoxamine ou tout autre inhibiteur 
-du CYP1A2 comme la ciprofloxacine. Une diminution de la dose d'olanzapine doit être 
-envisagée si un traitement par un inhibiteur du CYP1A2 est instauré.
+respectivement de 52% et de 108%. Une posologie initiale plus faible d'olanzapine doit être 
+envisagée chez les patients traités par la fluvoxamine ou tout autre inhibiteur du CYP1A2 
+comme la ciprofloxacine. Une diminution de la dose d'olanzapine doit être envisagée si un 
+traitement par un inhibiteur du CYP1A2 est instauré.
 
 Diminution de la biodisponibilité: Le charbon activé diminue la biodisponibilité de 
 l'olanzapine par voie orale de 50 à 60% et doit être pris au moins 2 heures avant ou 
