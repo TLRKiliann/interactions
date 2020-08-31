@@ -14,8 +14,10 @@ def tranxiFunc(self, drug3, drug4):
         """
         if i == "tranxilium" or i == "clorazépate":
             if (drug3 == i or drug4 == i) and (drug3 == "clozapine" or \
+                drug3 == "clopin" or drug3 == "leponex" or \
                 drug3 == "neuro" or drug3 == "apsy" or \
                 drug3 == "antipsychotiques" or drug4 == "apsy" or \
+                drug4 == "clopin" or drug4 == "leponex" or \
                 drug4 == "antipsychotiques" or drug4 == "clozapine" or \
                 drug4 == "neuro"):
                 print("+ Interactions clozapine et neuro !!!")
@@ -25,19 +27,16 @@ def tranxiFunc(self, drug3, drug4):
                 drug4 == "benzodiazépines"):
                 print("+ Interactions bzd !!!")
                 importTranxiBzd(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "hypno" or \
                 drug3 == "hypnotiques" or \
                 drug4 == "hypno" or drug4 == "hypnotiques"):
-                print("+ Interactions hypno !!!")
+                print("+ Interactions hypnotiques !!!")
                 importTranxiHypno(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "myo" or \
                 drug3 == "myorelaxants" or drug4 == "myorelaxants" or \
                 drug4 == "myo"):
-                print("+ Interactions bzd + anxio !!!")
+                print("+ Interactions myorelaxants !!!")
                 importTranxiMyo(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "atd" or \
                 drug3 == "anxiolytiques" or drug3 == "anxio" or \
                 drug3 == "atuss" or drug3 == "antihist" or drug3 == "clonidine" or\
@@ -47,16 +46,14 @@ def tranxiFunc(self, drug3, drug4):
                 drug4 == "atuss" or drug4 == "antihist" or \
                 drug4 == "anxio" or drug4 == "atd" or drug4 == "clonidine" or \
                 drug4 == "anxiolytiques"):
-                print("+ Interactions bzd + anxio !!!")
+                print("+ Interactions group !!!")
                 importTranxiGroup(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "ipp" or \
                 drug3 == "cimétidine" or drug3 == "oméoprazole" or \
                 drug4 == "oméoprazole" or drug4 == "ipp" or \
                 drug4 == "cimétidine"):
                 print("+ Interactions ipp !!!")
                 importTranxiIpp(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "opio" or \
                 drug3 == "opioïdes" or drug3 == "meoh" or \
                 drug3 == "méthadone" or drug4 == "meoh" or \
@@ -69,3 +66,9 @@ def tranxiFunc(self, drug3, drug4):
                 drug4 == "oh"):
                 print("+ Interactions oh !!!")
                 importTranxiOh(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "cisapride" or \
+                drug4 == "cisapride"):
+                print("+ Interactions cisapride !!!")
+                importTranxiCisa(self)
+            else:
+                print("+ End of tranxiloop ttt list !")

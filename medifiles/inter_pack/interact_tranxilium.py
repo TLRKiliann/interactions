@@ -118,3 +118,17 @@ def importTranxiOh(self):
                     self.textBox.insert(END, li)
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'tranxi_oh.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (tranxi + cisa)
+def importTranxiCisa(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/tranxi_cisa.txt'):
+            print("+ File 'tranxi_cisa.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/tranxi_cisa.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'tranxi_cisa.txt' does not exist !", outnote)
