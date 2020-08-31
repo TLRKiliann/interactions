@@ -16,6 +16,7 @@ from medifiles.lepoloop import *
 from medifiles.seroloop import *
 from medifiles.temestaloop import *
 from medifiles.tranxiloop import *
+from medifiles.zyprexaloop import *
 
 
 class Application(Frame):
@@ -70,6 +71,7 @@ class Application(Frame):
             depaFunc(self, drug3, drug4)
             temestaFunc(self, drug3, drug4)
             tranxiFunc(self, drug3, drug4)
+            zyprexFunc(self, drug3, drug4)
 
 
         # Label title
