@@ -35,6 +35,48 @@ def importTranxiBzd(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'tranxi_bzd.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (tranxi + hypno)
+def importTranxiHypno(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/tranxi_hypno.txt'):
+            print("+ File 'tranxi_hypno.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/tranxi_hypno.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'tranxi_hypno.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (tranxi + myo)
+def importTranxiMyo(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/tranxi_myo.txt'):
+            print("+ File 'tranxi_myo.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/tranxi_myo.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'tranxi_myo.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (tranxi + group)
+def importTranxiGroup(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/tranxi_group.txt'):
+            print("+ File 'tranxi_group.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/tranxi_group.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'tranxi_group.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (tranxi + ipp)
 def importTranxiIpp(self):
     try:

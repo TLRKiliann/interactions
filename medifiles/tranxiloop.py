@@ -21,17 +21,15 @@ def tranxiFunc(self, drug3, drug4):
                 print("+ Interactions clozapine et neuro !!!")
                 importTranxiNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "bzd" or \
-                drug3 == "benzodiazépines" or drug3 == "anxio" or \
-                drug3 == "anxiolytiques" or drug4 == "anxiolytiques" or \
-                drug4 == "anxio" or drug4 == "bzd" or \
+                drug3 == "benzodiazépines" or drug4 == "bzd" or \
                 drug4 == "benzodiazépines"):
-                print("+ Interactions bzd + anxio !!!")
+                print("+ Interactions bzd !!!")
                 importTranxiBzd(self)
 
-            elif (drug3 == i or drug4 == i) and (drug3 == "bzd" or \
-                drug3 == "benzodiazépines" or \
-                drug4 == "bzd" or drug4 == "benzodiazépines"):
-                print("+ Interactions bzd + anxio !!!")
+            elif (drug3 == i or drug4 == i) and (drug3 == "hypno" or \
+                drug3 == "hypnotiques" or \
+                drug4 == "hypno" or drug4 == "hypnotiques"):
+                print("+ Interactions hypno !!!")
                 importTranxiHypno(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "myo" or \
