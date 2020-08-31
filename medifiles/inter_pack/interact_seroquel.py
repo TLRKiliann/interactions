@@ -91,6 +91,20 @@ def importSeroMeoh(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'sero_metha.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (seroquel + MeOH)
+def importSeroAtd(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/sero_atd.txt'):
+            print("+ File 'sero_atd.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/sero_atd.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'sero_atd.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (seroquel + OH)
 def importSeroOh(self):
     try:
