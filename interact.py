@@ -9,13 +9,13 @@ from medifiles.aepidrug import *
 from medifiles.anxidrug import *
 from medifiles.atddrug import *
 from medifiles.stabdrug import *
-
 from medifiles.aripiloop import *
 from medifiles.carbaloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
 from medifiles.seroloop import *
 from medifiles.temestaloop import *
+from medifiles.tranxiloop import *
 
 
 class Application(Frame):
@@ -69,6 +69,7 @@ class Application(Frame):
             lepoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
             temestaFunc(self, drug3, drug4)
+            tranxiFunc(self, drug3, drug4)
 
 
         # Label title
