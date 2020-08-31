@@ -21,6 +21,7 @@ ahyperTA = antihypertenseurs
 apalu = antipaludéens (antimalaria)
 amyco = antimycotiques
 anest = anesthésiques
+anxio = anxiolytiques
 apsy = antipsychotiques
 atd = antidépresseurs
 antiTB = antituberculeux
