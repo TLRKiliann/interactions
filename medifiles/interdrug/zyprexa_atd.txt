@@ -1,0 +1,14 @@
+INTERACTIONS OLANZAPINE - ATD (FLUOXETINE - FLOVOXAMINE) !
+
+Inhibition du CYP1A2: il a été montré que la fluvoxamine (floxyfral), inhibiteur spécifique 
+du CYP1A2, inhibe significativement le métabolisme de l'olanzapine. La fluvoxamine entraîne 
+une augmentation moyenne de la Cmax de l'olanzapine de 54% chez les femmes non-fumeuses et 
+de 77% chez les hommes fumeurs. L'augmentation moyenne de l'AUC de l'olanzapine était 
+respectivement de 52% et de 108%. Une posologie initiale plus faible d'olanzapine doit être 
+envisagée chez les patients traités par la fluvoxamine ou tout autre inhibiteur du CYP1A2 
+comme la ciprofloxacine. Une diminution de la dose d'olanzapine doit être envisagée si un 
+traitement par un inhibiteur du CYP1A2 est instauré.
+
+La fluoxétine (prozac) (inhibiteur du CYP2D6), des doses uniques d'antiacides (aluminium, 
+magnésium) ou la cimétidine n'ont pas d'effet significatif sur la pharmacocinétique de 
+l'olanzapine.
