@@ -34,6 +34,7 @@ atuss = antitussifs
 
 B
 bzd = benzodiazépines
+barbi = barbituriques
 
 C
 café

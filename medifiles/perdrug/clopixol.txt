@@ -4,62 +4,62 @@ Clopixol (zuclopenthixol):
 Contre-indications :
 --------------------------
 
-Hypersensibilité au zuclopenthixol, aux autres thioxanthènes ou à un des 
+Hypersensibilité au zuclopenthixol, aux autres thioxanthènes ou à un des 				--- barbi oh opio
 excipients contenu dans Clopixol. Dépression du SNC comme intoxications 
 aiguës à l'alcool, aux barbituriques ou aux opiacés, états comateux.
 
 Interactions :
 ------------------
 
-Le zuclopenthixol peut renforcer l'effet sédatif de l'alcool ainsi que 
+Le zuclopenthixol peut renforcer l'effet sédatif de l'alcool ainsi que 					--- neuro bzd oh barbi opio
 celui des barbituriques et d'autres préparations à action dépressive 
 centrale.
 
 L'administration simultanée de neuroleptiques et des médicaments ci-dessous 
 peut provoquer les effets suivants:
 
-- Médicament à action sédative centrale et barbituriques :
+- Médicament à action sédative centrale et barbituriques :								--- bzd neuro barbi
 Renforcement de l'effet
 
 - Antihypertenseurs (guanéthidine, etc.) :
-Modification de la pression sanguine, blocage de l'effet antihypertenseur
+Modification de la pression sanguine, blocage de l'effet Antihypertenseurs 				--- ahyperTA
 
 - Lithium :
-Risque accru de neurotoxicité
+Risque accru de neurotoxicité															--- lithium
 
 - Antidépresseurs tricycliques :
-Inhibition réciproque du métabolisme. Renforcement des effets secondaires des 
+Inhibition réciproque du métabolisme. Renforcement des effets secondaires des 			--- neuro atd
 neuroleptiques/antidépresseurs
 
-- L-dopa :
-Réduction de l'effet de la L-dopa
+- L-dopa (levodopa (apk)):
+Réduction de l'effet de la L-dopa														--- L-dopa
 
 - Adrénergiques :
-Réduction de l'effet des adrénergiques
+Réduction de l'effet des Adrénergiques 													--- adrénergiques
 
-- Métoclopramide, pipérazine :
+- Métoclopramide (primpéran), pipérazine (cétirizine) :									--- métoclopramide
 Risque accru de symptômes extrapyramidaux
 
-Un allongement de l'intervalle QT induit par des neuroleptiques peut s'aggraver 
+Un allongement de l'intervalle QT induit par des neuroleptiques peut s'aggraver 		--- neuro
 en cas d'administration d'autres médicaments entraînant un allongement significatif 
 de l'intervalle QT. Il convient d'éviter l'administration concomitante de tels 
 médicaments.
 
 Les classes de médicaments concernées sont:
 
-    antiarythmiques des classes Ia et III (par ex. quinidine, amiodarone, sotalol, 
+    antiarythmiques des classes Ia et III (par ex. quinidine, amiodarone, sotalol, 		--- antiA
     dofétilide)
-    certains neuroleptiques (par ex. halopéridol, quétiapine)
-    certains macrolides (par ex. érythromycine)
-    certains antihistaminiques (par ex. terfénadine, astémizole)
-    certaines quinolones (par ex. gatifloxacine, moxifloxacine)
+    certains neuroleptiques (par ex. halopéridol, quétiapine)							--- haldol seroquel
+    certains macrolides (par ex. érythromycine)											--- atb
+    certains antihistaminiques (par ex. terfénadine, astémizole)						--- antihist
+    certaines quinolones (par ex. gatifloxacine, moxifloxacine)							--- atb
 
 Cette liste n'est pas exhaustive; certains autres médicaments connus pour allonger 
-l'intervalle QT (par ex. cisapride, lithium) doivent également être évités.
+l'intervalle QT (par ex. cisapride, lithium) doivent également être évités.				--- cisapride lithium
 
 La prudence est de mise en cas d'utilisation concomitante de médicaments 
-responsables de déséquilibres électrolytiques, comme par ex. les diurétiques 
-du groupe des thiazides (hypokaliémie), et de médicaments augmentant la 
+responsables de déséquilibres électrolytiques, comme par ex. les diurétiques			--- diurétiques 
+du groupe des thiazides (hypokaliémie), et de médicaments augmentant la 				--- thiazides
 concentration plasmatique du zuclopenthixol. Le risque d'allongement de 
 l'intervalle QT et d'arythmie peut être accru (voir «Mises en garde et 
 précautions»).
