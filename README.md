@@ -3,6 +3,8 @@
 This application was created to facilitate access to drug interactions.
 (This app contains mainly Swiss drugs, but you can also search by molecules.)
 
+All informations are taken from compendium.ch.
+
 The application includes several search modes, you can find :
 - drug families and their interactions
 - drugs by molecule and their general interactions

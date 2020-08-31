@@ -75,22 +75,22 @@ xanax = alprazolam
 Benzodiazépines :
 ------------------------
 dalmadorm =
-demetrin =
+demetrin = prazépam
 dormicum =
 halcion =
 imovane =
-lexotanil =
+lexotanil = bromazépam
 noctamid =
-rivotril =
-rohypnol =
-seresta =
+rivotril = clonazépam
+rohypnol = flunitrazepam
+seresta = oxazépam
 sonata =
 stilnox =
 temesta = lorazépam
-tranxilium =
-urbanyl =
-valium =
-xanax =
+traxilium = clorazépate
+urbanyl = clobazam
+valium = diazépam
+xanax = alprazolam
 
 
 Stabilisateurs de l'humeur ou thymorégulateurs : 
@@ -158,6 +158,11 @@ La Cmax est la concentration sérique maximale (ou pic) qu'un médicament attein
 compartiment ou une zone d'essai spécifique du corps après l'administration du médicament
 et avant l'administration d'une deuxième dose. Il s'agit d'une mesure standard en 
 pharmacocinétique.
+
+Cmin :
+Les effets secondaires des médicaments à court terme sont plus susceptibles de se produire à 
+la Cmax ou près de celle-ci, alors que l'effet thérapeutique d'un médicament à durée d'action 
+prolongée se produit généralement à des concentrations légèrement supérieures à la Cmin.
 
 AUC :
 Dans le domaine de la pharmacocinétique, l'aire sous la courbe (AUC) est l'intégrale
