@@ -105,6 +105,48 @@ def importClopiHta(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'clopixol_ahyperTA.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (clopixol + antiA)
+def importClopiAntiArythm(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_antiA.txt'):
+            print("+ File 'clopixol_antiA.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_antiA.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_antiA.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + antihist)
+def importClopiAntiHist(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_antihist.txt'):
+            print("+ File 'clopixol_antihist.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_antihist.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_antihist.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + atb)
+def importClopiAtb(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_atb.txt'):
+            print("+ File 'clopixol_atb.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_atb.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_atb.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (clopixol + opio)
 def importClopiOpio(self):
     try:

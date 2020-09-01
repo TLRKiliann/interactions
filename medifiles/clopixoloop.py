@@ -36,7 +36,7 @@ def clopixoFunc(self, drug3, drug4):
                 drug3 == "lithiofor" or drug4 == "lithium" or \
                 drug4 == "thymo" or drug4 == "stab" or \
                 drug4 == "lithiofor"):
-                print("+ Interactions haldol !!!")
+                print("+ Interactions lithium !!!")
                 importClopiLith(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "bzd" or \
                 drug3 == "benzodiazépines" or drug4 == "bzd" or \
@@ -47,26 +47,40 @@ def clopixoFunc(self, drug3, drug4):
                 drug3 == "L-dopa" or drug3 == "levodopa" or \
                 drug4 == "apk" or drug4 == "L-dopa" or \
                 drug4 == "levodopa"):
-                print("+ Interactions bzd !!!")
+                print("+ Interactions apk !!!")
                 importClopiDopa(self)
-
             elif (drug3 == i or drug4 == i) and (drug3 == "ahyperTA" or \
                 drug3 == "guanéthidine" or drug4 == "ahyperTA" or \
                 drug4 == "guanéthidine"):
-                print("+ Interactions bzd !!!")
+                print("+ Interactions antihta !!!")
                 importClopiHta(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antiA" or \
+                drug3 == "antiarythmiques" or drug4 == "antiA" or \
+                drug4 == "antiarythmiques"):
+                print("+ Interactions antiarythmiques !!!")
+                importClopiAntiArytm(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "antihist" or \
+                drug3 == "antihistaminiques" or drug4 == "antihist" or \
+                drug4 == "antihistaminiques"):
+                print("+ Interactions antihistaminiques !!!")
+                importClopiAntiHist(self)
+            elif (drug3 == i or drug4 == i) and (drug3 == "atb" or \
+                drug3 == "antibiotiques" or drug4 == "atb" or \
+                drug4 == "antibiotiques"):
+                print("+ Interactions atb !!!")
+                importClopiAtb(self)
 
 
 
             elif (drug3 == i or drug4 == i) and (drug3 == "opio" or \
                 drug3 == "opioïdes" or drug4 == "opio" or \
                 drug4 == "opioïdes"):
-                print("+ Interactions bzd !!!")
+                print("+ Interactions opioïdes !!!")
                 importClopiOpio(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "oh" or \
                 drug3 == "alcool" or drug4 == "oh" or \
                 drug4 == "alcool"):
-                print("+ Interactions bzd !!!")
+                print("+ Interactions alcool !!!")
                 importClopiOh(self)
             else:
                 print("+ End of clopixoloop ttt list !")
