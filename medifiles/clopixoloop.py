@@ -70,7 +70,36 @@ def clopixoFunc(self, drug3, drug4):
                 print("+ Interactions atb !!!")
                 importClopiAtb(self)
 
+            elif (drug3 == i or drug4 == i) and (drug3 == "adré" or \
+                drug3 == "adrénergiques" or drug4 == "adré" or \
+                drug4 == "adrénergiques"):
+                print("+ Interactions adrénergiques !!!")
+                importClopiAdre(self)
 
+            elif (drug3 == i or drug4 == i) and (drug3 == "primpéram" or \
+                drug3 == "pipérazine" or drug3 == "métoclopramide" or \
+                drug3 == "cétirizine" or drug4 == "métoclopramide" or \
+                drug4 == "primpéram" or drug4 == "cétirizine" or \
+                drug4 == "pipérazine"):
+                print("+ Interactions primpéran et cétirizine !!!")
+                importClopiPiMeto(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "barbi" or \
+                drug3 == "barbituriques" or drug4 == "barbi" or \
+                drug4 == "barbituriques"):
+                print("+ Interactions barbituriques !!!")
+                importClopiBarbi(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "cisapride" or \
+                drug4 == "cisapride"):
+                print("+ Interactions cisapride !!!")
+                importClopiCisa(self)
+
+            elif (drug3 == i or drug4 == i) and (drug3 == "diurétiques" or \
+                drug3 == "diu" or drug4 == "diurétiques" or \
+                drug4 == "diu"):
+                print("+ Interactions barbituriques !!!")
+                importClopiBarbi(self)
 
             elif (drug3 == i or drug4 == i) and (drug3 == "opio" or \
                 drug3 == "opioïdes" or drug4 == "opio" or \

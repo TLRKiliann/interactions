@@ -40,6 +40,9 @@ C
 café
 cc = contraceptifs
 
+D
+diu = diurétiques
+
 H
 hypno = hypnotiques
 hypo-uri = hypo-uricémiants
