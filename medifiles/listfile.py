@@ -6,7 +6,7 @@ familiyttt=["antipsychotiques", "antiépileptiques", "antidépresseurs",
       "inhibiteurs de la cholinestérase", "antiparkinsoniens"]
 
 oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "briviact", 
-      "brivaracétam", "abilify", "aripiprazol", "clopixol", "clopin", "clozapine", 
+      "brivaracétam", "abilify", "aripiprazol", "clopixol", "zuclopenthixol", "clopin", "clozapine", 
       "leponex", "carbamazépine", "tégrétol", "depakine", "valproate", "haldol", 
       "halopéridol", "entumine", "clotiapine", "fluanxol", "flupentixol", "nozinan", 
       "lévomépromazine", "tiapridal", "dogmatil", "sulpride", "invega", "palipéridone", 
@@ -22,8 +22,6 @@ oneDrug=["chlorpromazine", "prazine", "atarax", "demetrin", "prazépam", "brivia
       "valium", "diazépam", "xanax", "alprazolam","anafranil", "clomipramine", "saroten", 
       "amitriptyline", "surmontil", "trimipramine","trittico", "trazodone", "lithium", 
       "lithiofor"]
-
-
 
 """
 ATD :

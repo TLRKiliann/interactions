@@ -11,6 +11,7 @@ from medifiles.atddrug import *
 from medifiles.stabdrug import *
 from medifiles.aripiloop import *
 from medifiles.carbaloop import *
+from medifiles.clopixoloop import *
 from medifiles.depaloop import *
 from medifiles.lepoloop import *
 from medifiles.seroloop import *
@@ -66,10 +67,11 @@ class Application(Frame):
             stabDrugLoop(self, drug2)
 
             ariFunc(self, drug3, drug4)
-            seroFunc(self, drug3, drug4)
             carbaFunc(self, drug3, drug4)
-            lepoFunc(self, drug3, drug4)
+            clopixoFunc(self, drug3, drug4)
             depaFunc(self, drug3, drug4)
+            lepoFunc(self, drug3, drug4)
+            seroFunc(self, drug3, drug4)
             solianFunc(self, drug3, drug4)
             temestaFunc(self, drug3, drug4)
             tranxiFunc(self, drug3, drug4)

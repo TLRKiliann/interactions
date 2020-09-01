@@ -69,9 +69,11 @@ opio = opioïdes
 
 S
 somni = hypnotiques
+stab = stabilisateurs de l'humeur
 
 T
 tabac
+thymo = thymorégulateurs
 
 V
 vih = traitement contre le VIH
