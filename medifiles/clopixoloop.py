@@ -18,7 +18,7 @@ def clopixoFunc(self, drug3, drug4):
                 drug3 == "apsy" or drug4 == "neuro" or \
                 drug4 == "antipsychotiques" or drug4 == "neuroleptiques" or \
                 drug4 == "apsy"):
-                print("+ Interactions carbamazépine !!!")
+                print("+ Interactions neuro !!!")
                 importClopiNeuro(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "haldol" or \
                 drug3 == "halopéridol" or drug4 == "haldol" or \
@@ -58,7 +58,7 @@ def clopixoFunc(self, drug3, drug4):
                 drug3 == "antiarythmiques" or drug4 == "antiA" or \
                 drug4 == "antiarythmiques"):
                 print("+ Interactions antiarythmiques !!!")
-                importClopiAntiArytm(self)
+                importClopiAntiArythm(self)
             elif (drug3 == i or drug4 == i) and (drug3 == "antihist" or \
                 drug3 == "antihistaminiques" or drug4 == "antihist" or \
                 drug4 == "antihistaminiques"):

@@ -3,5 +3,5 @@ INTERACTIONS ZUCLOPENTHIXOL - LITHIUM !
 - Lithium :
 Risque accru de neurotoxicité
 
-Cette liste n'est pas exhaustive; certains autres médicaments connus pour allonger 
-l'intervalle QT (par ex. cisapride, lithium) doivent également être évités.
+Cette liste n'est pas exhaustive; certains autres médicaments connus pour allonger l'intervalle QT 
+(par ex. cisapride, lithium) doivent également être évités.
