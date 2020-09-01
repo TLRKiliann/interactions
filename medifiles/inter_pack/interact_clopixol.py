@@ -147,6 +147,76 @@ def importClopiAtb(self):
     except FileNotFoundError as outnote:
         print("+ Sorry, file 'clopixol_atb.txt' does not exist !", outnote)
 
+# Display text in textbox from medifiles/interdrug (clopixol + adrener)
+def importClopiAdre(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_adrener.txt'):
+            print("+ File 'clopixol_adrener.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_adrener.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_adrener.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + pimeto)
+def importClopiPiMeto(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_pimeto.txt'):
+            print("+ File 'clopixol_pimeto.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_pimeto.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_pimeto.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + barbi)
+def importClopiBarbi(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_barbi.txt'):
+            print("+ File 'clopixol_barbi.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_barbi.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_barbi.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + cisa)
+def importClopiCisa(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_cisa.txt'):
+            print("+ File 'clopixol_cisa.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_cisa.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_cisa.txt' does not exist !", outnote)
+
+# Display text in textbox from medifiles/interdrug (clopixol + diu)
+def importClopiDiu(self):
+    try:
+        if os.path.getsize('./medifiles/interdrug/clopixol_diu.txt'):
+            print("+ File 'clopixol_diu.txt' exist (read)!")
+            self.textBox.delete('0.0', 'end')
+            self.textBox.update()
+            with open('./medifiles/interdrug/clopixol_diu.txt', 'r') as textfile:
+                lines = textfile.readlines()
+                for li in lines:
+                    self.textBox.insert(END, li)
+    except FileNotFoundError as outnote:
+        print("+ Sorry, file 'clopixol_diu.txt' does not exist !", outnote)
+
 # Display text in textbox from medifiles/interdrug (clopixol + opio)
 def importClopiOpio(self):
     try:
